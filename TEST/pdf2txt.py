@@ -1,5 +1,3 @@
-#//how to read pdf files and save them into txt files in python?
-
 import os
 from tika import parser
 
