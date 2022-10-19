@@ -1,4 +1,4 @@
-//how to read pdf files and save them into txt files in python?
+#//how to read pdf files and save them into txt files in python?
 
 import os
 from tika import parser
@@ -34,7 +34,9 @@ def pdf_to_txt(folder_with_pdf, dest_folder):
 
 
 def main():
-    pdf_to_txt('./pdf_folder', './txt_folder') #you should see .txt files being populated in ./txt_folder    
+    pdf_path = r"C:\Users\Eliecer\PRISM\text-mining-prism-data\text-mining-prism\estudios"
+    txt_path = r"C:\Users\Eliecer\PRISM\txt"
+    pdf_to_txt(pdf_path, txt_path) #you should see .txt files being populated in ./txt_folder    
 
 
 if __name__== '__main__':

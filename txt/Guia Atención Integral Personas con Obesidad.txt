@@ -1,0 +1,4842 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLARIDAD Y PRESENTACIÓN
+La información que se presenta en esta Guía incluye la atención integral en salud, por lo que se 
+establecen criterios básicos y específicos para la detección, diagnóstico y tratamiento de la obesidad. 
+
+APLICABILIDAD
+De presentarse barreras organizativas al momento de la implementación de esta guía, las mismas 
+deberán ser manejadas directamente por el Coordinador Regional de Salud de Adultos junto con 
+la Coordinación Nacional del Programa de Salud de Adultos, a través del desarrollo de talleres y 
+seminarios de capacitación.
+
+De acuerdo a los recursos sanitarios utilizados en nuestras regiones e instalaciones de salud, se ha 
+considerado que la implementación de esta guía de atención, llevará a la optimización de los recursos 
+existentes, debido a que los mismos serán manejados de manera oportuna, eficientes, eficaces y siendo 
+efectivos de acuerdo a los esquemas de tratamiento y criterios de control de citas.  De igual forma, al 
+momento de instaurar el tratamiento, debe iniciarse con los medicamentos más eficientes.
+
+Con el fin de realizar la monitorización o auditoría, en pro de lograr una mejora contínua de la calidad, 
+se han propuestos indicadores de gestión, los cuales se encuentran en los anexos de esta guía.
+
+INDEPENDENCIA EDITORIAL
+Esta Guía de Atención es independiente de la entidad financiera. Inicialmente fue elaborada sin 
+financiamiento externo.
+
+En la elaboración de la misma no se presentaron conflictos de intereses por parte del equipo técnico 
+que participó en ésta.
+
+
+
+Agradecimientos
+A todo el personal de salud de las distintas instancias clínicas y técnico 
+administrativas que han contribuido a la elaboración de este documento, en 
+especial a:
+
+Dr. Argil Jaén
+Especialista en Endocrinología
+Jefe de la Sección de Endocrinología del Hospital Santo Tomás
+
+Dr. José Montenegro
+Especialista en Endocrinología
+Funcionario del Hospital Santo Tomás
+ 
+
+Ministerio de Salud
+Dra Rosario Turner M.
+Ministra        
+
+Dra. Dora Jara
+Viceministra       
+
+Dr. Cirilo Lawson
+Director General de Salud      
+
+Dra. Laura T. de Thomas
+Sub-directora General de Salud     
+
+Dra. Ilka Viejo
+Coordinación de Salud de Adulto y Adulto Mayor 
+
+Guía para la atención integral de las personas con obesidad  /   i
+
+
+
+Caja de Seguro Social
+Licdo. René Luciani
+Director General de la 
+Caja de Seguro Social
+
+Dr. Rubén López
+Director Nacional de 
+Servicios y Prestaciones Médicas
+
+Dr. José Kaled
+Jefe de Programa Salud de Adulto
+Caja de Seguro Social
+
+ii   /  Guía para la atención integral de las personas con obesidad
+
+
+
+Colaboradores
+Dr. Anselmo McDonald, Sección de Salud de Adulto y Adulto Mayor
+Lic. Mabel de Más, Sección de Salud de Adulto y Adulto Mayor
+Dra. Emma C. de Crovaris, Sección de Salud de Adulto y Adulto Mayor
+Lic. Edith Castillo, Sección de Salud de Adulto y Adulto Mayor
+Lic. María Mojica Sección de Salud de Adulto y Adulto Mayor
+Lic. Rita Tejada Jiménez, Sección de Salud de Adulto y Adulto Mayor
+Sra. Xiomara de Anderson, Sección de Salud de Adulto y Adulto Mayor
+Dra. Vielka Vega, Departamento de Salud y Atención Integral de la Población
+Lic. Julia Domínguez, Departamento de Salud y Atención Integral de la Población
+Lic. Amarelys Quintero, Departamento de Salud y Atención Integral de la Población
+Lic. Albis Ruiloba, Departamento de Registros Médicos y Estadísticas de Salud
+Lic. Anayansi Tejada, Departamento de Registros Médicos y Estadísticas de Salud. 
+Lic. Xenia E. de De León, Dirección General de Salud
+Dra. Aminta Gálvez, Dirección General de Salud
+Lic. Flavia Fontes, Dirección General de Salud
+Lic. Aldacira de Bradshaw, Dirección Nacional de Provisión de Servicios de Salud. 
+Lic. Cheryl Jiménez, Región Metropolitana de Salud
+Lic.. Maritza de Aguilera, Región Metropolitana de Salud
+Dr. Max Ramírez, Región de Salud de San Miguelito
+
+Coordinadores regionales del Programa 
+de Salud de Adulto y Adulto Mayor
+Región de Salud de Bocas del Toro Dra. Beatriz de Madrid 
+ Lic. Marabely de López
+Región de Salud de Colón Dra. Ángela de Archibold
+Región de Salud de Chiriquí Dr. Ramón Castillo
+ Lic. Noris de Guerra
+Región de Salud de Darién Dra. Panamá Pérez
+Región de Salud de Herrera  Lic. Noris Pérez
+Región de Salud de Los Santos Lic. Ana C. Montenegro
+Región Metropolitana de Salud Dra. Eyra Quintero
+ Lic. Xiomara Mendieta
+Región de Salud de San Miguelito  Dra. Leslie Lao de Rojas
+
+Guía para la atención integral de las personas con obesidad  /  iii
+
+
+
+iv   /    Guía para la atención integral de las personas con obesidad
+
+Región de Salud de Panamá Este Lic. Rosa Cerceño
+Región de Salud de Panamá Oeste  Dr. Camilo Iturralde
+ Lic. Ruth Robinson
+Región de Salud de Veraguas Lic. Vielka Campos
+Región de Salud de Kuna Yala Lic. Gloria de Gutiérrez
+Región de Salud de Gnöbe Buglé  Lic. Itza Del Cid
+
+Comité revisor:
+Dr. Ángel Valencia T.  Representante a.i. OPS/OMS en Panamá
+Dr. Enrique Pérez-Flores  Asesor Regional en Enfermedades No 
+    Transmisibles, Unidad de Prevención y Control 
+    de Enfermedades y Vigilancia Sanitaria OPS en 
+    Washigton, D.C.
+Dr. Alberto Barceló   Oficial Técnico, Unidad de Prevención y Control
+    de Enfermedades y Vigilancia Sanitaria OPS en 
+    Washington, D.C. 
+Lic. Ana Atencio de  Consultora en Nutrición INCAP/OPS/OMS
+  Espinosa     Panamá.
+Lic. Sara Díaz de Casis Consultora, Profesional adscrita de la Caja de 
+    Seguro Social en OPS/OMS Panamá
+Dr. José A. Escamilla  Consultor en Prevención y Control de 
+    Enfermedades y Vigilancia Sanitaria OPS/OMS 
+    Panamá
+
+
+
+Guía para la atención integral de las personas con obesidad  / v
+
+Índice
+
+Agradecimiento  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i
+
+Ministerio de Salud  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i
+
+Caja de Seguro Social . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ii
+
+Colaboradores  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+
+Comité revisor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+
+Índice  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+
+Índice de cuadros . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+
+Índice de anexos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+
+Introducción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+
+Objetivos  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii 
+
+1. Generales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii 
+
+2. Específicos  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii
+
+I.  Definición . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+II.  Factores de riesgo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+III.  Factores protectores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+IV.  Clasificación y medición de riesgo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+V.  Diagnóstico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+VI.  Promoción y prevención . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+VII.  Tratamiento de la obesidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+VIII.  Flujograma para la atención de la persona obesa. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+IX.  Normas generales para atención de la persona obesa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+X.  Complicaciones de la obesidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+XI.  Obesidad y síndrome metabólico.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+XII.  Sistema de referencia y contrareferencia  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+XIII.  Sistema de registros . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+Bibliografía . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
+Anexos  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+
+
+vi   /    Guía para la atención integral de las personas con obesidad
+
+Índice de cuadros
+
+Cuadro Nº 1 Clasificación de la obesidad según índice de masa corporal  . . . . . . . . . . . . . . . . . . . 5
+
+Cuadro Nº 2 Clasificación de la obesidad según la histología del tejido adiposo . . . . . . . . . . . . . . 5
+
+Cuadro Nº 3 Medición del riesgo según la distribución de la grasa corporal . . . . . . . . . . . . . . . . . 5
+
+Cuadro Nº 4 Medición del riesgo de desarrollar complicaciones metabólicas 
+
+ relacionadas con la obesidad según la medición de la circunferencia 
+
+ de la cintura  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+Cuadro Nº 5 Criterios de control  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+ 
+
+Índice de anexos
+
+Anexo N° 1 Relación talla (m) y peso (lb) personas adultas, según I.M.C.  . . . . . . . . . . . . . . . . . . 32
+
+Anexo N° 2 Toma de la circunferencia de cintura . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+Anexo N° 3 Funciones del equipo interdisciplinario de salud en el manejo
+
+ de la obesidad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Anexo N° 4 Recomendaciones para prevenir la obesidad infantil . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+Anexo N° 5 Evaluación del cumplimiento de esta guía de atención  . . . . . . . . . . . . . . . . . . . . . . . 42
+
+
+
+Guía para la atención integral de las personas con obesidad  /   vii
+
+Introducción
+La obesidad, incluyendo al sobrepeso como un estado premórbido, es una 
+enfermedad crónica caracterizada por el almacenamiento excesivo de tejido adiposo 
+en el organismo. En muchas ocasiones se acompaña de alteraciones metabólicas, 
+las cuales predisponen a la aparición de otros trastornos que deterioran el estado 
+de salud de la persona. En la mayoría de los casos se asocia a patología endócrina, 
+cardiovascular y ortopédica, y se relaciona con factores biológicos, socioculturales y 
+psicológicos.
+
+Su etiología es multifactorial y el tratamiento debe estar apoyado en un equipo 
+interdisciplinario.
+
+En las últimas décadas se han dado importantes cambios en el comportamiento 
+de los seres humanos, con un impacto decisivo sobre su salud. Así, se ha pasado 
+de una dieta tradicionalmente basada en frutas y verduras, a un consumo creciente 
+de alimentos procesados, granos refinados, aceites y carnes, todos ellos con un alto 
+contenido de grasas. 
+
+La situación nutricional en Panamá está experimentando cambios, ya que se están 
+presentando problemas asociados a la obesidad causada por el exceso de consumo 
+de ciertos alimentos. A este proceso contribuye en mayor proporción el acelerado 
+crecimiento urbanístico, produciéndose cambios en los estilos de vida de la 
+población, debido en gran parte a la publicidad dirigida a estimular el consumo de 
+alimentos procesados. Estos cambios afectan a la población urbana porque tratan 
+de imitar patrones o conductas de consumo no saludable, causando enfermedades 
+cardiovasculares, diabetes mellitus, hipertensión arterial y algunos tipos de cáncer.
+
+Dada su magnitud y trascendencia se considera a la obesidad un problema de salud 
+pública, por lo que requiere del establecimiento de normas y guías para su atención 
+integral.
+
+Por ello el presente documento procura la prevención y control de esta enfermedad 
+con énfasis en el primer nivel de atención y con proyección a la comunidad, unificando 
+los criterios de atención para las personas adultas de 20 años o más con obesidad, 
+fortaleciendo de esta forma la prestación de servicios de salud por parte del personal 
+médico(a) de manera integral, eficaz, efectiva, eficiente, oportuna y con calidad. La 
+misma en ningún momento debe sustituir el criterio o juicio clínico del médico(a) 
+al momento de brindar la atención a las personas. Esta constituye una herramienta 
+para facilitar el abordaje integral hacia el paciente.
+
+El personal del sector salud, pacientes u otras personas que no sean médicos(as), 
+deben asesorarse con profesionales de la medicina (Doctores(as) en Medicina) al 
+momento de leer o utilizar esta Guía de Atención.
+
+
+
+viii   /    Guía para la atención integral de las personas con obesidad
+
+Objetivos
+
+1. Objetivo general:
+
+Proporcionar al personal de salud una guía para la atención integral de • 
+las  personas con obesidad en las instalaciones del Ministerio de Salud.
+
+2.	 Objetivos	específicos:
+
+Disminuir la morbilidad causada por la obesidad y sus complicaciones.• 
+Proponer acciones que faciliten la modificación de los estilos de vida que • 
+constituyen factores de riesgo para la obesidad.
+Contribuir en el mejoramiento de la calidad de vida de los y las pacientes • 
+con obesidad.
+Disminuir las complicaciones de la obesidad a través de la captación • 
+temprana y el tratamiento oportuno, eficaz, eficiente y efectivo.
+Establecer indicadores de gestión sanitaria que faciliten el monitoreo, • 
+evaluación y control del cumplimiento de esta guía.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   1
+
+I.	 Definición
+
+La obesidad es una enfermedad crónica caracterizada por la acumulación excesiva 
+de grasa en el cuerpo, como consecuencia de un desequilibrio que se produce 
+cuando el consumo de calorías es superior al gasto durante un lapso prolongado. 
+Es el resultado de la interacción de factores genéticos, metabólicos, ambientales y 
+conductuales: la dieta y la actividad física.
+
+
+
+2   /    Guía para la atención integral de las personas con obesidad
+
+II. Factores de riesgo
+Existen muchos factores de riesgo que se relacionan con el desarrollo de la obesidad, 
+por lo que en la actualidad se considera como un síndrome plurifactorial cuyos 
+componentes varían de un individuo a otro de una manera más cuantitativa que 
+cualitativa, y de factores que se condicionan unos a otros, formando una especie de 
+círculo vicioso que cada vez agrava más la situación.
+
+A.	Factores	de	riesgo	no	modificables:
+
+1. Genéticos:
+
+Los hijos de padres obesos tienen mayor probabilidad de tener problemas 
+de sobrepeso u obesidad.
+
+2. Edad:
+
+A medida que aumenta la edad de las personas, aumenta la probabilidad de 
+desarrollar obesidad.
+
+3. Sexo:
+
+La obesidad es más frecuente en las personas del sexo femenino con relación 
+al masculino. Sin embargo, los hombres están en mayor riesgo de desarrollar 
+complicaciones en la salud con relación a las mujeres, ya que la acumulación 
+de grasa en éstos se da a nivel abdominal.
+
+B.	Factores	de	riesgo	modificables:
+
+1. Nutricionales:
+
+a. La sobrealimentación puede ocurrir en cualquier etapa de la vida, pero 
+el desarrollo de la obesidad cobra particular importancia en los primeros 
+meses de edad.
+
+b. En la lactancia se ha señalado como causa de la obesidad la 
+sobrealimentación, el aporte temprano de alimentos hipercalóricos, 
+la introducción temprana de alimentos sólidos y la fórmulas lácteas 
+hiperconcentradas. El desarrollo de las células grasas (adipocitos) se 
+afecta principalmente cuando hay sobrenutrición en el primer año de 
+vida y después de este período los cambios en la nutrición afectarán 
+el tamaño, pero no el número de estas células. Por este motivo está 
+establecido que los niños (as) que se convierten en obesos durante el 
+primer año de vida, tienen altas probabilidades de permanecer obesos 
+hasta la vida adulta.
+
+c. La sobrealimentación en la etapa preescolar (cuando se violenta la 
+anorexia fisiológica de estas edades a base de estimulantes de apetito, 
+polivitaminas y medidas coercitivas).
+
+
+
+Guía para la atención integral de las personas con obesidad   /   3
+
+d. La malnutrición materna antes y durante la gestación puede ser un factor 
+esencial del peso corporal del niño al nacer y durante su vida adulta.
+
+e. Malos hábitos alimenticios, el consumo elevado de alimentos de alta 
+densidad energética favorecen su depósito en forma de grasa corporal 
+(consumo de alimentos elevados en calorías, grasas y azúcar; porciones 
+grandes; alimentos preparados fuera del hogar, especialmente frituras, 
+comidas rápidas).
+
+2. Sedentarismo:
+
+La actividad física leve puede convertirse en factor predisponente para 
+el desarrollo de la obesidad, por ello el sedentarismo da origen al círculo 
+vicioso obesidad-sedentarismo-obesidad.
+
+3. Psicológicos:
+
+Las afecciones psicológicas (ansiedad – depresión) afectan el apetito y 
+pueden ser causa de obesidad.
+
+4. Factores ambientales:
+
+a. Mercadeo publicitario de alimentos elevados en grasa, azúcar y calorías.
+b. Negocios de comidas rápidas.
+c. La falta de lugares seguros y accesibles para realizar actividad física.
+
+5. Factores hormonales:
+
+El desequilibrio hormonal afecta el comportamiento alimentario, el gasto 
+de energía o ambos, dando como resultado un balance energético positivo 
+en el organismo, con el consiguiente almacenamiento de tejido adiposo 
+que conlleva al desarrollo de sobrepeso u obesidad. Entre ellos están el 
+hipotiroidismo, síndrome de Cushing, síndrome de ovario poliquístico e 
+hipogonadismo. 
+
+6. Medicamentos:
+
+Algunos fármacos como los corticoesteroides y ciertos antidepresivos 
+pueden ser la causa de la obesidad.
+
+
+
+4   /    Guía para la atención integral de las personas con obesidad
+
+III. Factores protectores
+A. Moderación en el consumo de alimentos y de alcohol.
+
+B. Hábitos alimentarios saludables.
+
+C.  Actividad física regular.
+
+D.  Manejo del estrés y ansiedad.
+
+E.  Control frecuente de peso.
+
+F.  Detectar el sobrepeso para evitar la obesidad.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   5
+
+IV.	Clasificación	y	medición	de	riesgo
+En la actualidad se utilizan varios métodos para clasificar la obesidad, entre ellos 
+están el índice de masa corporal (IMC) recomendado por la Organización Mundial 
+de la Salud (OMS) y la histología del tejido adiposo; la medición del riesgo se lleva 
+a cabo por medio de  la distribución de grasa corporal y la circunferencia de la 
+cintura.
+
+A.	Clasificación	de	la	obesidad:
+
+Cuadro Nº1
+Clasificación	de	la	obesidad	según	índice	de	masa	corporal
+
+ 
+NORMAL SOBREPESO
+
+ OBESIDAD
+
+     GRADO 1 GRADO 2 GRADO 3 
+                            SEVERA   MÓRBIDA
+
+ 18.5 – 24.9 25 - 29.9 30.0 - 34.9 35.0 - 39.9 Mayor de 40
+
+IMC = Peso actual (kg) / Estatura (m) al cuadrado
+
+Fuente:  Adaptado de la revista de Endocrinología y Nutrición. Obesidad, diagnóstico y tratamiento. Volumen 12, Nº. 4, 
+Suplemento 3.  México.  Octubre – diciembre de 2004.
+
+ Páginas S130 – S135.
+
+Cuadro Nº 2
+Clasificación	de	la	obesidad	según	la	histología	del	tejido	adiposo
+
+ Tipo Características
+
+Hiperplásica Suele iniciarse en la infancia.
+  Existe un número de adipocitos muy elevados.
+  Más relacionado con la mujer.
+Hipertrófica Propia de la obesidad del adulto.
+  Aumenta el tamaño de los adipocitos, pero en número normal.
+  Más frecuente en hombres.
+  Responde mejor al tratamiento que la anterior.
+
+Fuente: Adaptado http://www.docencia-css.org.pa/documentos/guias/obesidad.pdf.
+
+B. Medición de riesgo:
+
+Cuadro Nº 3
+Medición	del	riesgo	según	la	distribución	de	la	grasa	corporal
+
+ Tipo Características
+
+Androide, central o  Se concentra alrededor de la cintura, abdomen alto y fascies.
+abdominal Más común en hombres.
+  Alto riesgo de cardiopatía y de desarrollar diabetes mellitus tipo 2.
+
+Ginecoide o glúteo  Acumula grasas en glúteos y muslos.
+femoral Más común en mujeres.
+  Riesgo de osteoartritis, insuficiencia venosa y litiasis biliar.
+
+Fuente: Adaptado http://www.docencia-css.org.pa/documentos/guias/obesidad.pdf.
+
+
+
+6   /    Guía para la atención integral de las personas con obesidad
+
+Cuadro Nº 4
+Medición del riesgo de desarrollar complicaciones metabólicas  relacionadas con 
+
+la	obesidad	según	la	medición	de	la	
+circunferencia de la cintura
+
+ SEXO CIRCUNFERENCIA DE LA CINTURA
+
+ Masculino Mayor o igual a 102 cm
+ Femenino Mayor o igual a 88 cm
+
+Fuente: Adaptado de la revista de Endocrinología y Nutrición. Obesidad, diagnóstico y tratamiento. Volumen 12, Nº. 4, 
+Suplemento 3.  México.
+
+ Octubre – diciembre de 2004.  Páginas S130 – S135.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   7
+
+V. Diagnóstico
+El diagnóstico de la obesidad es clínico. Para ello, se debe realizar:
+
+A. Evaluación clínica:
+
+1. Historia clínica y examen físico completo, haciendo énfasis en los antecedentes 
+patológicos y no patológicos de la persona, además de los factores de riesgo 
+modificables y no modificables.
+
+2. Toma y registro del peso
+3. Medición y registro de la talla.
+4. Cálculo y registro del índice de masa corporal.
+5. Diagnóstico y registro del estado nutricional.
+6. Medición y registro de la circunferencia de cintura.
+
+Para el diagnóstico clínico de la obesidad, según la Clasificación Internacional de 
+Enfermedades, versión X, se utiliza el código: E.66
+
+
+
+8   /    Guía para la atención integral de las personas con obesidad
+
+VI. Promoción y prevención
+La promoción de la salud y prevención de la obesidad deben basarse en el 
+fortalecimiento de los factores protectores descritos previamente (punto III).
+
+A. Promoción de la salud:
+
+La promoción de una alimentación saludable y de la actividad física no debe 
+centrarse exclusivamente en controlar la obesidad, sino también en cambiar los 
+modelos alimentarios y de actividad física inadecuados. La misma debe incluir:
+
+1. Promoción de los controles de salud a toda la población.
+2. Promoción sobre estilos de vida saludables que incluyan modelos alimentarios 
+
+adecuados y la realización de actividad física en forma regular (se considera 
+actividad física todo movimiento aeróbico que se realice mínimo tres veces 
+a la semana por 30 minutos como caminar, bailar, trotar, hacer aeróbicos, 
+natación, bicicleta) tomando en consideración las co-morbilidades de la 
+persona. (Ver guías alimentarias de Panamá.)
+
+3. Educación y capacitación dirigida al equipo de salud y público en general 
+sobre los diversos aspectos de prevención del sobrepeso y la obesidad.
+
+4. Promover en coordinación con otras instituciones estrategias de transporte 
+y desarrollo urbano como son construir veredas seguras, espacios verdes 
+y campos deportivos accesibles, designar áreas para peatones y mejorar la 
+iluminación en lugares públicos para permitir el desarrollo de actividad física 
+segura.
+
+5. Establecer alianzas funcionales con actores claves: industrias privadas con 
+interés en la producción de alimentos, envasado, logística, venta y mercadeo, 
+y otras entidades relacionadas con estilos de vida, deportes, turismo, 
+recreación y salud.
+
+6. Fomentar que los restaurantes brinden información sobre las calorías de sus 
+menús.
+
+B. Prevención:
+
+Dentro de la prevención de la obesidad deben tomarse en cuenta los siguientes 
+aspectos:
+
+1. Sensibilizar al personal de salud y a la comunidad que la obesidad es una 
+enfermedad.
+
+2. Orientación a la comunidad sobre la obesidad para la captación precoz de 
+esta enfermedad.
+
+3. Implementar la instrucción en alimentación, nutrición y manejo del peso en 
+la currícula de maestros y educadores de la salud. 
+
+4. Desarrollar campañas de prevención en los medios masivos para:
+a. Divulgar los beneficios de comer sano y de la importancia de realizar 
+
+actividad física regularmente.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   9
+
+b. Crear conciencia en los consumidores acerca de las consecuencias del 
+sobrepeso u obesidad sobre la salud en general. 
+
+5. Enfatizar a los medios de comunicación y a la población en general que la 
+principal preocupación concerniente a la obesidad es la salud antes que la 
+apariencia. 
+
+6. Orientación sobre los factores de riesgo de la obesidad.
+
+
+
+10   /    Guía para la atención integral de las personas con obesidad
+
+VII. Tratamiento de la obesidad 
+Todo paciente adulto obeso requerirá de un manejo integral, en términos de lo 
+previsto en la presente guía. 
+
+El tratamiento médico, nutricional y psicológico del sobrepeso y la obesidad, deberá 
+realizarse tomando en cuenta los siguientes aspectos:
+
+1. Tiene que estar respaldado científicamente con medicina basada en la 
+evidencia, especialmente de carácter dietoterapéutico individualizado, 
+farmacológico y médico.
+
+2. El equipo de salud será el responsable del manejo integral del paciente obeso.
+3. Todo tratamiento deberá instalarse previa evaluación del estado nutricional, 
+
+con base en indicadores clínicos, dietéticos, antropométricos incluyendo 
+índice de masa corporal, circunferencia de cintura y pruebas de laboratorio.
+
+4. Todas las acciones terapéuticas se deberán apoyar en medidas 
+psicoconductuales y nutricionales para modificar conductas alimentarias 
+nocivas a la salud. Incluir un plan gradual de actividad física, de acuerdo a la 
+condición clínica de cada paciente.
+
+5. El tratamiento de la obesidad tiene que ser a largo plazo e incluso permanente 
+en aquellas personas con obesidad sin causa secundaria.
+
+Los objetivos del tratamiento de la obesidad deben ser reformulados, pasando del 
+concepto de "bajar de peso" al de "control y/o manejo del peso". Esto significa lograr 
+el mejor peso posible y mantenerlo, en el contexto del cuidado de la salud en general. 
+Se entiende como "control y/o manejo del peso" la adopción y mantenimiento de 
+conductas de alimentación y movimiento saludables, indicadas para reducir el peso 
+corporal y con él los factores de riesgo de la enfermedad.
+
+Independientemente del tipo o la combinación de tratamientos, los objetivos del 
+mismo deben establecerse de manera conjunta entre el paciente y el profesional de 
+la salud. También, debe tenerse presente que reducir entre un 5 y un 10 por ciento 
+del peso corporal producirá resultados beneficiosos, importantes y positivos en la 
+salud.
+
+Además, el tratamiento de la obesidad necesita un enfoque interdisciplinario basado 
+en pilares fundamentales, tales como:
+
+1. Educación terapéutica en las áreas de: alimentación, movimiento, estilo de 
+vida y modificación de actitudes para manejar el tratamiento.
+
+2. Seguimiento, para lograr mantener el mayor tiempo posible el peso que se ha 
+perdido. Estas acciones pueden darse a nivel individual o grupal.
+
+Según el tipo y grado de sobrepeso, la edad y las características personales, el médico 
+evaluará el estado nutricional del y la paciente según el índice de masa corporal y 
+
+
+
+Guía para la atención integral de las personas con obesidad   /   11
+
+establecerá el tratamiento específico. 
+
+El éxito en el tratamiento de la obesidad requiere de la constancia y de la motivación 
+del y la paciente.
+
+A. Tratamiento no farmacológico:
+
+1. El tratamiento no farmacológico estará basado en un adecuado programa 
+para disminuir de peso, el cual tendrá las siguientes características:
+
+1.1 Tiene que ser personalizado.
+1.2 Adaptarse a las posibilidades de horarios, actividades, gustos, hábitos y 
+
+recursos económicos de la persona.
+1.3 Debe ser flexible.
+1.4 Indicar al paciente pesarse y medirse la cintura semanalmente y llevar 
+
+un registro escrito.
+1.5 Modificar progresivamente los hábitos que son inadecuados.
+1.6 Contar con un programa de educación a través de charlas, talleres, 
+
+grupos, cuadernillos, entre otros.
+1.7 Incluir un plan gradual de actividad física.
+1.8 Brindar apoyo psicológico.
+1.9 Indicar un plan de alimentación individualizado establecido por el o la 
+
+nutricionista.
+1.10 Tener en cuenta al resto de la familia para hacer práctico el acto de 
+
+cocinar.
+
+2. Plan de alimentación: 
+
+El tratamiento dietético debe ser equilibrado, variado y de acuerdo a los 
+gustos y preferencias individuales. Entre las recomendaciones dietéticas que 
+se le deben indicar al paciente para reducir de peso están: 
+
+• Consumir frutas en todos los tiempos de comida.
+• Evitar el consumo de chichas y bebidas azucaradas.
+• Tomar más de ocho vasos diarios de agua.
+• Evitar el consumo de azúcares simples, sodas, chocolates, mieles, dulces y 
+
+confites.
+• Preparar ensaladas de vegetales para el almuerzo y la cena con aderezos 
+
+naturales. Las mismas deben consumirse primero que otros alimentos.
+• Servir pequeñas porciones de alimentos y no repetir.
+• Procurar tener horarios regulares de comida.
+• Disminuir el consumo de frituras: empanadas fritas, carimañolas, hojaldres, 
+
+tajadas, patacones, papas fritas, tortillas fritas, chicharrón, carnes y pollo 
+frito.
+
+• Utilizar una (1) cucharadita de aceite por persona para dorar los alimentos 
+en sartenes o pailas de hierro o teflón.
+
+
+
+12   /    Guía para la atención integral de las personas con obesidad
+
+• Preferir las preparaciones al horno, a la plancha o hervidos.
+• Retirar las grasas de la carne y la piel del pollo.
+• Consumir leche y queso bajos en grasas.
+• Comer despacio y masticar bien los alimentos.
+• Programar meriendas saludables entre las comidas.
+• Evitar reutilizar el aceite para cocinar.
+
+3.  Actividad física:
+
+• No se debe imponer un estrés de ejercicios excesivos.
+
+• El ejercicio necesita ser continuo para producir beneficios. Sería conveniente 
+recomendar por ejemplo, que se camine más de lo habitual (subir escaleras 
+evitando elevadores, bajarse del bus dos paradas antes, bailar en tiempos 
+libres).
+
+• Inicialmente es prudente aconsejar niveles moderados de actividad por 
+treinta minutos/día, 3 a 5 días por semana.
+
+• Es conveniente establecer una meta para acumular al menos 30 minutos 
+o más de actividad física moderada en la mayoría o preferiblemente todos 
+los días de la semana.
+
+• Iniciar con intensidad baja y duración corta aumentando en forma 
+progresiva
+
+• Individualizar los programas de acuerdo con las necesidades y capacidades 
+de cada paciente.
+
+• El ejercicio contribuye a la pérdida de peso en el adulto con sobrepeso 
+y obeso. Puede disminuir la grasa abdominal, aumentar las condiciones 
+cardio-respiratorias y ayudar a mantener la pérdida de peso.
+
+• Los ejercicios recomendables por ser asequibles son: caminar, nadar, 
+montar bicicleta.
+
+• El ejercicio disminuye la presión arterial y puede ayudar a prevenir la 
+diabetes mellitus tipo 2.
+
+• También contribuye a mejorar el bienestar emocional, a reducir el apetito, 
+a mejorar la capacidad para dormir, aumenta la flexibilidad y el colesterol 
+HDL.
+
+4.  Educación: educar a la población en general sobre la modificación de los 
+patrones de conducta, por ejemplo, la importancia y beneficios de saber 
+decidir entre una comida saludable y las comidas ricas en grasa (tipo chatarra), 
+incluyendo la actividad física.
+
+B. Tratamiento farmacológico:
+
+El médico es el único profesional de la salud facultado para prescribir un 
+tratamiento farmacológico en los casos que así se requiera.
+
+El médico tratante deberá explicar al paciente qué medicamento le va a 
+
+
+
+Guía para la atención integral de las personas con obesidad   /   13
+
+prescribir, su nombre comercial y farmacológico, dosificación, duración de la 
+toma, interacción con otros medicamentos, reacciones adversas y colaterales.
+
+La base en la que se sustenta el tratamiento de la obesidad descansa sobre los 
+procedimientos encaminados a desequilibrar la ecuación de balance energético 
+a favor del consumo calórico.
+
+La farmacoterapia para el manejo de la obesidad debe prescribirse a largo plazo a 
+las personas con un índice de masa corporal (IMC) igual o mayor de 30, cuando 
+el tratamiento no farmacológico, incluida la terapia de apoyo, dieta y actividad 
+física no hayan resultado efectivos en la pérdida de peso deseada o esperada.
+
+También se recomienda el tratamiento farmacológico en individuos de ambos 
+sexos con un IMC entre 27 y 30 y que presenten al menos una de las siguientes 
+co-morbilidades:
+
+1. Diabetes mellitus tipo 2, hipertensión arterial, dislipidemias, artritis o gota.
+2. Hernias discales o enfermedad articular grave.
+3. Cáncer de próstata, cáncer colorrectal, cáncer de útero, cáncer de ovario o 
+
+cáncer de mama.
+4. Insuficiencia vascular periférica o presencia de várices.
+
+El uso de fármacos debe considerarse luego de que la persona se haya mantenido 
+al menos 6 meses bajo un régimen no farmacológico para perder peso (dieta, 
+actividad física y terapia conductual) y no haya perdido un mínimo de 1 libra (454 
+gramos) por semana. El criterio de éxito para determinar que un medicamento 
+fue efectivo para reducir de peso es la pérdida del 10% de peso corporal en los 
+primeros 6 meses de tratamiento farmacológico.
+
+Al decidir iniciar el tratamiento farmacológico en una persona obesa se tiene 
+que tener presente que:
+
+1. El principal problema de la terapia antiobesidad es el alto índice de 
+reobtención del peso perdido. Por ello, el objetivo de la farmacoterapia debe 
+dirigirse a mantener una pérdida de peso a largo plazo. El uso de fármacos 
+a corto plazo (mínimo tres meses) es inapropiado.
+
+2. Debido a que existen personas refractarias al tratamiento con fármacos si 
+algún medicamento no produce una pérdida de 2 kg en el primer mes, la 
+dosis debe ser reajustada o el medicamento descontinuado.
+
+3. Hay que tener presente que los medicamentos no producen una pérdida 
+indefinida de peso. Generalmente, la pérdida de peso se detiene en una 
+meseta alrededor de los 6 meses de tratamiento y empieza a recuperarse 
+aproximadamente al año, a pesar del uso del medicamento. 
+
+4. Los medicamentos para el tratamiento de la obesidad no curan el 
+sobrepeso.
+
+5. El uso de medicamentos como única opción es prácticamente inefectivo. Se 
+
+
+
+14   /    Guía para la atención integral de las personas con obesidad
+
+deben de administrar como terapia adjunta con un programa comprensivo para 
+perder peso que incluya dieta y ejercicios.
+
+1. El tratamiento farmacológico se dirige a favorecer la reducción en la ingesta 
+calórica. Dependiendo de su mecanismo de acción los fármacos que se 
+emplean en el tratamiento de la obesidad pueden dividirse en:
+a. Inhibidores del apetito: Sibutramina 
+ Fármaco sistémico que inhibe la recaptación de las monoaminas, 
+
+norepinefrina y serotonina, inhibiendo de esta forma el apetito. La dosis 
+recomendada es de 10 mg al día, la cual puede incrementarse hasta 15 
+mg por día si la pérdida de peso durante el primer mes fue menor de 
+cuatro libras (2 kg ). Entre los efectos secundarios está la resequedad 
+oral, constipación e insomnio. Está contraindicada en pacientes con 
+hipertensión arterial no controlada, en personas con glaucoma y en 
+algunas enfermedades cardiovasculares (ver punto 2). No debe utilizarse 
+concomitantemente con inhibidores de la monoaminooxidasa o 
+inhibidores de la recaptación de serotonina.
+
+b. Bloqueadores de la absorción/digestión de alimentos: Orlistat
+ Inhibidor de las lipasas pancreáticas y gastrointestinal. Previene 
+
+la absorción de aproximadamente 30% de la grasa ingerida en la 
+alimentación. Se considera un medicamento no sistémico. La dosis es de 
+120 mg tres veces al día, los cuales se deben tomar con el primer bocado 
+de cada alimento principal. Reduce además el colesterol total y el LDL. 
+Altera la absorción de vitaminas liposolubles, por lo que los suplementos 
+vitamínicos deben tomarse dos horas antes del medicamento. Entre los 
+efectos adversos están el manchado aceitoso de la ropa interior, heces 
+líquidas, incontinencia o urgencia fecal, flatulencia y cólicos.
+
+2. El uso de medicamentos para bajar de peso está contraindicado en:
+a. Personas con un índice de masa corporal menor de 30 y sin co-
+
+morbilidades asociadas.
+b. Personas con edad menor de 16 años y mayor de 70 años.
+c. Durante el embarazo o la lactancia.
+d. Personas con historia de angina de pecho reciente.
+e. Personas con historia de infarto del miocardio reciente.
+f. Personas que se encuentren bajo prescripción crónica de medicamentos 
+
+a base de derivados de glucocorticoides.
+g. Personas con accidente cerebro vascular.
+h. Personas con historia de isquemia cerebral transitoria.
+i. Personas con antecedentes o presencia de sangrado digestivo.
+j. El uso de fármacos con acciones anorexígenas centrales se encuentra 
+
+contraindicado en personas que presenten:
+1. Valvulopatías cardíacas
+2. Cardiomiopatía congestiva
+
+
+
+Guía para la atención integral de las personas con obesidad   /   15
+
+3. Lesiones cardíacas congénitas
+4. Infarto del ventrículo derecho
+5. Endocarditis infecciosa
+6. Arritmias
+7. Insuficiencia cardíaca congestiva de cualquier etiología
+8. Carditis reumática.
+
+k. Personas que presenten enfermedades del colágeno, tirotoxicosis, 
+anemia severa, fístula arteriovenosa, miocarditis, beriberi y afección del 
+miocardio por tumores o granulomas.
+
+l. Personas que presenten embolia pulmonar, aumento de la resistencia 
+vascular pulmonar, enfermedad del parénquima pulmonar o de la 
+vasculatura pulmonar, hipertensión pulmonar primaria o secundaria, 
+infarto del ventrículo derecho.
+
+3. Fármacos contraindicados para el tratamiento de la obesidad:
+
+a. Digitálicos
+b. Derivados tiroideos
+c. Diuréticos
+d. Anfetaminas
+e. Gonadotropina coriónica
+f. Laxantes
+g. Antiespasmódicos
+h. Eméticos
+i. Hormonas
+j. Ansiolíticos
+k. Inyecciones de enzimas
+l. Aminoácidos lipolíticos o algas marinas
+m. Pastillas sin nombre o sin etiquetas, sin registro sanitario y que son 
+
+ofrecidos en bolsitas o sobres.
+
+C.		Tratamiento	quirúrgico:
+
+Estará indicado exclusivamente en los individuos adultos con obesidad severa 
+e índice de masa corporal mayor de 40 o mayor de 35 asociado a comorbilidad 
+importante y cuyo origen en ambos casos no sea estrictamente de tipo endocrino. 
+Deberá existir el antecedente de tratamiento médico integral reciente, por más 
+de 18 meses sin éxito; salvo ocasiones cuyo riesgo de muerte, justifique el no 
+haber tenido tratamiento previo.
+
+La indicación de tratamiento quirúrgico de la obesidad, debe ser el resultado de 
+la decisión de un equipo de salud interdisciplinario; conformado, en su caso, por: 
+cirujano, anestesiólogo, enfermera, nutricionista, endocrinólogo, cardiólogo, 
+trabajador social, psicólogo y psiquiátra.
+
+El paciente deberá firmar la carta de consentimiento informado, en los términos 
+que establece la ley.
+
+
+
+16   /    Guía para la atención integral de las personas con obesidad
+
+VI
+II.
+
+ F
+lu
+
+jo
+gr
+
+am
+a 
+
+p
+ar
+
+a 
+la
+
+ a
+te
+
+nc
+ió
+
+n 
+d
+
+e 
+la
+
+ p
+er
+
+so
+na
+
+ o
+b
+
+es
+a
+
+E
+n 
+
+el
+ d
+
+ia
+gr
+
+am
+a 
+
+N
+º1
+
+ s
+e 
+
+de
+sc
+
+ri
+be
+
+n 
+lo
+
+s 
+pa
+
+so
+s 
+
+a 
+se
+
+gu
+ir
+
+ p
+ar
+
+a 
+la
+
+ a
+te
+
+nc
+ió
+
+n 
+de
+
+ la
+ p
+
+er
+so
+
+na
+ c
+
+on
+ d
+
+ia
+gn
+
+ós
+tic
+
+o 
+de
+
+ o
+be
+
+si
+da
+
+d.
+
+Sí
+
+no
+
+no
+
+sí
+: c
+
+on
+tin
+
+ua
+r 
+
+la
+ in
+
+te
+rv
+
+en
+ci
+
+ón
+
+no
+
+F
+u
+
+en
+te
+
+: A
+da
+
+pt
+ad
+
+o 
+de
+
+ la
+ R
+
+ev
+is
+
+ta
+ d
+
+e 
+en
+
+do
+cr
+
+in
+ol
+
+og
+ía
+
+ y
+ n
+
+ut
+ri
+
+ci
+ón
+
+. O
+be
+
+si
+da
+
+d,
+ d
+
+ia
+gn
+
+ós
+tic
+
+o 
+y 
+
+tr
+at
+
+am
+ie
+
+nt
+o.
+
+ V
+ol
+
+um
+en
+
+ 1
+2,
+
+ N
+º.
+
+4,
+ S
+
+up
+le
+
+m
+en
+
+to
+ 3
+
+. M
+éx
+
+ic
+o.
+
+ O
+ct
+
+ub
+re
+
+ –
+ d
+
+ic
+ie
+
+m
+br
+
+e 
+de
+
+ 2
+00
+
+4.
+ P
+
+ág
+in
+
+as
+ S
+
+13
+0 
+
+– 
+S1
+
+35
+.
+
+no
+
+D
+IA
+
+G
+R
+
+A
+M
+
+A
+  N
+
+º 
+1
+
+Se
+gu
+
+im
+ie
+
+nt
+o:
+
+ R
+ee
+
+va
+lu
+
+ar
+ e
+
+n 
+6 
+
+a 
+12
+
+ m
+es
+
+es
+
+P
+A
+
+SO
+ C
+
+U
+A
+
+T
+R
+
+O
+:
+
+R
+ef
+
+er
+ir
+
+ a
+ e
+
+sp
+ec
+
+ia
+li
+
+st
+a 
+
+o 
+cl
+
+ín
+ic
+
+a 
+es
+
+p
+ec
+
+ia
+li
+
+za
+d
+
+a
+
+sisi
+
+E
+va
+
+lu
+ac
+
+ió
+n
+
+ d
+el
+
+ p
+ac
+
+ie
+n
+
+te
+
+
+ 
+IM
+
+C
+ >
+
+ 3
+0 
+
+ó 
+do
+
+s 
+o 
+
+m
+ás
+
+ f
+ac
+
+to
+re
+
+s 
+de
+
+ r
+ie
+
+sg
+o.
+
+ 
+
+ 
+C
+
+ir
+cu
+
+nf
+er
+
+en
+ci
+
+a 
+de
+
+ c
+in
+
+tu
+ra
+
+ >
+ 8
+
+8 
+cm
+
+ e
+n 
+
+m
+uj
+
+er
+es
+
+ o
+ >
+
+ 1
+02
+
+ c
+m
+
+ e
+n 
+
+ho
+m
+
+br
+es
+
+ y
+ d
+
+os
+ o
+
+ m
+ás
+
+ f
+ac
+
+to
+re
+
+s 
+de
+
+ r
+ie
+
+sg
+o.
+
+
+ 
+D
+
+is
+tr
+
+ib
+uc
+
+ió
+n 
+
+de
+ t
+
+ej
+id
+
+o 
+a 
+
+di
+po
+
+so
+. 
+
+
+ 
+V
+
+ar
+ia
+
+ci
+on
+
+es
+ e
+
+n 
+el
+
+ p
+es
+
+o.
+ 
+
+
+ 
+E
+
+da
+d 
+
+de
+ a
+
+pa
+ri
+
+ci
+ón
+
+ 
+
+ 
+C
+
+o-
+m
+
+or
+bi
+
+lid
+ad
+
+es
+. 
+
+
+ 
+P
+
+re
+gu
+
+nt
+ar
+
+ a
+l p
+
+ac
+ie
+
+nt
+e 
+
+si
+ e
+
+st
+á 
+
+lis
+to
+
+P
+A
+
+SO
+ U
+
+N
+O
+
+: 
+D
+
+ir
+ig
+
+ir
+ a
+
+u
+to
+
+ a
+yu
+
+d
+a
+
+D
+ie
+
+ta
+ b
+
+aj
+a 
+
+en
+ c
+
+al
+or
+
+ía
+s.
+
+A
+ct
+
+iv
+id
+
+ad
+ f
+
+ís
+ic
+
+a.
+ 
+
+C
+am
+
+bi
+o 
+
+de
+ e
+
+st
+ilo
+
+ d
+e 
+
+vi
+da
+
+. 
+E
+
+va
+lu
+
+ar
+ r
+
+az
+on
+
+es
+ q
+
+ue
+ h
+
+an
+ 
+
+im
+pe
+
+di
+do
+
+ la
+ p
+
+ér
+di
+
+da
+ d
+
+e 
+pe
+
+so
+.
+
+P
+A
+
+SO
+ D
+
+O
+S
+
+R
+ef
+
+or
+za
+
+r 
+co
+
+n
+ g
+
+ru
+p
+
+o 
+d
+
+e 
+ap
+
+oy
+o
+
+° 
+In
+
+te
+ns
+
+if
+ic
+
+ar
+ e
+
+l e
+sf
+
+ue
+rz
+
+o 
+de
+
+ 
+au
+
+to
+ a
+
+yu
+da
+
+°  
+C
+
+on
+ta
+
+ct
+ar
+
+ a
+ g
+
+ru
+po
+
+ d
+e 
+
+ap
+oy
+
+o
+°  
+
+In
+fo
+
+rm
+ar
+
+se
+ s
+
+ob
+re
+
+ e
+l 
+
+pr
+ob
+
+le
+m
+
+a
+°  
+
+E
+va
+
+lu
+ar
+
+ r
+az
+
+on
+es
+
+ q
+ue
+
+ h
+an
+
+ 
+im
+
+pe
+di
+
+do
+ la
+
+  p
+ér
+
+di
+da
+
+ d
+e 
+
+pe
+so
+
+P
+A
+
+SO
+ T
+
+R
+E
+
+S:
+T
+
+ra
+ta
+
+r 
+co
+
+-m
+or
+
+b
+il
+
+id
+ad
+
+es
+
+° 
+É
+
+nf
+as
+
+is
+ e
+
+n 
+pr
+
+ev
+en
+
+ci
+ón
+
+ d
+e 
+
+ri
+es
+
+go
+s
+
+°  
+E
+
+va
+lu
+
+ar
+ in
+
+te
+rv
+
+en
+ci
+
+ón
+ 
+
+fa
+rm
+
+ac
+ol
+
+óg
+ic
+
+a
+°  
+
+Su
+pe
+
+rv
+is
+
+ar
+ la
+
+ e
+vo
+
+lu
+ci
+
+ón
+ d
+
+el
+ 
+
+tr
+at
+
+am
+ie
+
+nt
+o 
+
+y 
+ha
+
+ce
+r 
+
+la
+s 
+
+ 
+m
+
+od
+if
+
+ic
+ac
+
+io
+ne
+
+s 
+ne
+
+ce
+sa
+
+ri
+as
+
+ 
+se
+
+gú
+n 
+
+re
+su
+
+lta
+do
+
+s.
+° 
+
+ E
+va
+
+lu
+ar
+
+ r
+az
+
+on
+es
+
+ q
+ue
+
+ h
+an
+
+ 
+im
+
+pe
+di
+
+do
+ la
+
+ p
+ér
+
+di
+da
+
+ d
+e 
+
+pe
+so
+
+.
+
+¿P
+es
+
+o 
+sa
+
+lu
+da
+
+bl
+e 
+
+y 
+es
+
+ta
+bl
+
+e?
+
+¿D
+et
+
+uv
+o 
+
+el
+ in
+
+cr
+em
+
+en
+to
+
+ 
+de
+
+ p
+es
+
+o?
+ 
+
+¿M
+ej
+
+or
+ó 
+
+su
+ s
+
+al
+ud
+
+? 
+¿D
+
+is
+m
+
+in
+uy
+
+ó 
+co
+
+m
+o 
+
+m
+ín
+
+im
+o 
+
+5%
+ d
+
+el
+ p
+
+es
+o 
+
+an
+te
+
+ri
+or
+
+ e
+n 
+
+1-
+2m
+
+es
+es
+
+?
+
+¿D
+et
+
+uv
+o 
+
+el
+ in
+
+cr
+em
+
+en
+to
+
+ 
+de
+
+ p
+es
+
+o?
+ 
+
+¿M
+ej
+
+or
+ó 
+
+su
+ s
+
+al
+ud
+
+? 
+¿D
+
+is
+m
+
+in
+uy
+
+ó 
+co
+
+m
+o 
+
+m
+ín
+
+im
+o 
+
+5%
+ d
+
+el
+ p
+
+es
+o 
+
+an
+te
+
+ri
+or
+
+?
+
+¿D
+et
+
+uv
+o 
+
+el
+ in
+
+cr
+em
+
+en
+to
+
+ 
+de
+
+ p
+es
+
+o?
+ 
+
+¿M
+ej
+
+or
+ó 
+
+su
+ s
+
+al
+ud
+
+? 
+¿D
+
+is
+m
+
+in
+uy
+
+ó 
+co
+
+m
+o 
+
+m
+ín
+
+im
+o 
+
+5%
+ d
+
+el
+ p
+
+es
+o 
+
+an
+te
+
+ri
+or
+
+ e
+n 
+
+1-
+2m
+
+es
+es
+
+?
+
+sí
+: c
+
+on
+tin
+
+ua
+r 
+
+la
+ in
+
+te
+rv
+
+en
+ci
+
+ón
+
+F
+ac
+
+to
+re
+
+s 
+q
+
+u
+e 
+
+au
+m
+
+en
+ta
+
+n
+ e
+
+l r
+ie
+
+sg
+o 
+
+en
+ p
+
+ac
+ie
+
+n
+te
+
+s 
+co
+
+n
+ o
+
+b
+es
+
+id
+ad
+
+ 
+y 
+
+ac
+ci
+
+ón
+ s
+
+u
+g
+
+er
+id
+
+a:
+H
+
+is
+to
+
+ri
+a 
+
+fa
+m
+
+il
+ia
+
+r 
+d
+
+e 
+ob
+
+es
+id
+
+ad
+: p
+
+re
+ve
+
+ni
+r 
+
+ga
+na
+
+nc
+ia
+
+s 
+m
+
+ay
+or
+
+es
+ a
+
+ 3
+kg
+
+T
+ab
+
+aq
+u
+
+is
+m
+
+o:
+ a
+
+po
+yo
+
+ p
+ar
+
+a 
+su
+
+sp
+en
+
+de
+r,
+
+ a
+po
+
+yo
+ n
+
+ut
+ri
+
+ci
+on
+
+al
+H
+
+ip
+er
+
+li
+p
+
+id
+em
+
+ia
+s:
+
+ c
+on
+
+se
+je
+
+rí
+a 
+
+nu
+tr
+
+ic
+io
+
+na
+l
+
+H
+ip
+
+er
+te
+
+n
+si
+
+ón
+ a
+
+rt
+er
+
+ia
+l: 
+
+pl
+an
+
+ a
+lim
+
+en
+ta
+
+ri
+o,
+
+ e
+je
+
+rc
+ic
+
+io
+ y
+
+ 
+m
+
+an
+te
+
+ni
+m
+
+ie
+nt
+
+o 
+de
+
+l p
+es
+
+o
+In
+
+to
+le
+
+ra
+n
+
+ci
+a 
+
+a 
+la
+
+ g
+lu
+
+co
+sa
+
+/
+d
+
+ia
+b
+
+et
+es
+
+: p
+la
+
+n 
+al
+
+im
+en
+
+ta
+ri
+
+o,
+ e
+
+je
+rc
+
+ic
+io
+
+ y
+ 
+
+m
+an
+
+te
+ni
+
+m
+ie
+
+nt
+o 
+
+de
+l p
+
+es
+o
+
+°  
+E
+
+va
+lu
+
+ac
+ió
+
+n 
+co
+
+m
+pl
+
+et
+a
+
+° 
+ D
+
+is
+eñ
+
+o 
+in
+
+te
+gr
+
+al
+ d
+
+el
+ 
+
+T
+ra
+
+ta
+m
+
+ie
+nt
+
+o
+°  
+
+A
+po
+
+yo
+ c
+
+on
+du
+
+ct
+ua
+
+l y
+ 
+
+N
+ut
+
+ri
+ci
+
+on
+al
+
+°  
+E
+
+va
+lu
+
+ar
+ in
+
+te
+rv
+
+en
+ci
+
+ón
+ 
+
+F
+ar
+
+m
+ac
+
+ol
+óg
+
+ic
+a
+
+°  
+T
+
+ra
+ta
+
+m
+ie
+
+nt
+o 
+
+de
+ c
+
+om
+or
+
+bi
+li-
+
+da
+de
+
+s
+°  
+
+E
+va
+
+lu
+ac
+
+ió
+n 
+
+de
+ c
+
+an
+di
+
+da
+to
+
+s 
+ 
+
+a 
+tr
+
+at
+am
+
+ie
+nt
+
+o 
+qu
+
+ir
+úr
+
+gi
+co
+
+ 
+pa
+
+ra
+ o
+
+be
+si
+
+da
+d 
+
+m
+ór
+
+bi
+da
+
+ e
+n 
+
+ 
+au
+
+se
+nc
+
+ia
+ d
+
+e 
+re
+
+su
+lta
+
+do
+s 
+
+ 
+co
+
+n 
+ot
+
+ro
+s 
+
+tr
+at
+
+am
+ie
+
+nt
+os
+
+.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   17
+
+IX. Normas generales para atención 
+de la persona obesa 
+
+A.  Generalidades:
+1. Toma y registro del peso, medición de la talla y cálculo de índice de masa 
+
+corporal a todo paciente adulto y adulto mayor que asista a la consulta en las 
+instalaciones de salud.
+
+2. Evaluar y registrar el estado nutricional a todo paciente adulto y adulto mayor 
+que asista a la consulta en las instalaciones de salud.
+
+3. Todo profesional de la salud, deberá registrar dentro de la historia clínica 
+del adulto y adulto mayor todo lo relacionado a la promoción y prevención 
+(educación), y  manejo del paciente con obesidad.
+
+4. En el caso del o la nutricionista, deberá registrar dentro de la historia clínica 
+del adulto y adulto mayor todo lo relacionado a la prevención y manejo 
+nutricional del paciente con obesidad.
+
+5. Todo paciente con obesidad que asista a la consulta médica debe ser referido 
+para su manejo integral a las disciplinas de nutrición, enfermería, trabajo 
+social, salud mental.
+
+6. Promover la formación de grupos de obesos tanto del personal de salud 
+como de pacientes. Asimismo, deben orientarse la realización de actividad 
+física y fortalecer hábitos adecuados de alimentación, haciendo énfasis en las 
+actividades de promoción y prevención de esta enfermedad.
+
+B. Cuando un paciente obeso acuda a la primera consulta médica, 
+debe realizarse y registrarse en el expediente:
+1. Evaluación clínica: 
+
+a. Historia clínica y examen físico completo, con énfasis en presión arterial 
+y evaluación cardiovascular, además de considerar signos y síntomas de 
+enfermedades crónicas asociadas como acantosis nigricans y varices, para 
+descartar posibles complicaciones.  En el interrogatorio o anamnesis tener 
+presente:
+1. Antecedentes familiares de obesidad y de otras enfermedades crónicas 
+
+no transmisibles.
+2. Antecedentes personales de sobrepeso y sus variaciones, así como de 
+
+otras enfermedades asociadas.
+3. Uso de medicamentos, tratamientos previos y alergias a medicamentos.
+
+b. Toma y registro del peso.
+c. Medición y registro de la talla.
+d. Registro del índice de masa corporal.
+e. Diagnóstico y registro del estado nutricional.
+f. Medición y registro de la circunferencia de cintura.
+g. Solicitud de electrocardiograma.
+h. Solicitud de radiografía de tórax.
+
+
+
+18   /    Guía para la atención integral de las personas con obesidad
+
+i. Considerar otros estudios de acuerdo al caso.
+2.  Solicitud de Pruebas de laboratorio: 
+
+a. Biometría hemática completa.
+b. Glucemia en ayunas.
+c. Perfil lipídico completo (colesterol, triglicéridos, HDL, LDL).
+d. Creatinina plasmática y nitrógeno de urea.
+e. Transaminasas.
+f. Ácido úrico.
+g. VDRL.
+h. Urinálisis completo.
+i. Considerar otros estudios de acuerdo al caso.
+
+3. Evaluación del estilo de vida. El mismo comprende:
+a. Patrón alimentario y de actividad física habitual.
+b. Ocupación y uso del tiempo libre.
+c. Otros antecedentes de riesgo como el consumo de alcohol y tabaco.
+d. Valoración del entorno familiar.
+
+4. Se deben evaluar algunos aspectos de la dimensión psicosocial, como:
+a. Explorar aspectos sobre la percepción que el paciente tiene de su imagen 
+
+corporal (cómo percibe su peso, cuánto le gustaría pesar, cuál cree que es su 
+peso saludable).
+
+b. Evaluar su motivación para iniciar el tratamiento adecuado (en fase de 
+contemplación o proactiva).
+
+c. Fortalecer su grado de comprensión sobre las diferentes causas del problema.
+d. Identificar la posibilidad de apoyo familiar y del entorno social.
+
+5. Manejo interdisciplinario:
+ En la primera consulta médica debe constar registro en el expediente que el 
+
+paciente ha sido referido a los servicios de enfermería, salud bucal, salud mental, 
+trabajo social y nutrición, para de esta forma recibir una atención integral.
+
+6. Indicación y registro de tratamiento no farmacológico.
+7. Educación: 
+ Se debe registrar en el expediente la orientación brindada al paciente sobre la 
+
+promoción de estilos de vida saludable, la educación sobre su enfermedad, 
+cómo prevenir el desarrollo de la misma y sus complicaciones.
+
+C. En la segunda consulta (entre uno a tres meses después de la 
+primera consulta): 
+
+Debe realizarse y registrarse en el expediente:
+
+1. Evaluación clínica: 
+a. Historia clínica y examen físico dirigido, con énfasis en presión arterial y 
+
+evaluación cardiovascular.
+b. Toma y registro del peso
+c. Registro del índice de masa corporal.
+d. Medición y registro de la circunferencia de la cintura.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   19
+
+e. Diagnóstico del estado nutricional.
+f. Evaluación de los resultados de las pruebas de laboratorio solicitadas en 
+
+la primera cita.
+2. Solicitud de pruebas de laboratorio en ayunas:
+
+a. Glucemia (si los resultados de la solicitada en la primera consulta son 
+superiores a 100 mg/dL).
+
+3. Evaluación del tratamiento no farmacológico indicado al paciente (registrarlo 
+en el expediente).
+
+4. Educación o consejería sobre el problema de salud del paciente (registrarla 
+en el expediente).
+
+5.   Perfíl lipídico si los anteriores resultados fueron anormales.
+
+D. Cada tres meses a cuatro meses:
+Debe realizarse y registrarse en el expediente:
+
+1. Evaluación clínica: 
+a. Historia clínica y examen físico dirigido, con énfasis en presión arterial y 
+
+examen cardiovascular.
+b. Toma y registro del peso.
+c. Registro del índice de masa corporal.
+d. Medición y registro de la circunferencia de la cintura.
+e. Diagnóstico del estado nutricional.
+
+2. Pruebas de laboratorio en ayunas:
+a. Glucemia (si los resultados de la solicitada en la primera consulta son 
+
+superiores a 100 mg/dL).
+b. Perfil lipídico completo (colesterol, triglicéridos, HDL, LDL), si el 
+
+resultado del que fue solicitado en la segunda consulta fue anormal. Si el 
+resultado fue normal, debe repetirse al año.
+
+3. Evaluación del tratamiento no farmacológico indicado al paciente (registrarlo 
+en el expediente).
+
+4. Educación o consejería sobre el problema de salud del paciente (registrarla 
+en el expediente).
+
+E. Seguimiento y control de las personas con obesidad:
+
+CUADRO Nº 5
+Criterios de control
+
+ Disciplina Durante el primer año A partir del Segundo año
+
+Médico 3 – 4 controles Mínimo tres controles
+Enfermera 3 – 4 controles Mínimo tres controles
+Nutrición Doce controles Mínimo seis controles
+Odontología Dos controles Mínimo dos controles
+Trabajo social Dos controles Las consultas necesarias de acuerdo al 
+  problema social del paciente. 
+Salud mental Dos controles mínimos o Las consultas necesarias de acuerdo a 
+ según criterio del equipo  la evolución del o la paciente.   
+ de salud mental. 
+Especialistas  Una consulta A criterio médico
+(médico internista, 
+endocrinólogo).
+
+Nota: La frecuencia de los controles dependerá de la respuesta del o la paciente al tratamiento y su evolución. Para su registro debe 
+utilizarse la tarjeta de seguimiento de casos.
+
+
+
+20   /    Guía para la atención integral de las personas con obesidad
+
+X. Complicaciones de la obesidad
+Los mayores aumentos de morbimortalidad se producen en obesidades moderadas 
+o severas (IMC >30 kg), es decir con sobrepesos mayores al 20% del peso aceptable. 
+En magnitud, el mayor efecto se observa en el incremento de las enfermedades 
+cardiovasculares.  La presencia de obesidad en una persona es el detonante o “gatillo” 
+para que aparezcan o se agraven otros problemas de salud, signos y síntomas o se 
+alteren algunas condiciones, tales como:
+
+A. Calidad de vida:
+
+1. Agilidad disminuida y más caídas
+2. Accidentes de tráfico
+3. Imposibilidad para higienizarse solos
+4. Fatiga, cansancio
+5. Riesgo aumentado de muerte.
+
+B. Sistema cardiovascular:
+
+1. Hipertrofia ventricular izquierda
+2. Hipertrofia ventricular derecha
+3. Anomalías de la función ventricular
+4. Aumento de la presión de llenado del ventrículo izquierdo
+5. Arritmias
+6. Hipertensión arterial
+7. Angina de pecho
+8. Ateroesclerosis
+9. Infarto de miocardio
+10. Infiltración grasa del miocardio
+11. Exceso de grasa epicárdica.
+
+C. Sistema venoso:
+
+1. Edema
+2. Síndrome varicoso
+3. Flebitis.
+
+D. Sistema respiratorio:
+
+1. Disnea
+2. Insuficiencia respiratoria
+3. Tendencia a ventilar exclusivamente los campos aéreos superiores
+4. Deterioro de la inmunidad celular que facilita las infecciones
+5. Apnea de sueño
+6. Somnolencia diurna
+7. Embolismo pulmonar.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   21
+
+E. Metabólicas:
+
+1. Resistencia a la insulina
+2. Diabetes mellitus
+3. Gota
+4. Dislipidemia
+5. Síndrome metabólico.
+
+F. Endocrinas generales:
+
+1. Aumento de cortisol (hipercortisolismo funcional)
+2. Alteración del funcionamiento gonadal
+3. Hiperinsulinemia
+4. Intolerancia a la glucosa
+5. Sensibilidad disminuida a la insulina
+6. Dislipidemia (hipercolesterolemia, hipertrigliceridemia)
+7. Hormona de crecimiento - Factor de crecimiento ligado a la insulina 
+
+(GH-IGF): secreción disminuida de hormona de crecimiento (GH), 
+factor de crecimiento ligado a la insulina – 1 (IGF-1) total, factor de 
+crecimiento unido a la insulina ligador de proteína – 1 (IGFBP-1) y 
+factor de crecimiento ligado a la insulina – 1 (IGF-1) libre elevada
+
+8. Pulsatilidad alterada de la célula beta
+9. Factor de necrosis tumoral  - alfa (TNF – alfa)  elevado
+10. Niveles de leptina elevados.
+11. Disminución de adiponectina
+12. Aumento de resistina
+13. Aumento de ácidos grasos libres.
+
+Mujer:
+
+1. Amenorrea
+2. Dismenorrea
+3. Hirsutismo
+4. Ovario poliquístico
+5. Hiperandrogenemia
+6. Hiperestrogenemia
+7. Alteración ciclos menstruales
+8. Hipo o infertilidad
+9. Menopausia tardía
+10. Prolactina: niveles tras estímulo disminuidos.
+
+Hombre:
+
+1. Disminución de la testosterona libre y total
+2. Hipogonadismo
+3. Ginecomastia
+4. Disminución de la hormona sexual ligadora de globulina (SHBG).
+
+
+
+22   /    Guía para la atención integral de las personas con obesidad
+
+G. Nefrológicas/Urológicas:
+
+1. Pene de apariencia chica 
+2. Incontinencia urinaria en mujeres 
+
+H. Sistema digestivo:
+
+1. Hernia de hiato
+2. Dispepsia
+3. Reflujo gastroesofágico
+4. Litiasis vesicular.
+
+I. Osteoarticulares: 
+
+1.  Artrosis de columna
+2.  Artrosis de cadera y rodilla
+3.  Lumbalgia
+4.  Agravación de problemas posturales
+5.  Disminución de la flexibilidad.
+
+J.  Órganos de los sentidos:
+
+1. Cataratas
+2. Degeneración macular
+
+K.  Cáncer:
+
+Mujer:
+
+1. Cáncer de mama en post menopausia
+2. Cáncer de endometrio
+3. Cáncer de cuello de útero
+4. Cáncer de ovario
+5. Cáncer de vesícula y vías biliares.
+
+Hombre:
+
+1. Cáncer de próstata
+2. Cáncer  colorectal
+3. Cáncer de vesícula biliar.
+
+L.  Piel y tejido celular subcutáneo:
+
+1. Intertrigo
+2. Hongos
+3. Estrías
+4. Callos plantales
+5. Fragilitas cutis inguinalis
+6. Acantosis nigricans.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   23
+
+______________________ 
+
+(*) Debido a esto se realizan más cesáreas.
+
+M. Pared abdominal
+
+1. Hernias umbilicales
+2. Hernias inguinales
+3. Eventraciones
+4. Abdomen delantal.
+
+N. Embarazo
+
+1. Trastorno hipertensivo del embarazo
+2. Partos traumáticos
+3.  Hipertensión
+4. Trabajo prolongado de parto
+5. Dificultad para detectar embarazo
+6. Embarazo múltiple
+7. Dificultad para detectar trastornos fetales por ecografía
+8. Anestesia dificultosa
+9.  Complicación de heridas quirúrgicas  
+10.Más probabilidad de cesáreas
+11. Mayor posibilidad de riesgos post-operatorios
+12. Mortalidad perinatal
+13. Anemia y muerte fetal
+14. Macrosomías fetales (*)
+15. Distrés fetal (*)
+16. Menor tolerancia a la glucosa
+17. Diabetes gestacional
+18. Infecciones urinarias
+19. Endometritis (*)
+20.Tromboflebitis 
+21. Aumento de lípidos plasmáticos.
+
+Ñ.	Quirúrgicas:
+
+1. Prolongación en la recuperación post quirúrgica
+2. Aumento del riesgo anestésico
+3. Mayor incidencia de atelectasias, neumonía, tromboembolismo de 
+
+pulmón y trombosis venosa de miembros inferiores
+4. Dificultades en la cicatrización
+5. Mayor frecuencia de infecciones
+6. Problemas técnicos por pobre acceso quirúrgico
+7. Incremento en la dehiscencia de suturas.
+
+
+
+24   /    Guía para la atención integral de las personas con obesidad
+
+O. Asistencia médica:
+
+1. Rechazo
+2. No diagnóstico o mal diagnóstico por la obesidad
+3. Abuso de preparados tiroideos, laxantes, diuréticos, anfetaminas, 
+
+psicofármacos.
+
+P. Psicológicos:
+
+1. Depresión
+2. Ansiedad
+3. Trastornos de la conducta alimentaria
+
+a. Ingesta exagerada
+b. Ingesta exagerada nocturna
+
+4. Trastorno sexual
+5. Deseo sexual hipoactivo
+6. Aversión al sexo inducido por sustancias (anfetaminas y derivados, 
+
+sedantes, ansiolíticos, antihipertensivos, antidepresivos, IRSS)
+7. Autoestima baja.
+
+Q. Socio-económicas:
+
+1. Aislamiento
+2. Problemas de relación
+3. Discriminación
+4. Exclusión de ciertas ocupaciones
+5. Dificultad para obtener buenos trabajos
+6. Menores ingresos
+7. Vestimenta limitada
+8. Costo de vestimenta especial
+9. Acceso limitado a asientos y pasillos
+10. Costo de modalidades ineficaces de reducción de peso
+11. Costo del tratamiento de diversas enfermedades debidas a la obesidad
+12. Alta tasa de deserción escolar
+13. Costo de consumo extra de alimentos.
+
+Mujeres:
+
+1. Menores sueldos que los hombres
+2. Más auto-denigración personal
+3. Insistencia más persistente en rebajar de peso
+4. Labilidad del carácter.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   25
+
+XI. Obesidad y síndrome metabólico
+El síndrome metabólico es un trastorno que incluye la presencia de un grupo de 
+factores de riesgo específicos de enfermedad cardiovascular. El mismo eleva en 
+forma significativa el riesgo de desarrollar diabetes mellitus tipo 2, enfermedades 
+cardíacas y/o accidentes cerebrovasculares.
+
+Entre los factores de riesgo estrechamente relacionados con el síndrome metabólico 
+están:
+
+ Edad: la incidencia del síndrome metabólico aumenta con la edad.
+ Origen étnico: los afroamericanos y los hispanoamericanos son más 
+
+propensos a desarrollar síndrome metabólico. Las mujeres afroamericanas 
+son alrededor de un 60% más propensas que los hombres afroamericanos a 
+desarrollar el síndrome.
+ Índice de masa corporal (IMC) superior a 25.
+ Antecedentes familiares o personales de diabetes: aquellas personas que 
+
+tuvieron diabetes durante el embarazo (diabetes gestacional) o que tienen 
+un familiar con diabetes tipo 2 están expuestas a un riesgo más elevado de 
+síndrome metabólico.
+ Tabaquismo.
+ Antecedentes de alcoholismo.
+ Estrés.
+ Estado posmenopáusico.
+ Dietas ricas en grasas.
+ Aumento en el consumo de calorías.
+ Estilo de vida sedentario.
+
+El conjunto de factores de riesgo para el desarrollo del síndrome metabólico, 
+síndrome dismetabólico, síndrome de resistencia a la insulina o síndrome “X”, 
+incluye:
+
+1. Obesidad abdominal, caracterizada por una medición del diámetro de la 
+cintura de 88 centímetros o más para las mujeres y de 102 centímetros o más 
+para los hombres.
+
+2. Presión arterial igual o mayor a 130/85 mmHg (milímetros de mercurio).
+3. Resistencia a la insulina o glucosa en ayunas igual o mayor a 110 mg/dL pero 
+
+menor de 126 mg/dl.
+4. Dislipidemias (Niveles elevados de triglicéridos: más de 150 mg/dl, niveles 
+
+de colesterol HDL menor de 40 mg/dl en los hombres y menor de 50 mg/
+dl en las mujeres).
+
+5. Estado proinflamatorio: trastorno caracterizado por un nivel elevado de 
+la proteína reactiva C, que es una sustancia considerada un indicador de 
+inflamación en el cuerpo.
+
+
+
+26   /    Guía para la atención integral de las personas con obesidad
+
+6. Estado protrombótico: trastorno caracterizado por factores de coagulación 
+sanguínea elevados.
+
+Solo con la presencia de tres de ellos se realiza el diagnóstico.
+
+El tratamiento específico para el Síndrome metabólico está determinado por:
+
+1. La edad, estado general de salud de la persona y sus antecedentes médicos.
+2. La gravedad de la enfermedad.
+3. Tolerancia a determinados medicamentos, procedimientos o terapias.
+4. Signos y síntomas.
+5. Expectativas para la evolución de la enfermedad.
+
+El tratamiento que se recomienda para el síndrome metabólico es:
+
+Control del estilo de vida: Un programa para bajar de peso y el ejercicio 
+proporcionan la base del tratamiento para el síndrome metabólico. La 
+reducción de peso aumenta el colesterol HDL, disminuye el colesterol LDL 
+y los triglicéridos. Adelgazar también puede reducir el riesgo de diabetes tipo 
+2, puede afectar favorablemente la presión sanguínea y aumentar la tolerancia 
+a la insulina, así como también puede reducir la obesidad central. La dieta y el 
+ejercicio combinados mejoran los factores de riesgo más que la dieta solamente. 
+Otros factores relativos al control del estilo de vida incluyen dejar de fumar 
+y limitar el consumo de alcohol. Los cambios en los hábitos alimenticios son 
+importantes en el tratamiento.
+
+Ejercicio: El ejercicio beneficia a las personas con sobrepeso u obesidad, pues 
+les ayuda a mantener y aumentar el tejido muscular, al mismo tiempo que se 
+disminuye el nivel de grasa. Caminar es un ejercicio excelente para las personas 
+obesas. Hay que considerar la edad y el estado de co-morbilidad de la persona, 
+por lo que la orientación y educación brindada por el médico y la nutricionista 
+es necesaria antes de iniciar la actividad física.  El ejercicio también contribuye a 
+mejorar el bienestar emocional, a reducir el apetito, a mejorar la capacidad para 
+dormir, a aumentar la flexibilidad y a disminuir el colesterol LDL.
+
+1. Medicación: Las personas que padecen del síndrome metabólico y que están 
+en riesgo pueden ser aptas para el tratamiento con medicamentos, en especial 
+si otras medidas, como los cambios en la alimentación y en los estilos de 
+vida, no fueron eficaces para la pérdida de peso, la disminución de la presión 
+arterial, la reducción de los niveles de colesterol y/o la disminución de la 
+resistencia a la insulina. Pueden prescribirse medicamentos para disminuir 
+la presión sanguínea, mejorar el metabolismo de la insulina, disminuir el 
+colesterol LDL y aumentar el colesterol HDL, y aumentar la reducción del 
+peso. Se utilizan además las opciones terapéuticas existentes de acuerdo al 
+tipo de enfermedad que actúa como factor de riesgo.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   27
+
+Dado que el síndrome metabólico aumenta el riesgo de desarrollar problemas 
+crónicos más graves, como enfermedad cardiovascular y diabetes mellitus tipo 2, es 
+importante que se administre el tratamiento requerido. Entre otros trastornos que 
+podrían presentarse a causa del síndrome metabólico se incluyen:
+
+1. Síndrome de ovario poliquístico
+2. Hígado graso
+3. Cálculos biliares por el colesterol
+4. Asma
+5. Alteraciones del sueño
+6. Algunos tipos de cáncer.
+
+
+
+28   /    Guía para la atención integral de las personas con obesidad
+
+XII.  Sistema de referencia y 
+contrareferencia
+
+“Es el conjunto de actividades administrativas y asistenciales mediante los cuales se 
+facilita la continuidad en la atención del paciente, transfiriéndolo en los servicios de 
+salud de un mismo o diferentes niveles de atención o grados de complejidad, con el 
+retorno del paciente a la instalación de origen”.1 
+
+1. Criterios de referencia a medicina interna o endocrinología:
+
+1.1 Cuando no se logran las metas iniciales del tratamiento médico integral 
+en un plazo de 6 a 12 meses.
+
+1.2 Si existen co-morbilidades de difícil tratamiento y/o que pongan en 
+riesgo la vida del paciente.
+
+1.3 Cuando el paciente tiene un IMC mayor de  35 con co-morbilidades.
+1.4 En los casos de obesidad extrema (IMC > 40kg/m2).
+
+2.  Criterios de contrarreferencia desde la consulta especializada hacia el 
+primer nivel de atención:
+
+2.1 Paciente estable con un IMC menor de 35, que no haya requerido 
+manejo quirúrgico y con control de las co-morbilidades.
+
+2.2 Paciente estable con disminución del 15% de peso corporal, con control 
+de las co-morbilidades y que no haya requerido manejo quirúrgico. 
+
+3.		 Todo	 paciente	 que	 haya	 recibido	 tratamiento	 quirúrgico,	 debe	
+continuar su manejo en el II o III nivel de atención.
+
+______________________ 
+
+1 Ministerio de Salud. La red pública de servicios de salud, reorganización y definición por niveles de atención y grados 
+de complejidad. Septiembre de 2003. Página 39.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   29
+
+XIII.  Sistema de registros 
+La información obtenida de todo paciente obeso u obesa (detección, evaluación, 
+diagnóstico, tratamiento, seguimiento, rehabilitación, exámenes de laboratorio 
+y gabinete, referencia y contrarreferencia, o cualquier otra pertinente), deberá 
+detallarse en cada uno de los formularios, fichas, tarjetas u hojas diseñadas para tal 
+fin, en las respectivas instalaciones de salud (hoja de registro, hoja para notas de 
+enfermera y tarjeta de seguimiento). 
+
+Las actividades de promoción, educación, prevención e investigación epidemiológica, 
+debe registrarse en los formularios diseñados por el Departamento de Registros 
+Médicos y Estadísticas. 
+
+Se utilizará la hoja de registro para anotar las evaluaciones subsecuentes, las variables 
+clínicas y de laboratorio del paciente. Dicha hoja de registro formará parte del 
+expediente clínico del y la paciente. 
+
+
+
+30   /    Guía para la atención integral de las personas con obesidad
+
+Bibliografía
+I. Fuentes primarias
+
+1. Clinical	 guidelines	 on	 the	 identification,	 evaluation	 and	 treatment	
+of  overweight and obesity in adults. National Institute of  Health. NIH 
+Publication No. 98-4083. Estados Unidos. Septiembre, 1998. 262 páginas. (Clase 
+R)
+
+2. Ministerio de Salud / Caja de Seguro Social / OPS / OMS / INCAP.   Estudio 
+sobre el estado nutricional y calidad de vida del adulto(a) mayor que 
+asiste a consulta en Centros de Salud y Policlínicas de San Miguelito y  
+Área Metropolitana.  Panamá, 2003.  44 páginas. (Clase C)
+
+3. Revista de Endocrinología y nutrición. Obesidad, diagnóstico y 
+tratamiento. Volumen 12, Nº. 4, Suplemento 3. México. Octubre – diciembre 
+de 2004. Páginas S130 – S135. (Clase C)
+
+II. Fuentes secundarias
+
+1. Harrison. Principios de medicina interna. Interoamericana McGraw – Hill 
+XIII Edición. 2871 páginas.
+
+2. Escuela de Biokinética, Recreación y ciencias del deporte.  Universidad Nor 
+– Oeste (Campus Potchefstroom). Sur Africa.
+
+3. Estándares internacionales para la valoración Antropométrica. Sociedad 
+Internacional para el avance de la Kinantropometría. Primera edición, 2001.
+
+4. Ministerio de Salud. La	red	pública	de	servicios	de	salud,	reorganización	y	
+definición	por	niveles	de	atención	y	grados	de	complejidad. Septiembre de 
+2003. 68 páginas.
+
+5. Ministerio de Salud / Caja de Seguro Social.  Normas técnicas, administrativas 
+y protocolos de atención en salud bucal. I nivel de atención. Panamá, 
+agosto de 2004.
+
+6. ftp://ftp.fao.org/docrep/fao/006/ac911s/ac911s00.pdf
+
+7. http://ymghealthinfo.org/content.asp?pageid=P07927
+
+8. http://www.cardiolili.org/esp/
+
+9. http://www.cdc.gov/spanish/indice.htm
+
+10. http://www.docencia-css.org.pa/documentos/guias/obesidad.pdf
+
+11. http://www.fac.org.ar/revista/04v33n3/edito/edit01/luquez.htm
+
+12. http://www.obesidad.net/spanish2002/default.htm
+
+
+
+Guía para la atención integral de las personas con obesidad   /   31
+
+ANEXOS
+
+
+
+32   /    Guía para la atención integral de las personas con obesidad
+
+ANEXO Nº1
+
+MINISTERIO DE SALUD
+
+Departamento de Nutrición / Sección de Salud de Adultos
+
+Peso en libras para tallas en metros de hombres y mujeres adultos en 
+categorías de la relación peso / Talla2 o Índice de masa corporal.
+
+Panamá, 2006
+
+ 
+Talla 
+
+ Bajo Peso 
+Normal Sobrepeso
+
+ Obesidad
+ 
+
+(metros)
+ IMC  < 18.5 
+
+IMC 18.5 - 24.9  IMC 25 - 29.9
+	 IMC	≥	30
+
+   Menor de      Mayor de
+
+ 1.350 74.3 74.3 100.0 100.4 120.1 120.5
+ 1.355 74.9 74.9 100.8 101.2 121.0 121.4
+ 1.360 75.4 75.4 101.5 101.9 121.9 122.3
+ 1.365 76.0 76.0 102.3 102.7 122.8 123.2
+ 1.370 76.5 76.5 103.0 103.4 123.7 124.1
+ 1.375 77.1 77.1 103.8 104.2 124.6 125.0
+ 1.380 77.7 77.7 104.5 104.9 125.5 125.9
+ 1.385 78.2 78.2 105.3 105.7 126.4 126.8
+ 1.390 78.8 78.8 106.0 106.5 127.3 127.8
+ 1.395 79.3 79.3 106.8 107.2 128.2 128.7
+ 1.400 79.9 79.9 107.6 108.0 129.2 129.6
+ 1.405 80.5 80.5 108.3 108.8 130.1 130.5
+ 1.410 81.1 81.1 109.1 109.5 131.0 131.5
+ 1.415 81.6 81.6 109.9 110.3 131.9 132.4
+ 1.420 82.2 82.2 110.7 111.1 132.9 133.3
+ 1.425 82.8 82.8 111.4 111.9 133.8 134.3
+ 1.430 83.4 83.4 112.2 112.7 134.8 135.2
+ 1.435 84.0 84.0 113.0 113.5 135.7 136.2
+ 1.440 84.5 84.5 113.8 114.3 136.6 137.1
+ 1.445 85.1 85.1 114.6 115.1 137.6 138.1
+ 1.450 85.7 85.7 115.4 115.8 138.6 139.0
+ 1.455 86.3 86.3 116.2 116.6 139.5 140.0
+ 1.460 86.9 86.9 117.0 117.5 140.5 140.9
+ 1.465 87.5 87.5 117.8 118.3 141.4 141.9
+ 1.470 88.1 88.1 118.6 119.1 142.4 142.9
+ 1.475 88.7 88.7 119.4 119.9 143.4 143.9
+ 1.480 89.3 89.3 120.2 120.7 144.3 144.8
+ 1.485 89.9 89.9 121.0 121.5 145.3 145.8
+ 1.490 90.5 90.5 121.8 122.3 146.3 146.8
+ 1.495 91.1 91.1 122.7 123.1 147.3 147.8
+ 1.500 91.7 91.7 123.5 124.0 148.3 148.8
+ 1.505 92.4 92.4 124.3 124.8 149.3 149.8
+ 1.510 93.0 93.0 125.1 125.6 150.3 150.8
+ 1.515 93.6 93.6 126.0 126.5 151.3 151.8
+ 1.520 94.2 94.2 126.8 127.3 152.3 152.8
+ 1.525 94.8 94.8 127.6 128.1 153.3 153.8
+ 1.530 95.4 95.4 128.5 129.0 154.3 154.8
+ 1.535 96.1 96.1 129.3 129.8 155.3 155.8
+ 1.540 96.7 96.7 130.2 130.7 156.3 156.8
+ 1.545 97.3 97.3 131.0 131.5 157.3 157.8
+ 1.550 98.0 98.0 131.8 132.4 158.3 158.9
+ 1.555 98.6 98.6 132.7 133.2 159.3 159.9
+
+
+
+Guía para la atención integral de las personas con obesidad   /   33
+
+ 1.560 99.2 99.2 133.6 134.1 160.4 160.9
+ 1.565 99.9 99.9 134.4 135.0 161.4 161.9
+ 1.570 100.5 100.5 135.3 135.8 162.4 163.0
+ 1.575 101.1 101.1 136.1 136.7 163.5 164.0
+ 1.580 101.8 101.8 137.0 137.6 164.5 165.1
+ 1.585 102.4 102.4 137.9 138.4 165.6 166.1
+ 1.590 103.1 103.1 138.7 139.3 166.6 167.2
+ 1.595 103.7 103.7 139.6 140.2 167.7 168.2
+ 1.600 104.4 104.4 140.5 141.1 168.7 169.3
+ 1.605 105.0 105.0 141.4 141.9 169.8 170.3
+ 1.610 105.7 105.7 142.3 142.8 170.8 171.4
+ 1.615 106.3 106.3 143.1 143.7 171.9 172.5
+ 1.620 107.0 107.0 144.0 144.6 172.9 173.5
+ 1.625 107.7 107.7 144.9 145.5 174.0 174.6
+ 1.630 108.3 108.3 145.8 146.4 175.1 175.7
+ 1.635 109.0 109.0 146.7 147.3 176.2 176.8
+ 1.640 109.7 109.7 147.6 148.2 177.2 177.8
+ 1.645 110.3 110.3 148.5 149.1 178.3 178.9
+ 1.650 111.0 111.0 149.4 150.0 179.4 180.0
+ 1.655 111.7 111.7 150.3 150.9 180.5 181.1
+ 1.660 112.4 112.4 151.2 151.8 181.6 182.2
+ 1.665 113.0 113.0 152.1 152.7 182.7 183.3
+ 1.670 113.7 113.7 153.1 153.7 183.8 184.4
+ 1.675 114.4 114.4 154.0 154.6 184.9 185.5
+ 1.680 115.1 115.1 154.9 155.5 186.0 186.6
+ 1.685 115.8 115.8 155.8 156.4 187.1 187.7
+ 1.690 116.5 116.5 156.7 157.4 188.2 188.8
+ 1.695 117.1 117.1 157.7 158.3 189.3 190.0
+ 1.700 117.8 117.8 158.6 159.2 190.4 191.1
+ 1.705 118.5 118.5 159.5 160.2 191.6 192.2
+ 1.710 119.2 119.2 160.5 161.1 192.7 193.3
+ 1.715 119.9 119.9 161.4 162.1 193.8 194.5
+ 1.720 120.6 120.6 162.4 163.0 195.0 195.6
+ 1.725 121.3 121.3 163.3 164.0 196.1 196.7
+ 1.730 122.0 122.0 164.2 164.9 197.2 197.9
+ 1.735 122.7 122.7 165.2 165.9 198.4 199.0
+ 1.740 123.4 123.4 166.2 166.8 199.5 200.2
+ 1.745 124.2 124.2 167.1 167.8 200.7 201.3
+ 1.750 124.9 124.9 168.1 168.7 201.8 202.5
+ 1.755 125.6 125.6 169.0 169.7 203.0 203.7
+ 1.760 126.3 126.3 170.0 170.7 204.1 204.8
+ 1.765 127.0 127.0 171.0 171.6 205.3 206.0
+ 1.770 127.7 127.7 171.9 172.6 206.5 207.1
+ 1.775 128.5 128.5 172.9 173.6 207.6 208.3
+ 1.780 129.2 129.2 173.9 174.6 208.8 209.5
+ 1.785 129.9 129.9 174.9 175.6 210.0 210.7
+ 1.790 130.6 130.6 175.8 176.5 211.1 211.9
+ 1.795 131.4 131.4 176.8 177.5 212.3 213.0
+ 1.800 132.1 132.1 177.8 178.5 213.5 214.2
+ 1.805 132.8 132.8 178.8 179.5 214.7 215.4
+ 1.810 133.6 133.6 179.8 180.5 215.9 216.6
+ 1.815 134.3 134.3 180.8 181.5 217.1 217.8
+
+ 
+Talla 
+
+ Bajo Peso 
+Normal Sobrepeso
+
+ Obesidad
+ 
+
+(metros)
+ IMC  < 18.5 
+
+IMC 18.5 - 24.9  IMC 25 - 29.9
+	 IMC	≥	30
+
+   Menor de      Mayor de
+
+
+
+34   /    Guía para la atención integral de las personas con obesidad
+
+ 
+Talla 
+
+ Bajo Peso 
+Normal Sobrepeso
+
+ Obesidad
+ 
+
+(metros)
+ IMC  < 18.5 
+
+IMC 18.5 - 24.9  IMC 25 - 29.9
+	 IMC	≥	30
+
+   Menor de      Mayor de
+
+ 1.820 135.1 135.1 181.8 182.5 218.3 219.0
+ 1.825 135.8 135.8 182.8 183.5 219.5 220.2
+ 1.830 136.5 136.5 183.8 184.5 220.7 221.4
+ 1.835 137.3 137.3 184.8 185.5 221.9 222.6
+ 1.840 138.0 138.0 185.8 186.5 223.1 223.9
+ 1.845 138.8 138.8 186.8 187.6 224.3 225.1
+ 1.850 139.5 139.5 187.8 188.6 225.5 226.3
+ 1.855 140.3 140.3 188.8 189.6 226.8 227.5
+ 1.860 141.1 141.1 189.9 190.6 228.0 228.7
+ 1.865 141.8 141.8 190.9 191.7 229.2 230.0
+ 1.870 142.6 142.6 191.9 192.7 230.4 231.2
+ 1.875 143.3 143.3 192.9 193.7 231.7 232.5
+ 1.880 144.1 144.1 194.0 194.7 232.9 233.7
+ 1.885 144.9 144.9 195.0 195.8 234.2 234.9
+ 1.890 145.6 145.6 196.0 196.8 235.4 236.2
+ 1.895 146.4 146.4 197.1 197.9 236.6 237.4
+ 1.900 147.2 147.2 198.1 198.9 237.9 238.7
+
+
+
+Guía para la atención integral de las personas con obesidad   /   35
+
+ANEXO Nº 2
+
+Toma de la Circunferencia de Cintura
+
+Para realizar la toma de la circunferencia de cintura de manera eficaz, la persona 
+(paciente) debe colocarse de pie con los brazos cruzados sobre el tórax. La medida 
+se toma en el nivel más estrecho del abdomen, entre el borde del costal inferior (10a 
+costilla) y la cresta iliaca. El antropometrista o profesional de la salud se debe ubicar 
+al frente de la persona, quien tiene los brazos levemente cruzados, para permitir que 
+la cinta se desplace alrededor del abdomen. 
+
+El fragmento y el estuche de la cinta métrica se coloca en la mano derecha, mientras 
+quien realiza la medición ajusta la cinta con la mano izquierda en la espalda y en el 
+nivel más estrecho de la cintura. El antropometrista retoma el control del fragmento 
+de la cinta con la mano empleando la técnica de manos cruzadas por la espalda de la 
+persona, para alinearla al frente en el nivel más estrecho de la cintura. Se le solicita 
+al paciente bajar sus brazos a una posición relajada y abducida. La cinta se reajusta 
+para asegurar que no resbala ni se encaja excesivamente en la piel. El paciente deberá 
+respirar normalmente y la medición se toma al final de una espiración. Si no existe 
+una cintura mínima obvia, la medida se tomará en el punto medio entre el borde del 
+costal inferior (10a costilla) y la cresta iliaca.
+
+
+
+36   /    Guía para la atención integral de las personas con obesidad
+
+ANEXO Nº 3
+
+Funciones del Equipo Interdisciplinario de Salud 
+en el Manejo de la Obesidad
+
+Medicina general
+
+• Realizar la historia clínica y examen físico completo a todo paciente con 
+diagnóstico de obesidad.
+
+• Solicitar y registrar en el expediente las pruebas de laboratorio y de gabinete 
+correspondiente.
+
+• Prescribir el tratamiento no farmacológico y farmacológico, y registrarlo en el 
+expediente.
+
+• Registrar en el expediente clínico la educación y orientación brindada al paciente 
+sobre su problema de salud.
+
+• Orientar al paciente y registrar en el expediente el tipo, frecuencia y duración de 
+la actividad física que debe realizar.
+
+• Realizar el seguimiento clínico a todo paciente obeso (nuevo y subsecuente).
+• Referir a enfermería, salud bucal, nutrición, trabajo social y salud mental a todo 
+
+paciente que ingresa con el diagnóstico de obesidad.
+• Realizar interconsultas con otros profesionales de la institución según 
+
+necesidad.
+• Referir a especialistas de otras instituciones de acuerdo a la evolución de la 
+
+enfermedad y condición clínica de la persona.
+• Cumplir con el mecanismo de referencia y contrarreferencia.
+• Realizar visitas domiciliarias como parte del equipo básico de salud.
+• Coordinación con el equipo de salud de la instalación correspondiente.
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+
+realización de actividades de promoción, prevención, atención y rehabilitación 
+de la obesidad.
+
+• Participar en las actividades de educación del paciente obeso, su familia y la 
+comunidad, conjuntamente con el equipo interdisciplinario de salud.
+
+• Participar en la organización de grupos de ayuda mutua o de apoyo para personas 
+con obesidad en conjunto con el equipo interdisciplinario de salud.
+
+• Colaborar en el diseño, formulación y desarrollo de investigaciones relacionadas 
+con la obesidad.
+
+Enfermería
+
+• Tomar y registrar en el expediente el peso, circunferencia de cintura, glucemia 
+capilar, presión arterial y talla (en la primera consulta) a todo paciente obeso en 
+control.
+
+• Realizar avalúo físico al paciente para identificar problemas de salud y establecer 
+diagnósticos de enfermería.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   37
+
+• Sensibilizar al paciente obeso sobre su enfermedad y las consecuencias 
+biopsicosociales de la misma.
+
+• Orientar al paciente y registrar en el expediente el tipo, frecuencia y duración de 
+la actividad física que debe realizar.
+
+• Referir a la consulta médica a todo paciente obeso que se encuentre 
+descompensado o con co-morbilidades.
+
+• Realizar seguimiento a todo paciente obeso nuevo y subsecuente.
+• Referir a los pacientes en control a trabajo social, salud mental, nutrición y salud 
+
+bucal para su correspondiente evaluación, diagnóstico y seguimiento.
+• Participar con el equipo interdisciplinario de salud en la formación y seguimiento 
+
+de grupos de ayuda mutua, grupos de apoyo o asociaciones de pacientes 
+obesos.
+
+• Realizar visitas domiciliarias como parte del equipo básico de salud.
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+
+realización de actividades de promoción de la salud, prevención, atención y 
+rehabilitación de la obesidad.
+
+• Participar en las actividades de educación del paciente obeso, su familia y la 
+comunidad conjuntamente con el equipo interdisciplinario de salud.
+
+• Formar grupos de profesionales de la salud para el desarrollo de estilos de 
+vida saludable en la población escolar en coordinación con el Ministerio de 
+Educación. (*).
+
+• Colaborar en el diseño, formulación y desarrollo de investigaciones relacionadas 
+con la obesidad.
+
+Nutrición
+• Evaluación antropométrica
+ • Peso / Talla
+ • Índice de Quetelet  o IMC
+ • Circunferencia de cintura
+• Evaluación bioquímica.
+• Evaluación dietética.
+• Cálculos de requerimentos nutricionales.
+• Confección de la dieta terapéutica individualizada en base a prescripción 
+
+médica.
+• Orientar al paciente y registrar en el expediente el tipo, frecuencia y duración de 
+
+la actividad física que debe realizar.
+• Promover los estilos de vida saludables.
+• Seguimiento y control a todo paciente nuevo o subsecuente.
+• Participar con el equipo interdisciplinario de salud en la formación y seguimiento 
+
+de grupos de ayuda mutua, grupos de apoyo o asociaciones de obesos.
+
+–––––––––––––––––––––
+* Esta actividad debe desarrollarse en coordinación con el Programa de salud escolar y adolescente.
+
+
+
+38   /    Guía para la atención integral de las personas con obesidad
+
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+realización de actividades de promoción de la salud, prevención, atención y 
+rehabilitación de la obesidad.
+
+• Participar en las actividades de educación del paciente obeso, su familia y la 
+comunidad conjuntamente con el equipo interdisciplinario de salud.
+
+• Colaborar en el diseño, formulación y desarrollo de investigaciones relacionadas 
+con la obesidad.
+
+Trabajo social
+
+• Realizar la evaluación social del paciente obeso (a) y su grupo familiar.
+• Involucrar a los miembros de la familia del paciente obeso como facilitadores 
+
+del cumplimiento de su tratamiento farmacológico y no farmacológico.
+• Atender y dar seguimiento a la morbilidad social del paciente y su grupo 
+
+familiar.
+• Participar en la organización y asesoría de los grupos de pacientes obesos (as) y 
+
+grupos o asociaciones de apoyo.
+• Intervenir conjuntamente con el equipo interdisciplinario en la realización 
+
+de actividades de promoción, prevención, atención y rehabilitación de la 
+obesidad.
+
+• Participar en el proceso de educación del paciente obeso, de acuerdo a lo 
+establecido en las normas de salud.
+
+• Participar en las visitas domiciliarias como parte del equipo interdisciplinario de 
+salud.
+
+• Apoyar en el diseño, formulación y desarrollo de investigaciones relacionadas 
+con la obesidad.
+
+Salud mental
+
+• Acompañamiento, atención directa y seguimiento individual y grupal a pacientes 
+y familiares, para el apoyo emocional y modificación de conductas que se 
+requiere.
+
+• Asesoramiento, conformación organización y manejo de grupos terapéuticos 
+(de ayuda mutua, comunicación, orientación familiar y docencia) para el cambio 
+en los estilos de vida y afrontamiento de problemas emocionales de fondo.
+
+• Asesoramiento, diseño y conducción de talleres para la expresión de sentimientos, 
+cambios en estilos de vida, habilidades sociales, reducción y eliminación del 
+consumo de drogas (alcohol, cigarrillo) y otros temas que favorezcan la reducción 
+y mantenimiento de un peso ideal.
+
+• Capacitación a los equipos de salud en el manejo de los temas correlacionados 
+con la obesidad (autoestima, presión de grupo, manejo de las emociones y 
+sentimientos, entre otros).
+
+• Coordinación y enlace con los otros miembros del equipo tratante de la 
+clínica.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   39
+
+Salud bucal
+
+Manejo odontológico de pacientes con diagnóstico de obesidad
+
+El(la) paciente con diagnóstico de obesidad comúnmente presenta alteraciones 
+en la frecuencia de la ingesta y tipo de alimentos que consume, generalmente 
+acompañada de alto consumo de carbohidratos. Este hecho indica que en estos 
+casos debe brindarse la atención odontológica normada para el grupo de edad al 
+que pertenezca. Es así que al obeso adulto se le realizarán todas las actividades de 
+promoción, prevención y atención con énfasis en indicaciones especiales en cuanto 
+a la ingesta de alimentos, dieta cariogénica y no cariogénica, medidas preventivas de 
+higiene bucal, técnica de cepillado, uso del hilo dental, uso de fluoruros y visitas al 
+odontólogo. De igual forma, debe darse énfasis a la necesidad de realizar la higiene 
+bucal posterior a la ingesta alimentaria, hecho que en cierta medida puede contribuir 
+a evitar que el paciente ingiera alimentos entre comidas.
+
+En la atención del(a) paciente obeso(a) en odontología cobra importancia considerar 
+otras condiciones sistémicas asociadas a este diagnóstico, como son la hipertensión y 
+la diabetes, no obstante, existen situaciones que limitan o dificultan su atención como 
+es su acomodo en el sillón dental, dificultad de acceso visual y con el instrumental 
+para el odontólogo, así como la misma realización de los tratamientos.
+
+Normas generales
+
+- Brindar educación al paciente sobre técnica de cepillado, aplicación de flúor y 
+asesoramiento dietético.
+
+- Realizar el examen clínico y anamnesis completa.
+- Establecer un diagnóstico, pronóstico y plan de tratamiento.
+- Eliminación de fosos sépticos e inactivación de cavidades abiertas.
+ *  Realizar exodoncias y cirugías indicadas.
+ *  Efectuar las restauraciones necesarias.
+ *  Realizar el tratamiento periodontal.
+- Controles cada seis (6) meses, pudiendo variar la periodicidad a consideración del 
+
+odontólogo y de acuerdo a cada caso particular.
+- Referir para tratamientos odontológicos especializados (endodoncias, prótesis, 
+
+entre otros).
+- Realizar las interconsultas necesarias.
+
+
+
+40   /    Guía para la atención integral de las personas con obesidad
+
+Promoción y prevención
+
+- Intervenir conjuntamente con el equipo multidisciplinario en la realización de 
+actividades de promoción, prevención y rehabilitación de la obesidad.
+
+- Educación sobre técnica de cepillado, aplicación de flúor y asesoramiento 
+dietético.
+
+- El uso de fluoruros tópicos como cremas dentales, barnices y/o geles de flúor. Por 
+la disminución del flujo salival es recomendable el complemento de los enjuagues 
+fluorados de uso casero.
+
+- Técnicas de cepillado para eliminar adecuadamente la placa bacteriana.
+- Profilaxis dental.
+- Control periódico.
+
+Consideraciones especiales
+
+- Revisar la historia clínica para conocer cualquier patología asociada a la obesidad 
+que pueda estar presente en el paciente.
+
+- Asegurarse que el paciente está recibiendo un adecuado control médico.
+- Si es el caso de complicaciones por hipertensión se debe evaluar la presión arterial 
+
+antes de cualquier tratamiento. Un incremento del 20% en las cifras usuales del 
+paciente, obliga a posponer la consulta.
+
+- En el caso de obesos diabéticos es vital conocer si está controlado.
+- Trabajar en un ambiente relajado. De ser necesario, prescribir ansiolíticos la noche 
+
+anterior y la mañana de la cita.
+- Anestesia local sin vasoconstrictor en casos indicados.
+- Evitar prescribir esquemas terapéuticos prolongados de AINES.
+- Profilaxis antibiótica en casos necesarios para pacientes hipertensos y diabéticos.
+- Evitar movimientos bruscos del paciente en el sillón dental.
+- Optimizar el tiempo de trabajo.
+
+
+
+Guía para la atención integral de las personas con obesidad   /   41
+
+ANEXO N° 4
+
+Recomendaciones para Prevenir la Obesidad Infantil
+
+Debido a que la obesidad es un problema de Salud Pública cuya prevención inicia 
+desde las primeras edades de la vida, proponemos las siguientes acciones para la 
+prevención de la obesidad en la población infantil:
+
+1. Las mujeres con sobrepeso u obesidad deben intentar alcanzar su peso 
+saludable o perder de 10 – 15 % de su peso corporal antes de quedar 
+embarazadas y evitar un aumento exagerado de peso durante la gestación.
+
+2. Dar lactancia materna exclusiva a su bebé durante los primeros 6 meses de 
+vida.
+
+3. No iniciar alimentación complementaria antes de los 6 meses de edad. 
+
+4. Limitar los alimentos con alto contenido calórico.
+
+5. No sobornar a niños y niñas prometiéndole golosinas.
+
+6. Jamás se deberá forzar a comer al niño(a) y se le permitirá detener su 
+alimentación cuando lo desee y no en el punto de consumo máximo.
+
+7. No es conveniente presionar al niño(a) por medio de ruegos, amenazas o 
+juegos, para que reciba la última porción de comida del plato, ni convertir 
+la hora de la comida en un campo de batalla. El apetito del niño(a) será el 
+mejor indicador de la cantidad de comida que debe ingerir. 
+
+8. Los niños y niñas pequeños(as) y preescolares deben dedicar diariamente 
+por lo menos 60 minutos o hasta varias horas al día, a una actividad física no 
+estructurada. No deben mantenerse sedentarios por más de 60 minutos a la 
+vez, excepto cuando están durmiendo.
+
+9. Alentar a los niños y niñas menores de 2 años a realizar actividades interactivas 
+que fomenten el desarrollo adecuado del cerebro, tales como jugar, hablar, 
+cantar y leer, y disminuir el tiempo que dedican a ver televisión. Existe una 
+relación directa entre el exceso de ver televisión y la obesidad.
+
+10. Los buenos hábitos alimentarios establecidos en la infancia se mantendrán 
+durante toda la vida, y estos, junto al ejercicio físico practicado en forma 
+rutinaria, evitarán la obesidad y muchos de los problemas biológicos, 
+psicológicos y sociales que esta produce en la vida adulta. 
+
+
+
+42   /    Guía para la atención integral de las personas con obesidad
+
+ANEXO N° 5
+
+Evaluación del cumplimiento de esta Guía de Atención
+
+Para la evaluación, monitoreo y control de esta Guía de Atención se utilizarán 
+indicadores de  procesos e indicadores de resultado.
+
+En los aspectos referentes a la estructura se recomienda determinar la existencia y 
+disponibilidad de espacio físico para atender a los pacientes con obesidad, así como 
+la disponibilidad para realizar los exámenes de laboratorio (glucemia en ayunas, 
+biometría hemática completa, perfil lipídico, creatinina, nitrógeno de urea, ácido 
+úrico), cumpliendo con los estándares de habilitación de las instalaciones de salud.
+
+Los indicadores que se utilizarán y que son proporcionados por el sistema de 
+información de registros médicos y estadísticas de salud son:
+
+Indicadores de proceso
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+pacientes nuevos 
+con diagnóstico de 
+obesidad.
+(Incidencia).
+
+Porcentaje total 
+de pacientes 
+diagnosticados con 
+obesidad (nuevos y 
+viejos).
+(Prevalencia)
+
+Porcentaje de 
+embarazadas con 
+diagnóstico de 
+obesidad.
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de pacientes nuevos  con 
+diagnóstico de obesidad
+
+Total de pacientes atendidos en la 
+instalación en el período evaluado
+
+X 100
+
+N° de pacientes diagnosticados con 
+obesidad
+
+Total de pacientes atendidos en la 
+instalación en el período evaluado
+X 100
+
+N° de embarazadas con diagnóstico de 
+obesidad
+
+Total de embarazadas atendidas en el 
+período evaluado
+
+X 100
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Registro diario de 
+atención (RDA)
+
+Registro diario de 
+atención (RDA)
+
+Registro diario de 
+atención (RDA)
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+Anual
+
+
+
+Guía para la atención integral de las personas con obesidad   /   43
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de obesos referidos a salud bucal
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos referidos a la enfermera
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos referidos a trabajo social
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos referidos a salud mental
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos referidos a nutrición
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos referidos a 
+endocrinología
+
+Total de obesos atendidos en el período 
+evaluado
+
+X 100
+
+N° de obesos atendidos en 
+endocrinología
+
+Total de obesos referidos a otros 
+servicios en el período evaluado
+
+X 100
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+obesos referidos a 
+salud bucal.
+
+Porcentaje de 
+obesos referidos a 
+enfermería.
+
+Porcentaje de 
+obesos referidos a 
+trabajo social.
+
+Porcentaje de 
+obesos referidos a 
+salud mental.
+
+Porcentaje de 
+obesos referidos a 
+nutrición.
+
+Porcentaje de 
+obesos referidos a 
+endocrinología.
+
+Porcentaje de 
+obesos atendidos 
+por endocrinología.
+
+Los siguientes indicadores se proponen para el monitoreo y evaluación del Programa 
+de Salud de Adultos en lo que respecta a la obesidad como componente del grupo 
+de enfermedades crónicas no transmisibles.
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+Anual
+
+Anual
+
+Anual
+
+Anual
+
+Anual
+
+
+
+44   /    Guía para la atención integral de las personas con obesidad
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+obesos atendidos 
+con tres o más 
+controles de 
+glucemia.
+
+Porcentaje de 
+obesos atendidos 
+con tres o más 
+controles de presión 
+arterial. 
+
+Porcentaje de 
+obesos  atendidos 
+con tres o más 
+controles de salud 
+realizados por el 
+médico, enfermera o 
+nutricionista.
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de obesos con tres o más controles 
+de glucemia
+
+Total de obesos atendidos en la 
+instalación de salud el período evaluado
+
+X 100
+
+N° de obesos con tres o más controles 
+de presión arterial
+
+Total de obesos atendidos en la 
+instalación de salud en el período 
+evaluado
+
+X  100
+
+N° de obesos con tres o más controles 
+de salud realizados por el médico, 
+enfermera o nutricionista
+
+Total de obesos atendidos en la 
+instalación de salud en el período 
+evaluado
+
+X 100
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+Anual
+
+
+
+Guía para la atención integral de las personas con obesidad   /   45
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+obesos que 
+recibieron acciones 
+educativa en la 
+consulta.
+
+Porcentaje de 
+obesos  atendidos 
+con exámenes de 
+laboratorio mínimos 
+indicados según 
+guía.
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de obesos que recibieron acciones 
+educativas en la consulta
+
+Total de obesos  atendidos en el 
+período evaluado
+
+X 100
+
+Nº de obesos con exámenes de 
+laboratorio mínimos indicados 
+
+Total de obesos  atendidos en la 
+instalación de salud en el período 
+evaluado
+
+X 100
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+Indicadores de resultado (Impacto)
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+obesos en control 
+con el último valor 
+de presión arterial 
+normal. 
+
+Porcentaje de 
+obesos en control 
+con el último valor 
+de glucemia normal.
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de obesos en control con el último 
+valor de presión arterial normal.
+
+Total de obesos en control en la 
+instalación de salud en el período 
+evaluado
+
+X  100
+
+N° de obesos en control con el último 
+valor de glucemia normal.
+
+Total de obesos en control en la 
+instalación de salud en el período 
+evaluado
+
+X 100
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+Tarjeta de 
+seguimiento de 
+
+casos.
+
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+
+hipertensión arterial 
+y obesidad.
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+
+
+46   /    Guía para la atención integral de las personas con obesidad
+
+DESCRIPCIÓN 
+DEL 
+
+INDICADOR
+
+Porcentaje de 
+obesos en control 
+con diagnóstico de 
+hipertensión arterial.
+
+Porcentaje de 
+obesos en control 
+con diagnóstico de 
+diabetes mellitus.
+
+Porcentaje de 
+obesos en control 
+que disminuyeron 
+como mínimo 10% 
+de peso en los 
+primeros seis meses.
+
+FORMATO 
+DEL 
+
+INDICADOR
+
+N° de obesos en control con 
+diagnóstico de hipertensión arterial.
+
+Total de obesos en control en la 
+instalación de salud en el período 
+evaluado
+
+X  100
+
+N° de obesos en control con el último 
+valor de glucemia en ayuna elevada 
+(> 126 mg/dl) o con diagnóstico de 
+diabetes mellitus.
+
+Total de obesos atendidos en el período 
+evaluado
+
+X  100
+
+N° de obesos en control con 
+disminución del 10% de su peso en los 
+primeros seis meses.
+
+Total de obesos en control en el 
+período evaluado
+
+X  100
+
+FUENTE PARA 
+LA RECOLECCIÓN 
+
+DE DATOS
+
+Tarjeta de 
+seguimiento de casos.
+
+Hoja de registro de 
+los resultados de 
+
+laboratorio, variables 
+clínicas y actividades 
+del / la paciente con 
+
+diabetes mellitus, 
+hipertensión arterial y 
+
+obesidad.
+
+Tarjeta de 
+seguimiento de casos.
+
+Hoja de registro de 
+los resultados de 
+
+laboratorio, variables 
+clínicas y actividades 
+del / la paciente con 
+
+diabetes mellitus, 
+hipertensión arterial y 
+
+obesidad.
+
+Tarjeta de 
+seguimiento de casos.
+
+Hoja de registro de 
+los resultados de 
+
+laboratorio, variables 
+clínicas y actividades 
+del / la paciente con 
+
+diabetes mellitus., 
+hipertensión arterial y 
+
+obesidad.
+
+PERIODICIDAD
+
+Anual
+
+Anual
+
+Anual
+
+
+
+Guía para la atención integral de las personas con obesidad   /   47
+
+
+
+48   /    Guía para la atención integral de las personas con obesidad
+
+
