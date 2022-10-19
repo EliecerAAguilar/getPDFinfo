@@ -32,7 +32,10 @@ def pdf_to_txt(folder_with_pdf, dest_folder):
 
     return None
 
-pdf_to_txt('./pdf_folder', './txt_folder') #you should see .txt files being populated in ./txt_folder
+
+def main():
+    pdf_to_txt('./pdf_folder', './txt_folder') #you should see .txt files being populated in ./txt_folder    
 
 
-
+if __name__== '__main__':
+    main()
