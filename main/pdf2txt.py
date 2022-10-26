@@ -2,7 +2,7 @@ import os
 from tika import parser  # https://pypi.org/project/tika/
 from typing import List, Any
 
-# Even though it should retun a ByteString or bytes, there's no support for those
+# Even though it should retun a ByteString, bytes or Buffers, there's no support for those
 # kinds of types/values yet... So I would use 'Any'
 
 
