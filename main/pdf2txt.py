@@ -37,13 +37,15 @@ def pdf_to_txt(pdf_folder_path: str, txt_folder_path: str) -> None:
     return None
 
 
-def main():
+def main() -> None:
     """
         run the script
     """
     pdf_path: str = r"C:\Users\Eliecer\PRISM\text-mining-prism-data\text-mining-prism\estudios"
     txt_path: str = r"C:\Users\Eliecer\PRISM\txt"
     pdf_to_txt(pdf_path, txt_path)
+
+    return None
 
 
 if __name__ == '__main__':
