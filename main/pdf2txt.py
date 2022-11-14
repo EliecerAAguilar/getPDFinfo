@@ -1,5 +1,5 @@
 import os
-from tika import parser  # https://pypi.org/project/tika/
+import PyPDF2
 from typing import List, Any
 from sys import argv
 
@@ -14,8 +14,14 @@ class pdf2text():
             read content from pdf files and return it encoded in utf-8
             to avoid special characters problems
         """
-        text = parser.from_file(pdf_file)['content']
-        return text.encode('utf-8')
+
+        pdf_reader: str = PyPDF2.PdfReader(pdf_file)
+        str_pdf: str = ""
+
+        for x in range(pdf_reader.numPages):
+            str_pdf += pdf_reader.pages[x].extract_text()
+
+        return str_pdf.encode("utf-8")
 
     def pdf_to_txt(self, pdf_folder_path: str, txt_folder_path: str) -> None:
         """
