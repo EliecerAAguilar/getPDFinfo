@@ -2,7 +2,7 @@
 prism_pdf/
 
 # data folder
-text-mining-prism-data/
+text-mining-prism/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
