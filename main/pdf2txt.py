@@ -1,21 +1,32 @@
-import os
-from tika import parser  # https://pypi.org/project/tika/
 from typing import List, Any
 from sys import argv
+import os
+import PyPDF2
+
 
 # Even though "read_pdf" should retun a ByteString, bytes or Buffers, there's no support for those
 # kinds of types/values yet... So I would use 'Any'
 
 
-class pdf2text():
+class PdfText():
+    """
+        class to extract text from PDF's files in a folder
+        and save them as '.txt' files in another one
+    """
 
     def read_pdf(self, pdf_file: str) -> Any:
         """
             read content from pdf files and return it encoded in utf-8
             to avoid special characters problems
         """
-        text = parser.from_file(pdf_file)['content']
-        return text.encode('utf-8')
+
+        pdf_reader: str = PyPDF2.PdfReader(pdf_file)
+        str_pdf: str = ""
+
+        for x in range(pdf_reader.numPages):
+            str_pdf += pdf_reader.pages[x].extract_text()
+
+        return str_pdf.encode("utf-8")
 
     def pdf_to_txt(self, pdf_folder_path: str, txt_folder_path: str) -> None:
         """
@@ -49,7 +60,7 @@ def main() -> None:
     try:
         pdf_path: str = argv[1]
         txt_path: str = argv[2]
-        pdf_info = pdf2text()
+        pdf_info = PdfText()
         pdf_info.pdf_to_txt(pdf_path, txt_path)
 
     except Exception as error_info:
