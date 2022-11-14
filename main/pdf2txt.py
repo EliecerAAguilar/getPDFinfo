@@ -1,13 +1,18 @@
-import os
-import PyPDF2
 from typing import List, Any
 from sys import argv
+import os
+import PyPDF2
+
 
 # Even though "read_pdf" should retun a ByteString, bytes or Buffers, there's no support for those
 # kinds of types/values yet... So I would use 'Any'
 
 
-class pdf2text():
+class PdfText():
+    """
+        class to extract text from PDF's files in a folder
+        and save them as '.txt' files in another one
+    """
 
     def read_pdf(self, pdf_file: str) -> Any:
         """
@@ -55,7 +60,7 @@ def main() -> None:
     try:
         pdf_path: str = argv[1]
         txt_path: str = argv[2]
-        pdf_info = pdf2text()
+        pdf_info = PdfText()
         pdf_info.pdf_to_txt(pdf_path, txt_path)
 
     except Exception as error_info:
