@@ -1,0 +1,28 @@
+INFORME DE EJECUC IÓN DEL P ROYECTO  
+TEXT MINING ON RE PORTED NUTRITION I NTERVENTATIONS IN P ANAMA 
+ 
+FECHA  
+13 DE OCTUBRE DE 2022  
+ 
+ESTADO ACTUAL  
+El proyecto  avanza  de acuerdo con  lo planificado , hemos  mantenido  reuniones de seguimiento 
+para la obtención de dat os de los archivos de PD F utiliza ndo técnicas  de text mining  y web 
+scraping . Se definió  el plan de acción para la limp ieza y  minería de dato s.  
+ 
+TAREAS REALIZADAS  
+• Prueb a de herramientas de  web sc raping (Beautiful Soup y Simple Mass Downloader ) y 
+extracción de información  de archivos PDF  (Tabula ).   
+• Desc arga de Reportes de Investigaci ones en  Nutrici ón de la  página  del Ministe rio de 
+Salud (MIN SA). 
+• Inicie  la const rucción  del script para la e xtracción de datos de for ma automática  de los  
+arch ivos PDF.   
+TAREAS PLANI FICADAS PARA EL SI GUIE NTE REP ORTE  
+• Comple tar la extracción  de información  de los a rchivos P DF. 
+• Definir los modelos de datos de geográficos .  
+• Anális is de la I nformación geográfica.  
+ BLOQUEO S PRESENTADOS  
+• El proyecto no presenta bloque os hasta la fecha .  
+ ELABORADO 
+Kevin Anel G onzál ez Ortega  
+Asist ente de Inv estigación  
+CED: 8-937- 655 
