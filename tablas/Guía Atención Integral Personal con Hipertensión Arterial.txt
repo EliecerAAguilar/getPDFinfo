@@ -1,0 +1,1573 @@
+PORTADA HIPERTENSION.ai   6/5/09   9:41:25 AMCLARIDAD Y PRESENTACIÓN CLARIDAD Y PRESENTACIÓN
+La información que se presenta en esta Guía incluye la atención integral en salud, por lo que se 
+establecen criterios básicos y especí ﬁ cos para la detección, diagnóstico y tratamiento de la hipertensión 
+arterial. Esta guía, presenta en sus anexos la hoja de registro de los resultados de laboratorio, variables clínicas y actividades del / la paciente con diabetes mellitus, hipertensión arterial y obesidad, la cual se ha ido implementando de manera paulatina en las Regiones de Salud del Ministerio de Salud, para facilitar el proceso de divulgación e implementación de esta guía de atención.
+RIGOR EN LA ELABORACIÓN DE ESTA GUÍA DE ATENCIÓN RIGOR EN LA ELABORACIÓN DE ESTA GUÍA DE ATENCIÓN
+CLASIFICACIÓN DE LA EVIDENCIA CLASIFICACIÓN DE LA EVIDENCIA
+Las fuentes de información para la elaboración de esta Guía estuvo constituída por la revisión sistemática de la literatura disponible (textos, consultas de internet), estudios de Clase R evidenciados en artículos cientí ﬁ cos, reporte de consensos y otras fuentes secundarias descritas en la bibliografía. 
+Para la misma, se consideraron los lineamientos que establece la Sociedad Panameña de Cardiología, quienes se basan en las directrices emanadas de la Organización Mundial de la Salud (OMS), la International Society of  Hipertension (ISH), la Sociedad Europea de Hipertensión (SEH) y la Sociedad Europea de Cardiología (SEC) para el manejo de la hipertensión arterial. Para la formulación de las recomendaciones clínicas, la información fue discutida en primera instancia por los miembros del grupo director, de investigación y redactor, de forma tal que la información consensuada, se sometió a la revisión del equipo de Salud de Adultos, quienes hicieron algunas correcciones sobre la redacción de la guía. Posteriormente, fue enviada a la Sociedad Panameña de Cardiología, para su revisión externa, en donde profesionales de la medicina, especialistas en cardiología modi ﬁ caron algunos aspectos 
+clínicos  adecuándolos a nuestro medio.  
+Las recomendaciones están evidenciadas en las consultas literarias que se encuentran descritas en la 
+bibliografía.Cuadro de ISBNretiro portada.ai   6/5/09   9:29:21 AMAPLICABILIDAD APLICABILIDAD
+De presentarse barreras organizativas al momento de la implementación de esta guía, las mismas 
+deberán ser manejadas directamente por el Coordinador Regional de Salud de Adultos junto con la Coordinación Nacional del Programa de Salud de Adultos, a través del desarrollo de talleres y seminarios de capacitación.
+De acuerdo a los recursos sanitarios utilizados en nuestras regiones e instalaciones de salud, se ha 
+considerado que la implementación de esta guía de atención, llevará a la optimización de los recursos existentes, debido a que los mismos serán manejados de manera oportuna, e ﬁ cientes, e ﬁ caces y siendo 
+efectivos de acuerdo a los esquemas de tratamiento y criterios de control de citas. De igual forma, al momento de instaurar el tratamiento, debe iniciarse con los medicamentos más e ﬁ cientes.
+Con el ﬁ n de realizar la monitorización o auditoría, en pro de lograr una mejora contínua de la calidad, 
+se han propuestos indicadores de gestión, los cuales se encuentran en los anexos de esta guía.
+INDEPENDENCIA EDITORIAL INDEPENDENCIA EDITORIAL
+Esta Guía de Atención es independiente de la entidad ﬁ nanciera. Inicialmente fue elaborada sin 
+ﬁ nanciamiento externo.
+En la elaboración de la misma no se presentaron con ﬂ ictos de intereses por parte del equipo técnico 
+que participó en ésta.ii   /    Guía para la atención integral de las personas con hipertensión arterialEsta guía de atención es una actualización a las “Normas para el manejo integral del paciente con 
+hipertensión arterial” publicadas por el Ministerio de Salud en el año 1999.
+Agradecimientos
+A todo el personal de salud de las distintas instancias clínicas y técnico 
+administrativas que han contribuido a la elaboración de este documento, en especial a:
+Dr. Rafael Alonso Díaz Falconet
+Especialista en CardiologíaFuncionario del Servicio de Cardiología del Complejo Hospitalario Dr. Arnulfo Arias Madrid.Ex presidente de la Sociedad Panameña de Cardiología.
+Dr. Bolivar Domínguez Rivera  
+Especialista en CardiologíaFuncionario del Servicio de Cardiología del Complejo Hospitalario Dr. Arnulfo Arias Madrid.Ex presidente de la Sociedad Panameña de Cardiología.
+Dr. Baldomero González
+Especialista en CardiologíaJefe del Servicio de Cardiología del Complejo Hospitalario Dr. Arnulfo Arias Madrid.Ex Presidente de la Sociedad Panameña de Cardiología.
+Guía para la atención integral de las personas con hipertensión arterial    /   iiiMinisterio de Salud
+Dra. Rosario Turner 
+Ministra
+Dra. Dora Jara
+Viceministra
+Dr. Cirilo Lawson
+Director General de Salud
+Dra. Laura T. de Thomas
+Sub-directora General de Salud de la Población
+Dra. Ilka Viejo
+Coordinación de Salud de Adulto y Adulto Mayor
+Caja de Seguro Social
+Licdo. René Luciani
+Director General de la Caja de Seguro Social
+Dr. Rubén López
+Director Nacional de Servicios y Prestaciones Médicas
+Dr. José Kaled
+Jefe de Programa Salud de AdultoCaja de Seguro Social
+iv   /    Guía para la atención integral de las personas con hipertensión arterialColaboradores
+Lic. Edith Castillo Sección de Salud de Adulto y Adulto Mayor
+Dra. Emma C. de Crovaris, Sección de Salud de Adulto y Adulto MayorLic. Julia Domínguez, Sección de Salud de Adulto y Adulto MayorLic. Mabel de Más, Sección de Salud de Adulto y Adulto MayorDr. Anselmo Mc Donald, Sección de Salud de Adulto y Adulto MayorLic. María Mojica, Sección de Salud de Adulto y Adulto MayorLic. Amarelys Quintero, de Salud de Adulto y Adulto MayorLic Rita Tejada Jiménez, Sección de Salud de Adulto y Adulto MayorDra. Vielka Vega, Sección de Salud de Adulto y Adulto MayorDr. Roldan Vallejo, Sección de Salud de Adulto y Adulto MayorSra. Xiomara de Anderson, Sección de Salud de Adulto y Adulto MayorLic. Alvis Ruiloba, Departamento de Registros MédicosLic. Anayansi Tejada, Departamento de Registros MédicosLic Xenia E. de De León, Departamento de Registros MédicosDra. Aminta Gálvez, Departamento de Registros Médicos
+Lic. Aldacira de Bradshaw, Dirección Nacional de Provisión de Servicios de Salud 
+Coordinadores regionales del Programa de Salud de Adulto y Adulto Mayor
+Región de Salud de Bocas del Toro Dra. Beatriz de Madrid
+ Lic. Marabely de LópezRegión de Salud de Colón Dra. Angela de ArchiboldRegión de Salud de Chiriquí Dr. Ramón Castillo Lic. Noris de GuerraRegión de Salud de Darién Dra. Panamá PérezRegión de Salud de Herrera Lic. Noris PérezRegión de Salud de Los Santos Lic. Ana C. MontenegroRegión Metropolitana de Salud Dra. Eyra Quintero Lic. Xiomara MendietaRegión de Salud de San Miguelito Dra. Leslie Lao de RojasRegión de Salud de Panamá Este Lic. Rosa CerceñoRegión de Salud de Panamá Oeste Dr. Camilo Iturralde Lic. Ruth RobinsonRegión de Salud de Veraguas Lic. Vielka CamposRegión de Salud de Kuna Yala Lic. Gloria de GutiérrezRegión de Salud de Ngöbe Buglé  Lic. Itza Del Cid
+Guía para la atención integral de las personas con hipertensión arterial    /   vRevisión externa
+Dr. Rafael Alonso Díaz Falconet, Caja de Seguro Social
+Dr. Bolivar Domínguez Rivera, Caja de Seguro SocialDr. Baldomero González, Caja de Seguro Social
+Comité revisor:
+Dr. Ángel Valencia T.  Representante a.i. OPS/OMS en PanamáDr. Enrique Pérez-Flores  Asesor Regional en Enfermedades No     Transmisibles, Unidad de Prevención y Control     de Enfermedades y Vigilancia Sanitaria OPS en     Washigton, D.C.Dr. Alberto Barceló  O ﬁ cial Técnico, Unidad de Prevención y Control
+    de Enfermedades y Vigilancia Sanitaria OPS en     Washington, D.C. Lic. Ana Atencio   Consultora en Nutrición OPS/OMS PanamáLic. Sara Díaz de Casis Consultora, Profesional adscrita de la Caja de     Seguro Social en OPS/OMS PanamáDr. José A. Escamilla  Consultor en Prevención y Control de     Enfermedades y Vigilancia Sanitaria OPS/OMS     Panamá
+vi   /    Guía para la atención integral de las personas con hipertensión arterialÍndice
+Agradecimiento  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+Ministerio de Salud  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Caja de Seguro Social  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+Colaboradores  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . iv
+Revisión externa / Personal de apoyo / OPS/OMS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vÍndice  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi 
+Introducción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii
+Objetivos  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . ix
+Símbolos y Abreviaturas  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . x
+ I.  De ﬁ nición . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 1
+ II. Clasi ﬁ cación de la hipertensión arterial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ III. Técnica para la medición correcta de la presión arterial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 IV .  Población susceptible . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . 9
+ V .  Plan de acción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 10
+ VI.  Sistema de registro de la información  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+ VII.  Actualización de esta guía. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Bibliografía . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Anexos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ 
+Índice de cuadros y tablas
+Tabla 1 Clasi ﬁ cación de los niveles de tensión arterial (mm de Hg),
+ según la OMS / ISH / SEC / SEH (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2Tabla 2 Clasi ﬁ cación de la hipertensión arterial de acuerdo al JNC VII (2003) . . . . . . . . . . . . . . 2
+Tabla 3 Estrati ﬁ cación del riesgo cardiovascular para cuanti ﬁ car el pronóstico 
+ SEC/SEH 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+Tabla 4 Otros factores de riesgo cardiovascular, daño orgánico o enfermedad . . . . . . . . . . . . . . 22Tabla 5 Frecuencia recomendada para los controles médicos de las personas con  hipertensión arterial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35Guía para la atención integral de las personas con hipertensión arterial    /   viiÍndice de anexos
+Anexo 1  Otras de ﬁ niciones de hipertensión arterial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Anexo 2 Valores normales de la presión arterial en el sexo masculino por percentiles especí ﬁ cos durante la niñez y adolescencia según edad  . . . . . . . . . . . . 45
+Anexo 3 Valores normales de la presión arterial en el sexo femenino por  percentiles especí ﬁ cos durante la niñez y adolescencia según edad . . . . . . . . . . . . . . . . 47
+Anexo 4 Objetivos del estudio clínico del paciente hipertenso . . . . . . . . . . . . . . . . . . . . . . . . . . . 49Anexo 5 Sugerencias para el mantenimiento adecuado del es ﬁ gmomanómetro . . . . . . . . . . . . . 51
+Anexo 6 Guía práctica para el personal de salud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52Anexo 7 Recomendaciones nutricionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 5
+Anexo 8 Funciones, actividades y tareas del personal de salud en el primer nivel de atención  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Anexo 9 Responsabilidades de los niveles ejecutores  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62Anexo 10 Evaluación del cumplimiento de esta guía de atención . . . . . . . . . . . . . . . . . . . . . . . . . . 63viii   /    Guía para la atención integral de las personas con hipertensión arterialIntroducción
+Las enfermedades no transmisibles, entre ellas la diabetes y las enfermedades 
+cardiovasculares, se han convertido en la principal causa de muerte en muchos países a nivel mundial. Su aporte a la carga mundial de enfermedad es signi ﬁ cativo, 
+así como los costos que representan para los sistemas de salud. 
+Vemos que las enfermedades del aparato circulatorio, principalmente la enfermedad 
+isquémica del corazón y los accidentes cerebro vasculares, ﬁ guran como primera 
+causa de muerte en Panamá al analizar la mortalidad por grandes grupos de causas, y su tendencia es hacia el aumento.
+La hipertensión arterial o presión arterial alta, constituye un importante problema 
+de salud pública por ser uno de los principales factores de riesgo para la morbilidad y mortalidad por enfermedades cardiovasculares.
+La presencia de la hipertensión arterial, junto a múltiples factores de riesgos tales como: 
+hábitos alimentarios inadecuados (ingesta de alimentos ricos en grasas y baja ingesta de frutas y vegetales), vida sedentaria, tabaquismo, obesidad, consumo de sustancias nocivas (alcohol, drogas), además del envejecimiento, aumenta consideradamente la ocurrencia de las enfermedades crónicas no transmisibles.
+Es por ello que la promoción de la salud debe ser considerada como la principal 
+estrategia para modi ﬁ car los hábitos o estilos de vida no saludables en la población 
+panameña, enfatizando la importancia de la práctica cotidiana de ejercicios físicos, la alimentación saludable y evitar el consumo de sustancias nocivas.
+El abordaje del paciente con hipertensión arterial debe ser integral, por la cual la 
+participación coordinada del equipo de salud en su atención es un elemento clave para el éxito del tratamiento y control del paciente.
+Con la actualización de esta guía, pretendemos uni ﬁ car los criterios de atención 
+para las personas adultas de 20 años o más con hipertensión arterial, fortaleciendo de esta forma la prestación de servicios de salud por parte del personal médico de manera integral, e ﬁ caz, efectiva, e ﬁ ciente, oportuna y con calidad. La misma en 
+ningún momento debe sustituir el criterio o juicio clínico del médico al momento de brindar la atención a las personas. Esta constituye una herramienta para facilitar el abordaje integral del paciente.Guía para la atención integral de las personas con hipertensión arterial    /   ixObjetivos
+1. Objetivo general:
+Proporcionar al personal de salud una guía para la atención integral de las • 
+personas con hipertensión arterial en las instalaciones del Ministerio de Salud y de la Caja de Seguro Social.
+2. Objetivos especí ﬁ cos:
+• Disminuir la morbimortalidad causada por la hipertensión arterial y sus 
+complicaciones.
+• Proponer acciones que faciliten la modi ﬁ cación de los estilos de vida que 
+constituyen factores de riesgo para hipertensión arterial.
+• Contribuir en el mejoramiento de la calidad de vida de los y las pacientes con 
+hipertensión arterial.
+• Disminuir las complicaciones de la hipertensión arterial a través de la 
+captación temprana y el tratamiento oportuno, e ﬁ caz, e ﬁ ciente y efectivo.
+• Establecer indicadores de gestión sanitaria que faciliten el monitoreo y 
+evaluación del cumplimiento de esta guía.x   /    Guía para la atención integral de las personas con hipertensión arterialSímbolos y abreviaturas
+ACTH Hormona adrenocorticotrópica
+AINES Anti-in ﬂ amatorios no esteroideos
+CAT Tomografía axial computarizadaC1 CloroCO2 Dióxido de carbonodl DecilitroECA Enfermedad Clínica AsociadaEKG Electrocardiogramag GramoHDL Lipoproteínas de alta densidadHTA Hipertensión arterialIECA Inhibidor de la enzima convertidora de Angiotensina IIJNCVII Comité nacional conjunto americano en detección,  evaluación y tratamiento de la hipertensión arterial.K+ PotasioKg KilogramoLDL Lipoproteínas de baja densidadLOD Lesión a órgano dianamg MiligramommHg Milímetros de mercurioN° NúmeroNa+ SodioOMS Organización Mundial de la SaludOPS Organización Panamericana de la SaludPA Presión arterialPAD Presión arterial diastólicaPAS Presión arterial sistólicaRx RadiografíaSIH  Sociedad Interamericana de HipertensiónSEC Sociedad Europea de CardiologíaSEH Sociedad Europea de HipertensiónTHS Terapia hormonal sustitutivaTG TriglicéridosUS Ultrasonografía> Mayor< Menor> Mayor o igual que Guía para la atención integral de las personas con hipertensión arterial    /   1I. De ﬁ nición
+Hipertensión arterial es la elevación de la presión arterial por encima de los límites 
+considerados como “normales”, tomada en reposo no menos de 10 minutos de descanso en la cual las presiones sistólicas y diastólicas pueden estar elevadas, ambas o sólo una de ellas. (Anexo N° 1).
+Las cifras obtenidas se expresan mediante un binomio, cuyo numerador es la presión 
+sistólica y el denominador es la presión diastólica, representada en milímetros de mercurio (mm Hg).
+Los valores normales establecidos para la niñez y la adolescencia van de acuerdo a 
+percentiles especí ﬁ cos de la medición de la presión sanguínea según sexo, altura en 
+centímetros (cm) y peso en kilogramos (Kg) (Anexos N° 2 y 3).
+Para las personas adultas se considera presión arterial normal, los valores inferiores 
+a 140/90 y superiores a 100/60 mm Hg.2   /    Guía para la atención integral de las personas con hipertensión arterialPara clasi ﬁ car la hipertensión arterial, se pueden considerar tres criterios básicos:
+• Según los niveles de presión arterial
+• Según los niveles de riesgo• Desde el punto de vista etiológico
+A. Según los niveles de presión arterial
+1.  Criterios de la OMS / ISH / SEH / SEC. La Organización Mundial de la 
+Salud (OMS), la International Society of  Hypertension (ISH), la Sociedad Europea de Hipertensión (SEH) y la Sociedad Europea de Cardiología (SEC) distinguen tres grados de presión arterial.
+Tabla Nº 1
+Clasiﬁ cación de los niveles de tensión arterial (mm Hg),
+según la OMS / ISH / SEC / SEH (2007)
+Categoría Sistólica  Diastólica
+Presión arterial óptima < de 120 y < de 80
+Presión arterial normal 120-129 y/o 80-84Presión arterial normal alta 130-139 y/o 85-89Hipertensión de grado 1(leve) 140-159 y/o 90-99Hipertensión de grado 2 (moderada) 160-179 y/o 100-109Hipertensión de grado 3 (severa) > 180 y/o > 110Hipertensión sistólica aislada > 140 y < 90Oxford 2007   
+2. Criterios del JNC VII. El Comité Nacional Conjunto Americano en 
+Detección, Evaluación y Tratamiento de la Hipertensión Arterial (JNC) que periódicamente emite informe de actualización sobre hipertensión arterial y su tratamiento publicó en mayo del 2003 su clasi ﬁ cación según las cifras de 
+presión arterial.
+Tabla Nº 2
+Clasiﬁ cación de la hipertensión arterial de acuerdo al JNC VII (2003)
+Categoría de la presión arterial P .A.S.  P .A.D.
+Normal < 120 y < 80
+Pre hipertensión 120-139 o 80-89
+Hipertensión   
+ Estadio 1 140-159 o  90-99 Estadio 2 > 160 o  > 100II. Clasi ﬁ cación de la hipertensión 
+ arterialGuía para la atención integral de las personas con hipertensión arterial    /   3B. Según los niveles de riesgo
+Para determinar la implicación de otros factores de riesgo cardiovascular en la 
+morbilidad de los pacientes hipertensos, se han clasi ﬁ cado a estos en tres grupos o 
+niveles, lo cual orienta también al médico a determinar la prioridad que se le debe dar al tratamiento no medicamentoso para de esta forma evitar complicaciones.
+1. Estrati ﬁ cación del riesgo (JNC VII)
+1.1 Grupo de riesgo A
+• Sin factores de riesgo• No evidencia clínica de daño a órganos blanco
+1.2. Grupo de riesgo B
+• Con factores de riesgo que no incluyen la diabetes mellitus• No evidencia clínica de daño a órganos blanco
+1.3. Grupo de riesgo C
+• Enfermedad de órganos blanco, evidencia clínica de enfermedad 
+cardiovascular y/o diabetes mellitus
+• Con o sin otros factores de riesgo cardiovascular
+Estos grupos de riesgo también son aplicables a la tabla anterior de la OMS/ISH, 
+SEC/SEH, donde el grupo de riesgo C corresponde a los III y IV de la tabla de la OMS. (Tabla N° 3)
+Tabla Nº 3
+Estrati ﬁ cación del riesgo cardiovascular para cuanti ﬁ car el pronóstico
+SEC/SEH - 2007
+ Presión arterial (mm Hg)
+ Otros factores 
+ de riesgo y  Normal Normal alta Grado 1 Grado 2 Grado 3 antecedentes PAS 120-129 PAS 130-139 ó PAS 140-159 ó PAS 160-179 ó PAS > 180 ó de enfermedad ó PAD 80-84 PAD 85-89 PAD 90-99 PAD 100-109 PAD > 110
+ Sin otros  factores de  Riesgo Riesgo  Riesgo riesgo promedio promedio Riesgo bajo moderado Riesgo alto
+ Uno o dos
+ factores de   Riesgo  Riesgo Riesgo riesgo Riesgo bajo Riesgo bajo moderado moderado muy alto
+ Tres o más 
+ factores de  Riesgo    Riesgo riesgo SM, DO  moderado Riesgo alto Riesgo alto Riesgo alto muy alto o diabetes
+ Enfermedad 
+ cardiovascular  Riesgo Riesgo Riesgo Riesgo Riesgo o renal muy alto muy alto muy alto muy alto muy alto
+DO: deterioro orgánico subclínico; PAS: presión arterial sistólica; PAD: presión arterial diastólica; SM: síndrome 
+metabólico; SEC: Sociedad Europea de Cardiología; SEH: Sociedad Europea de Hipertensión.4   /    Guía para la atención integral de las personas con hipertensión arterialExiste un grupo de pacientes que requieren intervención agresiva e inmediata:
+Sujetos de muy alto riesgo:
+• PAS> ó = 180 mm Hg y/o PAD >ó =110 mm Hg
+• PAS> 160 mm Hg con PAD baja (<70 mm Hg)• Diabetes mellitus• Síndrome metabólico• Tres o más factores de riesgo cardiovascular• Uno o más de los siguientes signos de daño orgánico subclínico:
+ Electrocardiográ ﬁ co (hipertro ﬁ a)
+ Ecocardiográ ﬁ co (HVI particularmente concéntrica)
+ Evidencia ultrasónica de engrosamiento de la pared carotidea o placa 
+ Aumento de la rigidez arterial
+ Moderado aumento de la creatinina sérica
+ Estimada de la rata de ﬁ ltración glomerular o depuración de creatinina 
+reducida
+ Microalbuminuria o proteinuria
+• Enfermedad renal o cardiovascular establecida
+C. Desde el punto de vista etiológico
+La hipertensión arterial según la causa que la origina o etiología se divide en:
+• Hipertensión arterial esencial: Es la elevación mantenida de la presión arterial 
+de causa heredofamiliar condicionada según las últimas investigaciones por el aumento acentuado de la acción de la angiotensina II sobre las arterias, músculo cardiaco y la acción de la aldosterona.
+ Apoyan el diagnóstico de hipertensión arterial esencial los antecedentes 
+familiares, su comienzo gradual a la edad de 35 a 50 años en presencia de otros factores de riesgo como la ingesta excesiva de sal, alcohol, la obesidad, el sedentarismo y el tabaquismo.
+• Hipertensión arterial secundaria: Es la elevación mantenida de la presión 
+arterial provocada por alguna enfermedad. Se debe sospechar hipertensión 
+arterial secundaria en las siguientes circunstancias:
+ Edad de aparición antes de los 20 años o después de los 50 años.
+ Hipertensión arterial mayor de 180/110 en ausencia de historia familiar.
+ Datos clínicos que sugieran hipertensión arterial secundaria (historia 
+familiar de enfermedad renal, presión arterial variable con taquicardia y 
+sudor, soplo abdominal, hipokalemia, etc).
+ Hipertensión arterial resistente al tratamiento.
+ Hipertensión arterial que se agrava de forma inexplicable.Guía para la atención integral de las personas con hipertensión arterial    /   5 Hipertensión arterial acelerado o maligna.
+ Hipertensión arterial de comienzo agudo.
+Entre algunas de las causas de la hipertensión arterial secundaria se 
+encuentran:
+ Enfermedad vasculorrenal (arteriosclerosis, displasia, retención 
+hidrosalina).
+ Enfermedad renal parenquimatosa (glomerulonefritis, traumas).
+ Aldosteronismo primario (adenoma, hiplerplasta adrenal).
+ Síndrome de Cushing (adenoma pituitario, tumores productores de 
+ACTH).
+ Feocromocitoma (hipertensión arterial paroxística por liberación súbita 
+de noradrenalina).
+ Coartación de la aorta (ausencia de pulsos femorales y soplo sistólico).
+ Acromegalia (adenoma pituitario productor de hormona del crecimien-
+to).
+ Hiperparatiroidismo primario (adenoma o carcinoma, hpercalcemia).
+ Disfunción tiroidea (hipo e hipertiroidismo).
+ Toxemia del embarazo (eclampsia y preeclamsia).
+ Policitemia vera y otras poligiobulias.
+ Fármacos (corticoides, AINE, antidepresivos tricíclicos, descongestion-
+antes).
+ Otras situaciones (por ﬁ ria aguda, hipertensión intracraneal, neuropatías 
+periféricas).
+ Otros agentes (plomo, cadmio).
+ Neurológicas (apnea del sueño, hipertensión intracraneal, tumor, 
+encefalitis, acidosis respiratoria).
+ Otras: tetraplejía, síndrome de Guillain-Barré, por ﬁ ria aguda, 
+intoxicaciones crónicas por elementos químicos.
+ Embarazo.
+ Alcohol y drogas.6   /    Guía para la atención integral de las personas con hipertensión arterialIII. Técnica para la medición correcta
+  de la presión arterial
+La medición de la presión arterial es una tarea básica para establecer el diagnóstico de hipertensión arterial.
+La veracidad de los datos obtenidos depende de la técnica empleada, el funcionamiento 
+adecuado del equipo, la capacidad de escuchar y el reconocimiento del signi ﬁ cado de 
+los datos por parte de quien realiza la toma de presión arterial.
+A. Procedimiento en la medición de la presión arterial
+• El es ﬁ gmomanómetro de elección es el de mercurio. Pueden utilizarse los 
+manómetros aneroides o los aparatos electrónicos.
+• Revisar el equipo: el es ﬁ gmomanómetro y el estetoscopio deben estar 
+funcionando adecuadamente.
+• Explicar el procedimiento a la persona que se le va a medir presión arterial: 
+motivo del procedimiento y la ausencia de dolor.
+• Procurar un ambiente tranquilo.• Asegurar que el paciente no haya participado recientemente en actividad 
+física o mental moderada o severa. No debe haber fumado ni tomado café media hora previa, y ha de estar en reposo al menos 10 minutos.
+• Colocar a la persona en posición adecuada: sentado, acostado o de pie, según 
+la situación en que vaya a tomarse la presión arterial. De preferencia haga que el paciente se siente cómodamente, con el brazo apoyado y a la altura del corazón.
+• Descubrir completamente el brazo, evitando presiones por el vestido.• El manguito debe tener el tamaño apropiado: su bolsa de aire debe cubrir al 
+menos un 80% de la circunferencia del brazo.
+• Envuelva el brazalete alrededor del brazo. El borde inferior debe estar 
+justamente sobre la fosa antecubital (más o menos 2cms., por encima del pliegue del codo, dejándolo libre) y debe haber espacio su ﬁ ciente para colocar 
+apropiadamente el diafragma del estetoscopio sobre la arteria humeral.
+• La escala del manómetro debe estar a nivel de los ojos del examinador para 
+evitar errores de paralaje.
+• Colocar el brazalete ﬁ rmemente, evitando que quede muy ajustado o muy 
+ﬂ ojo.Guía para la atención integral de las personas con hipertensión arterial    /   7• Tener cuidado que los cauchos que comunican a la perilla y el manómetro o 
+la columna de mercurio no produzcan roces que di ﬁ culten la audición.
+• Palpar la arterial braquial o sea la arteria que pasa en la parte interna del 
+brazo e identi ﬁ car el sitio exacto en que se encuentra.
+• Palpar la arteria radial, o sea, la que pasa por la muñeca.• Colocar las olivas del estetoscopio en el oído del examinador.• Insu ﬂ ar aire rápidamente hasta 10 mm Hg a 30 mm Hg por encima de la 
+cifra donde se deja de sentir el pulso radial.
+• Colocar el diafragma del estetoscopio en el sitio donde se palpó la arteria 
+braquial, teniendo cuidado que quede fuera el brazalete.
+• Abrir lentamente la válvula de la perilla para que el aire salga a una velocidad 
+no mayor de 3 mm Hg por segundo.
+• Al disminuir gradualmente la presión, la pared del vaso colapsado se distiende. 
+Esta es la Fase uno. Identi ﬁ car el primer ruido que se escucha, como se va 
+dejando escapar el aire, el cual corresponde a la presión sistólica.
+• Continúe disminuyendo la presión, seguirá escuchando los ruidos a medida 
+que la arteria se dilata bajo el brazalete. Fase dos.
+• Siga desin ﬂ ando. Cuando la presión diastólica comienza, la arteria se cierra 
+un momento, luego, se abre de nuevo y se escucha un sonido de tono alto, 
+esta es la Fase tres.
+• Al continuar desin ﬂ ando, la arteria deja de estar comprimida, el ruido retorna 
+pero su tono es bajo. Fase cuatro.
+• Se sigue desin ﬂ ando y se identi ﬁ ca el momento en que desaparecen los 
+ruidos, el cual equivale a la presión diastólica. Fase cinco. A veces concuerda 
+el cuatro con el cinco.
+• Deja escapar todo el aire.• Repetir el procedimiento si tiene dudas, respecto a los datos de presión 
+sistólica o diastólica.
+• Registrar los datos colocando la presión sistólica como numerador y la 
+presión diastólica como denominador en el expediente del paciente.
+B. Precauciones en la medición de la presión arterial.
+1. Revisar el funcionamiento del es ﬁ gmomanómetro teniendo en cuenta que:
+• Los ganchos estén ﬁ rmes.8   /    Guía para la atención integral de las personas con hipertensión arterial• Insu ﬂ e fácilmente el aire.
+• No existen escapes de aire.• Las agujas del manómetro marquen siguiendo el ritmo de la velocidad de 
+entrada y salida del aire.
+• Los tubos de caucho estén íntegros y dejen pasar el aire.• La anchura del brazalete sea apropiada (delgada para niños, más ancha 
+para adultos).
+• Colocar el manómetro o la columna de mercurio frente a los ojos del 
+examinador y en una super ﬁ cie horizontal y ﬁ rme para evitar movimientos 
+que puedan falsear los datos.
+• Nunca desin ﬂ e rápidamente el brazalete, pues ello provoca mediciones 
+incorrectas.
+2. Revisar el funcionamiento del estetoscopio teniendo en cuenta que:
+• El diafragma esté en buen estado.
+• Los tubos de caucho estén íntegros.• Las olivas aseguren ﬁ rmemente en los oídos del examinador, evitando 
+que queden ni muy ﬂ ojas ni muy apretadas pues ocasionará sonidos 
+errados.
+3. En aquellos casos de mediciones repetitivas (dos a tres veces) seguidas 
+de la presión arterial en el mismo brazo, se esperarán cinco minutos para evitar alteraciones en los sonidos y falsas lecturas. En estos casos alternar la medición de la presión arterial en ambos brazos.
+• La persona que mide la presión arterial debe ver y oír bien.Guía para la atención integral de las personas con hipertensión arterial    /   9IV .  P oblación susceptible
+Todo(a) paciente que acude a la consulta médica tiene que medírsele la presión 
+arterial, registrando los valores encontrados en el expediente clínico.
+Se investigará por hipertensión a toda la población con antecedentes heredofamiliares, 
+mujeres con antecedentes de toxemia, personas obesas, personas con diabetes mellitus y toda la población expuesta a factores de riesgo como lo son el tabaquismo, alcoholismo, uso de drogas, sedentarismo, estrés y hábitos alimentarios inadecuados.
+10   /    Guía para la atención integral de las personas con hipertensión arterialV . Plan de acción
+A. Promoción de la salud
+1. De ﬁ nición
+La promoción de la salud es una de las estrategias para la protección y el 
+mejoramiento de la salud de las personas y del ambiente. Su ﬁ nalidad es 
+fomentar iniciativas y acciones colectivas e individuales para desarrollar conocimientos, actitudes, aptitudes y comportamiento que conduzcan a una vida plena en salud.
+El objetivo central de la promoción de la salud es lograr la acción social a 
+favor de la salud, lo que signi ﬁ ca dirigir los mejores esfuerzos para que la 
+población actúe a favor de sí misma.
+La promoción de la salud es un componente esencial en todo programa 
+de atención, el cual cobra vital importancia en el manejo integral de la hipertensión arterial.
+2. Actividades
+Dentro de la promoción de la salud se deben desarrollar actividades de promoción de estilos de vida saludable, a través de acciones educativas tales como:
+• Participación en medios de comunicación social
+• Talleres• Seminarios• Conversatorios• Educación cara a cara• Visitas domiciliarias• Murales• Hojas volantes• Periódicos comunitarios• Reuniones comunitarias• Consejerías• Contar cuentos• Sociodramas• Otras.
+3. Población bene ﬁ ciada
+La población bene ﬁ ciada por estas actividades será:
+• Población en generalGuía para la atención integral de las personas con hipertensión arterial    /   11• Educadores
+• Alumnos. (Se realizará en coordinación con el equipo del Programa 
+escolar-adolescente)
+• Padres y madres de familia• Iglesias• Autoridades locales• Sociedad civil• Comunidad organizada• Embarazadas• Trabajadores.
+4. Responsables
+• Coordinador regional del Programa de salud de adultos.• Directores de la institución de salud.• Equipo de salud (médico, enfermera, odontólogos, trabajadora social, 
+nutricionista, psicólogos, sociólogos, educadores para la salud).
+• La comunidad.
+5. Temas sugeridos en el desarrollo de las actividades
+• Promoción de la importancia de los controles de salud a toda la población 
+para la prevención de enfermedades.
+• Alimentación saludable.• Habilidades para la vida.• Actividad física –vs- sedentarismo.• Manejo del estrés.• Prevención del tabaquismo.• Prevención del alcohol y otras drogas.• Prevención de la violencia.• Educación continuada a trabajadores de la salud, en especial al equipo 
+básico y al público en general en los diversos aspectos de la hipertensión y enfermedades cardiovasculares.
+• Promoción del deporte desde la niñez• Habilidades para detectar propaganda subliminal sobre alimentos no 
+saludables.
+• Otros.
+Se recomienda la utilización de metodologías participativas para favorecer el 
+empoderamiento de la población bene ﬁ ciada con las actividades.
+Las actividades sugeridas deben adaptarse a los recursos existentes en las instalaciones 
+de salud y en la comunidad haciendo uso de la creatividad.12   /    Guía para la atención integral de las personas con hipertensión arterialB. Prevención
+La prevención de la hipertensión arterial es el conjunto de medidas tendientes a 
+evitar el inicio de la enfermedad, modi ﬁ cando los factores de riesgo, que constituyen 
+causas desencadenantes de la misma.
+Las acciones de prevención deben realizarse a toda persona con o sin factores de 
+riesgo, en la comunidad como en las instalaciones de salud, con la participación social y los equipos de salud. Entre las acciones de prevención están:
+• Orientación a la comunidad sobre la hipertensión para la captación precoz 
+de esta enfermedad.
+• Divulgación por medios masivos de comunicación, campañas de toma de 
+presión arterial.
+• Orientación sobre factores de riesgo de patología cardiovascular (obesidad, 
+alcoholismo, tabaquismo, vida sedentaria, dislipidemias, estrés, otros).
+• Toma y registro de la presión arterial a toda la población que asista a la 
+consulta médica y/o solicite el servicio por cualquier motivo.
+• Toma y registro del peso y la talla a toda la población que asista a una consulta 
+médica en la institución.
+• Evaluar y registrar el estado nutricional (Índice de masa corporal y medición 
+del diámetro de cintura) de toda la población que asista a una consulta médica de la institución.
+• Educar al paciente sobre la importancia de la actividad física en la prevención 
+de la hipertensión arterial (registrarlo en el expediente).
+• Control de salud integral de la persona.• Todo paciente con diagnóstico de sobrepeso y obesidad (según Índice de 
+masa corporal) debe ser referido para su manejo integral a las disciplinas de medicina general, nutrición, enfermería, trabajo social, odontología y salud mental (Referirse a la Guía de atención integral de la obesidad en personas adultas y adultas mayores).
+• Investigar sobre tabaquismo, registrarlo en el expediente y ofrecerle a la 
+población fumadora consejo antitabáquico.
+• Investigar y registrar en el expediente el consumo de alcohol, ofreciendo 
+orientación que ayude a la eliminación de este hábito.
+• Referir a los consumidores de tabaco y/o alcohol al equipo de salud 
+mental.
+• Realizar una vez al año exámenes de laboratorio a toda la población que asiste 
+al control de salud, de acuerdo a lo que establecen las “Normas integrales de salud para la población y el ambiente”, según grupo de edad.
+• Educar al paciente y a sus familiares acerca del control y tratamiento 
+individual de la hipertensión arterial (debe ser registrado en el expediente).
+• Asesoramiento sobre la modi ﬁ cación de estilos de vida.Guía para la atención integral de las personas con hipertensión arterial    /   13• Educación al paciente y familiares sobre el tratamiento dietético y de 
+ejercicios.
+• Educación sobre el manejo del estrés.• Formación de sociedades de hipertensión arterial o grupos de hipertensos 
+(promoción y participación comunitaria).
+C. Diagnóstico
+• Se considera hipertensa a toda persona mayor de 18 años que presente cifras 
+tensionales sanguíneas elevadas a partir de 140 mm Hg de presión sistólica y/o 90 mm Hg de presión diastólica en dos o tres mediciones de presión arterial bajo condiciones normales (en reposos sin estrés y manteniendo una buena técnica en la toma de la presión arterial). 
+• El diagnóstico de hipertensión arterial no debe basarse en una sola 
+medición. En cada visita debe medirse la presión arterial en al menos dos lecturas separadas por dos o más minutos en caso de que la primera lectura proporcione cifras de presión arterial por encima de los valores normales. Si entre las dos primeras lecturas hay más de 5 mm Hg de diferencia, deben realizarse nuevas mediciones. Dichas mediciones tienen que registrarse en el expediente.
+• En caso de que las cifras así obtenidas sean elevadas, deben con ﬁ rmarse como 
+mínimo en dos visitas más de las semanas siguientes (de ser posible por la misma persona), salvo que la PAS sea > que 210 mm Hg y/o la PAD > que 120 mm Hg, que en cuyo caso debe evaluarse y tratarse inmediatamente. 
+• 
+Es importante establecer si se trata de una hipertensión primaria o 
+secundaria. 
+• En el caso de niños y adolescentes se debe tomar la presión arterial con el 
+manquito adecuado para su brazo y tomarla en ambos brazos, y comparar las cifras con el Anexo N° 2, según la edad.
+1. Historia clínica
+El estudio inicial de los y las pacientes con hipertensión arterial debe incluir:
+a. Los antecedentes familiares de hipertensión arterial:
+• Accidente vascular cerebral.
+• Enfermedad coronaria.
+• Enfermedad renal.
+• Dislipidemias.
+• Diabetes mellitus.
+b. La presencia de factores de riesgo de hipertensión arterial:
+• Consumo de alcohol.
+• Tabaquismo.• Ingesta de sal y alimentos con exceso de sodio.14   /    Guía para la atención integral de las personas con hipertensión arterial• Sedentarismo.
+• Estrés.• Malos hábitos alimentarios.• Mujeres post-menopáusicas.
+c. Inicio, evolución y tratamiento antihipertensivo previo.d. Tratamientos que está recibiendo por otros padecimientos.
+e. Síntomas y signos sugerentes de hipertensión arterial secundaria:
+• Edemas.
+• Polidipsia.• Poliuria.• Palpitaciones.
+f. Registro de los medicamentos que in ﬂ uyen en la detección de la presión 
+arterial como son los anticonceptivos, AINES – descongestionantes, alcohol, hormonas tiroideas, etc.
+2. Síntomas y signos
+La hipertensión arterial es generalmente asintomática, o sea, la persona puede permanecer por muchos años sin síntomas o sin darse cuenta que padece de hipertensión.
+Aunque pueden ser síntomas de otra enfermedad la persona puede referir:
+• Dolor de cabeza, tipo punzada o pulsátil (cefalea).
+• Sangrado por nariz (epistaxis).• Visión borrosa o manchas ante los ojos (alteración de la visión).• Zumbido en los oídos (tinitus).• Palpitaciones (taquicardia).• Mareos, náuseas y vómitos.
+• Fatiga fácil o pérdida de fuerza.
+• Irritabilidad, insomnio, nerviosismo.• Calambres.• Edema, disnea y datos de insu ﬁ ciencia cardiaca.
+• Convulsiones focales y/o generalizadas.• Trastornos neurológicos.• Cambios en pulsos femorales.• Soplos.• Masas palpables.• Sudoración excesiva y palidez de tegumentos.• Temblor.
+3. Exploración física
+Se debe realizar el examen físico del paciente, registrando en el expediente los Guía para la atención integral de las personas con hipertensión arterial    /   15hallazgos encontrados:
+• Peso, talla y circunferencia de cintura, fondo de ojo (con interés en 
+retinopatías), cuello (con interés en pulsos, soplos carotideos, presión venosa y tiroides), auscultación cardiopulmonar (en busca de soplos cardiacos), abdomen (masas palpables, soplos), extremidades (pulsos periféricos, edemas), examen neurológico.
+• Se prestará especial atención a las lesiones de los órganos susceptibles (retina, 
+cerebro, corazón, riñones), o a las causas secundarias de hipertensión, para ello se determinará dé ﬁ cit neurológico, aumento de la presión yugular, dé ﬁ cit 
+de pulsos, signos cushingoide, aumento del tamaño de los riñones, además de la presión arterial (en ambos brazos).
+Examen físico para diagnosticar hipertensión arterial secundaria, daño a órgano 
+blanco y obesidad visceral.
+Signos que sugieren hipertensión arterial secundaria y daño a órgano blanco:
+• Cuadro clínico de Síndrome de Cushing.
+• Lesiones em piel de neuro ﬁ bromatosis (feocromocitoma).
+• Palpación de riñones crecidos (riñones poliquísticos).• Auscultación de soplo abdominal (hipertensión renovascular).• Auscultación de soplo precordial o toráxico (coartación de la aorta o 
+enfermedad aórtica).
+• Disminución y demora del pulso femoral y PA femoral reducida (coartación 
+de la aorta o enfermedad aórtica).
+Signos de daño orgánico:
+• Cerebro: soplos carotideos, defectos motores o sensoriales.
+• Retina: anormalidades fondoscópicas.• Corazón: localización y características del PMI, arritmias, galope ventricular, 
+estertores pulmonares, edema periférico.
+• Arterias periféricas: ausencia, reducción o asimetría de pulsos, extremidades 
+frías, lesiones isquémicas en piel.
+• Arterias carotideas: soplos sistólicos.
+Evidencia de obesidad visceral:
+• Aumento de circunferencia de la cintura (en posición de pie: hombres: >102 
+cm; mujeres >88 cm)
+• Índice de masa corporal aumentado (peso en Kg / estatura en metro al 
+cuadrado)
+• Sobrepeso: _ 25 Kg /m
+2; obesidad: _ 30Kg/m2.
+4. Estudios de laboratorio y de gabinete
+Los exámenes a realizar se solicitan y registran en el expediente de acuerdo a 
+su importancia, recursos económicos del paciente y de la institución de salud y 16   /    Guía para la atención integral de las personas con hipertensión arterialevolución de la enfermedad.
+Se ordenarán de la siguiente manera:
+a. Primer grupo: 
+Exámenes mínimos: Ayudan a evaluar su estado de salud antes de iniciar el tratamiento y evaluar su respuesta, así como detectar complicaciones. 
+Se solicitarán a todas las personas sospechosas de sufrir hipertensión arterial 
+(por enfermera y/o técnico en enfermería), para ser referidos al médico:
+• Hemograma completo y plaquetas.
+• Urinálisis completo.• Nitrógeno de urea y creatinina.• Glicemia en ayunas.• Per ﬁ l lipídico (colesterol, triglicéridos, lipoproteínas de alta y baja 
+densidad (HDL, LDL).
+b. Segundo grupo:
+Exámenes complementarios. Son solicitados por el médico según la condición, riesgo y evolución de la enfermedad:
+• Electrolitos: sodio y potasio.
+• Ácido úrico o uricemia.• TSH, T3, T4 libre.• Electrocardiograma.• Rayos X de tórax postero-anterior.
+c. Tercer grupo: 
+Exámenes especializados. Solicitados por el especialista para la valoración de las complicaciones y etiología de la hipertensión arterial:
+• Pielograma intravenoso.
+• Ecocardiograma.• Ultrasonido renal.• Renograma con captopril.• Angiografía.• Tomografía computarizada.• Catecolaminas séricas, ácido vanilmandélico en orina de 24 horas, 17 
+hidroxiesteroide y 17 cetoesteroides en orina de 24 horas.
+• Renina plasmática.• Otros según criterio médico.Guía para la atención integral de las personas con hipertensión arterial    /   17
+5. Codi ﬁ cación de acuerdo a la clasi ﬁ cación internacional de 
+enfermedades. 10a Versión (CIE-X): I-10
+6. Educación
+Debe contar registro en el expediente clínico de las actividades de educación o 
+consejería que se le brinda a la persona hipertensa en la consulta, haciendo énfasis en la importancia de la prevención y manejo de los factores de riesgo para el control eﬁ caz de la enfermedad.
+7. Referencias a otros servicios
+En la primera consulta médica de la persona hipertensa debe contar registro en el 
+expediente que ha sido referido a los servicios de enfermería, salud bucal, salud mental, trabajo social y nutrición, para de esta forma recibir una atención integral.18   /    Guía para la atención integral de las personas con hipertensión arterial8. Algoritmo para el diagnóstico y tratamiento de la hipertensión 
+arterial
+PA: presión arterial
+PAS: presión arterial sistólicaPAD: presión arterial diastólica
+D. Tratamiento y seguimiento
+Existen dos tipos de tratamiento para la hipertensión arterial, por lo que debe registrarse en el expediente cuál o cuáles se le está indicando al paciente.
+1. Tratamiento no farmacológico
+• Deberá recomendarse a todos los pacientes independientemente del grado de 
+severidad de su hipertensión arterial, cambio en su estilo de vida.Reposo de por lo menos 10 minutos sentado en un lugar tranquilo sin ruidos excesivos
+Primera visita (medida de presión arterial en dos tomas siguiendo las recomendaciones 
+dadas al principio sobre la forma adecuada de tomar la presión arterial)
+P .A.S. > 160 mm Hg
+y/o P .A.D. > 100 mm Hg
+(cambios en el estilo de vida)P .A.S. 140 - 159 mm Hg
+y/o P .A.D. 90 - 99 mm Hg 
+(cambios en el estilo de vida)P .A.S. < 140 mm Hg
+y/o P .A.D.< 90 mm Hg
+(insistir en estilo de vida)
+Toma de P .A. en dos semanas
+Persistencia de PAS > 140 y/o 
+PAD > 90
+Iniciar TX  medicamentos
++ cambios en el estilo de vidaControl en seis meses
+  (insistir en estilo de vida)
+Tratamiento inmediato con 
+medicamentos
++ cambios en el estilo de vidaControl en un año
+(insistir en cambios 
+en el estilo de vida)SI NOGuía para la atención integral de las personas con hipertensión arterial    /   19a. Actividad física:  La actividad física aeróbica regular puede ser bene ﬁ ciosa 
+tanto para la prevención como para el tratamiento de la hipertensión arterial. Además, favorece la pérdida de peso, mejora la capacidad funcional del individuo y reduce el riesgo de enfermedad cardiovascular y la mortalidad por cualquier causa. Los sujetos sedentarios normotensos, tienen un riesgo de 20 a 50% mayor para desarrollar hipertensión arterial con el paso de los años, frente a los que desarrollan una actividad física regular.  
+b. Reducción del estrés:  El estrés puede elevar la presión arterial de forma 
+aguda y puede contribuir al desarrollo de hipertensión arterial. Las terapias de relajación ayudan a disminuir el estrés y a estabilizar los niveles de presión arterial.
+c. Abandono del tabaco: El consumo de cigarrillos es un factor de riesgo de 
+primer orden para la enfermedad cardiovascular, por lo que su abandono es un objetivo esencial en todo paciente hipertenso. Los no fumadores deberían también ser prevenidos sobre las consecuencias altamente nocivas de este hábito. Los parches o los chicles de nicotina pueden brindar una ayuda excepcional al paciente si éste se encuentra su ﬁ cientemente motivado 
+para abandonar el hábito.
+d. Moderación en la ingesta de alcohol:  Una excesiva ingesta de alcohol 
+puede elevar la presión arterial y causar resistencia a los fármacos antihipertensivos.
+e. Control del peso:  Existen evidencias que determinan la relación directa 
+entre peso y presión arterial, así como entre sobrepeso e hipertensión. Otra relación encontrada entre el peso corporal y la hipertensión arterial se da con respecto a la distribución de la grasa corporal. 
+El grado de disminución de la presión arterial se relaciona con la magnitud de 
+la pérdida de peso, pero aún una ligera disminución de peso puede producir un mejoramiento en el per ﬁ l de la presión arterial. Es importante recomendar al 
+paciente que mantenga su peso dentro de los límites saludables. 
+Entre las recomendaciones que se le deben indicar al paciente para reducir de peso 
+están:
+• Consumir frutas en todos los tiempos de comida.
+• Evitar el consumo de chichas y bebidas azucaradas.• Tomar más de ocho vasos diarios de agua.• Evitar el consumo excesivo de azúcares simples, sodas, chocolates, 
+mieles, dulces y con ﬁ tes.20   /    Guía para la atención integral de las personas con hipertensión arterial• Preparar ensaladas de vegetales para el almuerzo y la cena. Las mismas 
+deben consumirse primero que otros alimentos.
+• Servirse pequeñas porciones de alimentos y no repetir.• Procurar tener horarios regulares de comida.• No consumir frituras: empanadas fritas, carimañolas, hojaldres, tajadas, 
+patacones, papas fritas, tortillas fritas, carnes y pollo frito, chicharrón.
+• Utilice una (1) cucharadita de aceite por persona para dorar los 
+alimentos en sartenes o pailas de hierro o te ﬂ ón.
+• Pre ﬁ era las preparaciones al horno, a la plancha o hervidos.
+• Retire las grasas de la carne y la piel del pollo.• Consuma leche y queso bajos en grasas.• Coma despacio y mastique bien los alimentos.• No coma alimentos entre comidas.
+f. Moderación en el consumo de sodio:  Existe una asociación entre 
+el consumo de sodio de la dieta y la presión arterial. Múltiples ensayos terapéuticos han demostrado una reducción de las cifras tensionales en respuesta a una restricción de sodio en la dieta. Esta respuesta es más evidente en la etnia negra, adultos mayores y personas hipertensas.
+Se aconseja reducir la ingesta de sodio por debajo de 1 a 4 g. de sodio diario. Algunos 
+pacientes con hipertensión arterial en estadío 1, se controlarán sólo con esta medida. Aquellos pacientes que requieren tratamiento farmacológico, la restricción de sodio en la dieta disminuirá los requerimientos de medicación hipotensora. Entre las recomendaciones que se le deben dar al paciente para reducir el consumo de sodio están:
+• Utilizar poca sal para cocinar los alimentos.
+• No utilice: cubitos, gallinitas, caldo de carne o pollo, ajinomoto, salsa 
+china, salsa  inglesa, salsa condimentada, sazonadores, consomés de paquetes, sal de ajo, sal de cebolla.
+• Utilice para condimentar sus alimentos: cebolla, ajo, apio, ají, perejil, 
+culantro, cebollina, orégano, laurel, tomate natural, albahaca, vinagre, limón, canela, nuez moscada, vainilla.
+• No consuma embutidos: salchichas, jamón, salami, mortadela, 
+chorizos, tocino, tasajo.
+• Utilice tuna en agua.Guía para la atención integral de las personas con hipertensión arterial    /   21• No consuma picaritas, taquitos, doritos, maní salado, galletas saladas, 
+papitas.
+• No consuma rabito, patitas de cerdo, bacalao, sopa de paquete, sopa 
+de lata o sopa china.
+• Consuma queso blanco bajo en sal.• Evite sal en la mesa.• Consumo solo sopa casera baja en sal.• No consuma alimentos enlatados.
+g. Normalización del colesterol y triglicéridos: Se recomienda reducir 
+las grasas saturadas y el colesterol, la ingesta de grasa no debe ser mayor del 30% de las calorías totales. El control de dislipidemias existentes en pacientes hipertensos es importante puesto que constituye el factor de 
+riesgo más importante para la cardiopatía.
+h. Descanso:  Es importante para mantener niveles adecuados de presión 
+arterial, el descanso de seis a ocho horas diarias.
+• Aunque estas medidas sean insu ﬁ cientes para un control óptimo de 
+las cifras de tensión arterial, pueden reducir el número y las dosis de los fármacos antihipertensivos necesarios para el control de la enfermedad.
+• Estas modi ﬁ caciones son particularmente útiles en la gran proporción 
+de hipertensos que tienen factores de riesgo cardio-vasculares asociados, sobre todo dislipidemias o diabetes. 
+2. Tratamiento farmacológico
+La decisión de iniciar tratamiento farmacológico en un paciente, requiere la consideración de los siguientes factores:
+• Según las cifras iniciales de la presión arterial en pacientes no 
+complicados.
+• Según la presencia de daño a órgano blanco y/o la presencia de 
+patologías asociadas.
+Para seleccionar el tratamiento adecuado es necesario conocer los niveles de presión 
+arterial, los factores de riesgo y patologías asociadas.22   /    Guía para la atención integral de las personas con hipertensión arterialTabla N° 4
+Otros factores de riesgo cardiovascular, daño orgánico o enfermedad
+• Hipertensión en estadío 1 y 2: Debe iniciarse tratamiento farmacológico 
+hipotensor cuando transcurrido un período de 3-6 meses con el tratamiento no farmacológico recomendado, la presión arterial permanece en cifras iguales o superiores a 140/90, particularmente en aquellos con repercusión visceral y/u otros factores de riesgo cardiovascular conocidos. En ningún caso se abandonarán las medidas del tratamiento no farmacológico.
+En ausencia de repercusión visceral y de otros factores de riesgo vascular se debe dar 
+tratamiento medicamentoso además de las medidas no farmacológica si la presión permanece en cifras 140-149 / 90-94. Otros factores  Normal Normal alta HT grado I HT grado II HT grado III
+ de riesgo C-V,  PAS 120-129 PAS 130-139 PAS 140-159 PAS 160-179 PAS> ó = 180 daño orgánico  ó ó ó ó ó o enfermedad PAD 80-84 PAD 85-90 PAD 90-99 PAD 100-109 PAD > ó = 110
+    Cambios en Cambios en     el estilo de el estilo de  No otros No No vida por  vida por Cambios en factores de intervención intervención algunos  algunos el estilo de riesgo   meses,  meses,  vida + Tx    luego Tx con luego Tx con  inmediato     drogas si la drogas si la  con drogas    PA no está PA no está     controlada controlada         Cambios en Cambios en     el estilo de el estilo de  Uno-dos  Cambios en  Cambios en  vida por  vida por Cambios en factores de el estilo de el estilo de algunos  algunos el estilo de riesgo vida vida semanas,  meses,  vida + Tx    luego Tx con luego Tx con  inmediato     drogas si la drogas si la  con drogas    PA no está PA no está     controlada controlada    Cambios en Tres ó más  el estilo de  factores de Cambios en vida y  riesgo, SM o el estilo de considerar Cambios en Cambios en Cambios en daño orgánico vida Tx con el estilo de el estilo de el estilo de   drogas vida + Tx vida + Tx vida +     con drogas con drogas Tx inmediato Diabetes Cambios en  Cambios en   con drogas  el estilo de  el estilo de  vida vida + Tx   con drogas    Enfermedad  C-V o renal  Cambio en el estilo de vida y tratamiento con droga de inmediato establecida Guía para la atención integral de las personas con hipertensión arterial    /   23Los datos procedentes de ensayos clínicos sugieren fuertemente que el tratamiento 
+farmacológico deberá iniciarse antes del desarrollo de repercusiones viscerales.
+a. Tratamiento farmacológico inicial:  El tratamiento farmacológico 
+para la hipertensión arterial en estadío 1 y 2 debe iniciarse con un solo fármaco. Los diuréticos y beta-bloqueadores son preferidos como tratamiento farmacológico inicial en hipertensión esencial no complicada, sin patologías clínicas asociadas (diabetes mellitus, dislipidemias). El inicio del tratamiento con diuréticos (tiazídicos solos o en combinación con retenedores de potasio como el triamtereno y el amiloride) es aceptable.
+ Hay evidencias recientes y de metaanálisis desde hace varias décadas que 
+demuestran que los beta-bloqueadores no reducen la morbilidad ni la mortalidad cardiovascular y se acepta por todas las organizaciones mundiales que en pacientes hipertensos sin patologías asociadas como la diabetes mellitus o dislipidemias y más si éstas están presentes, se puede iniciar la terapia con medicamentos como los IECAs, BRA II o calcioantagonistas.
+ Para los pacientes con hipertensión arterial en estadío 2 se debe iniciar 
+tratamiento con la combinación de dos medicamentos a dosis bajas, los cuales se deben ir aumentando según la respuesta. Cuando la presión arterial está 20 mm Hg por encima de la meta hay que iniciar la terapia con dos fármacos.
+ Existe controversia sobre la utilidad de asociar diuréticos ahorradores de 
+potasio a los diuréticos tiazídicos, a ﬁ n de prevenir la hipokalémia, aunque 
+en el reporte JNC VII se recomiendan estas combinaciones.
+ En cualquier caso, las tiazidas deben emplearse siempre en dosis bajas, no 
+sobrepasándose de los 25 mg al día.
+ La elección del fármaco inicial debe ser individualizada, tomando en 
+consideración los siguientes factores:
+1. Factores sociodemográ ﬁ cos:  Edad, sexo, grupo étnico. En general 
+estos factores por sí mismos no son su ﬁ cientes para alterar el esquema 
+de tratamiento referido. 
+ La edad es importante para elegir el fármaco. Los adultos mayores 
+responden mejor a los diuréticos y a los calcioantagonistas. En el tratamiento de los jóvenes varones hay que tener presente el efecto de disminución de la capacidad de la erección. En las mujeres en edad reproductiva nunca deben usarse los IECAs ni los BRA-II.24   /    Guía para la atención integral de las personas con hipertensión arterial La personas de raza negra no responden bien al tratamiento con 
+beta-bloqueadores, más sí a los diuréticos y a los calcioantagonistas. La evolución de la hipertensión en estas personas es más agresiva y el control es más difícil.
+2. Enfermedades asociadas:  Algunos antihipertensivos están 
+claramente contraindicados en determinadas situaciones clínicas, por lo que todo hipertenso ha de ser debidamente estudiado. Antes de instaurar el tratamiento farmacológico debemos conocer si existen otras enfermedades como la diabetes mellitus, dislipidemias, enfermedad coronaria, entre otras, que puedan modi ﬁ car la elección del fármaco, 
+así como las metas a ser logradas. 
+3. Efectos secundarios:  Antes de iniciar el tratamiento, se debe considerar 
+los posibles efectos secundarios asociados a cada hipotensor. 
+ Una vez instaurado el tratamiento, la aparición de efectos secundarios 
+que alteran la calidad de vida (disminución de la líbido con muchos agentes, tos persistente con IECA, etc.), puede requerir la suspensión del agente responsable y su sustitución por otro hipotensor.
+4. Frecuencia de administración:  En pacientes polimedicados, la 
+elección de un hipotensor que requiera una sola administración al día, aporta un bene ﬁ cio adicional, siempre y cuando corresponda al per ﬁ l 
+de riesgo del paciente.
+ Para facilitar el cumplimiento (complianza) del tratamiento, debemos 
+tratar de utilizar medicamentos en dosis no mayor de dos veces al día. 
+b. Dosis inicial y continuación del tratamiento:  Como norma 
+general, se debe iniciar el tratamiento con las dosis más bajas recomendadas, a ﬁ n de evitar la aparición de efectos indeseables. Esta dosis puede irse 
+incrementado a intervalos no inferiores a 14 días hasta alcanzar si fuera necesario la dosis máxima recomendada, siempre y cuando sea bien tolerada por el paciente. Si llegados a este punto la presión arterial continúa elevada a pesar de un cumplimiento terapéutico correcto debe añadirse un segundo fármaco, preferiblemente un diurético si no es éste el de inicio.
+ En términos generales, alrededor del 70% de los pacientes requerirán dos o 
+más fármacos para el control adecuado de la presión arterial.Guía para la atención integral de las personas con hipertensión arterial    /   25 Las combinaciones que tienen efecto sinérgico demostrado son las siguientes:
+• Diurético más beta-bloqueador.
+• Diurético más IECA (Inhibidor de la Enzima Convertidora de 
+Angiotensina).
+• Diurético más ARA II o BRA II (Antagonista de los Receptores de 
+Angiotensina II).
+• Diurético más calcio – antagonista.• Beta-bloqueador más alfa-bloqueador.• Beta-bloqueador más calcio - antagonista dihidropiridínico de acción 
+prolongada.
+• IECA más calcioantagonista.
+ Recordar que no se deben utilizar dos fármacos del mismo grupo. Si hemos 
+decidido que una combinación de dos fármacos es el tratamiento más adecuado para el paciente, una vez estabilizada la presión arterial, puede sustituirse por un preparado único equivalente (JNCVII). Los preparados comerciales con más de un principio activo a dosis bajas ﬁ jas pueden ser 
+usados como terapia inicial. (JNCVII)
+c. Posibilidad de interacciones medicamentosas:  Las posibles 
+interacciones entre fármacos antihipertensivos y otros fármacos deben conocerse bien, a ﬁ n de evitar el empleo de asociaciones peligrosas y de 
+monitorear estrechamente los niveles séricos de ciertos fármacos cuando sea necesario.
+d. Costos del tratamiento:  A igualdad de e ﬁ cacia y seguridad debe 
+seleccionarse el tratamiento menos costoso.
+e. Tratamiento a poblaciones especí ﬁ cas: 
+1. Hipertensión arterial en niños(as)
+ Todo paciente hipertenso infantil y adolescente debe ser referido al 
+pediatra, porque generalmente su patología es de origen orgánico.
+2. Hipertensión arterial en el embarazo:1 
+Los criterios para diagnosticar hipertensión arterial en el embarazo 
+son:
+• Aumento de 30 mm Hg o más en la PAS y/o de 15 mm Hg o más 
+en la PAD, comparadas con las cifras previas a la 20 semana de embarazo.
+______________________
+1. Ver “Normas técnicas de la embarazada de alto riesgo obstétrico”. Capítulo 1, 1996. 26   /    Guía para la atención integral de las personas con hipertensión arterial• Cifras iguales o superiores a 140/90 si desconocemos las cifras 
+previas a la 20 semana de embarazo.
+2.1. Pre-eclampsia – eclampsia: La preeclampsia es una situación 
+clínica especí ﬁ ca del embarazo con hipertensión arterial, 
+proteinuria y edema. Puede acompañarse de alteraciones de la coagulación y función hepática. Puede progresar a eclampsia, el cual es un estado convulsivo con grave riesgo para la madre y el feto.
+ La paciente debe ser siempre remitida a la atención especializada 
+en el menor intervalo de tiempo posible y se deberá valorar la decisión de remitirla directamente al medio hospitalario.
+2.2. Hipertensión arterial crónica: Es aquella que se mani ﬁ esta 
+anteriormente al embarazo o se diagnostica antes de la semana 20 de gestación.
+ Para mujeres que previamente no tomaban medicación y 
+aquellas que suspendieron el tratamiento farmacológico al quedar embarazadas y cuyas cifras de presión arterial diastólica están entre 90 y 100, el incrementar el reposo o cesar la actividad laboral puede ser útil.
+ Sólo se indicará restricción en la ingesta de sodio si esta medida 
+fue eﬁ caz antes del embarazo.
+ El tratamiento farmacológico se debe reservar para pacientes 
+con presión arterial diastólica > 100 mm Hg y no se debe indicar una terapia agresiva, porque corremos el riesgo de ocasionar un bajo ﬂ ujo útero-placentario. Los IECA y ARA II, están 
+contraindicados por haberse descrito graves problemas fetales, fundamentalmente insu ﬁ ciencia renal y muerte fetal.
+ La alfa-metil-dopa es sin duda, el fármaco más utilizado durante 
+el embarazo, habiendo mostrado e ﬁ cacia y seguridad, y por ello, 
+el más recomendado.
+ Los betabloqueadores se han mostrado muy e ﬁ caces y seguros 
+en la última fase del embarazo, pero pueden producir retraso en el crecimiento fetal, utilizados en las primeras fases de la gestación.Guía para la atención integral de las personas con hipertensión arterial    /   273. Hipertensión arterial en adultos mayores: 
+En este grupo encontramos:
+• Aumento de la resistencia periférica vascular.
+• Disminución de la actividad plasmática de la renina.• Mayor hipertro ﬁ a ventricular izquierda.
+Tratamiento de elección:
+Diuréticos: si no hay mejoría agregar antagonistas de los canales del 
+calcio o IECA, bloqueadores de los receptores de angiotensina II (BRA) y bloqueadores alfa y beta adrenérgicos.
+El diagnóstico y estudio de la hipertensión arterial en adultos mayores 
+es igual que en los más jóvenes, pero deben tenerse en cuenta las siguientes consideraciones terapéuticas:
+• Para la hipertensión arterial sistólica aislada mayor de 140 
+mm Hg las modi ﬁ caciones en el estilo de vida son un factor 
+fundamental del tratamiento. Generalmente se requiere utilizar fármacos en estos pacientes.
+• Para la hipertensión arterial sistólica aislada, el objetivo será 
+reducirla progresivamente y paulatinamente hasta llegar a 140 mm Hg o menos.
+Los tratamientos que no respeten estos pasos y pretendan drásticas 
+reducciones de la presión arterial, pueden producir bajo ﬂ ujo periférico 
+y central.
+En cuanto a los fármacos antihipertensivos, pueden utilizarse todos 
+sin olvidar una serie de normas:
+• Por diversas circunstancias los ancianos son más sensibles 
+a los fármacos, tanto a los efectos deseados como a los adversos. La dosis de los medicamentos deben incrementarse progresivamente y de acuerdo a la respuesta del paciente.
+• Los fármacos que producen hipotensión ortastática, deben 
+evitarse (bloqueadores alfa, prazosin, terazosin, doxazocina).28   /    Guía para la atención integral de las personas con hipertensión arterial4. Hipertensión arterial en población de etnia negra:
+Este grupo se caracteriza por:
+• Niveles de renina plasmática bajo.
+• Gasto cardiaco mayor.• Expansión del volumen intravascular.• Menor actividad plasmática de renina.• Tratamiento inicial con diuréticos y/o combinarlo con IECA o 
+antagonistas de los canales de calcio (ACC o BCC), vasodilatadores arteriales, bloqueadores de los receptores de la angiotensina II (ARA II).
+• Dada la mayor severidad de la hipertensión arterial, será más 
+frecuentemente la terapia con varios fármacos.
+5. Hipertensión arterial con diabetes mellitus:2 
+El objetivo en estos pacientes debe ser reducir la presión arterial a 130/80 mm Hg o menos. Es necesario insistir en los cambios de estilo de vida en estos pacientes en los que la obesidad es frecuente.
+En estos pacientes los fármacos de elección son los bloqueadores del 
+sistema renina angiotensina aldosterona.
+• Inhibidores de la enzima convertidota de la angiotensina (IECA).
+• Bloqueadores de los receptores de la angiotensina II (ARA II).• Diuréticos.• Calcioantagonistas.• Beta-bloqueadores.• Alfa-bloqueadores.
+Como en cualquier otro caso deben tomarse en cuenta los efectos 
+adversos de cada medicamento.
+6.  Hipertensión en diabéticos con nefropatía. 
+Este grupo se caracteriza por presentar:
+• Microalbuminuria.
+• Proteinuria masiva.• Insu ﬁ ciencia renal de ﬁ nitiva
+______________________ 
+2. Los pacientes mencionados en los puntos 5 a 11 deben ser manejados conjuntamente con el médico especialista de 
+acuerdo al recurso disponible.Guía para la atención integral de las personas con hipertensión arterial    /   29Están indicados:
+• Inhibidores de la enzima convertidora de angiotensina (IECA).
+• Bloqueadores de los receptores de la angiotensina II (ARA II ó BRA 
+II).
+En estos pacientes se debe considerar, según la necesidad, el uso de 
+otros fármacos como son:
+• Calcioantagonistas de liberación lenta.
+• Diuréticos.• Beta-bloqueadores.• Alfa-bloqueadores.
+Figura N° 1
+Guías NICE 2006:
+   Escogencia de antihipertensivo en adultos mayores y población de etnia negra 
+Menor de 55 años     Mayor de 55 años, o paciente de
+       Raza negra de cualquier edad
+Tratamiento de primera línea,   Tratamiento de primera línea,
+ Inhibidor de Enzima    Bloqueadores de los canales del Convertidota de Angiotensina   calcio
+Si monoterapia no es su ﬁ ciente para alcance de metas, combinar IECA con 
+bloqueador de canales de calcio, o IECA con diurético
+Si terapia doble no es su ﬁ ciente para alcance de metas, combinar IECA 
+con bloqueador de canales de calcio y diurético
+De ser necesario, agregar otro diurético, alfa o beta bloqueador.
+Considerar referencia a especialista en hipertensión30   /    Guía para la atención integral de las personas con hipertensión arterialLos beta-bloqueadores ya no son recomendados como tratamiento de 
+primera línea en el tratamiento de hipertensión arterial, en prevención primaria (Esta es la opinión del Colegio Británico de Hipertensión 2006.)
+7. Hipertensión arterial con insu ﬁ ciencia renal crónica.
+• Tratamiento con diuréticos de asa es importante para disminuir la 
+retención hidrosalina. Se puede combinar con antagonistas del calcio, IECA y ARA II.
+8. Hipertensión arterial en pacientes con enfermedad coronaria.
+El tratamiento más e ﬁ caz se logra con:
+• Betabloqueadores.
+• IECA.• Bloqueadores de los receptores de angiotensina II.• Calcioantagonistas.
+9. Hipertensión arterial con insu ﬁ ciencia cardíaca congestiva.
+Estos pacientes requieren un tratamiento de su patología de fondo y 
+de la hipertensión arterial por lo que requerirá más de un medicamento a la vez dentro de los cuales los diuréticos son indispensables para compensar la falla cardiaca congestiva.
+• IECA.
+• ARA II.• Betabloqueadores cardioselectivos.
+ Carvedilol (B1, B2 y alfa bloqueante).
+ Bisoprolol (B1 bloqueador selectivo).
+ Nebivolol (B1 bloqueador selectivo y liberador de oxido nítrico).
+ Metoprolol XL (de acción prolongada) (B1 bloqueador selectivo).
+• Diuréticos:
+ Tiazídicos.
+ Tiazídicos con retenedores de potasio como triamtereno o 
+amiloride.
+• Diuréticos de asa:
+ Furosemida
+ Bemetanida
+• Bloqueadores de la aldosterona – EspirinolactonaGuía para la atención integral de las personas con hipertensión arterial    /   3110. Hipertensión arterial en paciente con hipertro ﬁ a ventricular 
+izquierda.
+Se deben utilizar:
+• IECA.
+• ARA II.• Diuréticos.• Beta-bloqueadores.• Calcioantagonistas.
+11. Hipertensión arterial en pacientes obesos.
+ 
+El manejo de estos pacientes debe incluir:
+• Reducción de peso.
+• Control de factores de riesgo asociados como:
+ Dislipidemia.
+ Diabetes mellitus.
+ Sedentarismo.
+• Tratamiento medicamentoso con
+ IECA.
+ ARA II.
+ Diuréticos.
+ Calcioantagonistas.
+ Beta-bloqueadores.
+12. Hipertensión arterial en pacientes con dislipidemia.
+En este tipo de pacientes, también las modi ﬁ caciones del estilo de vida 
+son especialmente importante: se debe indicar control de peso, dieta baja en sal, colesterol y grasas saturadas y se debe estimular al aumento de la actividad física.
+Los medicamentos más e ﬁ caces son:
+• IECA.
+• ARA II.
+• Calcioantagonistas.
+• Diuréticos tiazídicos.• Beta-bloqueadores.
+Los alfa-bloqueantes parecen tener un ligero efecto reductor de las 
+concentraciones de colesterol total y LDL- colesterol.
+Los calcioantagonistas e IECA, no alteran el per ﬁ l lipídico.32   /    Guía para la atención integral de las personas con hipertensión arterial13. Hipertensión arterial en pacientes con obstrucción crónica al ﬂ ujo 
+aéreo o asma.
+Los beta-bloqueantes (incluso los “cardioselectivos”), pueden agravar 
+la broncoconstricción y están en general contraindicados.
+Los calcio-antagonistas son por lo general, seguros en este tipo de 
+pacientes, pero en raras ocasiones pueden empeorar la hipoxemia al alterar el coe ﬁ ciente de ventilación / perfusión por vasodilatación del 
+lecho vascular pulmonar. Todos los fármacos antihipertensivos, salvo los beta-bloqueantes pueden ser usados en estos pacientes.
+Las teo ﬁ linas y corticoides pueden empeorar la hipertensión arterial. 
+Además, las teo ﬁ linas son arritmogénicas. Los beta-estimulantes no 
+parecen empeorar la hipertensión arterial, pero son taquicardizantes y arritmogénicos.
+En especial, los preparados “antigripales” y “antiasmáticos” que 
+contengan vasocontrictores, deben evitarse (se debe revisar los ingredientes de los compuestos que pueden contener fenilefrina y defenilpropanolamina).
+14. Otras situaciones. 
+• Empleo de anticonceptivos orales. Las mujeres tienen un mayor 
+riesgo de desarrollar hipertensión arterial que en general desaparecerá a los pocos meses de la suspensión del anticonceptivo. Se debe vigilar especialmente la presión arterial en mujeres que siguen este tipo de tratamiento, si aparece hipertensión arterial se debe recomendar otro método anticonceptivo y si no fuese posible, se valorarán riesgos y beneﬁ cios.Guía para la atención integral de las personas con hipertensión arterial    /   333. Algoritmo para el tratamiento de la hipertensión34   /    Guía para la atención integral de las personas con hipertensión arterial4. Seguimiento integral de los pacientes con hipertensión arterial
+a. Pacientes en seguimiento durante el primer año de control.
+La frecuencia de los controles dependerá de la respuesta del paciente al tratamiento 
+y su evolución.
+b. Pacientes en seguimiento a partir del segundo y tercer año.
+ Segundo año A partir del tercer año
+Médico tratante Mínimo cuatro (4) controles.  Mínimo tres (3) controles.Enfermera y nutricionista Cada tres (3) meses. Cada cuatro (4) meses.Odontólogo Mínimo dos (2) controles.  Mínimo un (2) control.Salud mental Un (1) control. Un (1) control.Trabajadora social Las consultas necesarias de Las consultas necesarias 
+ acuerdo al problema social de acuerdo al problema del paciente. social del paciente.
+Especialistas Una (1) consulta al año. A criterio médico.
+El paciente hipertenso, aún bien controlado, es un paciente de alto riesgo y debe 
+tener controles con el cardiólogo mínimo dos veces al año o a criterio de su médico de cabecera.Médico tratante Mínimo seis (6) controles durante un año.
+ •  Primera consulta: diagnóstico e inicio   
+    del tratamiento. •  Segunda consulta: una a dos semanas       después del inicio del tratamiento,       según gravedad del paciente y criterio    médico. • Tercera y demás consultas en un año:    cada dos (2) meses, si no hay     complicaciones.
+Enfermera Mínimo seis (6) controles en un año.
+Nutricionista Mínimo tres (3) controles en un año.Odontólogo  Mínimo dos (2) controles al año.Trabajadora social  Dos (2) controles al año.
+Salud mental  Una consulta (1) durante el año.
+Especialistas (cardiología, Mínimo una (1) consulta anual.
+medicina interna,  oftalmología, nefrología, etc.)Guía para la atención integral de las personas con hipertensión arterial    /   35 Categoría Sin tratamiento  Con tratamiento  (diagnóstico)
+PA óptima y normal Cada 2 años Cada 4-6 meses
+PA límite Cada año Cada 3-6 mesesHT nivel 1 Cada 1 mes Cada 2-3 mesesHT nivel 2 7-15 días Cada 1-2 mesesHT nivel 3 0-72 horas Cada 7-15 díasTabla Nº 5
+Frecuencia recomendada para los controles médicos de las personas con 
+hipertensión arterial
+Consenso Latinoamericano de Hipertensión, SEH, OMS, SIH.
+Este mismo esquema es válido para la clasi ﬁ cación del JNC VII, pero como no 
+existe el nivel 3 los pacientes con HTA nivel 2 sin tratamiento debe controlarse a los 7 a 15 días y si es nivel 2 y ya está con el tratamiento debe verse a 1-2 meses.
+E. Rehabilitación
+Primer nivel (factores modi ﬁ cables)
+Estilos de vida no saludables
+• Creación de clínicas de cesación para fumadores y fumadoras.
+• Organización de grupos de pacientes con hipertensión arterial y sus 
+familiares.
+• Manejo del estrés.• Desarrollo de habilidades de autocuidado y destrezas para el diario vivir.• Programas de alimentación saludable.• Programas de ejercicios físicos.• Canalización de los y las pacientes con farmacodependencias y/o 
+alcoholismo.
+Trastornos metabólicos
+• Plan de alimentación hiposódica.
+• Plan de alimentación hipolipídica.• Plan de alimentación saludable.36   /    Guía para la atención integral de las personas con hipertensión arterialTrastornos físicos
+• Peso adecuado.
+• Ejercicios:
+ Caminatas o aeróbicos
+ Relajación (ambos, mínimos 30 minutos tres veces por semana)
+• Secundario a accidentes cerebrovasculares tipo transitorio.
+• Terapia física y terapia ocupacional (ejercicios focalizados).
+Segundo nivel
+• Secuelas de accidentes cerebrovasculares: hemiplejía / paraplejía.
+• Terapia física.• Terapia ocupacional.• Terapia de lenguaje.• Medicina hiperbárica.
+• Terapia acuática.
+Tercer nivel
+• Secuelas de accidentes cerebrovasculares: hemiplejía / paraplejía.
+• Terapia neuroconductual.• Terapia física.• Terapia ocupacional.• Terapia neurogénica.• Medicina hiperbárica.• Terapia acuática.
+F . Sistema Único de Referencia y Contrarreferencia (SURCO)
+“Es el conjunto de actividades administrativas y asistenciales mediante los cuales se 
+facilita la continuidad en la atención del paciente, trans ﬁ riéndolo en los servicios de 
+salud de un mismo o diferentes niveles de atención o grados de complejidad, con el retorno del paciente a la instalación de origen”.
+3 
+En la hoja del Sistema Único de Referencia y Contrarreferencia (SURCO), deberán 
+anotarse los datos generales de la persona, la evaluación y tratamiento, el último resultado de electrocardiograma, radiografía de tórax postero anterior, hemograma, química sanguínea y urinálisis. De igual forma, deben cumplirse con el proceso de contrarreferencia.
+______________________ 
+3. Los Ministerio de Salud. La red pública de servicios de salud - Reorganización y de ﬁ nición por niveles de atención y 
+grados de complejidad. Septiembre de 2003. Página 39.Guía para la atención integral de las personas con hipertensión arterial    /   37Primer nivel
+Todo paciente con hipertensión arterial deberá ser referido por el médico que le 
+hizo el diagnóstico para la evaluación, tratamiento y seguimiento a las siguientes disciplinas:
+• Enfermería.• Nutrición.• Trabajo social.• Salud bucal.
+• Salud mental.
+De no contar con algunas de las disciplinas anteriormente mencionadas, el o 
+la paciente debe ser referido a una instalación de salud de mayor capacidad 
+resolutiva.
+38   /    Guía para la atención integral de las personas con hipertensión arterialSegundo nivel
+Todo paciente con diagnóstico de hipertensión arterial complicada debe ser referido 
+para evaluación y tratamiento conjunto a:
+• Medicina interna, medicina familiar o geriatría si se trata de un adulto 
+mayor.
+• Cardiología.• Oftalmología. 
+• Nefrología.
+Tercer nivel
+• Cardiología.
+• Oftalmología. • Endocrinología.• Ginecología.• Nefrología.
+Casos problema que deben manejarse en el segundo o tercer nivel de 
+atención:
+• Hipertensión arterial rebelde al tratamiento convencional.
+• 
+Hipertensión arterial secundaria. Renal, embarazo y cardiopatías congénitas.
+• Hipertensión arterial en crisis que no ceden a tratamiento adecuado, según 
+estas normas.
+Guía para la atención integral de las personas con hipertensión arterial    /   39VI. Sistema de registro de la 
+información
+La información obtenida de todo paciente o usuario que solicita algún servicio 
+en la instalación de salud, sea para detección, evaluación, diagnóstico, tratamiento, seguimiento, rehabilitación, parámetros de laboratorio y de gabinete, referencia y/o interconsulta, además de cualquier otra información que se considera necesaria a criterios del o la profesional que ofrece el servicio, deberá detallarse en cada uno de los formularios, ﬁ chas, tarjetas u hojas diseñadas para tal ﬁ n, en las instalaciones 
+respectivas.
+Se utilizará la hoja de registro para anotar las evaluaciones subsecuentes, las variables 
+clínicas y de laboratorio del paciente. Dicha hoja de registro formará parte del expediente clínico del y la paciente. 
+Deben registrarse obligatoriamente la siguiente información en el expediente 
+clínico:
+• Generales de la persona.
+• Antecedentes personales y familiares patológicos.• Historia personal y familiar de factores de riesgo.• Exploración física y diagnóstico:
+ Peso – talla – estado nutricional (Índice de masa corporal)
+ Circunferencia de cintura.
+ Presión arterial.
+ Fondo de ojo.
+ Cuello (pulsos, soplos carotideos, presión venosa y tiroides).
+ Evaluación cardiopulmonar.
+ Evaluación abdominal (masas, soplos).
+ Evaluación de las extremidades (pulsos periféricos, edema).
+• Educación dada al paciente sobre su enfermedad.
+• Seguimiento o evaluaciones subsecuentes.• Pruebas de laboratorio y de gabinete.• Referencia / contrarreferencia / interconsulta.• Atención de enfermería.• Atención de nutrición.• Atención de salud bucal• Atención de trabajo social.• Lista actualizada de medicamentos.• Lista actualizada de diagnóstico.40   /    Guía para la atención integral de las personas con hipertensión arterial
+La atención realizada por la o el profesional, deberá anotarse en la hoja de registro 
+diario de actividades y entregarse al Departamento de Registro Médicos y Estadísticas de la instalación correspondiente.
+La atención de enfermería deberá ser registrada en la hoja de evolución. 
+El control de citas y visitas domiciliarias se anotará en la tarjeta de seguimiento de 
+casos.
+Actividades de educación, promoción, prevención e investigación epidemiológica, se 
+registrará en los formularios diseñados por el Departamento de Registros Médicos y Estadísticas para dar cumplimiento a la misma, o bien en el formulario que utiliza la institución.Guía para la atención integral de las personas con hipertensión arterial    /   41VII. Actualización de esta guía
+Para llevar a cabo la actualización de esta guía, sugerimos que se realice por medio 
+de reuniones – talleres y de manera interdisciplinaria entre los diversos profesionales de la salud: médico, enfermera, odontólogo, trabajadora social, nutricionista del Programa de Salud de Adultos. Por ello, debe constituirse una comisión o grupo de trabajo, donde exista un equipo o responsable de la dirección de la guía, de la búsqueda de la información y de la redacción de la guía. En este proceso, se deben utilizar técnicas de consenso y métodos sistemáticos para la búsqueda de la información (medicina basada en la evidencia cientí ﬁ ca), al igual que la transparencia 
+y comunicación permanente entre los miembros de la comisión. Los coordinadores regionales del Programa de Salud de Adultos o su representante, pueden ser considerados para formar parte de dicha comisión.
+Conformada la comisión, deben establecerse un plan de acción, formulando los 
+objetivos, recursos, responsables y el cronograma de actividades, de manera tal que se establezca la metodología a utilizar. Las reuniones que realice la comisión elaboradora o la comisión que actualizará la guía de atención, debe registrar por medio de actas o a través de algún medio de veri ﬁ cación los compromisos y los 
+logros obtenidos.
+Una vez ha sido elaborado el borrador de la guía, el mismo tiene que ser sometido 
+nuevamente a la revisión de la comisión. Vencida esta etapa, el borrador es enviado a los profesionales de la salud especialistas en el tema, externos e internos a la organización, para su revisión y respectivos aportes.  De ambas revisiones, el borrador debe revisarse nuevamente, para incluir las correcciones sugeridas. Posteriormente, este segundo borrador debe ser validado por el personal sanitario que labora en las instalaciones de salud, aportando sus sugerencias y recomendaciones. Este proceso debe ser liderizado por los coordinadores regionales del Programa de Salud de Adultos, valiéndose de las estrategias necesarias.
+Ya con la versión preliminar de la guía (validada por los niveles operativos), la misma 
+debe ser sometida a una reunión de consenso, para analizar los criterios comunes mínimos, revisar la evidencia cientí ﬁ ca y la documentación que así lo amerite. Vencida 
+esta etapa, entonces se contará con la versión de ﬁ nitiva de la guía de atención, la 
+cual debe actualizarse cada cinco años con su respectiva publicación.42   /    Guía para la atención integral de las personas con hipertensión arterialBibliografía
+1. Braunwald Heart Disease.  VII edición. Hipertensión arterial. 2006.                 
+(Clase R).
+2. Consenso del Comité de Hipertensión Arterial en Panamá de la Sociedad 
+Panameña de Cardiología  (Revisión de las recomendaciones del JNC VII, 
+OMS, ISH, SEH, SEC, adaptado a la población panameña). (Clase R).
+3. Concenso Latinoamericano sobre hipertensión arterial. Journal of  
+Hypertension . Volumen 6. No. 2 . 2001. (Clase R).
+4. Directrices sobre el diagnóstico y tratamiento de la hipertensión arterial . 
+OMS – ISH. 1999. (Clase R).
+5. Sociedad Europea de Hipertensión 2007. Recomendaciones de la Sociedad 
+Europea de Cardiología para el tratamiento de la hipertensión arterial . 
+Comité de recomendaciones. Journal of  Hipertensión. Vol 21. Páginas 1011 – 1053. (Clase R).
+6. VII reporte del Comité Nacional Conjunto para la evaluación, detección, 
+diagnóstico y tratamiento de la hipertensión arterial.  2004. (Clase R).
+7. Harrison, Principios de Medicina Interna . Interamericana Mc Graw – Hill 
+XV Edición. 2002. 2871 páginas
+8. Ministerio de Salud. La red pública de servicios de salud, Reorganización 
+y deﬁ nición por niveles de atención y grados de complejidad . Septiembre 
+de 2003. 68 páginas.
+9. Ministerio de Salud. Normas para el manejo integral del y la paciente con 
+hipertensión arterial . Panamá. 1999
+10. Ministerio de Salud. Normas integrales de salud para la población y el 
+ambien te. Panamá. 1997.
+11. Ministerio de Salud / Caja de Seguro Social. Normas técnicas, administrativas 
+y protocolos de atención en salud bucal . Primer nivel de atención. Panamá, 
+agosto de 2004.
+12. Ministerio de Salud. Departamento de Comunicación para la Salud. Políticas 
+de Comunicación para la Salud . Panamá. Noviembre 1995. 20 páginas.Guía para la atención integral de las personas con hipertensión arterial    /   43ANEXOS
+44   /    Guía para la atención integral de las personas con hipertensión arterialANEXO N° 1
+Otras de ﬁ niciones de hipertensión arterial
+Hipertensión esencial o primaria: Presión elevada de la sangre sin conocer la 
+causa concreta ni apreciarse ninguna lesión orgánica y se asocia a diferentes factores de riesgo (historia familiar, obesidad, sedentarismo, tabaquismo, etc.).
+Hipertensión secundaria:  Presión arterial sanguínea elevada por una causa que 
+puede ser identi ﬁ cada fácilmente mediante estudios tecnocientí ﬁ cos. Ejemplo: 
+enfermedades orgánicas (renales, estrechamiento de la aorta, hipertiroidismo, etc.).
+Hipertensión arterial lábil : Aquella situación en la que un mismo sujeto podría 
+presentar cifras de presión arterial por encima o por debajo de 140/90 mm Hg en intervalos cortos y cercanos de tiempo sin que exista repercusión visceral.
+Hipertensión arterial limítrofe:  Valores de presión arterial en el límite de la 
+normalidad, que requieren habitualmente con ﬁ rmación por medio del registro 
+ambulatorio de 24 horas.
+Hipertensión arterial de ﬁ nida:  Cifras de presión arterial constantemente elevadas 
+por encima de los valores considerados normales.
+Hipertensión arterial refractaria: Cifras de presión arterial no controladas tras 
+tratamiento con tres fármacos en dosis y asociación adecuadas, debiendo ser uno de ellos un diurético.
+Hipertensión arterial maligna:  PAD > 140  mm Hg que se acompaña de retinopatía 
+grado III o IV y que se asocia a repercusión de otros órganos susceptibles.
+Urgencia hipertensiva:  Elevación de la presión arterial por encima de 210 mm 
+Hg para el valor sistólico y de 120 mm Hg para el diastólico. Habitualmente no se observan manifestaciones clínicas relevantes. El control suele hacerse con antihipertensivos por vía oral siendo casi siempre buena la respuesta, en el término de 24 horas.
+Emergencia hipertensiva:  Elevación de la presión arterial por encima de 230/130 
+mm Hg y que representa un riesgo vital para el individuo, acompañándose de repercusión signi ﬁ cativa en órganos diana (edema pulmonar aguda, encefalopatía, 
+síndrome coronario agudo, etc).Guía para la atención integral de las personas con hipertensión arterial    /   45ANEXO Nº2
+Tabla N° 1
+Valores normales de la presión arterial en el sexo masculino
+por percentiles especí ﬁ cos durante la niñez y adolescencia según edad
+ Edad Percentiles Presión arterial sistólica (mm Hg) Presión arterial diastólica (mm Hg)
+  para la talla 5% 10% 25% 50% 75% 90% 95% 5% 10% 25% 50% 75% 90% 95%
+ 1 50 80 81 83 85 87 88 89 34 35 36 37 38 39 39
+  90 94 95 97 99 100 102 103 49 50 51 52 53 53 54  95 98 99 101 103 104 106 106 54 54 55 56 57 58 58  99 105 106 108 110 112 113 114 61 62 63 64 65 66 66
+ 2 50 84 85 87 88 90 92 92 39 40 41 42 43 44 44
+  90 97 99 100 102 104 105 106 54 55 56 57 58 58 59  95 101 102 104 106 108 109 110 59 59 60 61 62 63 63  99 109 110 111 113 115 117 117 66 67 68 69 70 71 71
+ 3 50 86 87 89 91 93 94 95 44 44 45 46 47 48 48
+  90 100 101 103 105 107 108 109 59 59 60 61 62 63 63  95 104 105 107 109 110 112 113 63 63 64 65 66 67 67  99 111 112 114 116 118 119 120 71 71 72 73 74 75 75
+ 4 50 88 89 91 93 95 96 97 47 48 49 50 51 51 52
+  90 102 103 105 107 109 110 111 62 63 64 65 66 66 67  95 106 107 109 111 112 114 115 66 67 68 69 70 71 71  99 113 114 116 118 120 121 122 74 75 76 77 78 78 79
+ 5 50 90 91 93 95 96 98 98 50 51 52 53 54 55 55
+  90 104 105 106 108 110 111 112 65 66 67 68 69 69 70  95 108 109 110 112 114 115 116 69 70 71 72 73 74 74  99 115 116 118 120 121 123 123 77 78 79 80 81 81 82
+ 6 50 91 92 94 96 98 99 100 53 53 54 55 56 57 57
+  90 105 106 108 110 111 113 113 68 68 69 70 71 72 72  95 109 110 112 114 115 117 117 72 72 73 74 75 76 76  99 116 117 119 121 123 124 125 80 80 81 82 83 84 84
+ 7 50 92 94 95 97 99 100 101 55 55 56 57 58 59 59
+  90 106 107 109 111 113 114 115 70 70 71 72 73 74 74  95 110 111 113 115 117 118 119 74 74 75 76 77 78 78  99 117 118 120 122 124 125 126 82 82 83 84 85 86 86
+ 8 50 94 95 97 99 100 102 102 56 57 58 59 60 60 61
+  90 107 109 110 112 114 115 116 71 72 72 73 74 75 76  95 111 112 114 116 118 119 120 75 76 77 78 79 79 80  99 119 120 122 123 125 127 127 83 84 85 86 87 87 88
+ 9 50 95 96 98 100 102 103 104 57 58 59 60 61 61 62
+  90 109 110 112 114 115 117 118 72 73 74 75 76 76 77  95 113 114 116 118 119 121 121 76 77 78 79 80 81 81  99 120 121 123 125 127 128 129 84 85 86 87 88 88 89
+ 10 50 97 98 100 102 103 105 106 58 59 60 61 61 62 63
+  90 111 112 114 115 117 119 119 73 73 74 75 76 77 78  95 115 116 117 119 121 122 123 77 78 79 80 81 81 82  99 122 123 125 127 128 130 130 85 86 86 88 88 89 90
+ 11 50 99 100 102 104 105 107 107 59 59 60 61 62 63 63
+  90 113 114 115 117 119 120 121 74 74 75 76 77 78 78  95 117 118 119 121 123 124 125 78 78 79 80 81 82 82  99 124 125 127 129 130 132 132 86 86 87 88 89 90 9046   /    Guía para la atención integral de las personas con hipertensión arterial 12 50 101 102 104 106 108 109 110 59 60 61 62 63 63 64
+  90 115 116 118 120 121 123 123 74 75 75 76 77 78 79  95 119 120 122 123 125 127 127 78 79 80 81 82 82 83  99 126 127 129 131 133 134 135 86 87 88 89 90 90 91
+ 13 50 104 105 106 108 110 111 112 60 60 61 62 63 64 64
+  90 117 118 120 122 124 125 126 75 75 76 77 78 79 79  95 121 122 124 126 128 129 130 79 79 80 81 82 83 83  99 128 130 131 133 135 136 137 87 87 88 89 90 91 91
+ 14 50 106 107 109 111 113 114 115 60 61 62 63 64 65 65
+  90 120 121 123 125 126 128 128 75 76 77 78 79 79 80  95 124 125 127 128 130 132 132 80 80 81 82 83 84 84  99 131 132 134 136 138 139 140 87 88 89 90 91 92 92
+ 15 50 109 110 112 113 115 117 117 61 62 63 64 65 66 66
+  90 122 124 125 127 129 130 131 76 77 78 79 80 80 81  95 126 127 129 131 133 134 135 81 81 82 83 84 85 85  99 134 135 136 138 140 142 142 88 89 90 91 92 93 93
+ 16 50 111 112 114 116 118 119 120 63 63 64 65 66 67 67
+  90 125 126 128 130 131 133 134 78 78 79 80 81 82 82  95 129 130 132 134 135 137 137 82 83 83 84 85 86 87  99 136 137 139 141 143 144 145 90 90 91 92 93 94 94
+ 17 50 114 115 116 118 120 121 122 65 66 66 67 68 69 70
+  90 127 128 130 132 134 135 136 80 80 81 82 83 84 84  95 131 132 134 136 138 139 140 84 85 86 87 87 88 89  99 139 140 141 143 145 146 147 92 93 93 94 95 96 97 Edad Percentiles Presión arterial sistólica (mm Hg) Presión arterial diastólica (mm Hg)
+  para la talla 5% 10% 25% 50% 75% 90% 95% 5% 10% 25% 50% 75% 90% 95%Guía para la atención integral de las personas con hipertensión arterial    /   47ANEXO Nº3
+Tabla N° 2
+Valores normales de la presión arterial en el sexo femenino
+por percentiles especí ﬁ cos durante la niñez y adolescencia según edad
+ Edad Percentiles Presión arterial sistólica (mm Hg) Presión arterial diastólica (mm Hg)
+  para la talla 5% 10% 25% 50% 75% 90% 95% 5% 10% 25% 50% 75% 90% 95%
+ 1 50 83 84 85 86 88 89 90 38 39 39 40 41 41 42
+  90 97 97 98 100 101 102 103 52 53 53 54 55 55 56  95 100 101 102 104 105 106 107 56 57 57 58 59 59 60  99 108 108 109 111 112 113 114 64 64 65 65 66 67 67
+ 2 50 85 85 87 88 89 91 91 43 44 44 45 46 46 47
+  90 98 99 100 101 103 104 105 57 58 58 59 60 61 61  95 102 103 104 105 107 108 109 61 62 62 63 62 63 63  99 109 110 111 112 114 115 116 69 69 70 70 70 72 72
+ 3 50 86 87 88 89 91 92 93 47 48 48 49 50 50 51
+  90 100 100 102 103 104 106 106 61 62 62 63 64 64 65  95 104 104 105 107 108 109 110 65 66 66 67 68 68 69  99 111 111 113 114 115 116 117 73 73 74 74 75 76 76
+ 4 50 88 88 90 91 92 94 94 50 50 51 52 52 53 54
+  90 101 102 103 104 106 107 108 64 64 65 66 67 67 68  95 105 106 107 108 110 111 112 68 68 69 70 71 71 72  99 112 113 114 115 117 118 119 76 76 76 77 78 79 79
+ 5 50 89 90 91 93 94 95 96 52 53 53 54 55 55 56
+  90 103 103 105 106 107 109 109 66 67 67 68 69 69 70  95 107 107 108 110 111 112 113 70 71 71 72 73 73 74  99 114 114 116 117 118 120 120 78 78 79 79 80 81 81
+ 6 50 91 92 93 94 96 97 98 54 54 55 56 56 57 58
+  90 104 105 106 108 109 110 111 68 68 69 70 70 71 72  95 108 109 110 111 113 114 115 72 72 73 74 74 75 76  99 115 116 117 119 120 121 122 80 80 80 81 82 83 83
+ 7 50 93 93 95 96 97 99 99 55 56 56 57 58 58 59
+  90 106 107 108 109 111 112 113 69 70 70 71 72 72 73  95 110 111 112 113 115 116 116 73 74 74 75 76 76 77  99 117 118 119 120 122 123 124 81 81 82 82 83 84 84
+ 8 50 95 95 96 98 99 100 101 57 57 57 58 59 60 60
+  90 108 109 110 111 113 114 114 71 71 71 72 73 74 74  95 112 112 114 115 116 118 118 75 75 75 76 77 78 78  99 119 120 121 122 123 125 125 82 82 83 83 84 85 86
+ 9 50 96 97 98 100 101 102 103 58 58 58 59 60 61 61
+  90 110 110 112 113 114 116 116 72 72 72 73 74 75 75  95 114 114 115 117 118 119 120 76 76 76 77 78 79 79  99 121 121 123 124 125 127 127 83 83 84 84 85 86 87
+ 10 50 98 99 100 102 103 104 105 59 59 59 60 61 62 62
+  90 112 112 114 115 116 118 118 73 73 73 74 75 76 76  95 116 116 117 119 120 121 122 77 77 77 78 79 80 80  99 123 123 125 126 127 129 129 84 84 85 86 86 87 88
+ 11 50 100 101 102 103 105 106 107 60 60 60 61 62 63 63
+  90 114 114 116 117 118 119 120 74 74 74 75 76 77 77  95 118 118 119 121 122 123 124 78 78 78 79 80 81 81  99 125 125 126 128 129 130 131 85 85 86 87 87 88 8948   /    Guía para la atención integral de las personas con hipertensión arterial 12 50 102 103 104 105 107 108 109 61 61 61 62 63 64 64
+  90 116 116 117 119 120 121 122 75 75 75 76 77 78 78  95 119 120 121 123 124 125 126 79 79 79 80 81 82 82  99 127 127 128 130 131 132 133 86 86 87 88 88 89 90
+ 13 50 104 105 106 107 109 110 110 62 62 62 63 64 65 65
+  90 117 118 119 121 122 123 124 76 76 76 77 78 79 79  95 121 122 123 124 126 127 128 80 80 80 81 82 83 83  99 128 129 130 132 133 134 135 87 87 88 89 89 90 91
+ 14 50 106 106 107 109 110 111 112 63 63 63 64 65 66 66
+  90 119 120 121 122 124 125 125 77 77 77 78 79 80 80  95 123 123 125 126 127 129 129 80 80 81 82 83 84 84  99 130 131 132 133 135 136 136 88 88 89 90 90 91 92
+ 15 50 107 108 110 111 112 114 114 64 64 64 65 66 67 67
+  90 120 121 123 124 126 127 128 78 78 78 79 80 81 81  95 124 125 127 128 130 131 132 82 82 82 83 84 85 85  99 131 132 134 135 137 138 139 89 89 90 91 91 92 93
+ 16 50 108 108 110 111 112 114 114 64 64 65 66 66 67 68
+  90 121 122 123 124 126 127 128 78 78 79 80 81 81 82  95 125 126 127 128 130 131 132 82 82 83 84 85 85 86  99 132 133 134 135 137 138 139 90 90 90 91 92 93 93
+ 17 50 108 109 110 111 113 114 115 64 65 65 66 67 67 68
+  90 122 122 123 125 126 127 128 78 79 79 80 81 81 82  95 125 126 127 129 130 131 132 82 83 83 84 85 85 86  99 133 133 134 136 137 138 139 90 90 91 91 92 93 93 Edad Percentiles Presión arterial sistólica (mm Hg) Presión arterial diastólica (mm Hg)
+  para la talla 5% 10% 25% 50% 75% 90% 95% 5% 10% 25% 50% 75% 90% 95%Guía para la atención integral de las personas con hipertensión arterial    /   49ANEXO N° 4
+Objetivos del estudio clínico del paciente hipertenso
+El Anexo N° 4 sintetiza el curso de acción por seguir para la evaluación diagnóstica 
+de los sujetos hipertensos. La consulta clínica cumple con el propósito de con ﬁ rmar 
+la hipertensión arterial, determinar su nivel y etiología, estimar su tiempo de evolución, investigar los tratamientos previos y la respuesta obtenida, síntomas, otros factores de riesgo, daño de órgano blanco, enfermedades cardiovasculares y otras co-morbilidades, así como determinar el riesgo global del paciente (ver tablas).
+    Hipertensión
+1. F.R. Anamnesis
+2. D.O.B. Examen físico 4. Enfermedades concomitantes3. ECVC Estudio ﬁ nal 5. Sospecha de H.T.A. secundaria
+1-3+ nivel de P .A. Alto y muy alto   Estudios especiales
+RIESGO (cuadro A)  (cuadro B)
+Bajo  Intermedio (evaluar progresión y regresión)
+ (mejor estrati ﬁ cación)
+Fin del estudio Estudio ampliado
+Algoritmo diagnóstico del paciente hipertenso. F.R.: Factores de riesgo; D.O.B: daño de órgano blanco; 
+E.C.V .C.: Enfermedad cardiovascular clínica; HT: hipertensión; PA: presión arterial.
+(Adaptado del Consenso Latinoamericano de Hipertensión, 2001)50   /    Guía para la atención integral de las personas con hipertensión arterialCuadro A
+Estudios especiales para detectar hipertensión secundaria
+ Etiología EstudiosCoartación de la aorta Radiografía de tórax, tomografía computarizada 
+de tórax
+Enfermedad de Cushing Cortisol libre, prueba de dexametasonaAldosteronismo Hipocalemia, cociente aldosterona/renina (ambos en ng/ml, > 50), 17 OH Esteroides y  17-cetoesteroides en orina de 24 horasHipertensión renovascular Radiorrenograma con captopril, Doppler-
+duplex de arterias renales, arteriografía renal.
+Poliquistosis renal EcografíaNeuropatías Ecografía, análisis de orina, depuración de 
+creatinina, proteinuria
+Feocromocitoma Metanefrinas, ácido vanilmandélico y 
+catecolaminas urinarias
+Apnea obstructiva del sueño Oximetría nocturna, polisomnografíaEnfermedades tiroideas Tirotro ﬁ na (TSH), tiroxina (T4)Guía para la atención integral de las personas con hipertensión arterial    /   51ANEXO N° 5
+Sugerencias para el mantenimiento adecuado del es ﬁ gmomanómetro
+1. En los manómetros de mercurio, el extremo superior del tubo de la ventana 
+de aireación, debe mantenerse libre, para permitir fácil acceso y salida de aire a través del mismo. 
+2. Los manómetros aneroides y los aparatos electrónicos deben calibrarse 
+regularmente con un manómetro de mercurio, conectándolos en forma paralela 
+a una fuente común de presión.
+3. Evite que el es ﬁ gmomanómetro reciba golpes bruscos, ya que éstos afectan el 
+funcionamiento normal del mismo.
+4. Una vez utilizado el es ﬁ gmomanómetro, doble cuidadosamente el brazalete, 
+enrolle el tubo de caucho y guárdelo en lugar seguro y temperatura menor de 
+30°C.
+5. Efectuar revisiones periódicas (cada mes) del es ﬁ gmomanómetro, comparándolo 
+con otro que funciones adecuadamente, con la ﬁ nalidad de mantener el 
+instrumento en condiciones óptimas, para obtener lecturas con ﬁ ables al medir 
+la presión arterial.52   /    Guía para la atención integral de las personas con hipertensión arterialANEXO N° 6
+Guía práctica para el personal de salud
+Intervención para personas con hipertensión arterial con peso normal
+Sesión 1
+• Captar en el programa de hipertensión para el tratamiento y seguimiento.• Orientar para que la persona consuma poco sodio en la alimentación y mantenga 
+la ingesta adecuada de potasio, magnesio y calcio.
+Sesión 2
+• Indicar la cantidad de sodio que debe consumir.• Asesorar sobre la lectura de las etiquetas de los alimentos en kilocalorías y el 
+tamaño de la porción.
+Sesión 3
+• Enseñar a identi ﬁ car las fuentes de sodio y potasio diarias.
+Sesión 4
+• Orientar para el cambio de hábitos de compra de alimentos reduciendo el 
+número de alimentos procesados.
+Sesión 5
+• Instruir sobre el problema que causan los alimentos ricos en sodio.
+Sesión 6
+• Enseñar a preparar alimentos conservando el máximo contenido de potasio. 
+(Ejemplo: usando el mínimo de agua posible o consumiéndolos crudos.
+Sesión 7
+• Enseñar a utilizar otras alternativas para sazonar como hierbas y especies.• Evaluar la intervención antihipertensiva y el cambio de la preparación de 
+alimentos.
+Sesión 8
+• Modi ﬁ car las recetas para disminuir el contenido de sodio.
+• Revisar libros de recetas con preparaciones bajas en sodio.• Estimular a las personas en la actividad física.
+Sesión 9
+• Distribuir y/o compartir recetas bajas en sodio y ricas en potasio.• Elaborar menús para ﬁ estas y ocasiones especiales.
+Sesión 10
+• Enseñar como mantener el peso adecuado y los cambios de conducta.• Elaborar menús para ﬁ estas y ocasiones especiales. Guía para la atención integral de las personas con hipertensión arterial    /   53Guía práctica para el personal de salud
+Intervención para personas con hipertensión arterial con exceso de peso
+Sesión 1
+• Captar en el programa de hipertensión para el tratamiento y seguimiento.• Brindar recomendaciones nutricionales para bajar de peso.• Asesorar sobre los bene ﬁ cios de la actividad física.
+Sesión 2
+• Asesorar sobre la in ﬂ uencia del estilo de vida.
+• Asesorar sobre las etiquetas de los alimentos en kilocalorías y el tamaño de 
+porción.
+• Orientar sobre el alcance del ejercicio sobre los niveles de tensión arterial.
+Sesión 3
+• Hacer ajustes al plan de alimentación si es necesario.• 
+Comprometer a la persona para iniciar un mínimo de actividad física normal.
+Sesión 4
+• Ofrecer asesoría sobre la compra y preparación de alimentos en los 
+restaurantes.
+• Intercambiar las experiencias del grupo acerca de actividad física.
+Sesión 5
+• Evaluar y brindar soporte social y refuerzo de la personalidad, para establecer 
+control sobre las situaciones que están relacionadas con el comer.
+• Instruir sobre técnicas de respiración y relajamiento.
+Sesión 6
+• Enseñar a identi ﬁ car las meriendas y bebidas bajas en calorías y alimentos 
+grasosos.
+• Explicar diferentes modalidades de actividad física.
+Sesión 7
+• Establecer metas realistas.• 
+Adecuar el tratamiento de acuerdo a los hábitos y costumbres del paciente.
+• Evaluar la intervención antihipertensiva y el cambio en la preparación de los 
+alimentos.
+• Evaluar los cambios positivos de la actividad física formal sobre la presión 
+arterial.
+Sesión 8
+• Evaluar la motivación y el compromiso personal.• Evaluar los cambios que deben seguirse en la sesión, preparación de los 
+alimentos.
+• Estimular a las personas en la actividad física.54   /    Guía para la atención integral de las personas con hipertensión arterialSesión 9
+• Plani ﬁ car preparaciones de alimentos para ﬁ estas.
+• Modi ﬁ car recetas favoritas.
+• Orientar sobre la importancia de estilo vida saludable.
+Sesión 10
+• Enseñar como mantener el peso adecuado y los cambios de conducta. Revisar logros. Evaluar los cambios permanentes en el estilo de vida de manera individual.
+Este método se utilizará para 10 sesiones grupales una vez por semana, durante 
+la intervención intensiva. Los primeros 15 minutos de la sesión se deben revisar tanto la ingesta diaria como las metas y progresos que se establecieron al inicio de la semana. Incluir 15 minutos de actividad física.
+Todas las sesiones deben iniciar con la toma del peso, circunferencia de cintura y 
+presión arterial de los participantes.
+Al terminar cada sesión, enfatizar los objetivos de la sesión.También es importante enseñar cómo se debe descansar y técnicas de relajación 
+mental entre jornadas de trabajo y al ﬁ nal de la jornada de trabajo rutinario para 
+lograr un descanso físico y mental reparador. Incluir siesta en la hora de almuerzo o 20 minutos de caminata o ejercicio aeróbico.Guía para la atención integral de las personas con hipertensión arterial    /   55ANEXO N° 7
+Recomendaciones nutricionales
+Objetivos:
+• Contribuir a reducir y mantener la presión arterial dentro de cifras capaces de 
+evitar complicaciones.
+• Alcanzar y/o mantener un peso saludable.
+• Reducción de peso • Reducir el índice de masa corporal si está con 
+sobrepeso u obesidad.
+  • Recomendaciones nutricionales para bajar de 
+peso (Guías alimentarias para Panamá) y/o plan de alimentación hipocalórica.
+• Sodio • La ingesta de sodio depende de las 
+complicaciones de cada caso. (Plan de 
+alimentación con restricción de sodio).
+  • Observar la ingesta de potasio, calcio y 
+magnesio.
+• Grasas • Reducir la ingesta de grasas saturadas y 
+colesterol.
+  • La ingesta de grasas no debe ser mayor    de 30% de las calorías totales.
+• Bebidas alcohólicas • Se recomienda la abstinencia.• Ejercicios • Caminar o realizar ejercicios de tipo aeróbicos 
+regularmente (30 minutos de 3 
+   a 5 veces por semana).
+• Tabaco • Suspender el consumo de tabaco.• Agua • Tomar de 8 a 10 vasos de agua por día.• Educación del paciente y  • Importancia del control y tratamiento
+ su familia  individualizado.  • Estilo de vida saludable.  • Importancia del cumplimiento del programa 
+dietético y de ejercicios.
+  • Manejo adecuado del estrés.56   /    Guía para la atención integral de las personas con hipertensión arterialPlan de alimentación básico con restricción de sodio
+Las dietas con diferentes niveles de restricción de sodio son indicadas de acuerdo a 
+la gravedad de la hipertensión arterial, de las complicaciones cardiacas vasculares y al nivel de edema o retención de líquidos.
+Clasiﬁ cación:
+4. Restricción leve de sodio: no más de 4 gramos de sal diarios 
+ Para todo paciente con diagnóstico de hipertensión y algún daño leve del 
+corazón. Es permitido añadir una pequeña cantidad de sal en la cocción de los alimentos. Se prohíbe el consumo de alimentos, aderezos y condimentos con monoglutamato de sodio o benzoato de sodio u otro preservativo a base de sodio.
+5. Restricción moderada de sodio: no más de 3 gramos de sal diarios. Para todo paciente con edema leve o con tendencia a desarrollarlo. Se permite 
+agregar poca sal durante la preparación de uno de los alimentos que consume en cada comida. No se permite ningún tipo de alimento en conserva que contenga sodio.
+3. Restricción severa de sodio: 2 gramos o menos de sal diarios. Se indica cuando la hipertensión arterial persiste, a pesar de los alimentos y 
+de la dieta con restricción moderada de sodio, el paciente presenta edema e insuﬁ ciencia cardiaca congestiva, la sal debe ser reducida a 2g o menos.Guía para la atención integral de las personas con hipertensión arterial    /   57ANEXO N° 8
+Funciones, actividades y tareas del personal de salud 
+en el primer nivel de atención 
+Medicina general
+• Realizar la historia clínica completa a todo paciente con sospecha o diagnóstico 
+conﬁ rmado de hipertensión arterial.
+• Solicitar y registrar las pruebas de laboratorio y de gabinete correspon-diente.• Prescribir el tratamiento farmacológico y registrarlo en el expediente.• Realizar el seguimiento clínico a todo paciente hipertenso (nuevo y subsecuente).• Referir a enfermería y nutrición todo paciente que ingresa con el diagnóstico de 
+hipertensión arterial.
+• Realizar interconsultas con otros profesionales de la institución según necesidad.• Referir a especialistas de otras instituciones de acuerdo a la evolución de la 
+enfermedad y condición clínica de la persona.
+• Cumplir con el sistema de referencia y contrarreferencia.• Realizar visitas domiciliarias como parte del equipo básico de salud, de acuerdo al 
+nuevo modelo de atención de salud.
+• Coordinación con el equipo de salud de la instalación correspondiente.• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+realización de actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Participar en las actividades de educación del paciente hipertenso, su familia y la 
+comunidad, conjuntamente con el equipo interdisciplinario de salud.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.
+Enfermería
+• Realizar avalúo físico al paciente para identi ﬁ car problemas de salud y establecer 
+diagnósticos de enfermería.
+• Tomar el peso (en cada consulta) y la talla (primer control).• Tomar la presión arterial a todo paciente bajo control y lo registrará en el formulario 
+destinado para este ﬁ n.
+• Referir al médico a todo paciente con cifras tensionales superiores a 140/90.• Realizar seguimiento a todo paciente hipertenso nuevo y subsecuente.• Referir a los y las pacientes en control a trabajo social, nutrición, salud mental y 
+salud bucal para su correspondiente evaluación, diagnóstico y seguimiento.
+• Sensibilizar al paciente obeso sobre su enfermedad y las consecuencias 
+biopsicosociales de la misma.
+• Participar con el equipo interdisciplinario de salud en la formación y seguimiento 
+de grupos o sociedades de hipertensos.58   /    Guía para la atención integral de las personas con hipertensión arterial• Intervenir conjuntamente con el equipo interdisciplinario en la realización de 
+actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Participar en las actividades de educación del paciente hipertenso, su familia y la 
+comunidad conjuntamente con el equipo interdisciplinario.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.
+Nutrición
+• Evaluación y diagnóstico nutricional.
+• Peso• Índice de masa corporal• Circunferencia de cintura
+• Entrevista alimentaria.• Cálculos de requerimientos nutricionales.• Educación alimentaria nutricional.• Seguimiento y control a todo paciente nuevo o subsecuente.• Participar con el equipo interdisciplinario de salud en la formación y seguimiento 
+de grupos o sociedades de hipertensos.
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+realización de actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Participar en las actividades de educación del paciente hipertenso, su familia y la 
+comunidad conjuntamente con el equipo interdisciplinario.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.
+Trabajo social
+• Efectuar la evaluación social del paciente hipertenso y su grupo familiar.• Involucrar a la familia del paciente como coadyuvantes en el cumplimiento 
+farmacológico y no farmacológico.
+• Ofrecer consejería al paciente y a su grupo familiar.• Atender y dar seguimiento a la morbilidad social del paciente y su grupo 
+familiar.
+• Participar con el equipo de salud en la organización y seguimiento de los grupos 
+de pacientes hipertensos y grupos de apoyo.
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la 
+realización de actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Participar en las actividades de educación del paciente hipertenso, su familia y la 
+comunidad conjuntamente con el equipo interdisciplinario de salud.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.Guía para la atención integral de las personas con hipertensión arterial    /   59Salud bucal
+• Brindar educación al paciente sobre técnica de cepillado, aplicación de ﬂ úor y 
+asesoramiento dietético.
+• Realizar el examen clínico y anamnesis completa.• Establecer un diagnóstico, pronóstico y plan de tratamiento odontológico.• Realizar las interconsultas necesarias.• Control de la infección e inactivación de cavidades abiertas.• Realizar exodoncias y cirugías indicadas.• Efectuar las restauraciones necesarias.• Realizar el tratamiento periodontal.• Controles cada seis (6) meses, pudiendo variar la periodicidad a consideración del 
+odontólogo y de acuerdo a cada caso particular. 
+• Durante el primer año de tratamiento se deben realizar mínimo dos controles al 
+paciente y las citas necesarias para completar su tratamiento de Fase I. A partir del segundo año mínimo dos controles anuales.
+• Referir para tratamientos odontológicos especializados (endodoncias, prótesis, 
+entre otros).
+Promoción y prevención.
+• Intervenir conjuntamente con el equipo interdisciplinario de salud en la realización 
+de actividades de promoción, prevención y rehabilitación de la hipertensión arterial.
+• Educación sobre técnica de cepillado, aplicación de ﬂ úor y asesoramiento 
+dietético.
+• El uso de ﬂ uoruros tópicos como cremas dentales, barnices y/o geles de ﬂ úor. Por 
+la disminución del ﬂ ujo salival es recomendable el complemento de los enjuagues 
+ﬂ uorados de uso casero.
+• Técnicas de cepillado para eliminar adecuadamente la placa bacteriana.• Pro ﬁ laxis dental.
+• Control periódico.
+Diagnóstico y tratamiento oportuno.
+Consideraciones especiales.
+• Evaluar la presión arterial antes de cualquier tratamiento. Según la literatura 
+un incremento del 20% en las cifras usuales del paciente, obliga a posponer la consulta.
+• Trabajar en un ambiente relajado. De ser necesario, prescribir ansiolíticos la noche 
+anterior y la mañana de la cita.
+• Anestesia local sin vasoconstrictor (adrenalina o epinefrina).• Evitar prescribir esquemas terapéuticos prolongados de AINES.• Pro ﬁ laxis antibiótica en casos necesarios para pacientes hipertensos (según las 
+recomendaciones actualizadas de la Sociedad Internacional de Cardiología).60   /    Guía para la atención integral de las personas con hipertensión arterial• Evitar movimientos bruscos del paciente en el sillón dental.
+• Optimizar el tiempo de trabajo.• Preferible dar citas vespertinas.
+Contraindicaciones en el empleo de los vasoconstrictores adrenérgicos.
+• Cuando se desconozca la condición actual del paciente.• Cuando el paciente esté recibiendo bloqueadores beta adrenérgicos no 
+cardioselectivos, como parte de la terapia antihipertensiva, como son: propanolol, atenolol y timolol.
+• Cuando sufra arritmia y no esté bajo tratamiento.• Los siguientes seis (6) meses posterior a un infarto de miocardio.• Angina de pecho inestable.• Paciente que recibe antidepresivos tricíclicos.• Pacientes bajo la in ﬂ uencia de la cocaína.
+Salud mental
+• Realizar la atención ambulatoria de los y las pacientes que padecen de hipertensión 
+arterial, según las normas básicas de atención y de concentración y rendimiento de actividades en salud mental.
+• Participará con el equipo básico de salud en la formación de grupos de ayuda 
+mutua dirigido a personas que padecen de hipertensión arterial.
+• Orientar a los equipos básicos de salud en la promoción de estilos de vida 
+saludables asociados a la hipertensión arterial (dieta, ejercicio, uso de alcohol y otras drogas) y en particular en la identi ﬁ cación de las situaciones estresantes de 
+la vida diaria.
+• Capacitar a los equipos básicos de salud en la aplicación de técnicas de intervención 
+psicológica para el manejo del estrés, en pacientes que padecen de hipertensión arterial.
+• Colaborar con el equipo básico de salud en la identi ﬁ cación y manejo de los 
+factores psicosociales que limitan o favorecen la adhesión al tratamiento indicado de cada paciente hipertenso.
+• Intervenir conjuntamente con el equipo multidisciplinario en la realización de 
+actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Participar en las actividades de educación del paciente hipertenso, su familia y la 
+comunidad conjuntamente con el equipo multidisciplinario.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.
+Educación para la salud
+• Brindar orientación al equipo de salud sobre metodologías y técnicas educativas 
+para la realización de actividades de promoción y educación en hipertensión arterial.Guía para la atención integral de las personas con hipertensión arterial    /   61• Organiza actividades educativas con la comunidad para la prevención de la 
+hipertensión arterial.
+• Elaborar material didáctico de prevención de hipertensión arterial y la promoción 
+de estilos de vida saludables.
+• Interviene conjuntamente con el equipo multidisciplinario en la realización de 
+actividades de promoción, prevención, atención y rehabilitación de la hipertensión arterial.
+• Colaborar en el diseño y desarrollo de investigaciones relacionadas con la 
+hipertensión arterial.62   /    Guía para la atención integral de las personas con hipertensión arterialANEXO Nº 9
+Responsabilidades de los niveles ejecutores
+Los niveles ejecutores desarrollarán las normas, guiándose por los lineamientos 
+técnicos y administrativos de la política de salud del país.
+Nivel local
+El nivel local está compuesto por los centros de salud, subcentros de salud, puestos de salud, hospitales.
+Corresponde a los directores o gerentes de estas instalaciones en unión del equipo 
+de salud, la responsabilidad de aplicar las normas y evaluar su cumplimiento, para lo cual contará con la asesoría y el apoyo técnico del nivel regional.
+Nivel regional
+Los directores o gerentes regionales conjuntamente con los equipos conductores de las regiones de salud a su cargo, serán los responsables de facilitar los mecanismos pertinentes para asegurar el cumplimiento de éstas normas.
+También se encargarán de la programación, supervisión y evaluación de la ejecución 
+de las actividades señaladas para el manejo integral de las personas con hipertensión arterial.
+Para la realización de éstas tareas dispondrá de la asesoría y el apoyo técnico del 
+nivel central.
+Nivel central
+El nivel central está ubicado en el Departamento de Salud y Atención Integral a la Población del Ministerio de Salud y tiene la responsabilidad de elaborar las normas, organizar su implementación, supervisar y evaluar su cumplimiento en todo el territorio nacional.
+Corresponde a éste nivel revisar y actualizar éstas normas, basándose en la evidencia 
+cientí ﬁ ca, de manera permanente.
+También deberá promover la capacitación permanente del equipo de salud, para 
+garantizar la calidad de la atención brindada a la población.Guía para la atención integral de las personas con hipertensión arterial    /   63ANEXO N° 10
+Evaluación del cumplimiento de esta guía de atención
+Para el monitoreo y la evaluación del cumplimiento de esta guía de atención se 
+utilizarán indicadores de procesos e indicadores de resultado. En los aspectos referentes a la estructura se recomienda determinar la existencia y disponibilidad de espacio físico para atender a los pacientes con hipertensión arterial, así como la disponibilidad para realizar los exámenes de laboratorio (glucemia en ayunas, urinálisis, creatinina, nitrógeno de urea, biometría hemática completa), cumpliendo con los estándares de habilitación de las instalaciones de salud.
+Los indicadores que se utilizarán y que son proporcionados por el sistema de 
+información de registros médicos y estadísticas de salud son:
+Indicadores de proceso
+DESCRIPCIÓN 
+DEL 
+INDICADOR
+Porcentaje de 
+pacientes nuevos con diagnóstico de hipertensión arterial.
+Porcentaje total 
+de pacientes diagnosticados con hipertensión arterial (nuevos y viejos).
+Porcentaje de 
+embarazadas con diagnóstico de hipertensión arterial.
+Porcentaje de 
+hipertensos inscritos en el Programa de Salud de Adultos.FORMATO 
+DEL 
+INDICADOR
+N° de pacientes nuevos con 
+diagnóstico de hipertensión arterial.
+Total de pacientes atendidos en la 
+instalación en el período evaluado
+X 100
+N° de pacientes diagnosticados con 
+hipertensión arterial.
+Total de pacientes atendidos en la 
+instalación en el período evaluado.
+X 100
+N° de embarazadas con diagnóstico de 
+hipertensión arterial.
+Total de embarazadas atendidas en el 
+período evaluado.
+X 100
+N° de hipertensos captados por el 
+Programa de Salud de Adultos.
+Total de hipertensos atendidos en la 
+instalación en el período evaluado.
+X 100FUENTE PARA 
+LA RECOLECCIÓN 
+DE DATOS
+Registro diario de 
+atención (RDA).
+Registro diario de 
+atención (RDA).
+Registro diario de 
+atención (RDA).
+Registro diario de 
+atención (RDA).PERIODICIDAD
+Anual
+Anual
+Anual
+Anual64   /    Guía para la atención integral de las personas con hipertensión arterialDESCRIPCIÓN 
+DEL 
+INDICADOR
+Porcentaje de 
+hipertensos referidos a nutrición.
+Porcentaje de 
+hipertensos referidos a enfermería
+Porcentaje de 
+hipertensos referidos a cardiología.
+Porcentaje de 
+hipertensos referidos a oftalmología.
+Porcentaje de 
+hipertensos referidos a salud mental.
+Porcentaje de 
+hipertensos atendidos en salud bucal
+Porcentaje de 
+hipertensos atendidos con tres controles de presión arterialFORMATO
+DEL
+INDICADOR
+N° de hipertensos referidos a nutrición
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100N° de hipertensos referidos a la 
+enfermera
+Total de hipertensos atendidos en el 
+período evaluado
+X 100N° de hipertensos referidos a 
+cardiología.
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100N° de hipertensos referidos a 
+oftalmología.
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100N° de hipertensos referidos a salud 
+mental.
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100N° de hipertensos referidos a salud 
+bucal.
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100N° de hipertensos con tres controles 
+de presión arterial.
+Total de hipertensos atendidos en 
+la instalación de salud el período evaluado.
+X 100Los siguientes indicadores se proponen para el monitoreo y evaluación del pro-
+grama de salud de adultos en lo que respecta a la hipertensión arterial como com-ponente del grupo de enfermedades crónicas no transmisibles.
+FUENTE PARA 
+LA RECOLECCIÓN 
+DE DATOS
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Tarjeta de 
+seguimiento de 
+casos.
+Hoja de registro de 
+los resultados de 
+laboratorio, PERIODICIDAD
+Anual
+Anual
+Anual
+Anual
+Anual
+Anual
+AnualGuía para la atención integral de las personas con hipertensión arterial    /   65DESCRIPCIÓN 
+DEL 
+INDICADOR
+Porcentaje de 
+hipertensos que recibieron acciones educativa en la consulta.
+Porcentaje de 
+hipertensos atendidos con exámenes de laboratorio mínimos indicados según guía.FORMATO 
+DEL 
+INDICADOR
+N° de hipertensos que recibieron 
+acciones educativas en la consulta.
+Total de hipertensos atendidos en el 
+período evaluado.
+X 100
+Nº de hipertensos con exámenes de 
+laboratorio mínimos indicados según guía.
+Total de hipertensos atendidos en 
+la instalación de salud en el período evaluado.
+X 100FUENTE PARA 
+LA RECOLECCIÓN 
+DE DATOS
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+hipertensión arterial 
+y obesidad.
+Tarjeta de 
+seguimiento de 
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+hipertensión arterial 
+y obesidad.
+Tarjeta de 
+seguimiento de 
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+hipertensión arterial 
+y obesidad.PERIODICIDAD
+Anual
+Anual
+Indicadores de resultado (impacto)
+DESCRIPCIÓN 
+DEL 
+INDICADOR
+Porcentaje de 
+hipertensos en control con el último valor de presión arterial normal.FORMATO 
+DEL 
+INDICADOR
+N° de hipertensos en control con el 
+último valor de presión arterial normal
+Total de hipertensos en control en 
+la instalación de salud en el período evaluado.
+X 100FUENTE PARA 
+LA RECOLECCIÓN 
+DE DATOS
+Tarjeta de 
+seguimiento de 
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+variables clínicas 
+y actividades del 
+/ la paciente con 
+diabetes mellitus, 
+hipertensión arterial 
+y obesidad.PERIODICIDAD
+Anual66   /    Guía para la atención integral de las personas con hipertensión arterialDESCRIPCIÓN 
+DEL 
+INDICADOR
+Porcentaje de 
+hipertensos en control con diagnóstico de diabetes mellitus.FORMATO 
+DEL 
+INDICADOR
+N° de hipertensos en control con el 
+último valor de glucemia en ayunas elevada (>126mg/dl) o con diagnóstico de diabetes mellitus.
+Total de hipertensos en control en 
+la instalación de salud en el período evaluado
+X 100FUENTE PARA 
+LA RECOLECCIÓN 
+DE DATOS
+Tarjeta de 
+seguimiento de 
+casos.
+Hoja de registro 
+de los resultados 
+de laboratorio, 
+variables clínicas 
+y actividades del 
+paciente con 
+diabetes mellitus, 
+hipertensión arterial 
+y obesidad.PERIODICIDAD
+Anual

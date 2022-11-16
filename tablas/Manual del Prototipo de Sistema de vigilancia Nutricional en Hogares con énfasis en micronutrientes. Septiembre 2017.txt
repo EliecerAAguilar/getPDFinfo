@@ -1,0 +1,2048 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manual del Prototipo de Sistema de vigilancia Nutricional en 
+Hogares, con énfasis en micronutrientes.  
+Panamá  
+ 
+ 
+ 
+CONSULTORÍA “EVALUACIÓN, MONITOREO Y VIGILANCIA”.  
+NO. DE REF. 08 -15-FC o CI”  
+ 
+ 
+ 
+ 
+ 
+SEPTIEMBRE 2017  
+ 
+ 
+ 
+ 
+ 
+ 
+DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  2 
+ Contenido  
+I. INTRODUCCIÓN  ................................ ................................ ................................ ................................ ..... 5 
+II. MODULO 1: INSTRUCTIVO PARA LLENADO DEL CUESTIONARIO  ................................ ..........................  5 
+2.1 INTROD UCCION MODULO 1 ................................ ................................ ................................ ..........  5 
+2.2 IDENTIFICACIÓN DE LA ENCUESTA  ................................ ................................ ................................  6 
+2.3 INFORMACIÓN DEL HOGAR  ................................ ................................ ................................ ..........  7 
+2.4 SECCIÓN A: DATOS GENERALES Y CARACTERISTICAS DE LA VIVIENDA  ................................ ........  8 
+2.5 SECCIÓN B: INFORMACION DE LA ENTREVISTADA.  ................................ ................................ ...... 9 
+2.5.1 DATOS DE LA ENTREVISTADA  ................................ ................................ ................................ .......  9 
+2.5.2 SUPLEMENTACIÓN DE LA MUJER EMBARAZADA CON HIERRO Y ÁCIDO FÓLICO.  .....................  10 
+2.5.3 FRECUENCIA  DE CONSUMO DE ALIMENTOS FORTIFICADOS DE LA MADRE/CUIDADORA.  .......  11 
+2.6 SECCION C: SELECCIÓN DEL NIÑO/A  ................................ ................................ ...........................  12 
+2.6.1 SELECCIÓN DEL NIÑO/ A ................................ ................................ ................................ .............  12 
+2.6.2 SUPLEMENTACIÓN DEL NIÑO O NIÑA CON HIERRO Y ALIMENTO COMPLEMENTARIO 
+FORTIFICADO (ACF)  ................................ ................................ ................................ .............................  13 
+2.6.3 FRECUENCIA DE CONSUMO DE ALIMENTOS FORTIFICADOS DEL NIÑO/A SELECCIONADO.  ..... 14 
+2.7 SECCIÓN D. ANTROPOMETRIA  ................................ ................................ ................................ .... 15 
+2.8 SECCIÓN E: TOMA DE MUESTRAS BIOLOGICAS  ................................ ................................ ..........  16 
+2.9 SECCION F: Muestras de alimentos de la comunidad.  ................................ ................................  17 
+2.9.1 LUGAR Y FECHA DE DÓNDE SE REALIZA LA COMPRA DE ALIMENTOS  ................................ .......  17 
+2.9.2  MARCA Y CANTIDAD DE ALIMENTOS A COMPRAR  ................................ .............................  17 
+III. MODULO 2: TECNICAS PARA LA TOMA DE MEDIDAS ANTROPOMETRICAS  ................................ ... 17 
+3.1 INTRODUCCION  ................................ ................................ ................................ ...........................  17 
+3.2 INSTRUMENTOS  ................................ ................................ ................................ ................................  18 
+3.3 PROCEDIMIENTOS ANTROPOMÉTRICOS  ................................ ................................ ....................  20 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  3 
+ IV. MODULO 3: TECNICAS PARA LA TOMA DE MUESTRAS BIOLOGICAS ................................ ..............  30 
+4.1 Introducción  ................................ ................................ ................................ ................................  30 
+4.2 Principios generales de la obtención de muestras sanguíneas  ................................ ..................  31 
+4.3 Condiciones para la toma de muestras ................................ ................................ .......................  31 
+4.4 Normas de seguridad biológica  ................................ ................................ ................................ ... 32 
+4.5 Equipos y consumibles  ................................ ................................ ................................ ................  32 
+4.5.1 Material para la toma de muestra sanguínea  ................................ ................................ ............  32 
+4.5.2 Para etiquetado de muestras: ................................ ................................ ................................ .... 33 
+4.5.3 Para transporte y centrifugación de muestras:  ................................ ................................ .........  33 
+4.6 Toma de muestra sanguínea  ................................ ................................ ................................ .......  33 
+4.6.1 Procedimiento  ................................ ................................ ................................ ............................  33 
+4-7 Preparación y proceso de las muestras sanguínea s ................................ ................................ ... 36 
+4.8 Etiquetado de muestras sanguíneas procesadas  ................................ ................................ ........  37 
+4.8  Cuidados con la madre/cuidadora o niña de estudio posterior a la t oma de muestra sanguínea  .. 38 
+4.9 Problemas durante la toma de muestra sanguínea  ................................ ................................ .... 38 
+4.9.1 Para prevenir los hematomas:  ................................ ................................ ................................ ... 39 
+4.9.2 Hemólisis  ................................ ................................ ................................ ................................ .... 39 
+4.9.3 Hemoconcentración  ................................ ................................ ................................ ...................  40 
+4.9.4 Interferencias  ................................ ................................ ................................ .............................  40 
+4.9.4 Procedimientos especiales de preparación para muestras de algunos micro nutrimentos  ..... 40 
+Ácido fólico en sangre:  ................................ ................................ ................................ ........................  40 
+Ácido fólico en plasma:  ................................ ................................ ................................ .......................  40 
+Ferritina, receptores de transferrina, proteína “c” reactiva y zinc  ................................ .....................  40 
+4.9.5 Preparación de substancias conservadoras  ................................ ................................ ...............  41 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  4 
+ 4.9.6 Envío de Muestras ................................ ................................ ................................ ......................  41 
+V. ANEXOS  ................................ ................................ ................................ ................................ ...............  43 
+5.2 5.1 COMO ESCRIBIR LOS NÚMEROS Y LETRA CLARA  ................................ ................................ .. 43 
+5.3 ESTANDARIZACIÓN DEL EQUIPO  ................................ ................................ ................................ . 44 
+5.4 EXTREMIDADES PARA LA MEDIDA ACERTADA. EJERCICIO EN TALLER DE CAPACITACION  .........  45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  5 
+ I. INTRODUCCIÓN  
+ 
+Este manual es un documento de consulta permanente para apoyar el correcto llenado de los da tos a registrar 
+en el sistema de vigilancia nutricional en hogares, con énfasis en micronutrientes de Panamá. Por tanto, su 
+elaboración es específica para el proceso de recolección de datos antropométricos, biológicos, 
+socioeconómicos, frecuencia de consum o de alimentos fortificados de madres/cuidadoras en edad fértil y/o 
+embarazada y  niños/as menores de 5 años y para la recolecta y cuido de  muestras de alimentos .  
+ 
+Todos los miembros de los equipos de campo deben tenerlo consigo siempre, revisarlo previame nte a la 
+recolección de datos y si es necesario al momento de realizar la encuesta. Los miembros del equipo no deben 
+confiar únicamente en los conocimientos adquiridos durante su capacitación. Por lo tanto, es conveniente 
+estudiar la encuesta y su manual d e forma individual, aun cuando sienta que domina bien el cuestionario y las 
+técnicas de toma de peso, talla,  longitud y de muestras biológicas de sangre y orina.  
+ 
+El Manual está estructurado en 4 módulos y anexos que dan pautas para realizar el trabajo de campo con la 
+calidad requerida.  
+▪ Módulo 1: Instructivo para el llenado del Cuestionario  
+▪ Módulo 2: Técnicas para la Toma de Peso y Talla en niños/as y Mujeres en edad fértil  
+▪ Módulo 3: Técnicas para la Toma, embalaje y conservación de las Muestras biológicas  
+▪ Módulo 4: Indicaciones para la compra y cuidos en la muestra de alimentos  
+▪ Anexos  
+ 
+II. MODULO 1: INSTRUCTIVO P ARA LLENADO DEL CUESTIONARIO  
+ 
+2.1 INTRODUCCION MODULO 1  
+ 
+Este módulo, está diseñado con instrucciones claras y precisas para la persona que estará encargad a de realizar la 
+entrevista. Entrevistar y tener buenos resultados, es un arte que no debe ser tratado como un proceso mecánico, 
+cada entrevista es una nueva fuente de información, de manera que debe hacerse interesante y placentera. El arte 
+de entrevistar  se desarrolla con la práctica, pero existen ciertos principios básicos  que deben ser seguidos por todo  
+entrevistador /a para coronar con éxito las entrevistas.  
+ 
+En esta sección se expondrá  un número de reglas generales, de cómo conducir bien una entrevista  y lograr 
+relaciones adecuadas con la persona entrevistada .  
+ 
+El cuestionario está estructurado en 5 secciones, las cuales han sido designadas con letras del alfabeto 
+exceptuando las dos primeras que se refiere a Identificación de la Encuesta y la informac ión del Hogar.  
+ 
+Las secciones son las siguientes:  
+▪ Identificación de la Encuesta.  
+▪ Información del Hogar  
+▪ Sección A: Datos generales y características de la vivienda.  
+▪ Sección B: Datos de la entrevistada madre y/o cuidadora y frecuencia de consumo de alimentos  
+fortificados.  
+▪ Sección C: Selección del niño/a, frecuencia de consumo de alimentos fortificados.  
+▪ Sección D:  Antropometría de la madre y/o cuidadora y niños/as menores de 5 años.  
+▪ Sección F: Toma de muestras biológicas de madres/cuidadoras y niños/as  
+▪ Secci ón G: Compra y manejo de las  mue stras de Alimentos fortificados.  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  6 
+ 2.2 IDENTIFICACIÓN DE LA ENCUESTA  
+ 
+En esta sección se anota los datos generales de identificación de la encuesta . El primer dato que llenar en el 
+cuestionario es la numeración de la encuesta . 
+1. Encuesta No.  
+▪ El número de encuesta será designado por el supervisor del equipo y llevará un número secuencial  
+▪ Antes de iniciar la entrevista a la madre y/o cuidadora asegure haber anotado de forma legible el 
+número designado a la encuesta.  
+ 
+Presentación al en trar en el hogar  
+ 
+▪ Al llegar al hogar salude y explique el motivo de su visita utilizando siempre un vocabulario sencillo, puede 
+auxiliarse con la parte introductoria que aparece en el formulario y que a continuación se repite:  
+▪ Buenos días/tarde... Mi nomb re es...  Somos del Ministerio de Salud.  
+▪ Estamos visitando su hogar, para conocer sobre la nutrición de los niños/as y las mujeres  
+▪ Pregunte si en la vivienda hay niños/as de 6 a 59 meses y la madre o cuidadora tiene entre 15 y 49 años. 
+Si no continúe en la  siguiente casa.     
+▪ SI, hay niños/as de 6 a 59 meses y madre/cuidadora entre 15 y 49 años:  
+▪ Identifique a la madre o cuidador/a, explíquele que se va a medir y pesar al niño/a y a la entrevistada y a 
+tomar una muestra de sangre y de orina de ambos.  
+▪ Explíque le que estará en el hogar aproximadamente 25 minutos y que otros miembros del equipo 
+realizaran la toma d el peso, la talla y de muestras de sangre y orina. Asegúrele que la información es 
+confidencial.  
+▪ Solicite el consentimiento para la entrevista, la ant ropometría y toma de muestr as biológicas. Si accede 
+pida le firme la hoja de consentimiento, con lapicero de tinta e inicie con el llenado  del formulario.  
+▪ Recuerde pedir  el carnet  del niño/a y la identificación de la entrevistada, para verificar las edades . 
+ 
+Elementos generales para tener en cuenta : 
+ 
+Si la madre y/o cuidadora está de acuerdo en participar en la encuesta, inicie la entrevista considerando los 
+siguientes elementos:  
+▪ Use lápiz de grafito o lápiz mecánico siempre para llenar el cuestionario y as í asegurarse que no tendrá 
+manchones. Mantenga buena punta para escribir claro.  
+▪ Pida acomodarse en un lugar donde no interrumpa el paso ni las tareas de otros miembros de la familia y 
+de ser posible en un área privada.  
+▪ Para anotar las respuestas, escriba e n las casillas cuadriculadas los números que correspondan según 
+responda la madre y/o cuidadora.  
+▪ No sugiera las respuestas a la madre y/o cuidadora.  
+▪ Las casillas no deben dejarse en blanco. Anote 0 en la casilla de la izquierda cuando sea necesario, de tal  
+manera que no quede vacía.  
+▪ Ejemplo: si la fecha de la encuesta es 5 de agosto, debe escribir 05, 08 y no escribir 5 y 8 sin anotar el cero 
+a la izquierda.  
+▪ Siempre escriba la respuesta en la línea que se ofrece a continuación de las alternativas otros 
+__________________  
+▪ Si tiene duda de cómo anotar una respuesta consulte el instructivo; si persiste la duda, consulte con su 
+supervisor de campo o anote al lado la respuesta completa y consulte posteriormente la codificación.  
+▪ Preste mucha atención a los patron es de “salto” de una pregunta a otras de tal manera que evite el error 
+de dejar preguntas sin contestar.  
+▪ Lea las preguntas textualmente. No cambie la forma de preguntar. Repita textualmente la palabra las 
+veces que sea necesario.  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  7 
+ ▪ Antes de finalizar la entr evista, revise el cuestionario y verifique que todas las preguntas han sido 
+formuladas y las respuestas escritas de forma legible.  
+▪ No brinde consejos ni eduque a la madre y/o cuidadora durante la entrevista.  
+ 
+2. Fecha de la Entrevista . 
+• Se debe anotar con dos  dígitos, el día, mes y año en que se efectúa la encuesta tomando en cuenta 
+que, a todos los números que van del 1 – 9 se les antepone cero.  
+                Ejemplo: 4 de agosto 2017. Día / Mes / Año:  0 4 / 0 8 / 1 7 .  
+ 
+3. Nombre del Encuestador . 
+• Anote el nom bre completo del encuestador. Ejemplo. María del Carmen Martínez Rocha.  
+ 
+4. Código Encuestador  
+• Anotar el código que le corresponde (se asignará código al formar los equipos de campo).  
+ 
+5. Nombre del Supervisor/a.  
+• Anote el nombre completo del supervisor. Ejemplo.  Juan José Silva Aburto.  
+ 
+6. Código del Supervisor.  
+• Anotar el código que le corresponde (se asignará código al formar los equipos de campo).  
+ 
+7. Encuesta revisada por Supervisor/a.  
+• Anote la firma del supervisor.  
+ 
+2.3 INFORMACIÓN DEL HOGAR  
+ 
+8. Corresponde al País y ya aparece Panamá .  
+8.1 Nombre de la Provincia  
+● Anotar el nombre de la provincia en el que se realiza la entrevista.  
+8.2 Nombre del Distrito  
+● Escriba en la línea el nombre del distrito en el que se realiza la entrevista.  
+8.3 Nombre del Corregimiento  
+● Escribir el  nombre del corregimiento en el que se realiza la entrevista.  
+8.4 Nombre de la barriada  
+● Escribir el nombre del corregimiento en el que se realiza la entrevista.  
+8.5 Número de la vivienda  
+● Escribir el número que identifique la vivienda. Ej. A -20. B -12 
+9. Área G eográfica . 
+• Anote en la casilla el número que corresponda:  1 Sí el lugar de la entrevista se ubica en el área 
+urbana, 2 si se ubica en el área rural y 3 si el área co rresponde a área rural indígena.  
+ 
+10. ¿El cabeza de la familia es hombre o mujer?  
+● Marque en la casilla la letra H si corresponde a hombre y M si corresponde a Mujer.  
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  8 
+ 11. ¿Cómo se llama el cabeza del hogar o de familia?  
+Anote el nombre completo del jefe del hogar (incluir dos nombres y dos apellidos). Usted debe preguntar 
+¿Quién es el jefe del hogar o  de la familia?  
+ 
+12. ¿Cuántas personas viven habitualmente en esta vivienda?  
+● Registrar el número de personas que viven habitualmente en esta vivienda (cualquier persona que 
+duerme y/o come, tenga o no lazos familiares) . 
+ 
+2.4 SECCIÓN A: DATOS GENERALES Y CARACTERIS TICAS DE LA VIVIENDA  
+Debe explicar a la madre/cuidadora que en esta sección se necesita saber sobre las características de la vivienda  
+ 
+13. Tipo de piso de la vivienda.  
+• Observe que tipo de piso tiene la vivienda y marque en la casilla según el número que corre sponde. 
+Cuando en la vivienda hay dos tipos de piso debe colocar en la casilla el tipo de piso que predomina.  
+• Cuando es otro tipo de piso además de colocar en la casilla el número 9 debe claramente indicar que 
+tipo de piso es.  
+ 
+14. ¿De dónde se abastece el a gua que usa en la casa?  
+• Lea textualmente esta pregunta y debe leer despacio todas las alternativas.  
+• Las opciones se encuentran clasificadas de acuerdo con las distintas formas en que pueden obtener el 
+agua, dependiendo de la calidad de la misma. Primero se contempla el abastecimiento de mejor 
+calidad; se trata; el agua por tubería (potable) y luego con categorías, que en algunas circunstancias 
+pueden ser indicativas de un servicio de menor calidad (pozo, ríos, lagos, etc.).  
+• Usted debe anotar en la casilla  el número que corresponda.  
+• En el caso que las fuentes del agua sean dos, pregunte ¿de cuál obtiene la mayor cantidad del agua? y 
+debe colocar en la casilla la que predomina.  
+• Cuando es otra fuente de agua además de colocar en la casilla el número 9 debe cl aramente describir 
+la fuente de agua que señalan.  
+ 
+15. ¿Cuántos cuartos para dormir ocupan en la vivienda?  
+• Lea textualmente esta pregunta.  
+• Un dormitorio es un área que tiene división permanente y que habitualmente se utiliza para dormir. 
+La información se re fiere solamente al hogar (familia que se está entrevistando); si en la vivienda hay 
+más de un hogar, no deben sumarse las habitaciones pertenecientes a los otros hogares.  
+• Anotar en la casilla el número que corresponde.  
+• Si en la vivienda no hay cuarto con división colocar en la casilla 0. 
+ 
+16. ¿En qué lugar hacen sus necesidades las personas que viven en esta casa?  
+• Lea textualmente esta pregunta.  
+• Lea todas las alternativas  y anote en la casilla el número que corresponda.   
+a) Servicio sanitario : Aparato higiénic o – sanitario; es un recipiente o taza de china o concreto que 
+se desagua por medio de una palanca y está conectado a una tubería.  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  9 
+ b) Letrina: Aparato higiénico sanitario que consiste en un tambo de madera con un hoyo, montado 
+sobre una plancheta de cemento o  ladrillo que comunica con una cavidad. Generalmente se 
+encuentra fuera de la vivienda . 
+c) Aire libre/monte: Cuando no se dispone de ningún aparato higiénico/sanitario y las personas 
+refieren ir al aire libr e. 
+d) Cuando la respuesta es Otro, además de colocar en  la casilla el número 9 debe claramente 
+describir esa otra alternativa.  
+ 
+17. Para cocinar ¿qué usa con más frecuencia?  
+• Lea textualmente esta pregunta.  
+• Lea despacio todas las alternativas  y anote en la casilla el número que corresponda.   
+• Cuando la respuesta es Otro  además de colocar en la casilla el número 9 debe claramente describir 
+esa otra alternativa.  
+ 
+18. ¿Usted tiene luz eléctrica en su hogar?  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote en la c asilla el número 2. 
+• Si la respuesta es NO debe pasar a la pregunta número 20.  
+ 
+19. ¿Tiene usted en su casa algunos de los siguientes artículos eléctricos ?  
+• Lea textualmente esta pregunta.  
+• Lea despacio todas las alternativas y anote en la casilla que correspo nde 1 si tienen el artículo y 2 si 
+no lo poseen.  
+• Cuando la respuesta es Otros  además de colocar en la casilla el número que corresponde ( 1 ó 2)  debe 
+claramente describir esa otra alternativa.  
+20. ¿Tiene usted en su casa, éstos otros artículos?  
+• Lea textualment e esta pregunta.  
+• Lea despacio todas las alternativas y anote en la casilla que corresponde 1 si tienen el artículo y 2 si 
+no lo poseen.  
+• Cuando la respuesta es Otros  además de colocar en la casilla el número que corresponde ( 1 ó 2 ) debe 
+claramente describi r esa otra alternativa.  
+ 
+2.5 SECCIÓN B: INFORMACION DE LA ENTREVISTADA.  
+Explique a la madre/cuidadora que el objetivo de esta sección es tener información acerca de la entrevistada  
+ 
+2.5.1 DATOS DE LA  ENTREVISTADA  
+ 
+21. Qué parentesco tiene con el niño o niña.  
+• Si la respuesta es Madre  anote 1 en la casilla y si la respuesta es Cuidadora  anote el número 2. 
+ 
+22. a) Escriba la fecha de hoy . 
+● Se debe anotar con dos dígitos, el día, mes y año en que se está realizando la encuesta tomando en 
+cuenta que, a todos los números que van del 1 – 9 se les antepone cero.  
+        Ejemplo: 4 de agosto 2017. Día / Mes / Año:  0 4 / 0 8 / 1 7 .  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  10 
+  
+22. b) ¿Cuál es su fecha de nacimiento?   
+• Lea textualmente esta pregunta.  
+• Con dos dígitos se anotará, día, mes y año de nacimiento que refiera la mad re/cuidadora.  
+• Verificar está información con algún documento de identificación oficial como cédula, carnet, partida 
+de nacimiento u otro.  
+• Si la madre/cuidadora en la pregunta anterior dio una información errónea, anote la respuesta 
+correcta. No olvide ma rcar con una X si verificó con el documento de identidad.  
+• Si no sabe o no recuerda su fecha de nacimiento anotar 88/88/88.  
+ 
+23. ¿Cuántos años (cumplidos) tiene usted? (la madre o cuidadora)  
+• Lea textualmente esta pregunta.  
+• Anote la edad en años cumplidos de la  madre o cuidadora. Si no recuerda anotar 88.  
+ 
+24.  ¿Sabe leer y escribir?  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote el número 2. 
+• Si la respuesta es NO pasar a la pregunta # 26.  
+ 
+25.  ¿Cuántos años a probados de escuela tiene usted?  
+• Lea textualmente esta pregunta.  
+• Anotar el grado más alto aprobado en las dos casillas:  
+n). Ninguno o Alfabetizada: 0  
+p). Primaria: 1, 2, 3, 4, 5,6  
+s). Secundaria: 1, 2, 3, 4,5  
+u). Universidad: 1, 2, 3, 4,5  
+Ejemplo:  Si la madre aprobó 3er grado de primaria, usted debe anotar p en la primera casilla y 3 en la 
+segunda.  
+ 
+Ejemplo:  Si la madre no tiene ningún grado aprobado entonces anote n en la primera 
+casilla y 0 en la segunda.              
+ 
+2.5.2 SUPLEMENTACIÓN DE LA MUJER EMBARAZADA CON HIERRO Y ÁCIDO FÓ LICO . 
+ 
+26. Actualmente está embarazada.  
+• Lea textualmente esta pregunta .  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote en la casilla el número 2. 
+•  Si la respuesta es NO pasar a la pregunta # 32 
+ 
+27. Tiempo gestación/Embarazo  
+27.a) ¿Cuantos meses de embarazo tiene ? 
+● Lea textualmente esta pregunta  
+Anote el mes cumplido que le diga la madre que puede ir del 1 – 9. 
+ Recuerde anotar siempre con dos dígitos. Ejemplo:  0 8  p 3 
+n 0 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  11 
+  
+27.b) ¿ En qué semana de embaraz o ésta?  
+● Lea textualmente esta pregunta  
+Anote las semanas cumplidas que le diga la madre que puede ir del 1 – 40. 
+ Recuerde anotar siempre con dos dígitos. Ejemplo:  0 1 ó 32.  
+ 
+28. ¿Está tomando pastillas de Hierro?  
+• Lea textualmente esta pregunta.  
+• Si la respues ta es SI, anote 1 en la casilla y si la respuesta es NO anote en la casilla el número 2. 
+•  Si la respuesta es NO pasar a la pregunta # 30  
+ 
+29. ¿Desde cuanto está tomando las pastillas de Hierro?  
+• Lea textualmente esta pregunta.  
+• Coloque en la casilla la letra qu e corresponde  
+ 
+30. ¿Está tomando pastillas de Ácido Fólico?  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote en la casilla el número 2. 
+• Si la respuesta es NO pasar a la pregunta # 32  
+ 
+31. ¿Desde cuanto está  tomando las pastillas de ácido fólico?  
+• Lea textualmente esta pregunta.  
+• Coloque en la casilla la letra que corresponde  
+ 
+2.5.3 FRECUENCIA DE CONSUMO DE ALIMENTOS FORTIFICADOS DE LA MADRE/CUIDADORA.  
+ 
+32. ¿Con que frecuencia en la semana  utiliza sal para prepara r los alimentos de la familia?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca de la sal.  
+ 
+33. ¿Con que frecuencia en la semana  uste d come pan?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara el tipo de pan.  
+ 
+34. ¿Con que frecuencia en la semana usted come hojaldre?  
+• Lea tex tualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+ 
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  12 
+ 35. ¿Con que frecuencia en la semana usted utiliza harina de trigo en preparaciones caseras?  
+• Lea textualmente esta pregu nta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca.  
+ 
+36. ¿Con que frecuencia en la semana usted consume arroz?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respu esta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca.  
+ 
+37. ¿Con que frecuencia en la semana usted consume leche líquida?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la  madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca de la leche.  
+ 
+2.6 SECCION C: SELECCIÓN DEL NIÑO/A  
+Explique a la madre/cuidadora que el objetivo de esta sección es tener información del niño/a menor de 5  años 
+seleccionado.  
+ 
+2.6.1 SELECCIÓN DEL NIÑO/A  
+ 
+• Explique a la madre/cuidadora que cuando en el hogar hay más de un niño/a menor de 5 años la 
+selección se debe hacer al azar.  
+• Si en la casa hay un niño o niña entre 6 a 24 meses, debe ser seleccionado automá ticamente.  
+• En esta sección se incluye un cuadro que le permitirá hacer la selección al azar del niño sujeto a la 
+entrevista. Para ello realice lo siguiente:  
+ 
+Anote el nombre de todos los niños de 6 -59 meses que viven en el hogar, comience por el menor o má s pequeño.  
+a) A continuación usted encontrará un cuadro con 10 columnas.  
+b) Ubique en la primera columna (vertical) el número que corresponde al último dígito del número del 
+cuestionario.  
+c) Ubique en la fila (horizontal) en la parte superior, el número de  niños en el listado.  
+d) Cruce los dos puntos ubicados y obtendrá el niño seleccionado.  
+Ejemplo:  En su lista anotó un total de 4 niños, el último número de la encuesta es el 00 2 Ubique en la 
+primera columna (vertical) el número 2 y la fila (horizontal) en la parte superior el número 4 (corresponde 
+al número de niños). Cruce ambos puntos y notará que el niño seleccionado para la entrevista será el 
+número dos del listado.  
+ 
+Al final del recuadro usted anotará los datos del niño seleccionado:  
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  13 
+ 38. Número del niño/ a seleccionados.  
+• Anote en la casilla el número que corresponde al niño o niña seleccionado.  
+ 
+39. Nombre del niño/a seleccionados.  
+• Anote el nombre completo del niño o niña. Ejemplo. Josefina de Jesús Blanco Canales.  
+40.  Escriba la fecha de hoy.  
+• Se debe anotar con  dos dígitos, el día, mes y año en que se está realizando la encuesta tomando en 
+cuenta que, a todos los números que van del 1 – 9 se les antepone cero.  
+• Ejemplo: 4 de agosto 2017. Día / Mes / Año:  0 4 / 0 8 / 1 7 .  
+ 
+41. fecha de nacimiento del niño/a .  
+• Con dos  dígitos se anotará, día, mes y año de nacimiento que refiera la madre/cuidadora.  
+• Verificar está información con algún documento oficial como: partida de nacimiento, carnet de salud, 
+etc.  
+• No olvide marcar con una X si verificó con el documento oficial.  
+• Si no sabe o no recuerda su fecha de nacimiento anotar 88/88/88.  
+ 
+42. Edad en meses del niño/a.  
+• Con dos dígitos se anotará, los meses cumplidos del niño que la madre indique . Eje mplo si el niño/a 
+tiene 8 meses cumplidos   
+ 
+• Ejemplo si el niño/a tiene 3 añ os y 6 meses de edad en la casilla escribirá   
+ 
+43. Sexo (M/F).  
+• Marque en la casilla la letra M si corresponde a masculino y F si corresponde a femenino.  
+ 
+ 2.6.2 SUPLEMENTACIÓN DEL NIÑO O NIÑA CON HIERRO Y ALIMENTO COMPLEMENTARIO FORTIFICADO (ACF)  
+ 
+44. ¿Alguna ve z usted le ha dado (nombre del niño/a) hierro en los últimos 12 meses  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote 2  
+• Si la respuesta es NO pasar a la pregunta # 46  
+• Si no sabe o no recuerda anot e 88 y pase a la pregunta #46  
+ 
+45. ¿Por cuánto tiempo le dio el Hierro de forma continua al niño/a?  
+• Lea textualmente esta pregunta.  
+• Lea las alternativas y explique que lo quiere conocer la ingesta de hierro de forma consecutiva.  
+• Anote con  dos dígitos los días , semanas o meses que la madre ha dado hierro al niño  
+•  Ejemplo si el niño/a tomo hierro en agosto, septiembre y octubre. Deberá anotar en la casilla                                                                                                             
+meses  
+  
+ 
+ 0 8 
+4 
+ 2 
+ 
+0 
+ 3 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  14 
+ 46. ¿Está tomando su niño/a gotas de Hierro ahora?  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote  2  
+• Si la entrevistada confirma que está dando actualmente gotas de hierro, solicítele que l e muestre el 
+frasco de hierro/vitamina.  
+ 
+47. ¿Le ha dado al niño crema nutritiva de la que dan en la unidad de salud, en los últimos 12 meses?  
+• Lea textualmente esta pregunta.  
+• Si la respuesta es SI anote 1 en la casilla y si la respuesta es NO anote en la casi lla el número 2. 
+•  Si la respuesta es NO pasar a la pregunta #49 
+• Si no sabe o no recuerda anote 8 y pase a la pregunta #49 
+ 
+48. ¿Por cuánto tiempo le ha dado al niño crema nutritiva?  
+• Lea textualmente esta pregunta.  
+• Lea las alternativas y explique que lo se quie re conocer el tiempo que el niño/a ha consumido crema 
+nutritiva  
+• Anote con dos dígitos los días, semanas o meses que la madre ha dado crema nutritiva al niño  
+ 
+2.6.3 FRECUENCIA DE CONSUMO DE ALIMENTOS FORTIFICADOS DEL NIÑO/A SELECCIONADO.  
+ 
+49. ¿Con que frecuenci a en la semana utiliza sal para preparar los alimentos del niño/a?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca de la sal.  
+ 
+50.  ¿Con que frecuencia en la semana el niño/a come pan?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara el tipo de pan.  
+ 
+51. ¿Con que frecuencia en la semana el niño/a come hojaldre?  
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente . 
+ 
+52. ¿Con que frecuencia en la semana el niño/a toma leche?  
+• Lea textualmente e sta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca de la leche.  
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  15 
+ 53. ¿Con que frecuencia en la semana el niño/a consume arroz?  
+• Lea textualmente esta pregu nta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca del arroz.  
+ 
+54. ¿Con que frecuencia en la semana el niño consume alimentos preparados caseramente con harina de 
+trigo ? 
+• Lea textualmente esta pregunta.  
+• No sugiera la respuesta, deje que la madre/cuidadora responda.  
+• Marque en la casilla el número correspondiente.  
+• Anote con letra clara la marca de la harina de trigo.  
+ 
+2.7 SECCIÓN D. ANTROPOMETRIA  
+Explique a la madre que esta sección se toma el peso y talla de la entrevistada y del niño/a seleccionado  
+ 
+• En esta sección anote los datos de antropometría (peso y talla) para la mujer y el niño.  
+• Cada medición se hace y se registra 2 veces en una forma independiente, es decir que  al terminar el 
+primer set de medición (Peso/talla) se inicia el siguiente set.  
+• Se deben comparar las 2 mediciones y si hay una diferencia en peso mayor de 100 gramos o en talla o 
+longitud mayor de 1 cm. Se debe hacer una tercera medida y la encuestadora d ebe corregir la que 
+está equivocada.  
+ 
+55.  Toma peso y Talla de la En trevistada  
+• Realizar a la entrevistada dos mediciones, pesa y talle una primera vez y pese y talle una segunda vez  
+• Anote el Peso de la entrevistada en Kilogramos, con número legibles  
+• Anote la Talla de la entrevistada en centímetros, con número legibles  
+• Escribe cada número en una casilla. No deje casillas vacías. Ejemplo si la mujer pesa 80 kilogramos  
+ 
+ 
+• Ejemplo  mujer mide 153.2 cm o  160 cm    
+ 
+•  
+Recuerda que la entr evistada no debe tener menos de 15 años ni más de 49 años.  
+ 
+56. Toma de peso y talla/longitud del niño/a seleccionada de 6 a 59 meses.  
+• Recuerde que al niño/a que tomara el peso y la talla es el mismo que se seleccionó en la sección C, 
+página # 5.  
+• Realizar al n iño/a dos mediciones, pesa y talle ó peso y Longitud una primera vez pesa y talle ó peso y 
+Longitud una segunda vez  
+• Si el niño/a es menor de dos años, se mide longitud (acostado) y se utiliza el infantómetro.  
+• Si el niño es mayor de dos años y al tallarlo su medición es menor o igual a 85 centímetros, se debe 
+medir nuevamente acostado, utilizando el infantómetro.  0 8 0 •  0 
+1 5 3 •  2 1 6 0 •  0 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  16 
+ • Anote el Peso del niño/a en Kilogramos, con número legibles  
+• Anote la Talla o longitud del niño o niña en centímetros, con número legibles  
+• Escribe cada número en una casilla. No deje casillas vacías. Ejemplo si la niña pesa 20 kilogramos  
+ 
+ 
+Ejemplo niño mide 65.2cm                                                          
+ 
+                                             ó 101.3 cm  
+   
+ 
+57.  SEXO: M/F.  
+• Marque en la casilla la letra M si corresponde a masculino y F si corresponde a femenino.  
+ 
+2.8 SECCIÓN E: TOMA DE MUESTRAS BIOLOGICAS  
+Explíquele a la madre que esta sección se toma las muestras de sangre y orina de la entrevistada y niñ o/ha 
+seleccionado.  
+ 
+En esta sección registrará los datos referidos a la toma de muestra tanto para la mujer como para el niño o la 
+niña.  
+58. Realizar la toma de muestra de sangre a la Entrevistada y al Niño/a.  
+ 
+58.a)  Entrevistada  
+• SI se obtuvo la muestra de san gre de la vena de la madre/cuidadora o embarazada anote 1 en la casilla 
+que dice sangre y si NO se obtuvo la muestra de sangre anote 2. 
+ 
+58.b ) Niña/o seleccionado  
+• Marque con una x si la muestra de sangre se extrae de una niña o un niño, según corresponda.  
+• SI se obtuvo la muestra de sangre de la vena del niño o niña anote 1 en la casilla que dice sangre y si NO 
+se obtuvo la muestra de sangre anote 2. 
+• La casilla que quede sin datos no debe quedar vacía anote un 0.  
+ 
+59. Realizar toma de muestra de Orina a la entre vistada y al niño/a . 
+ 
+59.a ) Entrevistada  
+● SI se obtuvo la muestra de orina, de la entrevistada, anote 1 en la casilla y si NO se obtuvo la muestra 
+de orina anote 2  
+ 
+59.b) Niño/a seleccionado  
+• Recuerde va marcar la casilla del niño o niña seleccionado.  
+● SI se obtuvo la muestra de orina, del niño o niña, anote  1 en la casilla según corresponda y si  NO se 
+obtuvo la muestra de orina anote  2  
+● La casilla que quede sin datos no debe quedar vacía anote un 0.  
+  2 0 •  0 
+ 6 5 •  2 
+1 0 1 •  3 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  17 
+ 2.9 SECCION F: Muestras de alimentos de la comunidad.  
+ 
+60. Muestr as de alimentos  
+Este módulo consta de dos partes, la primera donde se identifica el lugar y fecha de donde se realiza la compra 
+y un segundo donde se especifica la marca y cantidad comprada de cada alimento muestreado.  
+ 
+2.9.1 LUGAR Y FECHA DE DÓNDE SE RE ALIZA LA COMPRA DE ALIMENTOS  
+ 
+● Nombre de la comunidad y/o sector: Anotar el nombre con letra clara y legible  
+● Lugar donde se realiza la compra: Solicite a la dueño/a del establecimiento el nombre de su local  
+● Dirección del local: Solicite a la dueño/a del est ablecimiento la dirección según corresponda, avenida, 
+número de calle, número de vivienda  
+● Fecha: Se debe anotar con dos dígitos, el día, mes y año en que se está realizando la compra tomando en 
+cuenta que, a todos los números que van del 1 – 9 se les antep one cero. Ejemplo: 4 de agosto 2017. Día / 
+Mes / Año: 0 4 / 0 8 / 1 7 .  
+ 
+2.9.2 MARCA Y CANTIDAD DE ALIMENTOS A COMPRAR  
+ 
+• Explicar al dueño/ dueña del local de que se está realizando un estudio para verificar el valor nutritivo 
+de los alimentos fortificados. Por l o tanto, se necesita comprar los productos que tienen mayor 
+demand a (sal, arroz, pan, leche   y hojaldre ).  
+• De estos pr oductos se comprará por tienda 2 ó 3  marcas diferentes . Las más mencionadas por las 
+entrevistadas.  
+• Las cantidades que  com prar son las sig uientes: 1 libra  de sal (bolsa) , arroz 1 bolsa de 1  libra, harina de 
+trigo , un paquete de 1  libra, leche fluida  de ½ litro  (presentación de ½ litro o 1 taza) , pan simple y/o 
+tostado (5 unidades) y 4 hojaldre.  
+• Escribir con letra clara y leg ible la marca y cantidad comprada de cada uno de los alimentos en lista. 
+Ejemplo  
+ 
+• Anotar S/M en el caso que el producto que se compre no tenga marca.  
+ 
+III. MODULO 2: TECNICAS PARA LA TOMA DE MEDIDAS ANTROPOMETRICAS  
+ 
+3.1 INTRODUCCION  
+ 
+Todas las acciones de planifica ción y monitoreo de las intervenciones en el campo de la salud y nutrición requieren 
+en términos individuales y epidemiológicos, conocer el ´peso y talla como indicadores nutricionales, que reflejan la 
+ingesta inadecuada o excesiva de nutrientes.  
+El prese nte Modulo, contiene las instrucciones para el personal de salud que participara en levantamiento de 
+información del prototipo sistema de vigilancias nutricional en hogares. Es una herramienta donde se sal Sol 1 libra  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  18 
+ 
+describen los procedimientos para estandarizar la toma  de medidas antropométricas. En su contenido usted 
+encontrará información sobre:  
+ Importancia de medir y pesar en forma adecuada.  
+ Informaciones precisas para la administración, manejo y cuidado del equipo.  
+ Indicaciones para la medición correcta del peso, ta lla y/o longitud de los menores de cinco años  
+ Procedimientos para el llenado de los formularios de registro de la información.  
+PROPÓSITO  
+1) Proporcionar a los encuestadores (antropometrista) una guía que los oriente sobre las técnicas y 
+procedimientos a aplic ar durante el período de recolección de datos.  
+2) Que las personas encargadas de tomar el peso y la talla conozcan los instrumentos de registro y adquieran 
+habilidad en su aplicación.  
+3) Brindar a los encuestadores  instrucciones precisas y uniformes respecto a l os dato s a tomar en el campo 
+(peso, longitud y talla)  
+4) Estandarizar  en la técnica de  la toma del  peso y la talla al personal de salud, que participará en el 
+levantamiento de información, a fin de que la recolección de las medidas se haga con el mínimo de er ror. 
+5) Que el personal de encuestadores se familiarice con el manejo del equipo que usará durante el estudio, su 
+cuidado y transporte.  
+ 
+3.2 INSTRUMENTOS  
+ 
+3.2.1 Infantómetro:  Para la medición de la longitud en los niños y niñas menores de dos años se utiliza rá el 
+infantómetro marca seca, modelo 417, que consiste en una tabla de medición solida plegable y portátil que 
+presenta un tope fijo para la cabeza y un topo móvil para los pies. En rango de medición se extiende entre 10 a 100 
+cm, con división de 1mm.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tabla de medición  
+Tope móvil 
+(pies)  Tope fijo 
+(cabeza  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  19 
+ 
+3.2.2 Tallímetro : Para la medición de la talla en niños, niñas mayores de dos años y mujeres entrevistada 
+(madre o cuidadora), se empleará el estadiómetro de uso móvil, marca SECA modelo 217,  desmontable 
+de cuatro piezas, con escala lateral y  alcance de medición de 20 a 210 cm. Partes del Tallímetro a) Una 
+base que asegura su posición, b) Regletas con medida, c) tope de cabeza, d) distanciador de pared que 
+brinda mayor estabilidad, e) escala de la lectura situada en el lateral del tallímetro. El nivel de división es 
+de 1mm.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.3  Balanza electrónica:  La balanza que se utilizará es electrónica, marca SECA modelo 874, de piso, móvil, con 
+botones de encendido y pantalla doble. Capacidad de 200 kg, división de 50 g c on pesos menores a 150 kg y de 100 
+g cuando supera los 150 kg. Con  precisión de ±10 %.  Se enciende con un simple contacto de la punta del pie sobre 
+el botón de encendido y apagado. Tiene doble pantalla para la lectura simultanea (madre - antropometrista). La 
+balanza posee función madre/bebe, con un botón dos en uno, que permite tomar el peso del niño o niña mientras 
+esta en brazos de su madre o cuidadora. La balanza cuenta con cuatro soportes, los mismos que tienen sensores 
+de estabilidad. Al menos tres de estos soportes deben estar en contacto con una superficie plana.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a) Base 
+d) Distanciador de 
+pared  
+cabeza  b) Regletas 
+del Tallímetro  
+e) Escala para 
+la lectura  
+Botón para 
+encender/apagar  Tecla 2 en 1 kg  start  c) Tope de 
+cabeza  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  20 
+  
+3.3 PROCEDIMIENTOS ANTROPOMÉTRICOS  
+ 
+Las mediciones se efectuarán entre dos personas: el antropometrista principal, que es aquel que realiza la 
+medición y efectúa la lec tura de la medida en el momento exacto que se indica en cada caso, pronunciando 
+siempre el número en voz alta y dígito a dígito, para evitar errores; y el asistente, que es la persona de apoyo para 
+la toma de medidas que verifica que la persona que llena e l cuestionario escriba correctamente los datos de peso y 
+talla.  
+3.3.1- Medición del peso  
+i. Preparando la medición del peso  
+▪ Asegúrese que el lugar donde se realicen las mediciones sea amplio, higiénico e iluminado 
+preferentemente con luz de día.  
+▪ Es importan te instalar los instrumentos en lugares que tengan paredes lisas y verticales y pisos 
+planos.  
+▪ Debe revisarse el equipo antes de cualquier medición.  
+▪ Asegúrese que la balanza sea colocada en una superficie plana y pareja  
+▪ Explique a la madre o cuidadora los procedimientos a realizar y apóyela  
+▪ Vestir ropa ligera y sin algún material o accesorio que pese (llaves, monedas, reloj)  
+▪ La persona debe de estar descalza (sin calcetines)  
+▪ Quitarle los zapatos antes de pesarlo, aun cuando éstos sean tejidos.  
+▪ Cuidar que no  carguen objetos en las manos, como llaves, juguetes, chibolas, monedas.  
+▪ Evitar pesarlos con ropa mojada o húmeda; lo que incluye pañal o ropa interior mojada.  
+▪ Especificar si se pesó desnudo o con ropa gruesa (chamarra, suéter, bufanda) o ligera (calzón, s ostén, 
+fondo).  
+▪ Las niñas y niños menores de un año deben estar sin ropa, pero abrigados, envueltos con una sábana 
+para mantenerlos calientes hasta la toma del peso. Si socialmente no es aceptable desvestir al niño o 
+niña, quítele tanta ropa como sea posibl e. Los niños y niñas mayores y las personas adultas deben 
+pesarse con la menor cantidad de ropa posible .  
+ 
+ii. Medición del peso en niñas y niños menores de dos años  
+Aplique el procedimiento de peso reprogramado (función de tara o puesta a cero).  
+▪ Antropometri sta: informe a la familia el procedimiento que se va a realizar. Encienda la balanza. Cuando 
+aparezcan los números 0.0 en la pantalla, la balanza está lista.  
+▪ Asistente: asegúrese de que el niño o niña esté con muy poca ropa, con el pañal limpio y seco, par a que 
+no varíe el peso  
+ 
+▪ Antropometrista: Pídale a la madre que entregue el niño/a al asistente, proceda a pesar primero a la 
+madre. Pídale que se pare en la mitad de la balanza, con los pies ligeramente separados, formando un 
+ángulo de 45º y los talones j untos, tratando de no moverse, mirando hacia al frente con los brazos caídos 
+a los lados y sin ver a la balanza  
+▪ Asistente: vigile que mientras se pesa a la madre, el niño o niña se encuentre en brazos de una persona 
+cercana.  DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  21 
+ Antropometrista y Asistente:  Repitan el procedimiento y lue go aseguren que 
+el anotador registre el peso del niño o niña en la casilla correspondiente. Si la 
+diferencia entre el primero y el segundo peso es más de 0,5 kg, procedan a 
+una tercera pesada y registren el dato  
+Nota:  Si la madre  tiene demasiado  sobrepeso  (por ejemplo,  más de100kg),  y el peso del 
+bebé es relativamente bajo (por ejemplo, menos de 2,5 kg), puede que el peso del bebé no 
+se registre en la balanza. En ese caso, pídale a una persona más delgada que sostenga al niño  
+o niña y realice el procedimiento señalado.  
+ 
+▪ Antropometrista: con la madre  en la balanza presione el botón de tara 
+para “encerar”. La balanza está lista cuando la pantalla muestre los 
+números 0.0.  
+ 
+▪ Asistente: entregue el niño o niña a la madre y pídale que se mantenga 
+inmóvil. El bebé debe estar ubicado de frente al antropometr ista. El peso 
+del bebé aparecerá en la pantalla, momento en el cual registrará el peso  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii. Medición del peso en niños y niñas de más d e dos años   
+Si el niño o niña tiene dos años o más y se puede p arar por sí mismo, péselo solo.  
+Si salta sobr e la balanza o no se queda quieto, use el procedimiento de pesado con encerado, en el cual la madre 
+carga a su hijo, como se describió anteriormente y repórtelo en observaciones.  
+▪ Asistente: verifique que el niño o niña no haya ingerido alimentos momentos a ntes y durante el 
+procedimiento. Certifique que previamente haya ido al baño.  
+▪ Antropometrista: informe a la madre acerca del procedimiento a seguir. Ponga la balanza en una 
+superficie plana, evitando desniveles. Revise que la balanza esté encendida, cuand o aparezcan los 
+números 0.0 está lista para pesar.  
+▪ Asistente: pida a la madre que ayude al niño o niña a quitarse los zapatos y la ropa exterior. Déjelos con 
+una sola prenda. Si se niega a permitir que se le quite la ropa y no está quieto, espere a que se  calme.  
+ 
+▪ Antropometrista: pare al niño o niña en la mitad de 
+la balanza, con los pies ligeramente separados, 
+formando un ángulo de 45° y los talones juntos  
+ 
+ 
+ 
+ 
+ 
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  22 
+ Antropometrista y Asistente: Proceda n a efectuar la segunda medida asegurándose de que el 
+niño o niña se baje y vuelva a subir a la balanza  y luego verifiquen que el anotador registre  el 
+peso del niño o niña e n la casilla correspondiente. Si la diferencia entre el primero y el 
+segundo peso es más de 0,5 kg, procedan a una tercera pesada y registren el dato  
+Antropometrista y Asistente:  Repita todo el procedimiento, procedan  a efectuar 
+la segunda medida y se ase guran de que anoten el dato  correctamente . Si entre 
+la primera y la segunda medida hay una diferencia de ± 0,5 kg realicen una 
+tercera medida y regístrenla  
+ 
+ 
+ 
+▪ Procure que permanezca recto, tratando de que esté quieto y mirando 
+al frente. Verifique  que la mirada del niño o niña se dirija al frente y 
+que permanezca en esta posición hasta que el resultado aparezca en la 
+pantalla. Lea en voz alta el peso.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+iv. Medición del peso de mujeres en edad fértil de 15 a 49 años. (Madres/cuidadoras)  
+ 
+▪ Antrop ometrista: informar a la persona acerca del procedimiento a realizarse.  
+▪ Asistente: verifique que la persona no haya ingerido alimentos y que haya ido al baño previamente.  
+▪ Antropometrista: coloque la balanza sobre una superficie plana y firme (evitando des niveles).  Ponga la 
+balanza en 0.0.  
+▪ Asistente: solicite a la persona que use ropa liviana. Pídale que se quite la ropa extra o voluminosa 
+(chaquetas, abrigos, etc.); retire el cinturón, joyas y vacíe los bolsillos. Solicite que se saque los zapatos.  
+ 
+▪ Antr opometrista: proceda a tomar el peso. Solicite a la persona que se suba 
+en la mitad de la balanza, con los pies ligeramente separados formando un 
+ángulo de 45° y los talones juntos y mirando al frente sin moverse.  
+ 
+▪ Antropometrista: asegúrese de que la pers ona permanezca erguida, con la 
+vista al frente, sin moverse y que los brazos caigan naturalmente a los lados.  
+ 
+▪ Asistente: colóquese al frente de la báscula, y proceda a dar la lectura del 
+valor. Tome la primera medida anotando los kilos y los gramos observ ados.  
+ 
+ 
+ 
+ 
+ 
+ 
+i.  
+ii.  
+ 
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  23 
+ iii. Forma de anotar el dato  
+ 
+Registre el dato anotando el peso en kilogramos (kg), tomando en cuenta que también se registre con un decimal 
+correspondientes a los gramos (g). Tome la segunda medida y registre el dato. Si entre las dos medidas hay una 
+diferencia de más de 500 g (0,5 kg), proceda a tomar una tercera medida.  
+ 
+En la casilla designados en el cuestionario para el registro de la medición, si la medida tomada está por debajo de 
+100 Kg, debe anteponerse el cero. Ej.  
+ 
+ 
+3.2.2.  Medición de la estatura  
+ 
+Dependiendo de la edad del niño o niña y de su habilidad para pararse, mida la longitud o la talla. Si un niño o niña 
+es menor de dos años, mida la longitud en posición acostada, boca arriba (decúbito supino).  
+Es importante ajust ar las mediciones, si se tomó la longitud en lugar de la talla y viceversa. Si un menor de dos 
+años no permite estar acostado boca arriba para medirle la longitud, mídale la talla en posición de pie, sume 0,7 
+cm y registre el valor ajustado  
+ 
+i. Preparando la medición de longitud (niños y niñas menores de dos años)  
+ 
+Prepárese para medir la longitud inmediatamente después de la toma del peso, mientras el niño o niña todavía 
+esté con poca ropa. Con este propósito tome en consideración previamente lo siguiente:  
+▪ Explique los procedimientos a la madre y prepárela para que le ayude.  
+▪ El niño o niña deberá estar sin zapatos ni calcetines  
+▪ Solicite a la madre retire los accesorios para el pelo si interfieren con la medición de la longitud.  
+▪ Si el niño o niña está sin rop a durante la medición, se le puede poner un pañal seco para evitar que se 
+moje durante la medición de la longitud.  
+▪  Use el infantómetro y colóquelo en una superficie plana y sólida, como una mesa.  
+ 
+ii. Midiendo la longitud  
+Coloque sobre la superficie del i nfantómetro una tela delgada o papel suave para guardar la higiene del caso y la 
+comodidad del niño o niña. Explique a la madre que será necesario que ella misma ponga al bebé en la tabla, 
+acostándolo boca arriba, con su cabeza contra el tope fijo del infa ntómetro, de tal manera que el tope fijo presione 
+el cabello del niño o niña. Dígale a la madre que se mantenga cerca durante el procedimiento para que el niño o 
+niña permanezca tranquilo. La madre deberá colocarse opuesta al antropometrista principal, del  lado donde no se 
+encuentra la cinta métrica, junto al infantómetro.  
+ 
+ 0 6 3 •  0 DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+▪ Asistente: ponga el cuestionario y el lápiz sobre la mesa o en el piso, dependiendo del lugar donde se 
+encuentre el infantómetro. Colóquese detrás del tope fijo del infantómetro (flecha 1). Si este se 
+encuentra en el piso, arrodíllese con las dos rodillas en el suelo.  
+▪ Antropometrista: colóquese del lado del infantómetro, donde se encuentre la cinta métrica, de tal manera 
+que usted pueda ver la escala métrica y sos tener las piernas y el tope fijo de los pies del niño o niña 
+(flecha 3).  
+▪ Asistente: con  los brazos extendidos (flecha 5 ) ponga sus manos abiertas sobre las orejas del niño o niña 
+(flecha 4) y mantenga la cabeza del niño o niña contra el tope fijo del infan tómetro, logrando que la 
+mirada apunte recto hacia arriba. De esta manera, la mirada deberá estar perpendicular a la tabla del 
+infantómetro, logrando establecer el Plano de Frankfurt, que consiste en una línea vertical imaginaria que 
+une el borde inferior de la órbita del ojo con el conducto auditivo externo, y que cae perpendicularmente 
+a la tabla del infantómetro.  
+▪ Antropometrista: revise que el niño o niña se encuentre acostado, recto, en el centro y a lo largo de la 
+tabla y que no cambie su posición (fl echa 7).  
+➢ Los hombros deben tocar la tabla, y la espalda no debe estar arqueada. Pídale a la madre que le 
+avise si el niño o niña arquea su espalda o si cambia de posición.  
+➢ Sujete las piernas del bebé con la mano izquierda, aplicando una presión suave sob re las rodillas 
+para estirar las piernas tanto como sea posible, sin causar daño (flecha 8).  
+➢ Acerque el tope móvil con su mano derecha hasta lograr contacto contra los talones del niño o 
+niña (flecha 9).  
+➢ Las plantas de los pies deben estar planas contra e l tope, los dedos deben apuntar hacia arriba. Si 
+la menor dobla los dedos y no permite que el tope móvil toque las plantas de los pies, realice un 
+cosquilleo y cuando estire los dedos deslice rápidamente el tope hacia los pies.  
+➢ Lea la medición.  
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  25 
+ Antropometrista y asistente: repitan todo el procedimiento una vez más.  
+Nota: Recuerde que resulta casi imposible estirar las rodillas de los recién nacidos 
+tanto como en los niños y niñas mayores. Sus rodillas son frágiles y pueden dañarse 
+fácilmente, de manera que debe aplicar una presión suave y delicada. Si el niño o 
+niña está demasiado inquieto y n o es posible mantener ambas piernas en la 
+posición correcta, tome la medición con una sola pierna en la posición señalada.  
+ 
+e d c b a 
+▪ Asistent e: verifique en el registro correspondiente la longitud del niño o niña en centímetros hasta el 
+último milímetro completado. Esto corresponde a la última línea que usted es capaz de ver. (0,1 cm = 1 
+mm). Inmediatamente retire la cabeza del niño o niña y pi da a la madre que lo levante con cuidado.  
+▪ Antropometrista: compruebe el dato registrado en el cuestionario para asegurar la veracidad del registro 
+y la claridad de la escritura. Instruya a la persona  que llena el cuestionario si  debe borrarse y corregir.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii. Preparando la medición de la talla en niños y niñas mayores de dos años  
+ 
+▪ Asegúrese de que la base del tallímetro se coloque a nivel del piso en el suelo firme y plano.  
+▪ Arme el resto del tallímetro, colocando las regletas de manera perpendicula r a la pared o columna sin 
+barrederas.  
+▪ Verifique la colocación del distanciador de pared.  
+▪ Informe al niño o niña del procedimiento que va a seguir.  
+▪ Revise que el niño o niña se haya quitado los zapatos y calcetines. Solicite a la madre que retire los 
+accesorios (prensas, moños) del cabello que interfieran con la medición de la talla  
+ 
+ 
+iv. Medición de la talla de los niños y niñas mayores de dos años  
+ 
+Si el niño o niña tiene dos años o más y no es capaz de ponerse de pie, 
+mida la longitud acostándolo boca arriba, y reste 0,7 cm para convertirlo a 
+talla, y registre el valor ajustado. De utilizar esta técnica no olvide 
+registrar en observaciones.  
+ 
+ 
+ 
+ DRA. ELLIETT MARIN M EJIA Y NINETTE LOPEZ  BRAVO. CONSULTORAS  26 
+ 
+▪ Antropometrista: coloque al niño o niña en el medio de la plataforma y póngalo en posición vertical, en la 
+parte media del tallímetro y con los pies ligeramente separados.  
+▪ Asistente: ponga el cuestionario y el lápiz en el piso. (flecha 1). Adopte la posición necesaria 
+(generalmente arrodillado) para encontrarse en la misma altura del niño o niña. (flecha 2)  
+ 
+▪ Antropometrista: colóquese a lado del niño o niña, para verificar que 
+las siguientes partes, de atrás del cuerpo: cabeza, omóplato, glúteos, 
+pantorrillas y talones, se encuentren en contacto con la superficie 
+vertical del tallímetro - Medición de la talla y  puntos de contacto al 
+tallímetro (flecha 3 ) 
+ 
+ 
+▪ Asistente: coloque los pies del niño o niña juntos y planos en el 
+centro de la plataforma y pegados por la parte de atrás al tallímetro. 
+Ponga su mano derecha justo sobre los tobillos (flecha 4), y la mano 
+izquierda en las rodillas, presionando contra el tallímetro (flecha 5). 
+Asegúrese de que las piernas estén rectas y los talones pegados al 
+tallímetro. Informe al antropometrista que el niño o niña está en 
+posición correcta. Pies planos; talones contra parte posterior y base Posición incorrecta  
+ 
+▪ Antropometrista: pida a la madre que capte la atención del niño o niña, que lo mantenga tranquilo 
+mientras sea necesario y que le avise si cambia de posición.  
+➢ Indique al niño o niña que mire al frente.  
+➢ Ponga su mano izquierda abierta sobre el mentón del niño o niña y cierre gradualmente sus dedos, 
+cuidando de no taparle la boca (flecha 9)  
+➢ Medición de la talla.  Coloque la cabeza del niño o niña de manera que se forme una línea 
+horizontal imaginaria, que inicie en el borde inferior de la órbita del ojo y cruce el conducto auditivo 
+externo hasta formar una perpendicular con la superficie vertical del tallímetro, formando un 
+ángulo de 90º, el Plano de Frankfort  (flecha 8)   
+27 
+ 
+ 
+➢ Asegúrese de que los hombros estén nivelados (fl echa 10), los brazos caídos a cada lado del cuerpo 
+en forma recta (flecha 11).  
+➢ Si es necesario, presione suavemente el estómago del niño o niña para ayudarle a pararse erguido 
+hasta alcanzar su máxima talla.  
+➢  Con la mano derecha deslice el tope móvil sobr e la cabeza del niño o niña, asegurándose de que 
+presiona el cabello (flecha 15).  
+▪ Antropometrista y asistente: revisen la posición del niño o niña, y si es necesario repitan los pasos 
+anteriores.  
+ 
+ 
+▪ Antropometrista: lea la me dición en centímetros 
+Señalada  por la punta de la flechita roja. Esto 
+corresponde a la línea que usted es capaz de ver. 
+(0,1 cm =1 mm). Remueva el tope de la cabeza del 
+niño o niña y la mano del mentón.  
+▪ Asistente: registre el valor y verifique con el 
+antropometrista.  
+▪ Antropometrista:  revise que el dato esté 
+correctamente escrito y  que sea legible. Y si es 
+necesario borre y corrija. Fig. 12. Plano de 
+Frankfort.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aplique el mismo procedimiento por segunda ocasión , concluyendo con el 
+registro del dato. Si la diferencia entre los dos datos es mayor a 0,5 cm 
+proceda a una tercera medición  
+   
+28 
+ 3.2.3 Preparando la medición de la talla de la mujer en edad fértil (madre/cuidadora o embar azada)  
+▪ La madre, cuidadora o embarazada debe estar sin zapatos ni medias, prensas o moños en el cabello que 
+no permitan tomar adecuadamente la estatura.  
+▪ Coloque el tallímetro en el suelo duro y plano, contra la pared asegurándose de que el tallímetro no s e 
+mueva.  
+▪ Informe a la persona el procedimiento que va a seguir.  
+ 
+3.2.4  Medición de la talla de la mujer en edad fértil  
+ 
+▪ Asistente: pida a la entrevistada que se coloque de espaldas al tallímetro, de tal manera que su cuerpo se 
+encuentre ubicado en la par te media del mismo, con los pies ligeramente separados, formando un ángulo 
+de 45° y los talones topando el tallímetro.  
+▪ Los brazos deben colgar libremente a los lados del tronco, con las palmas de las manos dirigidas hacia los 
+muslos.  
+▪  Los talones y rodill as juntas, coincidiendo con la parte media del tallímetro.  
+▪ Antropometrista: colóquese de lado para verificar que la parte posterior de la cabeza, omóplato, nalgas, 
+pantorrillas y talones (cinco puntos de relación), se encuentren en contacto con la pieza v ertical del 
+tallímetro. Indique al adulto que mire al frente.  
+➢ Coloque la palma de la mano izquierda abierta sobre el mentón de la persona, y suavemente cierre 
+sus dedos (teniendo cuidado de no tapar la boca) y proceda a ubicar la posición de la cabeza has ta 
+mantener el Plano de Frankfurt (línea imaginaria que une el reborde inferior del ojo con el conducto 
+auditivo externo, y que forma 90º con la superficie del tallímetro).  
+➢  El dorso debe estar estirado, para lo cual pida a la persona que haga una inspirac ión profunda.  
+➢ Con la mano derecha deslice el tope móvil del tallímetro sobre la cabeza de la entrevistada, 
+asegurándose de que presione el cabello.  
+▪ Antropometrista y asistente: verifiquen la posición del adulto.  
+▪ Antropometrista: cuando la posición sea l a correcta, lea la medición en centímetros . Esto corresponde a la 
+línea señalada por la punta de la fechita roja . (0,1 cm = 1 mm). Remueva el tope de la cabeza del adulto y 
+retire la mano del mentón.  
+▪ Asistente: registre el valor y verifique con el antropo metrista.  
+▪ Antropometrista: revise que el dato esté bien escrito en el cuestionario, que sea legible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.5  FORMA DE ANOTAR EL DATO  
+Registre el dato anotando la talla en centímetros, tomando en cuenta que también se registre un decimal. Tome la  
+segunda medida y registre el dato. Si entre las dos medidas hay una diferencia de más 0,5 cm (5 mm) proceda a 
+tomar una tercera medida. En las casillas designados para el registro de la medición, si la medida tomada está por 
+debajo de 100 cm, debe antepon erse el cero. Ej, 0 95 .  
+ 
+ 
+ Antropometrista  y asistente: pidan a la entrevistada  que se retire del tallímetro y 
+repitan todo el procedimiento por segunda oc asión, concluyendo con el registro 
+del dato. Si la diferencia entre los dos datos es mayor a 0,5 cm, procedan a una 
+tercera medición, siguiendo todos los pasos.    
+29 
+ 3.2.6 C ONTROL DE CALIDAD   
+ 
+El control de calidad  para las medidas antropométricas es extremadamente importante, y los procedimientos de 
+medición deben seguirse con mucha rigurosidad. Los errores más comunes en la antropometría son la posición del 
+cuerpo y el momento de la lectura de las mediciones. Para minimizar estos errores, se deben aplicar 
+procedimientos estándares para obtener las medidas más confiables, de conformidad con lo que se describe en el 
+Manual.  
+ 
+Alcanzar un alt o nivel de confiabilidad requiere efectuar sesiones de estandarización para todos los equipos de 
+campo involucrados en los procedimientos de medición y recolección de los datos, y normalizar el registro del 
+dato. Suele reportarse como error común el moment o de la lectura y la transcripción de los números dictados,  
+ 
+Otro error común es la posición que adopta el observador al momento de la lectura, especialmente de la estatura 
+(talla y longitud), puesto que según la posición que adopta, se aprecia un valor d iferente al real, dependiendo del 
+ángulo de la visión. La estandarización disminuye marcadamente este error.  
+ 
+Calibración del equipo  Los equipos deben ser previamente calibrados para asegurar la obtención del dato 
+verdadero. Este proceso deberá repetirse d urante la fase operativa, razón por la que de manera sistemática serán 
+calibrados mediante el empleo de pesos patrones.  
+ 
+Observación y réplica  El supervisor, quien también está estandarizado, observará periódicamente la toma de las 
+medidas para asegurar qu e se apliquen los procesos señalados en el manual.  
+  
+Réplica  Es importante introducir un sistema de réplica en la toma de medidas. Por ejemplo, la toma de las medidas 
+por otra persona, también estandarizada, para evaluar la variación Inter examinador.  
+ 
+Reentrenamiento  Es importante programar sesiones de reentrenamiento, para garantizar que se apliquen los 
+procesos estandarizados de recolección de datos.  
+ 
+Protección de equipos  Todo el equipo deberá ser chequeado diariamente, mantenerse limpio y en las cubi ertas 
+correspondientes. Si algún equipo se daña definitivamente debe ser reemplazado en forma inmediata.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+30 
+ 
+IV. MODULO 3: TECNICAS PARA LA TOMA DE MUESTRAS BIOLOGICAS  
+4.1 Introducción  
+ 
+La toma de muestra sanguínea es uno de los procedimientos más impo rtantes en el trabajo de campo, ya que en 
+los resultados obtenidos se cuenta con mediciones directas y cuantitativas del estado nutricional de los 
+encuestados. Para alcanzar los objetivos planteados en el sistema de vigilancia nutricional, es importante, 
+garantizar  la calidad de la muestra, que ésta sea correctamente colectada, que su origen sea seguro y que los 
+procedimientos de preparación y conservación sean estrictamente observados (reposo, centrifugado, pipeteo y 
+etiquetado) y que se conserve adecuadam ente hasta su llegada al laboratorio, donde se harán las determinaciones 
+o análisis.  
+ 
+ 
+ 
+El personal que lleva a cabo este procedimiento debe tener presente que el éxito del trabajo encomendado 
+depende de sus conocimientos, el trato correcto con las niñas, niños y mujeres y la habilidad para realizar el 
+trabajo.  
+ 
+Este módulo tiene como objetivo ser una guía para el personal encargado de realizar tomas de muestras 
+sanguíneas en trabajos de campo, fusionando aspectos técnicos y otros factores que pueden afecta r la calidad de 
+la muestra.  
+ 
+   
+31 
+ 4.2 Principios generales de la obtención de muestras sanguíneas  
+ 
+1) Solicitar con seguridad y gentileza a los donadores potenciales la donación de muestras sanguíneas, 
+explicando el propósito de las mediciones y describiendo el proce dimiento a realizar.  
+2) Enfrentar con serenidad y profesionalismo los procedimientos de la toma de muestra.  
+3) Recordar los principios de asepsia y antisepsia.  
+4) Comprender los principios en que se sustentan las normas de seguridad biológica para el manejo de 
+fluidos orgánicos.  
+5) Memorizar el material y los procedimientos para la toma y manejo de muestras biológicas.  
+6) Conocer los principios que rigen la preservación y protección de los micro nutrimentos o substancias que 
+se pretende medir y los efectos que tienen sobr e las muestras las condiciones físicas y del ambiente.  
+7) Identificar correctamente en el formato de colección de muestras a los sujetos de estudio.  
+8) Centrifugar las muestras.  
+9) Transferir cuantitativamente muestras de suero y plasma a los criotubos o (crio vial es) correspondientes si 
+el estudio así lo requiere.  
+10) Etiquetar y proteger de la luz los criotubos con muestras de suero según la determinación a realizar.  
+11)  Almacenar los criotubos en tanques de nitrógeno líquido.  
+12) Desechar correctamente materiales contaminad os, de acuerdo si son punzo cortantes o no.  
+ 
+4.3 Condiciones para la toma de muestras  
+ 
+ El lugar donde se tomen las muestras  en las comunidades debe de preferencia estar bien iluminado. Se 
+colocará sobre una mesa, banco, balde u otro espacio, un  trozo de papel de kraf de aproximadamente 1 m 
+de lar go, sobre el cual se colocará la maleta con el material de laboratorio .  
+ 
+ Durante el procedimiento de toma de muestras de sangre deberán guardarse las más estrictas normas de 
+higiene (asepsia y antisepsia). Todo el mate rial será estéril y desechable; se abrirá el empaque frente a la 
+entrevistada y si se trata de un niño se hará en presencia de la madre o cuidadora responsable en el 
+momento - El material que se utilice deberá desecharse inmediatamente después de concluido el 
+procedimiento.  
+ 
+ El material que haya sido sacado de su empaque, manipulado y no se use, no deberá guardarse 
+nuevamente para utilizarlo posteriormente, aun cuando sea nuevo. En ninguna circunstancia  podrá usarse 
+material utilizado con otro participante.  
+ 
+ La muestra recolectada deberá manejarse evitando cualquier contacto con las manos del personal o con 
+cualquier otro material no estéril ajeno al procedimiento.  
+ 
+ Los contenedores de motas de algodón con alcohol y los recipientes deberán estar perfectament e 
+cerrados todo el tiempo, abriéndose únicamente al momento de colectar la muestra.  
+ 
+ 
+ 
+   
+32 
+ 4.4 Normas de seguridad biológica  
+ 
+Para la toma de muestras sanguíneas debemos observar y cumplir diversas reglas de seguridad que garanticen la 
+seguridad tanto de los sujetos  de estudio como del personal.  
+ 
+Los procedimientos generales para la protección personal son:  utilizar obligatoriamente guantes, durante la toma y 
+manejo de la muest ra sanguínea. No olvidar limpiar  las manos con gel antiséptico antes y después del contact o 
+con la muestra sanguínea.  
+ 
+Se deben tomar en cuenta practicar las precauciones universales mínimas con todo paciente atendido y no olvidar 
+lo siguiente:  
+1) Toda muestra debe ser considerada potencialmente infecciosa , por lo cual se deben tomar las 
+precaucio nes que garanticen la seguridad del personal y sujetos de estudio.  
+2) Colocar un campo limpio de trabajo en cada ocasión.  
+3) Sea cuidadoso al manipular las agujas para no pincharse.  
+4) No deje agujas usadas en el campo de trabajo, deséchelas inmediatamente en un co ntenedor 
+apropiado.  
+5) Si hay derrame de sangre, cambie el campo de trabajo por uno nuevo, desechando el contaminado 
+en la bolsa de desechos contaminados.  
+6) Si se pincha con una aguja contaminada con sangre de la entrevistada o niño.  infórmese si existe 
+algún tipo de infección y comunique de inmediato a su supervisor el incidente.  
+7) Evite que los niños toquen o jueguen con el equipo en uso.  
+ 
+4.5 Equipos y consumibles  
+ 
+ 
+    4.5.1 Material para la toma de muestra sanguínea  
+▪ Agujas hipodérmicas aladas calibre 23, vacutai ner 
+▪ Porta tubo universal tipo vacutainer  
+▪ Tubos vacutainer de 7 ml al vacío con tapa color azul, sin anticoagulante  
+▪ Tubo vacutainer de 5 ml al vacío con tapa color lila con anticoagulante  EDTA  
+▪ Crio tubos de 2 ml con tapas de distinto color  
+▪ 2 frascos torunde ros con torundas y alcohol  
+▪ Ligadura (torniquete)  
+▪ Curitas  
+▪ Guantes desechables de látex o de polietileno  
+▪ Estuche de transportación de material consumible (cosmetiquera)  
+▪ Contenedor de plástico para material punzo cortante  
+▪ Papel de estraza o crack para usar co mo campo de trabajo  
+▪ Cinta Diurex  
+▪ Bolsas de polietileno color rojo  o recipiente de plástico  para desechos contaminados con fluidos 
+biológicos  
+▪ Bolsas de polietileno color negro para basura municipal  
+   
+33 
+ 4.5.2 Para etiquetado de muestras:  
+▪ Etiquetas adheribles, p recodificadas  
+▪ Plumines de tinta indeleble punto fino  
+▪ Plástico auto adherible.  
+▪ Diurex  
+ 
+4.5.3 Para transporte y centrifugación de muestras:  
+▪ Hielera de plástico pequeña  
+▪ Centrifuga portátil de 8 lugares  
+▪ Pipetas Pasteur  
+▪ Bombillas de látex Procedimiento  
+▪ Termos con refrigerantes  
+▪ Hielo seco para el transporte al lugar de procesamientos  
+▪ Hojas de registro de muestras  
+ 
+4.6 Toma de muestra sanguínea  
+ 
+4.6.1 Procedimiento  
+La muestra debe tomarse bajo las condiciones más favorables para evitar errores. Esto incluye la identi ficación del 
+niño o niña, mujer edad fértil embarazada o no, membretar con el nombre el(los) tubo(s) vacutainer a utilizar, 
+identificar el sitio de punción y el volumen a colectar. El paciente debe estar en posición cómoda, sentado o 
+acostado si es la muje r; si es niño en brazos de un adulto o envuelto en una sábana con el punto a puncionar fuera 
+de ella para evitar movimientos.  
+ 
+El personal responsable de la toma de muestras usará guantes desechables, los cuales deberá tener puestos 
+durante todo el procedi miento. Antes de iniciar el procedimiento deberá tener todo el material necesario al 
+alcance preparado.  
+ 
+En presencia del niño, niña o mujer en edad fértil y familiares se romperá el 
+sello de garantía del equipo vacutainer (el cual permite llenar cuantos tubos 
+sean necesarios) atornillándolo en el porta tubo universal sin destapar la aguja. 
+Antes de colectar las muestras de sangre se escribirá en cada tubo vacutainer 
+la identificación del s ujeto de estudio.  
+ 
+Antes de proceder a puncionar, se debe localizar  una vena de buen calibre, 
+preferentemente del pliegue del codo. La mejor manera es efectuando una palpación de las mismas para tomar 
+esa decisión. Para ello coloque el torniquete 10 a 15 cm por arriba del sitio seleccionado, para visualizar mejor la 
+vena.  No debe mantener el torniquete por más de 3 minutos, para evitar la hemoconcentración.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+34 
+ 
+ 
+Las venas más utilizadas para la venopunción están localizadas en el área 
+ante cubital. Entre éstas tenemos:  
+a. Vena cubital : es la más larga y gruesa de todas y es l a 
+preferida por bordear la musculatura del brazo.  
+b. Vena cefálica:  tiene iguales característicos  de la anterior, pero 
+es un poco menos gruesa.  
+c. Vena basílica:  más pequeña que las anteriores. Esta vena está 
+cerca de la arteria braquial, por lo que su pu nción es riesgosa y 
+su área es más sensible y dolorosa para el  
+el niño o adulta que se le tome muestra.                                                       
+ 
+ 
+ 
+Al palpar hágalo con la punta de sus dedos, tratando de 
+seguir el rastro de las venas. Aquí t ambién son útiles sus 
+conocimientos de la anatomía de las venas de las 
+extremidades superiores. En ocasiones si no visualiza la 
+vena, puede forzar la sangre dentro de la vena a través de 
+un suave masaje de abajo hacia arriba.  
+ 
+ 
+ 
+ 
+ 
+ 
+Haga que el paciente cie rre y abra el puño de tres a cinco veces para bombear mejor la sangre, y luego que 
+mantenga el puño  cerrado . Si se trata de un niño, es recomendable colocar dos dedos de la mano, debajo del codo 
+del paciente, para evitar que doble el brazo durante la extra cción.  
+ 
+ 
+Una vez decidida la vena a puncionar, se tomará con las pinzas una 
+torunda con alcohol, limpiando el área circundante a la vena de 
+arriba hacia abajo y del centro a la periferia al menos dos veces, 
+girando la torunda en cada uno de los movimiento s para no volver a 
+contaminar. Esto se podrá repetir tantas veces como se considere 
+necesario. Nunca regrese la torunda alcoholada al lugar de inicio, a 
+menos que ésta sea nueva. Ni exprima el exceso de alcohol de la 
+torunda a utilizar dentro del torundero , ni en el suelo, hágalo en la 
+bolsa roja.  
+ 
+ 
+ 
+ 
+ 
+  
+35 
+ 
+ 
+ 
+La aguja se insertará en la vena seleccionada con el bisel hacia arriba, 
+con la punta de la aguja en un ángulo de 15º a 30º sobre la superficie 
+de la vena escogida, atraviese la piel con un movimiento firme y  
+seguro, hasta el lumen de la vena, e introduzca en el extremo 
+contrario de la aguja el tubo vacutainer correspondiente que debe 
+estar montado en la porta  tubos universal de plástico, presionando 
+hasta que la punta metálica posterior perfore el tapón de hu le del 
+tubo colector.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+El tubo se retirará del porta  
+tubos una vez que se alcance  
+el volumen deseado.  
+ 
+ 
+ 
+Evite presionar fuertemente el 
+sitio de punción durante la toma 
+de la muestra y extracción de la 
+aguja.  
+ 
+Retire el torniquete para que la sangre fluya 
+mejor.  
+ En este momento la sangre comenzará a fluir 
+rápidamente al interior del tubo    
+36 
+ 
+ 
+ 
+ 
+La aguja se d epositará  
+ inmediatamente en el  
+ contenedor de punzocortantes   
+destinado para ese fin.  
+ 
+ 
+El tubo con la muestra se colocará en una 
+gradilla dentro de la hielera.   
+  
+ 
+ 
+ 
+El responsable deberá quitarse los guantes al finalizar la toma de muestra y desecharl os inmediatamente. En 
+ningún caso podrá reutilizarlos nuevamente para éste u otros procedimientos. En el caso de que haya existido 
+algún evento relevante que interfiera con el procedimiento deberá especificarse en la Hoja de registro de 
+muestras.  
+ 
+4-7 Preparac ión y proceso de las muestras sanguíneas  
+ 
+ 
+El personal habrá identificado un lugar adecuado donde pueda 
+procesar las muestras de sangre venosa (de prefer encia un 
+Centro de Salud, Puesto de salud u hospital  y solicitará el 
+permiso de la autoridad correspon diente escogiendo una 
+habitación que pueda cerrarse, que tenga contactos para 
+energía eléctrica y de ser posible un lavado. Ahí serán 
+concentradas todas las muestras para su procesamiento como 
+se indica a continuación.  
+ 
+En condiciones, donde el trabajo de campo lo permita se 
+recomienda.  que la muestra de sangre se centrifugue  en los 
+centrífugos portátiles, aproximadamente 30 minutos después 
+de su colección. Este tiempo permite la retracción del coágulo 
+y con ello una mejoría del rendimiento de suero. Duran te este tiempo las muestras deben mantenerse dentro de la 
+hielera.  En los casos, cuando se realice trabajo de campo en comunidades o barriadas de difícil acceso  y las 
+viviendas se encuentren muy dispersas una de otra, se recomienda que el thermo para uso d e recolección de 
+muestras, lleve al menor cuatro refrigerantes. Colocar el thermo en lugares donde no le di directamente los rayos 
+de sol, si se da la posibilidad que durante el traslado se tenga disponibilidad de un vehículo, llevar las muestras 
+dentro de  la cabina.  
+ 
+  
+37 
+ Los tubos se equilibran según su peso antes de colocarlos en la centrífuga. Es decir, que dos tubos que contienen el 
+mismo volumen de muestra deben colocarse en sitios opuestos. Cuando hay un tubo impar se utiliza un tubo 
+vacío, el cual se lle na con agua hasta el mismo nivel del que contiene sangre, para equilibrarlos.  
+ 
+Una vez equilibrados los tubos se inicia la centrifugación a velocidad baja, misma que se va aumentando 
+progresivamente, con intervalos de 10 segundos hasta alcanzar las partes de la velocidad de la centrifuga 
+(alrededor de 3000 RPM). La centrifugación se mantiene por aproximadamente 20 minutos.  
+ 
+Pasado este tiempo, la velocidad se debe ir reduciendo gradualmente hasta que la centrifuga se detenga 
+completamente. Al final de este procedimiento la muestra estará dividida en dos partes: en el fondo, se ubicará la 
+masa de eritrocitos de color rojo (o paquete globular) y en la superficie estará el suero de color ligeramente 
+amarillo o ámbar. Con una pipeta Pasteur de vidrio se Transfer irá el suero a los crio tubos. Estos criotubos tienen 
+una capacidad de 2 ml pero sólo deben llenarse hasta 1.5 ml Si sobra suero llene otro crio tubo. Después del 
+llenado se volverán a tapar cuidando que  queden herméticamente cerrados  
+ 
+ 
+4.8 Etiquetado de muest ras sanguíneas procesadas  
+ 
+A cada uno de los crio tubos con capacidad de 2 ml que se utilizarán para almacenar de manera definitiva el suero, 
+se les adherirá una etiqueta de identificación del sujeto. Algunos de éstos, de acuerdo con el estudio, se envuelv en 
+con papel aluminio.  
+ 
+Las etiquetas de todos los criotubos serán aseguradas cubriéndolas con un trozo de cinta Diurex transparente, que 
+dará 1 _ vueltas a la circunferencia del tubo. Y los criotubos obtenidos del mismo sujeto de estudio deberán 
+envolvers e en plástico auto adherible para depositarlos en el tanque de nitrógeno.  
+ 
+El llenado correcto de las etiquetas es de la siguiente forma:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Una vez etiquetados y protegidos todos los tubos criogénicos, envolverlos en plástico transpar ente auto adherible 
+(con el que envuelven alimentos en casa o en el súper), colocarlos tan pronto como sea posible en el tanque de 
+nitrógeno líquido para conservarlos congelados hasta su entrega a l laboratorio para su análisis.  N- 001 
+        27-09 -2017  Letra que identifica si 
+la muestra  es de un 
+niño o de la madre 
+cuidadora  
+ 
+Fecha en que se tomó 
+la muestra  Numeración 
+secuencial, que 
+corresponde al 
+número de la boleta  
+del cuestionario  M- 150 
+30-9-2017    
+38 
+ 
+ 
+4.8  Cuidados con la madre/ cuidadora o niña de estudio posterior a la toma de muestra sanguínea  
+ 
+Una vez realizada la extracción, es nuestra responsab ilidad asegurarnos que la madre/cuidadora o niña  de estudio 
+se encuentra apto para levantarse de la si lla y retirarse. Algunas person as pueden  sufren de mareos, 
+debilitamiento o desmayo posterior a una extracción. Para evitar que se caiga y se haga daño, debemos observarlo 
+y preguntarle si está bien antes de indicarle que se retire.  
+ 
+Si el niño, madre o cuidadora  está sudoroso, con la c ara muy blanca o tiembla, pudiera necesitar nuestra ayuda; 
+podemos darle a oler alcohol. En caso de posible desmayo, debemos indicarle que coloque la cabeza entre sus 
+piernas, para ayudar a irrigar su cerebro. Si fuera necesario, podemos acostarlo hasta qu e se reponga. A los sujetos 
+de estudio que están en ayuno se les darán indicaciones para que pronto desayunen, a fin de evitar desmayos.  
+ 
+Una vez terminado el procedimiento de la toma de muestras sanguíneas el personal tiene la obligación de dejar 
+limpio y  ordenado el lugar asignado.  
+Esta labor incluye la limpieza del área, el ordenamiento de los tubos, y agujas sobrantes y la colocación de restos 
+de basura en el contenedor que le corresponda como se indica más adelante.  
+ 
+4.9 Problemas durante la toma de muest ra sanguínea  
+ 
+ 
+a) La colocación correcta  
+de la aguja es con el bisel  
+ hacia arriba:  
+ 
+ 
+ 
+b) Un cambio en la posición de la 
+aguja provoca un movimiento de 
+retroceso que la saca del lumen 
+venoso:  
+ 
+ 
+ 
+c) Un movimiento hacia  
+ delante atraviesa la vena:  
+ 
+d) El movimien to de la aguja  
+ puede hacer que el bisel quede  
+ contra la pared de la vena, afectando  
+la salida de la sangre  
+ 
+ 
+ 
+   
+39 
+ 
+ 
+ 
+e) Cuando se presenta un   
+de la vena afloje el 
+torniquete para 
+incrementar el flujo 
+sanguíneo, remueva la 
+aguja ligeramente y vuelva 
+a redireccionarla.  
+ 
+ 
+e) Si se forma un hematoma bajo  
+la piel adyacente al sitio de la punción,  
+afloje el torniquete y retire la aguja.  
+Aplique presión firmemente sobre el hematoma.  
+ 
+ 
+ 
+ 
+ 
+4.9.1 Para prevenir los hematomas:  
+􀀹 Puncione solamente la pared superior de la vena  
+􀀹 Remueva el torniquete antes de remover la aguja  
+􀀹 Escoja las venas superficiales mayores  
+􀀹 Aplique presión sobre el sitio de la punción  
+ 
+• Pudiera suceder que se atraviese una arteria, en estos casos  la 
+sangre se observa de un color rojo brillante. Retire la aguja y aplique 
+presión por 5minutos.  
+  
+ 
+ 
+ 
+• También puede ocurrir que en la punción se llegue a tocar el 
+tendón de algún músculo flexor. Retire la aguja y aplique 
+presión por 5 minutos.  
+ 
+ 
+ 
+4.9.2  Hemólisis  
+ 
+La hemólisis de una muestra sanguínea (se nota por el enrojecimiento del suero) se puede presentar por 
+diferentes razones entre ellas:  
+a. Trauma con una aguja de calibre muy pequeño  
+b. Por contaminación con agentes antisépticos    
+40 
+ c. Agitación vio lenta o excesiva de los tubos  
+d. Presión excesiva para mejorar el flujo sanguíneo  
+e. En tubos no llenados al vacío puede ocurrir hemólisis al llenarlos haciendo una fuerte presión sobre el émbolo 
+provocando un chorro de sangre muy fuerte  
+ 
+Podemos prevenir la hemólisis tomando en cuenta lo siguiente:  
+• Después de ser llenado el tubo, agitar con lentitud ocho veces los tubos con aditivos anticoagulantes  
+• No extraer sangre de un hematoma  
+• Evitar una punción traumática  
+• No agitar vigorosamente los tubos  
+• Evitar el calentamiento de los tubos  
+ 
+4.9.3 Hemoconcentración  
+ 
+La hemoconcentración de una muestra sanguínea se puede presentar por diferentes razones entre ellas:  
+a. Aplicación prolongada del torniquete  
+b. Masaje vigoroso del sitio a puncionar  
+c. Obstrucció n venosa  
+ 
+4.9.4 Interferencias  
+ 
+Los tubos con anticoagulante deben invertirse suavemente y colocarlos en posición vertical, para evitar el contacto 
+prolongado con el tapón de caucho.  
+ 
+Aquellos tubos con anticoagulantes deben ser llenados exactamente hasta la marca, en cualquier método 
+utilizado, para evitar que la concentración del anticoagulante sea demasiada alta y afecte el sistema de medición.  
+ 
+4.9.4 Procedimientos especiales de preparación para muestras de algunos micro nutrimentos  
+ 
+La muestra de sangr e de los sujetos de estudio frecuentemente es utilizada para determinar en laboratorio las 
+concentraciones de vitaminas y minerales. Para el análisis de algunos de ellos es necesario seguir algunos 
+procedimientos especiales de conservación de las muestras sanguíneas, los cuales mencionamos a continuación.  
+ 
+Ácido fólico en sangre:  En un criotubo se colocan previamente 900 microlitros de buffer de fosfato adicionando 
+con una pipeta de precisión 100 microlitros de sangre total. La sangre total para esta deter minación debe tomarse 
+en tubos vacutainer de 5 ml con EDTA. Envolver el criotubo en papel aluminio.  
+ 
+Ácido fólico en plasma:  Se coloca 1 ml de plasma en un criotubo, mismo que se envuelve con papel aluminio y 
+se guarda inmediatamente en el tanque de nitróg eno 
+ 
+Ferritina, receptores de transferrina, proteína “c” reactiva y zinc . El suero se almacena en uno o varios 
+criotubos con un mínimo de 1 ml de suero. El suero se obtiene centrifugando la sangre colectada en un tubo sin 
+anticoagulante durante 20 minutos a 3000 RPM.  
+   
+41 
+ 4.9.5 P reparación de substancias conservadoras  
+ 
+A) Buffer de fosfatos: El laboratorio central proporciona buffer de fosfato 0.1 M, pH 8, mismo que se mezcla 
+en un tubo cónico de 50 ml con ácido ascórbico, en una proporción de 30 ml de solución bu ffer y 0.3 g. de 
+ácido ascórbico, se mezcla y se filtra con una jeringa a la cual se le adapta un filtro milipore, mesh 1micra, 
+para garantizar su esterilidad. Se almacena en otro tubo cónico de 50 ml, mismo que se etiqueta con el 
+nombre del buffer y la fe cha de preparación. Dura 24 horas en refrigeración  
+ 
+B) Ácido meta fosfórico En un frasco ámbar se mezclan 100 ml de agua  desionizada con 6 g de ácido meta 
+fosfórico y se agita vigorosamente. Se etiqueta con el nombre del buffer y la fecha de preparación. Dura  
+tres semanas en refrigeración  
+ 
+4.9.6 Envío de Muestras  
+ 
+Envío y traslado de m uestras de centros de salud  u hospitales regionales a  instituto Conmemorativo  GORGAS,  las 
+cuales han sido previamente procesadas, separadas, etiquetadas y preparadas para el e nvío en criótubos 
+específicos para madre y para niños. a los laboratorios designados (En este caso, particular a Vit Min Lab en 
+Alemania, Laboratorio de la Universidad de Chile y/o Instituto de Nutrición de Centroamérica y Panamá (INCAP) ,  
+En el GORGAS se almacenan a -20ºC. En cuanto el GORGAS cuenta con el total de muestras se procede al envió a 
+Alemania, conforme ha sido descrito.  
+ 
+Toma de muestras de orina  
+ 
+Equipo y material  
+ 
+▪ 1 vaso plástico  descartable de  boca ancha, para la toma de muestra por niño(a) . (Uno por niño(a)  
+▪ En el caso de los menores de dos años, apoyarse con recolectores de orina.  
+▪ 1 tubo  “SARSTEDT” para transportar la muestra de orina  (urine Monovette). Por el sistema que utilizan 
+los tubos de esta marca son ideales para este tipo de traba jo, si existen otros similares, se pueden utilizar. 
+Se necesita un tubo por muestra.  
+▪ Marcadores de tinta indeleble.  
+▪ Gradillas para colocar los tubos con orina.  
+▪ Papel parafilm.  
+▪ Guantes quirúrgicos  
+▪ Tijeras.  
+▪ Formularios de recolección de información.  
+▪ Hielera para transportar los tubos con orina.  
+▪ Refrigerantes para las hieleras.  
+▪ Masking tape.  
+▪ Bolsas plásticas.  
+▪ Bote especial para descarte.  
+ 
+Preparación  
+ 
+  
+42 
+ Es necesario preparar con anticipación los tubos que se utilizarán para transportar la orina, estos deben llev ar 
+ácido clorhídrico (HCl), para evitar el crecimiento bacteriano. Por tal razón es necesario añadir a cada tubo a una 
+concentración final de 2.0M. (son 0.040 mL de HCl - 2.0 M por cada mililitro de orina, o sea agregue 400 μL de HCl 
+por cada tubo de 10 mL)  
+Se debe evitar el contacto de este ácido con las manos y ojos. En caso de haber un derrame o salpicadura debe 
+lavarse con abundante agua. Para evitar manipular el ácido durante la toma de muestra, este se pude añadir a los 
+tubos antes de salir al campo.  
+ 
+ 
+Técnica de toma de muestra  
+ 
+1. Identifique con el código del niño (a), el recipiente a utilizar para tomar la muestra de orina Entregue el 
+frasco directamente a la madre o cuidadora , para que esta se lo dé al niño(a). En la figura No.1 puede 
+observar el fra sco a utilizar. Otro similar puede reemplazarlo . Se recomiendan frascos de boc a ancha.  
+ 
+2. Explique al niño(a) y /o a su madre, con palabras sencillas, el procedimiento de toma de muestra. Este 
+procedimiento consiste en solicitar que deposite una muestra de orina directamente dentro del frasco 
+que se les está entregando. Si el niño (a) no siente deseos de orinar, espere un momento o regrese más 
+tarde. Nunca pedir que beba líquidos para poder obtener la muestra.  
+ 
+3. Identifique el tubo de transporte de la muestra , con el número de código, utilice marcador de tinta 
+indeleble. Los tubos vienen con espacio suficiente para poder escribir el código. Este espacio está 
+delimitado por un área de color amarillo pálido. si usted lo prefiere puede colocar una etiqueta encima  de 
+esta área y escribir sobre ella. Debe asegurarse que la etiqueta se mantenga intacta a temperaturas de 
+refrigeración. En la figura No.2 puede observar un ejemplo del tubo y de la punta que se le adapta para 
+tomar la muestra de orina.  
+ 
+4.  Póngase guantes quirúrgicos para protegerse de cualquier derrame.  Con sumo cuidado tome el vaso 
+descartable con orina y el tubo preparado con ácido clorhídrico y vierta la orina.  Llene todo el tubo, hasta 
+la marca de 10.0 mL, y ciérrelo perfectamente.   
+ 
+5.  Selle la boca del  tubo con papel parafilm. Colóquelo en la gradilla.  
+ 
+6. Deposite la gradilla con las muestras dentro de una hielera con refrigerantes.  
+ 
+Manejo de residuos peligrosos biológico -infecciosos (RPBI)  
+ 
+Los residuos biológicos tienen la capacidad de contagiar enferm edades, por eso se tiene que manejar de manera 
+adecuada y conforme con las leyes del país.  
+ 
+Los residuos se clasifican en residuos biológicos infecciosos y los de basura municipal.  
+ 
+Residuos biológicos infecciosos son aquellos materiales como algodón, lanc etas, cubetas, campo, guantes, etc., 
+que han sido contaminados con sangre, suero u otros fluidos biológicos. Éstos a su vez se dividen en punzo 
+cortantes y no punzo cortantes.    
+43 
+  
+Para el desecho de los RPBI se debe utilizar una bolsa de color rojo que tiene un símbolo que los identifica como 
+material de riesgo. En esta bolsa se almacenan los materiales contaminados, y para los que son punzocortantes, se 
+debe utilizar un contenedor rígido.  
+ 
+Los desechos no contaminados denominan basura municipal, y se almacena rán en una bolsa de color negro.  
+A continuación, se describe la correcta disposición de los desechos.  
+ 
+Contenedor de punzo cortantes  
+ 
+El material punzocortante , lancetas, cubetas, agujas hipodérmicas, pipetas y los tubos de vidrio utilizados en la 
+toma de muestras serán depositados en estos contenedores de seguridad de plástico rojo, los cuales les serán 
+proporcionados.  
+ 
+Bolsas de basura de polietileno color rojo  
+ 
+Los materiales desechables (algodón, guantes, campos de papel estraza) que estén contaminados  con cualquier 
+cantidad de fluidos biológicos.  
+ 
+Bolsa de basura municipal o bolsas de color negro  
+ 
+En este tipo de bolsas, usted depositará algodón, guantes, campos de papel estraza y papel aluminio que no estén 
+contaminados por fluidos biológicos, así co mo otros desechos no contaminados por las muestras biológicas, como 
+empaques de material, de algún tipo de alimento, papelería de oficina, etc.  
+ 
+Nota: Los recipientes de punzocortantes  y las bolsas de basura rojas serán entregados perfectamente sellados al  
+supervisor una vez que se encuentren a una capacidad de _ de su totalidad como máximo de llenado.  
+ 
+El supervisor deberá canjearlas por nuevos contenedores y bolsas, contactará a las autoridades correspondientes 
+para coordinar el correcto desecho del mate rial biológico de riesgo mediante esterilización o cremació n, en los 
+hospitales regionales - 
+ 
+ 
+V.ANEXOS  
+ 
+5.2 5.1 COMO  ESCRIBIR LOS NÚMEROS Y LETRA CLARA  
+ 
+Coloque los números de las medidas que usted tome, en las líneas correspondientes. Cuide de hacer los número s 
+claros y nítidos. Esos números serán leídos por un analista de datos. Los números no serán útiles si no pueden ser 
+leídos, los datos no significan nada si no pueden ser leídos. Las siguientes indicaciones le serán útiles para escribir 
+números claros y qu e no den lugar a equivocaciones al igual que en los espacios de escribir se lo haga con letra 
+elegible.    
+44 
+  
+Haga los números como sigue:  
+ 
+… Una simple línea vertical. No haga la línea oblicua                 }  
+    
+… No ponga sombrero ni base al uno.  
+ 
+… Haga e l 2 y el 3  sin adornos.  
+… Haga el 4 abierto; un 4 cerrado puede parecer nueve.  
+… Tenga cuidado de no cerrar / unir el 5 porque puede parecer seis.  
+… Tenga cuidado con el círculo del 6 , que puede verse como cero.  
+… Haga el siete  con la línea horizontal formando cruz. Así no será confundido con el  
+… Haga dos círculos separados. La figura del 8  puede no verse clara y parecer cero.  
+… Esté seguro de cerrar el círculo  del nueve , de lo contrario puede parecer cuatro.  
+ 
+… Los ceros pueden parecer seis.  
+Este seguro que cual quier número esté dentro de los límites de la línea (espacio asignado) que le corresponde.  
+ 
+Los números simples del 1 al 9 escribir como 
+sigue:  
+Llene todas las líneas (cajones o espacios). Esté seguro de colocar los números incluyendo los ceros en las l íneas 
+correspondientes.   Ejemplo: La talla de un niño es 92.0 cms.   
+ 
+Solamente use lápiz. Si usted comete un error, primero borre completamente el error; luego escriba e l (los) 
+número (s) correcto (s
+5.3 ESTANDARIZACIÓN DEL EQUIPO  
+ 
+Durante la recolección de datos debe inspeccionarse regularmente el equipo para pesar y medir ya que los 
+cambios en el clima, la humedad y el uso continuo puede afectar la precisión de las medidas. Esto deberá hacerse 
+cada día antes de comenzar la jornada de trabajo.  
+ 
+ 
+  
+45 
+ 
+A. BÁSCULA O B ALANZA DIGITAL    
+1. Exactitud  
+Para determinar el grado de "exactitud" de la Báscula o balanza (saber cuánto difiere del peso real):  
+a) Asegurarse que esté calibrada en cero "0".  
+b) Tomar algún peso  conocido. Ejemplo pilón de 5 Kg. o tallímetro  
+c) Colocarl a sobre la balanza, hacer la lectura y anotar.  
+d) A esta lectura restarle el peso  (5kg) que ya conoce.  Si el peso que resulta es menor de 4.9 kg o 
+mayor de 5.1kg (ya que se da un rango de + ó - 0.1 kg) quiere decir que la báscula NO está 
+dando el peso exa cto.   
+ASEGÚRENSE DE REVISAR LA EXACTITUD Y PRECISION DE ESTAS BALANZAS, EN EL MANUAL HA DE ESTAR SI ES 
+100G (O MENOS O MAS) PARA SER CONSISTENTES CON ESTAS INDICACIONES   
+2. Precisión  
+Para determinar la "precisión" (saber cuánto varía en dos o más medicion es en una misma persona):  
+a) Asegúrese que está en cero "0.0".  
+b) Tome los pesos  conocidos utilizados para determinar la "exactitud"(Ej. 5 kg).  
+c) Coloque en la balanza y lea cada uno de los pesos  por lo menos 3 veces.  Si existe una 
+diferencia de 0.1 kg. o más, entre los resultados obtenidos en una misma balanza o entre las 
+diferentes balanzas, inspeccione (siempre antes de tomar el peso) que la balanza marca cero 
+puntos cero “ 0.0" y repita el proceso. 
+ 
+5.4   EXTREMIDADES PARA LA MEDIDA ACERTADA . EJERCICIO EN  TALLER DE CAPACITACION  
+ 
+ALTURA  
+Posición correcta de los manos de la auxiliar  
+ 
+ 
+ 
+Plantas de pies planos; talones contra parte posterior y base  
+  
+46 
+ 
+ 
+    
+                Posición incorrecta
+ 
+Posición de la cabeza correcta  
+           
+            Posición incorrecta  
+ 
+ 
+LONGITUD  
+Posición correcta de los manos y la cabeza  
+  
+  
+ 
+  
+Posición incorrecta          Posición incorrecta                          Posición de la auxilia  
+Plantas de los pies contra tope     
+47 
+ 
+  
+  
+               Posición incorrecta  
+VI. FU NCIONES DEL ENTREVISTADOR DE CAMPO  
+ Desplaza rse a los diferentes barriadas y corregimientos  donde se realizará la encuesta.  
+ Realizar la toma de peso y talla/longitud en los niños (as) menores de 5 años seleccionados, en las 
+viviendas que le indique su Supe rvisor (a) de grupo.  
+ Devolver a su Supervisor (a) de grupo, los cuestionarios llenados para la revisión respectiva.  
+ Realizar las revisitas, cuando por inconsistencias de los datos en los cuestionarios aplicados, su  
+Supervisor (a) de grupo le indique que ef ectúe una reentrevista.  
+ Cuidar del equipo, instrumentos y materiales de trabajo que se le asignen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+48 
+    
+Número de vivienda de inicio predeterminado:  
+Códigos para resultados de entrevista:  
+1. Entrevista completada                                                2. Nadie en casa  
+3. Niño sujeto de estudio ausente                                               4. Nadie elegible  
+5. Rechazo                                   6. Rechazo parcial (inicio entrevista, pero se completó)  
+7. Hogar deshabitado                                                                  8. No aplica                   9. Otras razones  
+Numero de 
+Encuesta  Número de 
+vivienda en el 
+mapa  Hora de la visita al 
+hogar  Resultado de la entrevista 
+(anote el código)  Observaciones  
+1ra visita  2da visita  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+ 
+ 
+ 
