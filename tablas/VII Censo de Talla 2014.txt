@@ -1,0 +1,1932 @@
+CENSO DE TALLA DE ESCOLARES 
+DE PRIMER GRADODE LAS ESCUELAS OFICIALES
+PANAMÁ, 20 1 3
+110120
+100119
+118
+117
+116
+115
+114
+113
+112
+111
+109
+108
+107
+106
+105
+104
+103
+102
+101202
+201CENSO DE TALLA DE ESCOLARES 
+DE PRIMER GRADODE LAS ESCUELAS OFICIALES
+PANAMÁ, 20 1 3
+MINISTERIO DE SALUD Dirección de Provisión de Servicios de Salud Departamento de Salud Nutricional
+MINISTERIO DE EDUCACIÓN
+Dirección Nacional de Nutrición y Salud Escolar
+INCAP-OPS/OMSInstituto de Nutrición de Centro América y Panamá Organización Panamericana de la Salud Organización Mundial de la Salud
+Panamá, 2014VII Censo de talla de escolares de primer grado de las escuelas oficiales, Panamá 2013
+Ministerio de Salud / Ministerio de Educación / Instituto de Nutrición de Centro América y Panamá 
+/ Organización Panamericana de la Salud - Organización Mundial de la Salud.
+ISBN 978-9962-51-180-9
+Diseño, diagramación e impresión
+Editora Sibauste, S.A.Tel.: [507] 229-4576 / esibauste@cwpanama.netLa toma de la talla en escolares es una medida antro -
+pométrica que, desde la década del 80, se propuso como 
+una metodología simplificada y útil para evaluar el estado nutricional en este grupo poblacional y a la vez reconocer el ambiente en el cual se desarrolla; ya que la talla que ha alcanzado un escolar entre 6 y 9 años es el resultado de las interacciones de los factores genéticos, sociales y económicos que han caracterizado el ambiente en que se ha desarrollado, desde su concepción (1).
+La baja talla en escolares está asociada con el consu -
+mo alimentario inadecuado y enfermedades infecciosas 
+frecuentes, debido al acceso limitado a los alimentos, prácticas inapropiadas de atención materno-infantil y a servicios de agua y saneamiento ambiental deficientes en una comunidad (2). 
+La metodología de los censos de talla en escolares se ini-
+ció en 1979, basada en la recomendación del doctor José María Bengoa, con el fin de ilustrar la historia nutricional pasada de una comunidad. Consiste en la medición de la talla por los maestros para su análisis, según edad y sexo, de todos los escolares de primer grado de las escuelas de una región o país que estén entre los seis años y cero mes y nueve años con once meses de edad (1).Panamá, realiza su primer censo de talla en escolares de primer grado de las escuelas oficiales en 1982 (3). Los seis censos de talla realizados en el país, han permitido monitorear el comportamiento de la desnutrición crónica a nivel nacional, por provincias, comarcas, distritos y corre -
+gimientos; lo que ha permitido una mejor focalización de los programas de alimentación y nutrición. 
+Es importante señalar que en este VII censo de talla, se 
+lograron desarrollar todas las capacitaciones a nivel na -
+cional, regional y local con el apoyo técnico de los nutri -
+cionistas de ambos ministerios, que por primera vez parti -
+ciparon en todas las fases de capacitaciones.
+Con los resultados de este censo, se actualiza la informa-
+ción de desnutrición crónica en los escolares de Panamá; con el fin de contribuir a redimensionar y/o fortalecer las estrategias, programas y proyectos de múltiples institu-ciones del estado en el marco de la seguridad alimentaria y nutricional que desarrolla el país. INTRODUCCIÓNÍNDICE
+Introducción         3
+Créditos          6
+Antecedentes         11
+I. Objetivos         13
+II. Metodología         14
+1. Planificación y organización      14
+2. Universo del censo de talla      14
+3. Procedimiento       14
+3.1. Fase de capacitación      14
+3.2. Recolección de datos      15
+3.3. Codificación, limpieza y digitación de los datos    15
+3.4. Procedimiento y análisis de datos     16
+3.5. Criterios de clasificación      16
+III. Resultados         18
+1. Características de la población       18
+1.1. Cobertura        18
+1.2. Discapacidad        19
+1.3. Características por área       19
+1.4. Características por sexo       20
+1.5. Características por edad       21
+2. Descripción de la situación nutricional, según talla,  
+en los escolares de primer grado       21
+2.1. Estado nutricional según talla      21
+2.2. Promedio y mediana de la talla de escolares     21
+2.3. Estado nutricional por provincias y comarcas     25
+2.4. Estado nutricional por área geográfica     25
+2.5. Estado nutricional por sexo y edad      26
+3. Clasificación del nivel de prevalencia de baja talla por provincias,  
+comarcas, distritos y corregimientos      30
+3.1. Clasificación del nivel de prevalencia por provincia y comarcas   30
+3.2. Clasificación del nivel de prevalencia por distritos    30
+3.3. Clasificación del nivel de prevalencia por corregimientos    32
+4. Cambios en la situación nutricional entre los censos de talla 2007 y 2013  32
+Discusión          39
+Conclusiones          41
+Recomendaciones         43
+Glosario           45
+Bibliografía          46
+Anexos           48COMISIÓN NACIONAL DE CENSO DE TALLA-CONACENCRÉDITOS
+MINSA
+Mgtr. Eira Vergara de CaballeroMgtr. Elka E. González M.Mgtr. Flavia FontesMgtr. Odalis SinisterraMEDUCALicda. Dalba Caballero Licda. Jilma Eysseric 
+GESTIÓN Y ORGANIZACIÓN
+Coordinadores nacionales 
+MINSA
+Mgtr. Eira Vergara de Caballero
+MEDUCA
+Licda. Dalba Caballero Coordinadores de campo
+MINSA
+Mgtr. Elka E. González M.
+MEDUCA
+Licda. Jilma Eysseric LIMPIEZA, CODIFICACIÓN, DIGITACIÓN, PROCESAMIENTO DE DATOSCoordinadores de capacitaciones
+MINSA
+Mgtr. Eira Vergara de CaballeroMgtr. Elka E. González M. 
+MEDUCA
+Licda. Dalba Caballero Licda. Jilma Eysseric Apoyo internacionales
+Dr. Paul Melgar
+Lic. Marvin ÁlvarezLicda. Nidia Patzán
+MINSAMgtr. Eira V. de CaballeroMgtr. Elka E. González M.
+Mgtr. Flavia Fontes  
+Mgtr. Odalis T. SinisterraLicda. Yeny CarrascoLicda. Ángela OrtegaMgtr. José Renán De LeónLicda. Emérita PonsLicda. Kaliopis SierraSra. Jamileth CigarruistaEstudiante Marimar SalazarMEDUCAIng. Fabio Hurtado Licda. Sheida Bernal
+INCAP-OPS/OMS
+Mgtr. Ana Atencio
+Apoyo internacionales
+Dr. Paul MelgarLic. Marvin Álvarez
+ANÁLISIS DE DATOS Y ELABORACIÓN DE INFORME FINAL
+MINSAMgtr. Eira V de CaballeroMgtr. Elka E. González M.Mgtr. Flavia FontesMgtr. Odalis T. SinisterraMgtr. José Renán De LeónLic. Joaquín Franco (mapeo)MEDUCALicda. Jilma EyserricLicda. Jaymela Gallardo
+INCAP-OPS/OMS
+Mgtr. Ana Atencio
+APOYO LOGÍSTICO
+MINSALicda. Emérita PonsSr. Javier Flores Sr. Lucinio LezcanoSr. Hernan CortézSr. Gilberto BernalSr. Fermiliano AriasSr. Orlando VásquezSr. Luis CamarenaMEDUCAProf. Lucía de Brown Sra. Roxana Lore Lic. Samuel Adames Lic. Juan AlarcónCAPACITADORES REGIONALES Y LOCALES
+Licda. Crisol Hernández
+Mgtr. José Renán De LeónLicda. Itzel MonteroLic. Roberto MartínezLicda. Tesrha CantoralLicda. Doris CarrascoLic. Milner Vásquez Licda. Carmen PérezLic. Víctor CórdobaLicda. Perla Ochogavia Licda. Cecimar BerguidoLicda. Arabel MeléndezLic. Eric CamañoLicda. Iris CastilloLicda. Maritza de AguileraMgtr. Carmen MontenegroLicda. Mabel RiveraLicda. Maritza HerreraMgtr. Daryelis GonzálezLicda. Itzel TristánLicda. Auristela PérezLicda. Zinaida SoussaLicda. Yulisa CaicedoLicda. Dimas UlloaMgtr. Dalys de Ábrego
+NACIONAL MEDUCA
+Licda. Dalba Caballero Licda. Jilma Eysseric Licda. Yovana SmithLicda. Lidiany Jaén
+REGIONALES MEDUCA
+Licda. Nuryaham SerrutLicda. Karell GonzálezLic. José GonzálezProf. María GuerraLicda. Chian Ivonne LooProf. Santos Jorge RodríguezLicda. Raquel de GómezProf. Miguel Ángel GonzálezProf. Didacio ArrochaProf. Eneida GuerraLic. Octavio BatistaLicda. Yovana PimentelIng. Eric DomínguezLicda. Yelania BatistaIng. Favio Hurtado Licda. Sheida BernalLicda. Iris Castillo Sr. Ricardo Castillo Prof. Teodora MorenoLicda. Jaymela GallardoIng. Lourdes de ObaldíaLic. César GonzálezProf. Heidy ÁbregoLic. José GonzálezProf. Joel SagelProf. Edwin GarcíaProf. Rodrigo RodríguezDISEÑO Y DIAGRAMACIÓN
+Editora Sibauste, S. A. REVISIÓN ORTOGRÁFICAMgtr. Teodora Marquínez Terrado
+NACIONALES MINSA
+Mgtr. Eira V. de CaballeroMgtr. Elka E. González M.Mgtr. Flavia FontesLicda. Yeny CarrascoLicda. Melvy FongLicda. Ángela OrtegaLicda. Dairys ConteLicda. Margaret Domínguez
+REGIONALES MINSA
+Licda. Mayra CornejoMgtr. Judith De PinoLicda. Milvia SamaniegoMgtr. Omaira OroscoLicda. Rosa CastilleroLicda. Mitzy CubillaLicda. Marianet MartínezLicda. Sherly FonsecaMgtr. Gloria RiveraLicda. Arasellys CastilloLicda. Julisa NavarroMgtr. Armando BarbaLicda. Lilian JacksonLicda. Geraldin NogueiraLicda. Heidi QuinteroLicda. Katerin IglesiasLicda. Suseth MartínezLicda. Jesusita Del BustoLicda. Katiana DomínguezAgradecemos la participación de 3797 maestros de primer grado de las escuelas oficiales, el apoyo de los directores de 
+escuelas, supervisores de zona y personal técnico, administrativo y directivos del MEDUCA; así como la participación de nutri -
+cionistas, personal administrativo y directivos del MINSA y la asistencia técnica de INCAP y OPS/OMS.AGRADECIMIENTOCONACEN  Comisión Nacional de Censo
+INCAP  Instituto de Nutrición de Centroamérica
+ y Panamá
+MEDUCA  Ministerio de Educación
+MINSA  Ministerio de SaludACRÓNIMOS
+OMS Organización Mundial de la Salud
+OPS Organización Panamericana de la Salud
+STATA  Sistema de Análisis Estadístico para WindowsANTECEDENTES
+Desde el primer censo en Panamá, realizado en 1982, se ha 
+establecido una estrecha coordinación entre los Ministe -
+rios de Salud y Educación, lo que ha permitido desarrollar la metodología de Censo de Talla a muy bajo costo; para ello se firma un acuerdo interinstitucional y, a su vez, se crea una Comisión Nacional de Censo de Talla (CONACEN), que está conformada por los equipos del Departamento de Salud Nutricional de la Dirección de Provisión de Servicios de Salud del MINSA y de la Dirección Nacional de Nutrición y Salud Escolar de MEDUCA. En los seis censos realizados en el país, se ha contado con la participación de los niños y niñas en escuelas ofi -
+ciales, con excepción del censo 2007, en el que 6.2 % de los censados fueron de escuelas particulares y en donde la prevalencia de baja talla, en este grupo, fue de 2.8% (4).
+La información generada de los Censos de talla en esco -
+lares ha permitido que el Estado Panameño identifique las 
+áreas geográficas de mayor riesgo y priorice las interven -
+ciones en seguridad alimentaria y nutricional.MINSA / MEDUCA / OPS / INCAP12
+CENSOS DE 
+TALLACOBERTURAPREVALENCIA BAJA TALLA a
+OBSERVACIONESNacional Moderada Severa
+I Censo (1982) 88.5% 23.1% 21.9% 5.3%Menores prevalencias: Los Santos y Panamá. Más altas 
+prevalencias:  Bocas del Toro, Darién y Veraguas, comarca de Kuna Yala (3).
+II Censo (1985) 71.1% 18.8%Menores prevalencias: Los Santos y Panamá. Más altas prevalencias: comarca de Kuna Yala y las Provincias de Bocas del Toro y Veraguas (5).
+III Censo (1988) 91.3% 24.4% 18.6% 5.8%Más altas prevalencias de baja talla: áreas rurales y en las áreas indígenas de Bocas del Toro, Darién y la comarca de Kuna Yala (6).
+IV Censo (1994) 92.9% 23.9% 17.7% 6.2%Menores prevalencias: Los Santos y Panamá. Más altas prevalencia:  Bocas del Toro, Darién y comarca Kuna Yala (7).
+V Censo (2000) 90.9% 21.9% 16% 5.9%Menores prevalencias (<10.2%): Los Santos, Herrera, Panamá. Más altas prevalencias (>60%): comarcas Ngäbe Buglé, Kuna Yala y Emberá Wounaan (8). 
+VI Censo (2007) 97%21.2 %
+Completob15.1%
+Completob6.1%
+CompletobMenores prevalencias (<9.0%): Los Santos, Herrera y Panamá. Más altas prevalencias (>46.7%): Comarcas in-dígenas. De los 13 distritos que en el 2000 tenían la más altas prevalencias, ocho de ellos mejoraron la talla (4).
+22.4%
+Oficialesc15.9%
+Oficialesc6.5%
+Oficialesc
+a Patrón de referencia: NCHS.
+c Completo: se refiere a escuelas oficiales y particulares. d Oficiales: se refiere a escuelas oficiales solamente.PREVALENCIAS DE BAJA TALLA EN PANAMÁ DESDE 1989 AL 2007OBJETIVO GENERAL: 
+Determinar la situación nutricional, según talla, para la 
+edad de los escolares de primer grado de las escuelas pri -
+marias oficiales de Panamá. 
+OBJETIVOS ESPECÍFICOS: 
+1. Calcular la prevalencia de baja talla de los escolares 
+de primer grado de las escuelas primarias oficiales de Panamá.
+2. Identificar diferencias de baja talla de escolares se -
+gún edad, sexo y área urbana, rural e indígena.
+3. Clasificar los distritos y corregimientos por categoría de nivel de la prevalencia de talla baja. 4. Diagramar la distribución geográfica y administrativa de los niños y niñas de primer grado con retardo en talla en la República de Panamá desagregada a nivel de provincias, comarcas, distritos y corregimientos. 
+5. Evaluar los cambios en la situación nutricional de los (as) escolares de primer grado ocurridos durante los censos realizados de 1982 al 2013. 
+6. Brindar información actualizada y oportuna al Siste-ma de Vigilancia Alimentaria Nutricional de Panamá, organizaciones, autoridades gubernamentales y no gubernamentales sobre el estado nutricional, según talla edad, de los niños y niñas de primer grado de las escuelas primarias oficiales del país.I. OBJETIVOS
+II. METODOLOGÍA 
+1. PLANIFICACIÓN Y ORGANIZACIÓN
+El VII censo nacional de talla se realizó en coordinación 
+entre el Ministerio de Salud y el Ministerio de Educación en todas sus etapas, detalladas en el cronograma de acti -
+vidades (anexo 1).
+Se efectuó un acuerdo interinstitucional en el cual se es -
+tablecieron las responsabilidades entre ambas institucio -
+nes (anexo 2).El Instituto de Nutrición de Centroamérica y Panamá (IN-
+CAP), apoyó para que todo el proceso se realizara en el país, fortaleciendo las capacidades del equipo técnico nacional. 2. UNIVERSO DEL CENSO DE TALLA
+Todos los niños matriculados en primer grado de escuelas oficiales del MEDUCA en el año 2013.
+3. PROCEDIMIENTO
+3.1. Fases de capacitación: Se establecieron tres etapas para la capacitación de los equipos que participaron en la ejecución del censo, en las que se les instruyó en el manejo de la metodología para la medición de la talla de los escolares, evaluación nutricional y forma de llenar los for -
+mularios.
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 15
+FASE DE CAPACITACIÓN DESCRIPCIÓN
+Fase 1: 
+Comisión Nacional del CensoSe capacitó al equipo técnico del nivel nacional de ambos ministerios con apoyo del INCAP en la estandarización en la toma de talla.
+Fase 2: Equipo RegionalEl equipo nacional capacitó a los técnicos regionales en la metodología y procedimientos para la ejecución del censo. El equipo regional estuvo conformado por nutricionistas de ambas instituciones, inspectores de nutrición y supervisores de zona escolar de MEDUCA, quienes apoyaron en la planificación y logística de las capacitaciones locales.
+Fase 3:Local Por primera vez las capacitaciones locales a los maestros en todo el país fueron realiza -
+das por nutricionistas y con el apoyo de coordinadores de MEDUCA.
+3.2. Recolección de los datos:  Los maestros de pri-
+mer grado fueron los responsables de realizar la 
+toma de la talla de sus alumnos y alumnas duran -
+te la semana del 7 al 11 de octubre del 2013; se-gún el procedimiento detallado en el instructivo para la medición de la talla en escolares de pri -
+mer grado, utilizando los siguientes materiales: instructivo, formulario de recolección de datos, tallímetro de vinil en centímetros, escuadra de madera, cinta adhesiva, plomada elaborada por el maestro de primer grado, lápiz y dibujo guía de colocación de los pies. El maestro fue el responsable de llenar el formu -
+lario de recolección de los datos, lo entregaba al 
+supervisor de zona y este, a su vez, lo remitía a la coordinación de nutrición regional de MEDUCA, para que fuera enviado a la Dirección Nacional de Nutrición y Salud Escolar de MEDUCA, quien finalmente lo remitía al departamento de Salud Nutricional del MINSA.
+3.3. Codificación, limpieza, y digitación de los da-tos: Para este censo se utilizó la codificación 
+numérica de la división política-administrativa de la República de Panamá 2009, ya que esta era MINSA / MEDUCA / OPS / INCAP16
+ la base de datos utilizada por MEDUCA en el año 
+2013.
+Los formularios de registro de datos del censo se 
+codificaron y limpiaron por el equipo técnico de ambas instituciones, considerando los criterios previamente establecidos en el instructivo del censo y la codificación sistemática de MEDUCA.
+En el proceso de digitación de los datos se utilizó 
+el programa de ACCESS con la modalidad de doble ingreso (dos ingresos completos de los datos rea -
+lizado simultáneamente por dos personas).
+3.4. Procesamiento y análisis de los datos: Se efec-
+tuó la comparación sistemática de las dos bases de datos, digitadas con doble ingreso, para verifi -
+car errores y corregir discrepancias entre ambas; además se verificaron la consistencia y valores fuera de rango de talla basada en puntaje Z, con valores extremos de la población de referencias (máxima superior a + 6.0 D.E. y mínima inferior a -6.0 D.E.).
+Los criterios de inclusión para el análisis de los 
+resultados contemplaron:
+•	Registro disponible de la fecha de nacimiento 
+y sexo.
+•	Niños y niñas de 6 años con 0 meses hasta 9 años con 11 meses al momento de la toma de la talla.
+•	Niños y niñas sin discapacidad que afecte la toma de la talla. 
+El procesamiento y análisis de los datos se rea-lizaron con el software Sistema de Análisis Esta-dístico STATA versión 12. Para el cálculo antro -
+pométrico se utilizó macro stata-antro plus OMS 2007.
+Para los mapas se utilizaron las capas cartográ-
+ficas digitales de la Sección de Cartografía, Di -CLASIFICACIÓN DE TIPO 
+DE RIESGO DE BAJA 
+TALLA POBLACIONALDESCRIPCIÓN
+Riesgo BajoMenor que el patrón  
+de referencia (<2.3 %)
+Riesgo ModeradoDel patrón de referencia 
+hasta la prevalencia  
+nacional (2.3 % a nacional)
+Riesgo AltoHasta dos veces  
+la prevalencia nacional
+Riesgo muy AltoMás de dos veces  
+la prevalencia nacionalrección de Estadísticas y Censos de la Contraloría General de la República de Panamá, las cuales se unieron con las bases de datos de las prevalencias por provincias y distritos; utilizando el software Manifold. Para asignar los colores se utilizará la clasificación de las prevalencias por cuartiles.
+3.5. Criterios de clasificación: Para clasificar el es -
+tado nutricional de escolares, según el índice de talla/edad, se utilizaron los siguientes criterios:
+Para clasificar el nivel de severidad de riesgo de baja talla en el país se utilizaron los siguientes criterios.CLASIFICACIÓN  
+DE TALLADESCRIPCIÓN DE CATEGORÍAS 
+DE PUNTAJE Z TALLA/EDAD
+Talla Normal Mayor o igual a -2.00 D.E.
+Baja Talla Menos -2.00 D.E.
+      Moderada Entre -2.00 D.E. y -3.00 D.E.
+      Severa Menos de -3.00 D.EVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 17
+CLASIFICACIÓN DE NIVEL PREVALENCIAS RANGO DEL PUNTO DE CORTE POR CUARTIL
+Baja prevalencia Menor 25
+Moderada prevalencia Entre 25 a 49.99
+Alta prevalencia Entre 50 a 74.99
+Muy alta prevalencia Igual y mayor 75Para la clasificación del nivel de prevalencia de baja talla en cada una de las diferentes unidades geopolíticas (provincias y 
+comarcas, distritos y corregimientos), se agruparon las prevalencias en cuatro partes (rangos por cuartiles), donde cada parte tiene el 25% de las prevalencias, definiendo los siguientes criterios:
+III. RESULTADOS
+1. CARACTERÍSTICAS DE LA POBLACIÓN
+1.1. Cobertura: La matrícula reportada por el Ministe -
+rio de Educación para niños y niñas de primer gra-
+do en escuelas oficiales en el 2013 fue de 63067. De acuerdo a los formularios del censo enviados desde las escuelas se captaron 57800 escolares de primer grado, representando una cobertura universal de 91.6 % del total matriculado.
+De los 57800 escolares censados no se tomaron 
+en cuenta los registros de 2843 niños y niñas, de-bido a que estaban fuera del rango de edad (6 a 9 años con 11 meses), o presentaban algún tipo de discapacidad que afectara la toma de la talla, obteniéndose una población de 54957 escolares. Adicional, durante la etapa de limpieza se elimi -
+naron 60 datos de escolares que tenían el registro de la talla con valores fuera de lo esperado para la edad o estaban ausentes en la semana que se realizó la toma de talla en las escuelas. Estas consideraciones permitieron evaluar globalmente a una población de 54897 escolares, lo que repre-sentó una cobertura nacional de escolares de 6 a 9 años de 99.89%.
+En el cuadro 1 se observa que en todas las pro -
+vincias y comarcas se obtuvieron coberturas por 
+encima del 99.0% de escolares censados.
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 19
+PROVINCIAS 
+Y COMARCASTOTAL DE ESCOLARES  
+DE 6- 9 AÑOS COBERTURA 
+(%) CENSADOS 
+NºEVALUADOS 
+Nº
+TOTAL 54957 54897 99.89
+Bocas del Toro 3925 3921 99.90
+Coclé 4445 4444 99.98
+Colón 4212 4210 99.95
+Chiriquí 6970 6969 99.99
+Darién 980 980 100.00
+Herrera 1480 1480 100.00
+Los Santos 1024 1024 100.00
+Panamá 20678 20677 100.00
+Veraguas 4110 4109 99.98
+Comarca Kuna Yala 713 713 100.00
+Comarca Emberá 
+Wounaan278 278 100.00
+Comarca Ngäbe Buglé6142 6092 99.19CUADRO 1. COBERTURA NACIONAL Y POR PROVINCIAS  
+DEL VII CENSO NACIONAL DE TALLA DE ESCOLARES  
+DE PRIMER GRADO DE 6 A 9 AÑOS, PANAMÁ, 2013.1.2. Discapacidad: Se encontraron 128 escolares con 
+algún tipo de discapacidad, de las cuales las más 
+frecuentes fueron: afectaciones del sistema óseo, deficiencias en el aprendizaje, retardo, parálisis cerebral, Síndrome de Down, autismo, discapaci-dades visual y auditiva: como se puede observar en la gráfica 1. Se incluyeron, para el análisis de los datos, la talla de los escolares con discapa -
+cidades que no afectaran la medición como difi-cultad en el aprendizaje, retardo mental, autismo, discapacidades visual y auditiva.
+1.3. Características por área: De los 54897 escola -
+res estudiados, 42.3 % pertenecía al área urbana, 41.5 % al área rural y 16.2 % al área indígena. En la gráfica 2, se observa que la provincia con mayor porcentaje de escolares en el área urbana, fue la provincia de Panamá y la provincia de Veraguas es la que tiene mayor porcentaje de escolares en el área rural.
+Afectación del sistema óseo
+Dificultad en el aprendizajeRetardoParalisis cerebralSíndrome de DownAutismoDiscapacidad visualDiscapacidad auditivaOtras discapacidades9%
+2%
+3%
+5%
+7%
+9%
+11%
+13%41%
+Afectación del sistema óseoDificultad en el aprendizajeRetardoParalisis cerebralSíndrome de DownAutismoDiscapacidad visualDiscapacidad auditivaOtras discapacidades9%
+2%
+3%
+5%
+7%
+9%
+11%
+13%41%GRÁFICA 1. ESCOLARES CENSADOS SEGÚN TIPO DE DISCAPACIDAD.  
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013MINSA / MEDUCA / OPS / INCAP20
+ GRÁFICA 2. DISTRIBUCIÓN PORCENTUAL DE ESCOLARES POR PROVINCIAS Y COMARCAS, SEGÚN ÁREAS GEOGRÁFICAS. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013. 
+GRÁFICA 3. DISTRIBUCIÓN PORCENTUAL DE ESCOLARES POR PROVINCIAS Y COMARCAS, SEGÚN SEXO.  
+ VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.indígena
+ruralurbanaTotal
+Bocasl del Toro
+Coclé
+Colón
+Chiriquí
+Darién
+Herrera
+Los Santos
+Panamá
+Veraguas
+Kuna Yala
+ Emberá Wounaan
+Ngäbe Buglé100%
+90%
+80%70%60%50%40%30%20%10%
+0%16.21.2 0.6
+41.5
+42.321.3
+72.6
+6.134.8
+32.674.1
+25.963.8 66.2
+36.2 32.542.8
+64.0
+36.027.7
+77.9
+100.0 100.0 100.0
+71.7
+22.157.2
+32.7
+1.4. Características por sexo: La gráfica 3, muestra la población estudiada según sexo, observándose una relación de 
+masculinidad (masculina / femenina) de 1.1:1; esta ligera diferencia se mantiene en todo el país, con excepción de 
+la comarca de Kuna Yala.
+Ngäbe Buglé
+Emberá Wounaan
+Kuna Yala
+Veraguas
+Panamá
+Herrera
+Los Santos
+Darién
+Chiriquí
+Colón
+Coclé
+Bocas del Toro
+Total
+0%    10%     20%    30%    40%    50%    60%   70%   80%   90%   100%niños
+niñasVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 21
+ 1.5. Características por edad:  En la gráfica 4 se ob -
+serva que en la distribución por edad, el porcen -
+taje más alto de escolares se ubica en los siete 
+años con 47.2%; seguido por el grupo de seis años, con 45.8%. En las comarcas indígenas y en la provincia del Darién hay una mayor proporción de niños y niñas con ocho y nueve años de edad, con relación al resto del país.
+2. DESCRIPCIÓN DE LA SITUACIÓN NUTRICIONAL  
+SEGÚN TALLA EN LOS ESCOLARES DE PRIMER GRADO
+2.1. Estado nutricional según talla: De los 54897 
+escolares de primer grado evaluados se encontró que 84.1% tiene una talla adecuada para la edad; la prevalencia de baja talla fue de 15.9%; de los cuales 12.5 % presentó talla baja moderada y 3.4 % talla baja severa. 
+GRÁFICA 4. DISTRIBUCIÓN PORCENTUAL DE ESCOLARES POR PROVINCIAS Y COMARCAS, SEGÚN ÁREAS GEOGRÁFICAS. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013. 
+Seis
+SieteOchoNueveTotal
+Bocas del Toro
+Coclé
+Colón
+Chiriquí
+Darién
+Herrera
+Los Santos
+Panamá
+Veraguas
+Kuna Yala
+Emberá Wounaan
+Ngäbe Buglé60,0
+50,040,030,020,010,0
+0,0
+De acuerdo a la clasificación internacional, la 
+prevalencia de baja talla en Panamá es de tipo 
+moderado, debido a que estamos por arriba del 2.3% del patrón de referencia de la OMS 2007. Se espera que en una población normal, el 97.7 % de los escolares tenga una talla adecuada; al com -
+pararlo con los resultados de este censo, existe una diferencia de 13.6 %.
+2.2. Promedio y mediana de la talla de escolares: Para definir la talla promedio nacional se consi-deró la edad de 7 años con 0 meses, que fue el grupo de edad con mayor participación en este censo. La talla promedio de los niños fue de 118.2 cm y la de las niñas 117.6 cm (cuadro 2). Además se observa que los promedios fueron muy simila-res a las medianas en cada grupo de edad.MINSA / MEDUCA / OPS / INCAP22
+ CUADRO 2. TALLA PROMEDIO Y MEDIANA POR EDAD SEGÚN SEXO. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+SEXO EDADPOBLACIÓN 
+TOTALTALLA
+Promedio Mediana
+Niños 6 años 0 meses 51 118.9 119.0
+6 años 6 meses 1070 115.9 116.0
+7 años 0 meses 2370 118.2 118.0
+7 años 6 meses 681 117.9 118.0
+8 años 0 meses 254 119.4 119.0
+8 años 6 meses 129 120.6 120.0
+9 años 0 meses 68 120.7 120.3
+9 años 6 meses 37 123.4 122.5
+Niñas 6 años 0 meses 40 116.4 115.8
+6 años 6 meses 1081 115.5 115.5
+7 años 0 meses 2233 117.6 117.5
+7 años 6 meses 529 117.2 117.0
+8 años 0 meses 176 118.8 119.0
+8 años 6 meses 90 119.6 119.5
+9 años 0 meses 51 123.0 122.0
+9 años 6 meses 32 120.4 120.3VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 23
+ La baja población de escolares en las edades de 6 
+años 0 meses y 9 años con 6 meses, pudo haber influenciado las tallas promedios y medianas de estas edades extremas.
+En las gráficas 5 y 6, se comparan la mediana de 
+la talla en niñas y niños del estándar de la OMS para cada grupo de edad, con las medianas de las tallas a nivel nacional y de las áreas urbana, rural e indígena. 
+En ambos sexos, las tallas de los escolares del 
+área urbana de 6 años con 6 meses y los de 7 años con 0 meses se acercan a los estándares de la OMS. En las niñas el acercamiento es más evidente, resaltando que a los 7 años la diferencia entre la mediana de la talla del área urbana frente al patrón de referencia antes mencionado, es de 1.7 cm en los varones y 0.8 cm en las niñas. 
+A pesar de que se presentó un alejamiento de la 
+talla del estándar de la OMS en todos los grupos, se observa una tendencia ascendente de la talla a medida que aumenta la edad.
+140
+135130125120115110105100Talla cm
+Referencia
+NacionalUrbanaRuralIndígena118.9
+116.0117.5
+115.5
+109.5121.7118.0120.0
+118.0
+111.0124.5118.0121.0
+118.3
+113.0127.3119.0124.5
+120.0
+114.5129.9120.0124.5
+122.5
+115.0132.6120.3126.0
+122.0
+115.3
+6 años
+6 meses7 años
+0 meses7 años
+6 meses8 años
+0 meses8 años
+6 meses9 años
+0 mesesGRÁFICA 5. MEDIANA DE LA TALLA DE NIÑOS EN COMPARACIÓN CON LA MEDIANA DE LA TALLA PATRÓN  
+DE REFERENCIA DE LA OMS SEGÚN GRUPO DE EDAD. VII CENSO NACIONAL DE TALLA, PANAMÁ 2013MINSA / MEDUCA / OPS / INCAP24
+140
+135130125120115110105100Talla cm
+Referencia
+NacionalUrbanaRuralIndígena118.0
+115.5117.0
+115.5
+109.0120.8117.5120.0
+117.0
+111.5123.7117.0121.0
+117.0
+113.0126.6119.0121.8
+119.8
+115.0129.9119.5124.0
+120.5
+115.5132.5122.0127.3
+123.0
+118.5
+6 años
+6 meses7 años
+0 meses7 años
+6 meses8 años
+0 meses8 años
+6 meses9 años
+0 mesesGRÁFICA 6. MEDIANA DE LA TALLA DE NIÑAS EN COMPARACIÓN CON LA MEDIANA DE LA TALLA PATRÓN  
+DE REFERENCIA DE LA OMS SEGÚN GRUPO DE EDAD. VII CENSO NACIONAL DE TALLA, PANAMÁ 2013
+En el cuadro 3, se muestran la talla promedio y la 
+mediana de la talla a los 7 años con 0 meses; di-ferenciadas por sexo en cada provincia y comarca. La provincia de Los Santos presenta una mayor mediana de la talla que el patrón de referencia; reflejando 0.8 cm mayor en los varones y 0.5 cm en las niñas. Herrera y Panamá son las provincias con las medianas de la talla más cercanas al pa-trón de la OMS.La comarca Kuna Yala presenta los valores de mediana y promedios más bajos en ambos sexos.
+Según el patrón de referencia, los varones a los 7 
+años con 0 meses tienen 0.8 cm más en la media -
+na de la talla que las niñas. La comarca Emberá Wounaan presentó una diferencia de 2.0 cm más en los varones que en las niñas y en las provincias de Chiriquí y Darién esta diferencia fue de 1.5 cm.VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 25
+PROVINCIAS  
+Y COMARCASMEDIANA DE LA TALLA PROMEDIO DE LA TALLA
+Niños Niñas Niños Niñas
+Nacional 118.0 117.5 118.2 117.6
+Bocas del Toro 115.0 114.7 114.5 114.6
+Coclé 118.0 117.0 118.9 117.0
+Colón 118.5 119.0 118.8 119.2
+Chiriquí 118.5 117.0 118.9 117.6
+Darién 118.0 116.5 118.3 117.4
+Herrera 120.5 120.5 120.9 121.2
+Los Santos 122.5 121.3 122.3 121.2
+Panamá 119.7 119.5 119.7 119.2
+Veraguas 118.0 118.0 118.2 118.0
+Comarca Kuna Yala 108.5 108.0 109.0 109.3
+Comarca Emberá Wounaan 113.5 111.5 113.5 111.9
+Comarca Ngäbe Buglé 111.0 111.0 111.2 111.1CUADRO 3. TALLA PROMEDIO Y MEDIANA A LOS 7 AÑOS CON 0 MESES, POR PROVINCIAS Y COMARCAS.  
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+2.3. Estado nutricional por provincias y comarcas: 
+Como se presenta en el cuadro 4, las provincias con mayor porcentaje de tallas normales fueron: Los Santos (96.6%), Herrera (96.0%) y Panamá (93.4%). Las mayores prevalencias de baja talla se observaron en las comarcas Kuna Yala (61%), Ngäbe Buglé (53%) y Emberá Wounaan (31%). En relación a la baja talla severa, las comarcas Ngä-be Buglé (16.7%), Kuna Yala (15.7%) y las pro-vincias de Bocas del Toro (6.9%) y Darién (5.1%) presentaron las mayores prevalencias.
+2.4. Estado nutricional por área geográfica: El cua-dro 5 muestra que la prevalencia de baja talla del área urbana nacional, equivale a la mitad de la rural; mientras que la indígena, es ocho veces mayor que la urbana.MINSA / MEDUCA / OPS / INCAP26
+PROVINCIAS Y COMARCASTOTALTALLA  
+NORMALBAJA TALLA
+Total Moderada Severa
+N° % % % %
+TOTAL 54897 84.1 15.9 12.5 3.4
+Bocas del Toro 3921 72.3 27.7 21.6 6.1
+Coclé 4444 90.1 9.9 9,0 0.9
+Colón 4210 90.7 9.3 8.5 0.8
+Chiriquí 6969 89.0 11.0 9.6 1.4
+Darién 980 77.8 22.2 17.1 5.1
+Herrera 1480 96.0 4.0 3.6 0.3
+Los Santos 1024 96.6 3.4 3.2 0.2
+Panamá 20677 93.4 6.6 5.9 0.8
+Veraguas 4109 85.5 14.5 12.1 2.4
+Comarca Kuna Yala 713 38.6 61.4 45.7 15.7
+Comarca Emberá Wounaan 278 69.4 30.6 25.9 4.7
+Comarca Ngäbe Buglé 6092 46.6 53.4 36.2 17.2CUADRO 4. ESTADO NUTRICIONAL DE ACUERDO A TALLA/EDAD DE ESCOLARES SEGÚN PROVINCIAS Y COMARCAS.
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+Las provincias de Herrera y Los Santos presenta -
+ron las menores prevalencias de baja talla en las 
+áreas urbana y rural. La provincia de Bocas del Toro presentó las más altas prevalencias, tanto en el área urbana como en la rural.
+La mitad de los escolares de áreas indígenas pre -
+sentaron baja talla; de estos, la comarca de Kuna 
+Yala es la más afectada con un 61.4%.
+2.5. Estado nutricional por sexo y edad: En la gráfica 
+7 se observa que la prevalencia de baja talla en los varones es más elevada en comparación con las niñas, con una diferencia de 3%.
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 27
+ CUADRO 5. PREVALENCIA DE BAJA TALLA POR ÁREA GEOGRÁFICA SEGÚN PROVINCIAS Y COMARCAS. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+GRÁFICA 7. ESTADO NUTRICIONAL SEGÚN SEXO. VII CENSO NACIONAL DE TALLA, PANAMÁ 2013PROVINCIAS 
+Y COMARCASPOBLACIÓN URBANA POBLACIÓN RURAL POBLACIÓN INDÍGENA
+TotalBaja tallaTotalBaja tallaTotalBaja talla
+Nº % Nº % Nº %
+TOTAL 23219 1430 6.2 22804 2828 12.4 8874 4486 50.6
+Bocas del Toro 1281 197 15.4 1277 364 28.5 1363 526 38.6
+Coclé 1149 36 3.1 3295 404 12.3 - - -
+Colón 1524 92 6.0 2685 298 11.1 1 1 100.0
+Chiriquí 2267 153 6.7 4616 588 12.7 86 29 33.7
+Darién 60 3 5.0 711 103 14.5 209 112 53.6
+Herrera 846 17 2.0 634 42 6.6 - - -
+Los Santos 369 8 2.2 655 27 4.1 - - -
+Panamá 14816 881 5.9 5729 451 7.9 132 42 31.8
+Veraguas 907 43 4.7 3202 551 17.2 - - -
+Comarca Kuna Yala - - - - - - 713 438 61.4
+Comarca Emberá Wounaan - - - - - - 278 85 30.6
+Comarca Ngäbe Buglé - - - - - - 6092 3253 53.4
+90.0
+80.070.060.050.040.030.020.010.0
+0.082.685.7
+17.414.4 13.211.6
+4.2 2.7
+Talla Normal Baja Talla Baja Talla
+moderadaBaja Talla
+severaNiños
+NiñasMINSA / MEDUCA / OPS / INCAP28
+CUADRO 6. PREVALENCIA DE BAJA TALLA POR EDAD SEGÚN PROVINCIAS Y COMARCAS. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013En el cuadro 6 y la gráfica 8, se observa que a 
+mayor edad la baja talla aumenta en todas las provincias y comarcas. A nivel nacional, la pro -
+porción de baja talla a los 6 años fue de 11.8%; la cual aumentó 3 veces a los 8 años y 4 veces a los 9 años. 
+A los 6 y 7 años, la mayoría de las provincias pre -
+sentaron valores de baja talla inferiores al pro -medio nacional, con excepción de Bocas del Toro 
+y Darién. Por otro lado, entre las comarcas indíge-nas, las de Kuna Yala y Nägbe Buglé presentaron el doble de las prevalencias en comparación con la Emberá Wounaan. 
+A las edades de 8 y 9 años, el comportamiento 
+entre las provincias y comarcas es similar con excepción de la comarca de Kuna Yala.
+PROVINCIAS
+Y COMARCASESCOLARES EVALUADOSBAJA TALLA
+6 años 7 años 8 años 9 años
+6 años 7 años 8 años 9 años Nº % Nº % Nº % Nº %
+Total 25138 25884 3031 844 2964 11.8 4 246 16.4 1121 37.0 413 48.9
+Bocas del Toro1678 1880 282 81 361 21.5 548 29.1 132 46.8 46 56.8
+Coclé 2082 2175 147 40 184 8.8 214 9.8 30 20.4 12 30.0
+Colón 2374 1651 151 34 173 7.3 186 11.3 23 15.2 9 26.5
+Chiriquí 2903 3468 469 129 225 7.8 381 11.0 122 26.0 42 32.6
+Darién 394 471 78 37 54 13.7 108 22.9 34 43.6 22 59.5
+Herrera 634 808 28 10 17 2.7 31 3.8 7 25.0 4 40.0
+Los Santos 506 478 28 12 18 3.6 11 2.3 4 14.3 2 16.7
+Panamá 10166 9495 848 168 526 5.2 663 7.0
+142 16.7 43 25.6
+Veraguas 1733 2106 200 70 199 11.5 298 14.2 69 34.5 28 40.0
+Comarca Kuna Yala323 315 65 10 186 57.6 198 62.9 50 76.9 4 40.0
+ComarcaEmberá Wounaan126 116 30 6 35 27.8 38 32.8 9 30.0 3 50.0
+Comarca Ngäbe Buglé 2219 2921 705 247 986 44.4 1570 53.7 499 70.8 198 80.2VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 29
+ GRÁFICA 8. PREVALENCIA DE BAJA TALLA PARA LA EDAD SEGÚN PROVINCIAS Y COMARCAS.
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+9 años
+7 años
+8 años
+6 años
+48.9
+16.4
+37.046.8
+20.4
+11.821.5
+8.8 7.3 7.8
+2.7 3.6 5.211.557.6
+27.844.4
+13.715.226.043.6
+25.0
+14.316.734.576.9
+30.070.829.1
+9.8 11.3 11.022.9
+3.8 2.37.014.262.9
+32.853.756.8
+30.026.532.6
+16.725.640.0 40.050.080.2
+59.5
+40.0Total
+Bocasl del Toro
+Coclé
+Colón
+Chiriquí
+Darién
+Herrera
+Los Santos
+Panamá
+Veraguas
+Kuna Yala
+Emberá Wounaan
+Ngäbe BugléMINSA / MEDUCA / OPS / INCAP30
+CUADRO 7. CLASIFICACIÓN DEL NIVEL DE PREVALENCIA DE BAJA TALLA SEGÚN PROVINCIAS Y COMARCAS. VII CENSO 
+NACIONAL DE TALLA, PANAMÁ, 2013.3. CLASIFICACIÓN DEL NIVEL DE PREVALENCIA 
+DE BAJA TALLA POR PROVINCIAS, COMARCAS,  
+DISTRITOS Y CORREGIMIENTOS
+3.1. Clasificación del nivel de prevalencia por pro-vincias y comarcas: La clasificación de las pre-
+valencias de baja talla por provincias y comarcas considerando los rangos por cuartil son:
+Al clasificar las prevalencias por provincia y co -
+marca, se observa en el cuadro 7 que las tres 
+comarcas y la provincia de Bocas del Toro tienen muy altas prevalencias de baja talla (por arriba de 26.4%); mientras que las provincias con bajas prevalencias (por debajo del 8.5%), fueron Los Santos, Herrera y Panamá.
+A continuación se presenta el mapa de la preva -
+lencia de baja talla a nivel nacional por provincias 
+y comarcas de la República.Unidad  
+Geográfica 
+AdministrativaClasificación de nivel de prevalencia de baja 
+talla (rango de punto de corte por cuartil)
+Baja  
+< 25%Moderada 
+≥ 25 a 50%Alta  
+≥ 50 a <75%Muy Alta 
+≥ 75%
+Provincias ≤ 8.5% 8.6 – 12.6% 12.7 – 26.3% ≥ 26.4%Unidad  
+Geográfica 
+AdministrativaClasificación de nivel de prevalencia de baja  
+talla (rango de punto de corte por cuartil)
+Baja 
+ < 25%Moderada 
+≥ 25 a 50%Alta  
+≥ 50 a <75%Muy Alta 
+≥ 75%
+Distritos ≤ 5.2% 5.3 – 9.9% 10.0 – 20.0% ≥ 20.1%En el anexo 5 se presenta un mapeo de la preva -
+lencia de baja talla por provincia.
+3.2. Clasificación del nivel de prevalencia por dis -
+tritos: La clasificación de las prevalencias de 
+baja talla por distritos considerando los rangos por cuartil son:
+En el cuadro 8 se observa un rango de variabili-
+dad de la prevalencia de baja talla, desde 0.0% en el distrito de Balboa en la Provincia de Panamá, hasta 61.4% en la comarca de Kuna Yala. Los seis distritos con prevalencias aceptables por debajo de 2.3%, según la OMS, fueron: Balboa, Guararé, Las Tablas, Pedasí, Ocú y Chitré.
+Todos los distritos de Bocas del Toro y de las co -
+marcas de Ngäbe Buglé y Kuna Yala presentaron 
+clasificación de muy alta prevalencia.
+Baja Prevalencia
+(≤ 8.5%)Moderada Prevalencia
+(8.6% - 12.6%)Alta Prevalencia
+(12.7% - 26.3%)Muy alta Prevalencia
+(≥ 26.4%)
+Los Santos 3.4% Colón 9.3% Veraguas 14.4% Bocas del Toro 27.6%
+Herrera 3.9% Coclé 9.9% Darién 22.2% Comarca Emberá Wounaan 30.6%
+Panamá 6.6% Chiriquí 11.0% Comarca Ngäbe Buglé 53.1%
+Comarca Kuna Yala 61.4%VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 31
+ Dentro de la clasificación del nivel de muy alta 
+prevalencia, se observa un rango de variabilidad de mínimo un 20.2% hasta un máximo 61.4%; en los distritos de las comarcas Ngäbe Buglé se duplica y en la de Kuna Yala se triplica con la pre -
+valencia más baja en esta categoría.
+En el anexo 3, se puede observar la clasificación 
+del nivel de prevalencia de baja talla de los dis -
+tritos dentro de sus provincias; donde también se refleja que Veraguas y Colón presentaron mayor variabilidad. 
+De los 76 distritos del país, 15 de los mismos 
+(19.7%), no presentaron prevalencia de baja ta-lla severa: Santa Isabel, Alanje, Ocú, Los Pozos, Chitré, Las Tablas, Guararé, Pedasí, Pocrí, Tonosí, Balboa, San Carlos, Taboga, Río de Jesús y Mon -
+tijo, (anexo 3).
+A pesar de que la comarca Kuna Yala presentó la 
+más alta prevalencia de baja talla, al momento de segregarla por severidad, la comarca Ngäbe Buglé presenta los valores más altos de prevalencias de baja talla severa, con excepción en los distritos de Nole Duima y Mironó (anexo 3).
+En el anexo 5 se presenta un mapeo de la preva -
+lencia de baja talla por distritos.
+CUADRO 8. CLASIFICACIÓN DEL NIVEL DE PREVALENCIA DE BAJA TALLA SEGÚN DISTRITOS.
+VII CENSO NACIONAL DE TALLA, PANAMÁ 2013.
+Baja Prevalencia  
+(<5.2%) Moderada Prevalencia  
+(5.3- 9.9%)Alta Prevalencia  
+(10.0- 20.0%)Muy alta Prevalencia  
+(≥20.1%)
+Balboa 0.0% La Chorrera 5.3% Taboga 10.0% Renacimiento 20.2%
+Guararé 1.0% Chame 5.4% Barú 10.1% Las Palmas 20.5%
+Las Tablas 2.0% Dolega 5.8% Santa María 10.3% Donoso 21.9%
+Pedasí 2.0% Panamá 6.2% Remedios 10.5% Bocas del Toro 25.6%
+Ocú 2.1% David 6.5% La Pintada 10.6% Changuinola 26.5%
+Chitré 2.2% Tonosí 6.5% Bugaba 10.7% Santa Fe 26.7%
+Río de Jesús 2.8% Santiago 7.0% Gualaca 10.7% Tolé 26.8%
+Pesé 3.2% Olá 7.4% La Mesa 11.0% Pinogana 28.2%
+Los Pozos 3.5% Colón 7.6% Capira 11.8% Cañazas 35.6%
+Aguadulce 3.9% Soná 8.0% Alanje 11.9% Cémaco 36.0%
+Los Santos 3.9% Arraiján 8.6% Penonomé 12.9% Chiriquí Grande 37.6%
+Portobelo 3.9% Antón 8.8% Calobre 12.9% Nole Duima 48.4%
+San Carlos 4.2% Santa Isabel 9.0% Chagres 14.1% Mironó 49.5%
+Macaracas 4.5% Natá 9.0% San Lorenzo 14.3% Muná 52.6%
+Pocrí 4.5% Boquerón 9.1% Boquete 16.2% Ñurum 53.7%
+Atalaya 4.8% Las Minas 9.4% San Francisco 17.0% Kusapin 54.0%
+Montijo 4.9% Mariato 9.8% Sambú 17.3% Kankintú 54.2%
+Parita 5.2% San Félix 9.9% Chepigana 19.3% Besiko 56.7%
+San Miguelito 5.2% Chepo 9.9% Chimán 20.0% Kuna Yala 61.4%MINSA / MEDUCA / OPS / INCAP32
+ 3.3. Clasificación de nivel de prevalencia por corre-
+gimientos: Según la base de datos de MEDUCA, 
+a nivel nacional existían 631 corregimientos. En el presente estudio se censaron escolares proce -
+dentes de 598 corregimientos; lo que corresponde al 94.7 % del total en la República de Panamá.
+La clasificación de las prevalencias de baja talla 
+por corregimiento considerando los rangos por cuartil son:
+Unidad  
+Geográfica 
+AdministrativaClasificación de nivel de prevalencia de baja talla 
+(rango de punto de corte por cuartil)
+Baja  
+< 25%Moderada 
+≥ 25 a 50%Alta  
+≥ 50 a <75%Muy Alta  
+≥ 75%
+Corregimientos ≤2.05% 2.06 - 7.57% 7.58 - 20.96% ≥ 20.97%En el anexo 4, se observa la clasificación de las prevalencias de corregimiento por provincias; encontrando que 139 corregimientos (23%), no presentaron escolares con baja talla. El corre-gimiento con más alta prevalencia de baja talla (90%), es el de Wargandí pertenece al grupo indí-gena Kuna y localizado en la provincia de Darién. 
+De los 58 corregimientos de la comarca Ngäbe 
+Buglé, siete de ellos (12%), presentaron preva-lencias de baja talla superiores al 80%: Krüa, Jädabedi, Guibale, Güoroni, Mününi y Valle Bonito (anexo 4).
+4. CAMBIOS EN LA SITUACIÓN NUTRICIONAL ENTRE LOS CENSO DE TALLA 2007 Y 2013
+Para hacer las comparaciones entre ambos censos se 
+aplicó el nuevo patrón de referencia OMS 2007 a la base de datos del censo 2007, excluyéndose los es -
+colares de escuelas particulares que en aquel censo fueron contemplados.
+En el cuadro 9, se observa que la prevalencia nacional 
+del 2007 fue de 22.1% mientras que la del 2013 fue de 15.9%, lo cual refleja una disminución de la desnutri -
+ción crónica de 6.2%; es importante resaltar que la prevalencia de baja talla severa disminuyó 2.8%, todas con significancia estadística.
+Con relación a la talla promedio a los siete años con 
+cero meses, se observa en el cuadro 10, un aumento de 1.5 cm y 1.6 cm para sexo masculino y femenino respectivamente; diferencias estadísticamente signi-ficantes.
+La gráfica 9 muestra la comparación entre los censos 
+2007 y 2013 de la distribución de todos los escolares según el valor Z para la talla, observándose un despla -
+zamiento de la curva hacia la derecha en el 2013, acer -
+cándose esta última al estándar OMS, con un aumento del valor Z promedio 0.24, el cual es estadísticamente significativo.
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 33
+CATEGORÍAS DE ESTADO  
+NUTRICIONAL SEGÚN INDICE 
+TALLA/EDAD aPREVALENCIAS 
+Z pb
+CENSO 2007 (n=64260) CENSO 2013 (n=54897)
+Talla Normal (%) 77.9 (77.6 – 78.2) 84.1 (83.8 – 84.4) -26.9 0.00
+Baja Talla (%) 22.1 (21.8 – 22.4) 15.9 (15.6 – 16.2) 27.0 0.00
+Moderada (%) 15.8 (15.5 – 16.1) 12.5 (12.2 – 12.7) 16.4 0.00
+Severa (%) 6.2 (6.0 – 6-4) 3.4 (3.3 – 3.6) 21.8 0.00
+a  Valores presentados como proporción e intervalo de confianza 95%
+b  Valor p de la prueba de proporciones de dos muestras independientes
+Prueba de diferencia de proporciones = [proporción (2007) – proporción (2013)]
+    Ho: diferencia = 0   Ha: diferencia ≠ 0
+TALLA SEGÚN SEXO  aTALLA PROMEDIO EN ESCOLARES
+t pb
+CENSO 2007 (n=1865) CENSO 2013 (n=2370)
+Talla (cm) niños 7 años 0 meses 116.7 ± 6.5 118.2 ± 6.3 7.6 0.00
+Talla (cm) niñas 7 años 0 meses 116.0 ± 6.6 117.6 ± 6.2 -7.8 0.00
+a  Valores presentados como media ± desviación estándar
+b  Valor p de la prueba t de Student de dos muestras independientesPrueba de diferencia de medias = [media (2007) - media (2013) 
+Ho: diferencia = 0  Ha: diferencia ≠ 0CUADRO 9. COMPARACIÓN DE LA PREVALENCIA DEL ESTADO NUTRICIONAL 
+SEGÚN ÍNDICE TALLA/EDAD DE LOS CENSOS 2007 Y 2013. PANAMÁ.
+CUADRO 10. COMPARACIÓN DE TALLAS PROMEDIOS EN ESCOLARES  
+SEGÚN SEXO DE LOS CENSOS 2007 Y 2013. PANAMÁ.
+El cuadro 11 muestra que en todas las provincias y comarcas la prevalencia de baja talla disminuyó en-tre el 2007 y el 2013, siendo mayores las diferencias en la comarca Ngäbe Buglé con 17.7%, en la comarca Emberá Wounaan 15.2% y en la provincia de Bocas del Toro donde la disminución fue de 11.1%.
+El cambio porcentual de la prevalencia se refiere al 
+porcentaje de la diferencias de las prevalencias en -tre censos, considerando como 100% la prevalencia del 2007; lo cual explica porcentualmente el cambio presentado dentro de cada provincia, comarca o dis -
+trito, siendo favorable si es positivo o desfavorable si es negativo. Se observa en el cuadro 10 que las provincias con cambios porcentuales favorables, por arriba del nacional (+28.1) fueron: Herrera, Coclé, Veraguas, comarca Emberá Wounaan, Los Santos, Panamá y Bocas del Toro.MINSA / MEDUCA / OPS / INCAP34
+ GRÁFICA 9. COMPARACIÓN DE LOS VALORES DE PUNTAJES Z DE TALLA a 
+EN ESCOLARES DE LOS CENSOS 2007 y 2013. PANAMÁ.
+a  Valor z promedio y desviación estándar: Censo  2007= -1.05 + 1.26     Censo 2013= -0.81 + 1.20 
+   Diferencia significativa: prueba de t test con valor p<0.000
+PROVINCIAS  
+Y COMARCASPREVALENCIA DE BAJA TALLA
+2007 2013  Diferencia Cambio % 
+TOTAL 22.1 15.9 -6.2 +28.1
+Bocas del Toro 38.8 27.7 -11.1 +28.6
+Coclé 15.5 9.9 -5.6 +36.1
+Colón 12 9.3 -2.7 +22.5
+Chiriquí 14.9 11 -3.9 +26.2
+Darién 26.3 22.2 -4.1 +15.6
+Herrera 7.3 4 -3.3 +45.2
+Los Santos 5 3.4 -1.6 +32.0
+Panamá 9.2 6.6 -2.6 +28.3
+Veraguas 22.2 14.5 -7.7 +34.7
+Comarca Kuna Yala 69.3 61.4 -7.9 +11.4
+Comarca Emberá Wounaan 45.8 30.6 -15.2 +33.2
+Comarca Ngäbe Buglé 71.1 53.4 -17.7 +24.9CUADRO 11. DIFERENCIA Y CAMBIO PORCENTUAL DE LAS PREVALENCIAS DE BAJA TALLA 
+ENTRE LOS CENSOS 2007 Y 2013, PROVINCIAS Y COMARCAS. PANAMÁ 2013.45%
+40%35%30%25%20%15%10%
+5%0%
+-5 -4 -3 -2 -1 0 1 2 3 4 5
+Puntaje ZEstándar OMS
+Censo Panamá 2007Censo Panamá 2013NiñosVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 35
+ En el cuadro 12 se muestra que la provincia de Bocas 
+del Toro presentó mayor disminución de la desnutri -
+ción crónica en el área urbana y en la rural; y la pro-vincia de Darién una menor disminución de la misma en el área rural e indígena. Con relación a los cambios observados en el área indígena la provincia de Chiriquí y Bocas del Toro fueron las que presentaron mayores disminuciones de la prevalencia de baja talla.
+En el cuadro 13, se comparan las prevalencias de baja 
+talla de ambos censos por distritos, tomando como referencia el valor de la prevalencia del 2007. Se en -
+contró que 37 distritos tuvieron diferencias por arriba de la prevalencia nacional de -6.2%.
+Al observar los distritos y su respectivo cambio por -
+centual, se evidencia que en la mayoría de ellos fueron 
+favorables; por encima del 70% se encuentran: Bal -
+boa, Guararé, Los Pozos, Ocú y Río de Jesús.Se encontraron 8 distritos que aumentaron la desnutri -
+ción crónica con relación al censo del 2007. Los distri -
+tos de Atalaya, Pocrí, Macaracas y Tonosí presentaron un aumento desfavorable de la desnutrición por arriba del 40%. 
+Al revisar las prevalencias de baja talla en el 2007, se 
+evidenció que 26 distritos presentaron valores mayores al promedio nacional en ese censo (22.06%). Al com -
+parar las prevalencias de estos distritos en el 2007 con las del 2013, se observan que todos presentaron cam-bios porcentuales favorables que varían de 11.3% has -
+ta 56.8% (Gráfica 10). Los cinco distritos con cambios por arriba del 40% fueron: Remedios, La Mesa, Sambú, San Francisco y Chimán. El distrito en la comarca de Ngäbe Buglé con mayor cambio favorable en las pre -
+valencias fue Nole Duima (31.4%), el resto presentó cambios por arriba del 20%; con excepción de Kusapín que fue de 17.2%.
+CUADRO 12. PREVALENCIA DE BAJA TALLA POR ÁREA, CENSOS 2007 Y 2013,
+SEGÚN PROVINCIAS Y COMARCAS. PANAMÁ
+PROVINCIAS  
+Y COMARCASTotal Urbana Rural Indígena
+2007 2013 2007 2013 2007 2013 2007 2013
+Bocas del Toro 38.8 27.7 20.8 15.4 38.8 28.5 55.7 38.6
+Coclé 15.5 9.9 6.5 3.1 18.5 12.3 - -
+Colón 12.0 9.3 6.2 6.0 15.6 11.1 - 100.0
+Chiriquí 14.9 11.0 9.9 6.7 17.2 12.7 61.5 33.7
+Darién 26.3 22.2 - 5.0 16.4 14.5 53.7 53.6
+Herrera 7.3 4.0 4.0 2.0 10.5 6.6 - -
+Los Santos 5.0 3.4 3.2 2.2 5.8 4.1 - -
+Panamá 9.2 6.6 7.4 5.9 11.7 7.9 42.4 31.8
+Veraguas 22.2 14.5 6.8 4.7 26.7 17.2 - -
+Comarca Kuna Yala 69.3 61.4 - - - - 69.3 61.4
+Comarca Emberá Wounaan 45.8 30.6 - - - - 45.8 30.6
+Comarca Ngäbe Buglé 71.1 53.4 - - - - 71.1 53.4MINSA / MEDUCA / OPS / INCAP36
+ CUADRO 13. DIFERENCIA Y CAMBIO PORCENTUAL DE LAS PREVALENCIAS DE BAJA TALLA
+ ENTRE LOS CENSOS 2007 Y 2013, SEGÚN DISTRITO. PANAMÁ 2013.
+DISTRITOSPREVALENCIA DE BAJA TALLA
+CENSO 2007 CENSO 2013 DIFERENCIA CAMBIO % a
+Nacional 22.1 15.9 -6.2 +28.1
+Balboa 8.5 0.0 -8.5 +100.0
+Guararé 7.2 1.0 -6.2 +85.8
+Los Pozos 16.2 3.5 -12.7 +78.5
+Ocú 9.9 2.1 -7.8 +78.3
+Río de Jesús 9.5 2.8 -6.7 +70.3
+Pedasí 6.5 2.0 -4.4 +68.4
+San Carlos 12.0 4.2 -7.8 +65.0
+Portobelo 9.6 3.9 -5.6 +58.8
+Remedios 24.2 10.5 -13.8 +56.8
+La Mesa 24.8 11.0 -13.8 +55.7
+Sambú 37.1 17.3 -19.9 +53.5
+Ola 15.4 7.4 -8.0 +52.0
+Soná 14.7 8.0 -6.7 +45.6
+Chitré 4.1 2.2 -1.8 +44.8
+San Francisco 30.3 17.0 -13.3 +44.0
+Chimán 35.0 20.0 -15.0 +42.9
+Dolega 10.0 5.8 -4.2 +42.1
+Los Santos 6.8 3.9 -2.8 +41.9
+La Pintada 18.1 10.6 -7.5 +41.3
+San Félix 16.7 9.9 -6.8 +40.7
+Alanje 19.8 11.9 -7.9 +40.0
+Santa Fe 44.5 26.7 -17.8 +39.9
+Chepo 16.4 9.9 -6.5 +39.7
+Montijo 8.0 4.9 -3.1 +38.9
+Penonomé 20.9 12.9 -8.0 +38.3
+Las Palmas 32.9 20.5 -12.4 +37.8
+Las Tablas 3.2 2.0 -1.2 +36.9
+Capira 18.7 11.8 -6.8 +36.5
+Donoso 33.2 21.9 -11.3 +34.1
+Bocas del Toro 38.7 25.6 -13.1 +33.8
+Las Minas 14.2 9.4 -4.8 +33.7
+Aguadulce 5.8 3.9 -1.9 +33.2
+Chame 8.1 5.4 -2.7 +33.0
+David 9.6 6.5 -3.2 +32.8
+Nole Duima 70.6 48.4 -22.2 +31.4
+Antón 12.7 8.8 -3.9 +30.5
+a  cambio porcentual (%) favorable si es positivo (+) y desfavorable si es negativo (-)VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 37
+DISTRITOSPREVALENCIA DE BAJA TALLA
+CENSO 2007 CENSO 2013 DIFERENCIA CAMBIO % a
+San Miguelito 7.5 5.2 -2.3 +30.3
+Boquerón 12.9 9.1 -3.9 +30.0
+Santa Isabel 12.7 9.0 -3.7 +29.4
+Mironó 69.9 49.5 -20.4 +29.2
+Changuinola 37.1 26.5 -10.6 +28.6
+Muná 73.3 52.6 -20.7 +28.3
+San Lorenzo 19.8 14.3 -5.5 +27.9
+Boquete 22.4 16.2 -6.2 +27.8
+Chagres 19.5 14.1 -5.4 +27.5
+Ñurum 73.7 53.7 -19.9 +27.0
+Mariato 13.4 9.8 -3.6 +27.0
+Cañazas 47.7 35.6 -12.1 +25.4
+Barú 13.4 10.1 -3.3 +24.7
+Cémaco 47.7 36.0 -11.7 +24.5
+Panamá 8.2 6.2 -2.0 +24.4
+Kankintú 71.5 54.2 -17.3 +24.2
+Chiriquí Grande 49.5 37.6 -11.9 +24.1
+Tolé 35.1 26.8 -8.3 +23.8
+La Chorrera 6.9 5.3 -1.6 +23.6
+Calobre 16.8 12.9 -3.9 +23.2
+Besiko 72.0 56.7 -15.4 +21.4
+Bugaba 13.6 10.7 -2.9 +21.3
+Taboga 12.5 10.0 -2.5 +20.0
+Arraiján 10.7 8.6 -2.1 +19.4
+Kusapin 65.4 54.0 -11.4 +17.5
+Chepigana 23.3 19.3 -4.0 +17.2
+Natá 10.8 9.0 -1.7 +16.2
+Renacimiento 23.5 20.2 -3.3 +14.0
+Colón 8.7 7.6 -1.1 +12.5
+Kuna Yala 69.3 61.4 -7.8 +11.3
+Pinogana 31.8 28.2 -3.6 +11.3
+Gualaca 11.2 10.7 -0.5 +4.2
+Santiago 6.8 7.0 +0.2 -2.4
+Pesé 3.1 3.2 +0.2 -5.2
+Parita 4.4 5.2 +0.8 -18.2
+Santa María 8.6 10.3 +1.7 -19.7
+Tonosí 4.5 6.5 +2.0 -44.5
+Macaracas 3.0 4.5 +1.6 -53.6
+Pocrí 2.9 4.5 +1.7 -59.1
+Atalaya 2.4 4.8 +2.4 -100.0
+a  cambio porcentual (%) favorable si es positivo (+) y desfavorable si es negativo (-)MINSA / MEDUCA / OPS / INCAP38
+ GRÁFICA 10. CAMBIO PORCENTUAL DE LA DESNUTRICIÓN CRÓNICA ENTRE LOS CENSOS 2007 Y 2013, 
+EN CADA UNO DE LOS DISTRITOS CON PREVALENCIA POR ARRIBA DEL PROMEDIO NACIONAL, EN EL 2007.
+Guna Yala
+Pinogana
+Renacimiento
+Chepigana
+Kusapin
+Besiko
+Tolé
+Chiriquí Grande
+Kankintú
+Cémaco
+Cañazas
+Ñurum
+Boquete
+Muná
+Changuinola
+Mironó
+Nole Duima
+Bocas del Toro
+Donoso
+Las Palmas
+Santa Fe
+Chimán
+San Francisco
+Sambú
+La Mesa
+RemediosDistritos
+11.3
+11.3
+14.0
+17.217.5
+21.4
+23.8
+24.1
+24.2
+24.5
+25.4
+27.0
+27.8
+28.3
+28.6
+29.2
+31.4
+33.8
+34.1
+37.8
+39.9
+42.9
+44.0
+53.5
+55.7
+56.8
+0 10 20 30 40 50 60
+Cambio Porcentual [%] FavorableDISCUSIÓN
+El VII Censo de talla de escolares alcanzó una mayor co -
+bertura (99.9%) que el del 2007 (97.0%) (4), lo cual revela 
+una elevada respuesta favorable de los docentes para la recolección de la información, después de ser capacitados.
+El inicio del año escolar en Panamá es en el mes de marzo, 
+y para ingresar a primer grado, según se establecen en las normas de MEDUCA, los niños y niñas deben tener 6 años cumplidos; por tal motivo se debe esperar que para el mes de octubre, cuando se realizó este censo, la mayor pobla -
+ción de escolares tenían 7 años cumplidos; a diferencia del censo anterior que se realizó en el mes de junio, en el que la mayor proporción de escolares tenía 6 años (9).  
+Al comparar la desnutrición crónica del Censo de Talla del 
+2007 con el actual, se encontró una disminución de 6.2%, lo que refleja un cambio favorable en la baja talla de 1% al año, en promedio, durante estos seis años y un aumento significativo en el valor Z promedio de la talla.
+La talla a los seis y siete años refleja la ingesta de nutrien -
+tes en calidad y cantidades suficientes durante el desa -
+rrollo del feto en el embarazo y en los primeros 24 meses 
+de vida del niño, además de las condiciones ambientales y sociales de la familia durante la primera infancia (10). Los escolares evaluados en este censo, en el año 2008, eran menores de 5 años; en la Encuesta de Niveles de Vida realizada en el 2008, la desnutrición crónica en los meno -
+res de 5 años fue de 19%: resultado que permitía prever el comportamiento de la disminución de la talla de los esco -
+lares de 6 y 7 años para el censo 2013 (11).
+MINSA / MEDUCA / OPS / INCAP40
+ Por otro lado, a medida que las economías crecen, la baja 
+talla generalmente disminuye; en Panamá, las variaciones porcentuales del PIB per cápita entre los años 2006 y 2008 fueron positivas y elevadas (desde 6.7% hasta 10.2%), las cuales se han asociado a mejoría en la situación nutricio -
+nal de los menores de 5 años (12, 13).
+Es importante mencionar que debido al compromiso de 
+país en mejorar la situación nutricional, se llevaron a cabo estrategias interinstitucionales en las que estos escolares estuvieron expuestos a mejores condiciones ambientales, desde el periodo de gestación (años 2006 y 2007) hasta cumplir 24 meses (años 2008 y 2009). Acciones como la red de oportunidades condicionada a los controles de salud en el embarazo y primeros años de vida, así como la asisten -
+cia a la escuela, la estrategia de extensión de cobertura en salud, los programas de alimentación complementaria y la fortificación de alimentos, se han relacionado con mejoría en el crecimiento de preescolares (10, 14, 15, 16).
+Para la implementación de dichas estrategias se prioriza -
+ron aquellos distritos con las más altas prevalencias de 
+baja talla y poco a poco se fue ampliando a los demás distritos, lo cual pudiera explicar los cambios favorables a nivel nacional y, principalmente, en los 26 distritos que en el 2007 estaban más afectados con desnutrición crónica.
+Se encontró en este VII censo ocho distritos que, a pesar 
+de estar clasificados con baja prevalencia en el censo de 2007, tuvieron un aumento de la desnutrición crónica en escolares; esta situación nos hace ver la importancia de no descuidar aquellos distritos que presentan una mejor situación nutricional.
+Las áreas indígenas del país son las más afectadas con 
+la desnutrición crónica en Panamá. Si tomamos en cuen-ta solamente las áreas urbanas y rurales, la prevalencia nacional de desnutrición crónica sería de 9.2%, por lo que es importante implementar estrategias para mejorar la equidad estructural y las condiciones sociales de los diferentes grupos indígenas en Panamá (17).La provincia de Darién tiene su mayor población en las áreas rural e indígena de las etnias Emberá y Wounaán, que están fuera de su comarca y Kuna Wargandí, las cua-les mostraron cambios muy pequeños en la desnutrición crónica. Sin embargo, los escolares que estaban dentro de la comarca Emberá Wounaan presentaron cambios fa-vorables. CONCLUSIONES
+1. Los datos recopilados mediante el censo realizado en 
+el año 2013, reflejan que el 84.1% de los escolares presentaban una talla adecuada para su edad.
+2. Las provincias con mayor porcentaje de escolares con tallas normales fueron Los Santos (96.6%), Herrera (96.0%) y Panamá (93.4%). 
+3. Los escolares de la provincia de Los Santos presen -
+taron la mediana de la talla mayor que el patrón de referencia de estándar de la OMS, en ambos sexos.
+4. La talla promedio nacional a los 7 años en los niños fue de 118.2 cm y en las niñas, de 117.6 cm; con re -lación al censo anterior, la misma aumentó 1.5 cm y 1.6 cm respectivamente. 
+5. La prevalencia de baja talla a nivel nacional fue de 15.9%, de la cual 12.5 % corresponde a baja talla moderada y 3.4 % a baja talla severa. 
+6. La prevalencia de desnutrición crónica disminuyó significativamente de 22.1% en el 2007 a 15.9% en el 2013. 
+7. Los varones presentaron mayor prevalencia de baja talla (17.4%) que las niñas (14.4%). 
+MINSA / MEDUCA / OPS / INCAP42
+ 8. Las mayores prevalencias de desnutrición crónica se 
+observaron en las comarcas Kuna Yala (61%), Ngäbe Buglé (53%) y Emberá Wounaán (31.0%).
+9. La prevalencia de baja talla del área rural fue el do -
+ble que la urbana, mientras que la indígena fue ocho veces mayor.
+10. Con relación a las áreas urbana y rural la provincia de Bocas del Toro fue la que presentó las más altas prevalencias de baja talla. 
+11. Los distritos con prevalencias adecuadas por debajo de 2.3%, según la OMS, fueron: Balboa, Guararé, Las Tablas, Pedasí, Ocú y Chitré.
+12. De los 76 distritos que conforman el país, 15 no pre-sentaron baja talla severa: Santa Isabel, Alanje, Ocú, Los Pozos, Chitré, Las Tablas, Guararé, Pedasí, Pocrí, Tonosí, Balboa, San Carlos, Taboga, Rio de Jesús y Montijo.
+13. Todos los distritos de Bocas del Toro y de las comar-cas Ngäbe Buglé y Kuna Yala presentaron clasifica -
+ción de nivel de prevalencia de desnutrición crónica muy alta.
+14. De todos los 598 corregimientos censados, 139 no presentaron escolares con baja talla.
+15. El corregimiento con más alta prevalencia de baja ta -
+lla fue Kuna de Wargandí ubicado en la provincia de Darién, con 90%. 
+16. El grupo indígena con mayor disminución de la preva -
+lencia de baja talla entre los dos censos fue el Ngäbe Buglé, tanto en su misma comarca como los ubicados en las provincias de Chiriquí y Bocas del Toro.RECOMENDACIONES
+1. Los resultados de este censo constituyen una exce -
+lente herramienta para la focalización de acciones 
+socio económicas, de educación, salud, obras públi -
+cas, vivienda y agropecuarias para contribuir al desa-rrollo humano.
+2. Utilizar los resultados a nivel de corregimiento, dis -
+trito, provincia y comarca para la toma de decisiones de programas y proyectos por las autoridades corres -
+pondientes.
+3. Fomentar estrategias que permita aumentar los ni-veles de escolaridad de la mujer, para contribuir a la disminución de la desnutrición crónica y, por ende, mejorar la capacidad intelectual de la población y la economía del país.  4. Los esfuerzos dirigidos a las áreas indígenas deben continuar de forma sostenible, con enfoque intersec-torial, tomando en cuenta la interculturalidad.
+5. Es importante continuar con los esfuerzos para me -
+jorar la calidad de la educación y la infraestructura de las escuelas de las áreas indígenas y rurales de difícil acceso.  
+6. Fortalecer los programas de agua y saneamiento en las áreas indígenas, lo cual tiene una repercusión de alto impacto en los primeros mil días de vida del niño, desde el embarazo hasta los dos primeros años de vida, evitando el círculo vicioso de los procesos infecciosos.
+MINSA / MEDUCA / OPS / INCAP44
+ 7. Los censos de talla son una herramienta efectiva 
+para la focalización y monitoreo de estrategias desti -
+nadas a mejorar la situación nutricional de nuestros niños, por tanto garantizar los recursos necesarios y la continuidad de estos, favorecerán a las tomas de decisiones coherentes con nuestra realidad nacional.GLOSARIO
+1. ACCESS: Sistema de gestión de bases de datos inclui -
+do en el paquete de programas de Microsoft Office.
+2. Cuartiles: Son los tres valores que dividen al con -
+junto de datos ordenados en cuatro partes porcen -
+tualmente iguales, su función es informar el valor de 
+la variable que ocupará la posición que nos interese respecto de todo el conjunto de variables.
+3. Desnutrición crónica: Baja talla para la edad. Aso-ciada normalmente a situaciones de pobreza, con consecuencias para el aprendizaje y menos desem -
+peño económico.
+4. Desviación estándar: Raíz cuadrada de la varianza la cual es la cuantificación de la dispersión de los datos con respecto a la media.
+5. Media o promedio: Suma de todos los valores de una variable dividida entre el número total de datos de los que se dispone o del tamaño muestral. Medida aritmética de los valores de una variable estadística. 6. Mediana: corresponde al dato central de un conjunto de datos ordenados de menor a mayor
+7. Prevalencia: número total personas que presen -
+tan síntomas o padecen una enfermedad durante un periodo de tiempo, dividido por la población con posibilidad de llegar a padecer dicha enfermedad. La prevalencia es un concepto estadístico usado en epidemiología, sobre todo para planificar la política sanitaria de un país.
+8. STATA: Sistema de Análisis Estadístico para Windows
+9. Valor Z o puntaje Z:  En cuantas unidades de des-
+viación estándar del promedio está un puntaje deter -
+minado. Para utilizar el puntaje Z requerimos que la distribución sea normal y conocer el promedio y la desviación estándar de los puntajesBIBLIOGRAFÍA
+1. Palma, P. INCAP. Los censos de talla en escolares: 
+consideraciones metodológicas. PP/NT/026. http://bvssan.incap.org.gt/local/file/PPNT026.pdf 
+2. INEI. Estado Mundial de la Infancia. Marco concep -
+tual de la desnutrición infantil. Perú, 1998. www.inei.gob.pe/media/MenuRecursivo/publicacio -
+nesdigitales/Est/Lib0893/Libro.pdf 
+3. Ministerio de Salud, Ministerio de Educación. Primer Censo de Talla de escolares de primer grado. Panamá 1982.
+4. Ministerio de Salud, Ministerio de Educación. Sexto  Censo de Talla de escolares de primer grado. Repú -
+blica de Panamá, 2007. 5. Ministerio de Salud, Ministerio de Educación. Se-gundo Censo de Talla de escolares de primer grado. Panamá, 1985. 
+6. Ministerio de Salud, Ministerio de Educación. Tercer Censo de Talla de escolares de primer grado. Pana -
+má.1988.
+7. Ministerio de Salud, Ministerio de Educación. Cuarto Censo de Talla de escolares de primer grado. Pana -
+má, 1994.
+8. Ministerio de Salud, Ministerio de Educación. Quinto Censo de Talla de escolares de primer grado. Pana -
+má, 2000.VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 47
+ 9. MEDUCA, Decreto ejecutivo 1134, del 20 de diciembre 
+de 2010. http://www.gacetaoficial.gob.pa/pdfTem -
+p/26688_B/30932.pdf
+10. Dewey K.G, Adu-Afarwuah S. Systematic review of the efficacy and effectiveness of complementary feeding interventions in developing countries. Maternal nutri -
+tion program in International and Community Nutri-tion. University of California, Davis, California. 2008. http://onlinelibrary.wiley.com/doi/10.1111/j.1740-8709.2007.00124.x/full 
+11. MINSA. Situación alimentaria y nutricional de la po -
+blación panameña basada en la tercera Encuesta de Niveles de Vida - 2008. República de Panamá, 2012.
+12. Ruel, M.T, H, Alderman. Intervenciones y programas con incidencia nutricional: ¿De qué forma pueden ayudar a acelerar el avance del mejoramiento de la nutrición materno-infantil? Instituto Internacional de 
+Investigación en Políticas alimentarias, Washing  ton, 
+EUA. 2013. http://www.incap.org.gt/index.php/es/publicacio -
+nes/doc_view/456-articulo-3-nutricion-materno-in -
+fantil
+13. Contraloría General de la República. Cuadro 342-09. Producto interno bruto a precios de comprador de 1996 e ingreso nacional disponible total y per cápita, en la república y sus variaciones porcentuales: años 1996-2010. http://www.contraloria.gob.pa/inec/archivos/P3521342-09.pdf
+14. Mojica, A. R. Programas de transferencias condicio-nadas, políticas sociales y combate a la pobreza en Panamá, serie políticas sociales Nº 162. CEPAL. Na-ciones Unidas, mayo de 2010. http://www.cepal.org/publicaciones/xml/3/39813/sps162-ptc-panama.pdf 
+15. MINSA. Comisión Nacional de Micronutrientes. Plan Nacional “Prevención y Control de las Deficiencias de Micronutrientes” 2008-2015. Panamá, República de Panamá. Enero, 2008. PMA, INCAP-OPS. http://www.senapan.gob.pa/pdfs/Plan-Nacio -
+nal-de-Prevencion-y-Control-de-la-Deficien -
+cias-de-Micronutrientes-2008-2015.pdf
+16. MINSA, SENAPAN. Plan nacional de combate a la des -
+nutrición infantil 2008-2015. Panamá, República de Panamá. Enero, 2008. http://www.bvsde.paho.org/texcom/nutricion/Pana -
+ma.pdf
+17. NACIONES UNIDAS.CEPAL.UNFPA.OPS. Salud Materno Infantil de pueblos indígenas y afrodescendientes de América latina: aportes para una relectura desde el derecho a la integridad cultural. Santiago de Chile, 2010. http://www.cepal.org/publicaciones/xml/9/41579/LCW.347Oct_2010.pdf ANEXOVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 49
+ANEXO 1
+ACTIVIDADES NIVEL DE EJECUCIÓN FUNCIONARIO PERIODO DE EJECUCIÓN
+Formación de la Comisión Nacional del Censo (CONACEN) CONACEN MINSA, MEDUCA Marzo 2013
+Protocolo de investigación CONACEN MINSA, MEDUCA Marzo 2013
+Elaboración del Plan de Trabajo. Cronograma de actividades CONACEN CONACEN Abril 2013
+Firma de acuerdos CONACEN CONACEN Abril-mayo 2013
+Elaboración y revisión del material (instructivo, formulario 
+de recolección de datos, tallímetro, etc.) Nacional MINSA Abril-mayo 2013
+Revisión de listados de escuelas y codificación (zona, matrícula, docentes)MEDUCA MEDUCA Mayo 2013
+Impresión y reproducción de materiales Nacional MINSA Mayo - julio 2013
+Coordinación:
+•	Coordinación nacionales, provinciales, y regionales.
+•	Envío de circulares
+•	Conformación e integración de comisiones regionales
+•	Comunicado a docentes de primer gradoCONACENCONACEN, 
+Directores Regionales.Junio, julio 2013
+Revisión y distribución de material CONACEN CONACEN Julio, agosto 2013
+Capacitaciones nacional, regionalesCONACENREGIONAL  
+MEDUCA-MINSA1-30 agosto 2013
+Capacitaciones locales. Regional LOCALES MEDUCA 9 al 27 Sep. 2013
+Ejecución del Censo LOCAL DOCENTES 7-11 de Oct. 2013
+Recolección de la muestra de nivel local al regional Local, Regional MEDUCA  
+Locales/Regionales14 oct. - 15 nov. 2013
+Recolección de la muestra del regional al nacional Regional MEDUCA 
+Regional/Nacional18 nov - 6 dic 2013
+Recepción, limpieza y codificación a nivel nacional CONACEN CONACEN Diciembre 2013 a enero 2014
+Digitación de los datos Consultoría INCAP/MINSA Febrero-abril 2014
+Limpieza y depuración, procesamiento MINSA INCAP/MINSA Mayo-junio 2014
+Análisis y resultados preliminares. MINSA MINSA Junio 2014
+Redacción del primer borrador CONACEN MINSA Julio 2014
+Informe Final CONACEN CONACEN Junio-julio 2014
+Publicación del documento y divulgación OPS/INCAP OPS/INCAP Junio-julio 2014
+Lanzamiento, distribución CONACEN CONACEN Agosto 2014
+Evaluación de la ejecución del VII Censo de Talla en 
+Panamá.CONACEN CONACEN Septiembre 2014CRONOGRAMA DE ACTIVIDADESMINSA / MEDUCA / OPS / INCAP50
+ANEXO 2
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 51
+MINSA / MEDUCA / OPS / INCAP52
+ANEXO 3
+CLASIFICACIÓN DE NIVEL PREVALENCIA DE BAJA TALLA EN ESCOLARES DE 6 A 9 AÑOS SEGÚN DISTRITOS. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ, 2013.
+PROVINCIAS DISTRITOS TOTALTALLA  
+NORMAL %PREVALENCIA BAJA TALLA %CLASIFICACIÓNTotal Moderada Severa
+Bocas del ToroBocas del Toro 562 74.4 25.6 20.6 5.0 Muy alta prevalencia
+Changuinola 2930 73.4 26.5 20.6 6.0 Muy alta prevalencia
+Chiriquí Grande 426 62.4 37.6 29.6 8.7 Muy alta prevalencia
+CocléAguadulce 645 96.0 3.9 3.4 0.5 Baja prevalencia
+Antón 1030 91.2 8.8 8.0 0.9 Moderada prevalencia
+La Pintada 574 89.4 10.6 9.4 1.2 Alta prevalencia
+Natá 332 91.0 9.0 8.7 0.3 Moderada prevalencia
+Olá 135 92.6 7.4 6.7 0.7 Moderada prevalencia
+Penonomé 1728 87.1 12.9 11.8 1.1 Alta prevalencia
+ColónColón 3355 92.4 7.6 7.0 0.7 Moderada prevalencia
+Chagres 205 85.9 14.1 13.7 0.5 Alta prevalencia
+Donoso 430 78.1 21.9 19.5 2.3 Muy alta prevalencia
+Portobelo 152 96.1 3.9 2.6 1.3 Baja prevalencia
+Santa Isabel 67 91.0 9.0 9.0 0.0 Moderada prevalencia
+ChiriquíAlanje 362 88.1 11.9 11.9 0.0 Alta prevalencia
+Barú 1121 89.9 10.1 9.5 0.5 Alta prevalencia
+Boquerón 276 90.9 9.1 6.9 2.2 Moderada prevalencia
+Boquete 352 83.8 16.2 13.9 2.3 Alta prevalencia
+Bugaba 1371 89.3 10.7 9.3 1.4 Alta prevalencia
+David 1781 93.5 6.5 5.8 0.6 Moderada prevalencia
+Dolega 381 94.2 5.8 5.2 0.5 Moderada prevalencia
+Gualaca 177 89.3 10.7 10.2 0.6 Alta prevalencia
+Remedios 86 89.5 10.5 9.3 1.2 Alta prevalencia
+Renacimiento 525 79.6 20.2 15.8 4.6 Muy alta prevalencia
+San Félix 91 90.1 9.9 8.8 1.1 Moderada prevalencia
+San Lorenzo 119 85.7 14.3 13.4 0.8 Alta prevalencia
+Tolé 325 73.2 26.8 20.9 5.8 Muy alta prevalencia
+DariénChepigana 657 80.7 19.3 16.1 3.2 Alta prevalencia
+Pinogana 323 71.8 28.2 19.2 9.0 Muy alta prevalencia
+HerreraChitré 624 97.8 2.2 2.2 0.0 Baja prevalencia
+Las Minas 159 90.6 9.4 8.8 0.6 Moderada prevalencia
+Los Pozos 86 96.5 3.5 3.5 0.0 Baja prevalencia
+Ocú 233 97.9 2.1 2.1 0.0 Baja prevalencia
+Parita 116 94.8 5.2 4.3 0.9 Baja prevalencia
+Pesé 155 96.8 3.2 2.6 0.6 Baja prevalencia
+Santa María 107 89.7 10.3 8.4 1.9 Alta prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 53
+PROVINCIAS DISTRITOS TOTALTALLA  
+NORMAL %PREVALENCIA BAJA TALLA %CLASIFICACIÓNTotal Moderada Severa
+Los SantosGuararé 97 99.0 1.0 1.0 0.0 Baja prevalencia
+Las Tablas 295 98.0 2.0 2.0 0.0 Baja prevalencia
+Los Santos 306 96.1 3.9 3.6 0.3 Baja prevalencia
+Macaracas 132 95.5 4.5 3.8 0.8 Baja prevalencia
+Pedasí 49 98.0 2.0 2.0 0.0 Baja prevalencia
+Pocrí 22 95.5 4.5 4.5 0.0 Baja prevalencia
+Tonosí 123 12.2 6.5 6.5 0.0 Moderada prevalencia
+PanamáArraiján 2925 91.4 8.6 7.2 1.4 Moderada prevalencia
+Balboa 35 0.0 0.0 0.0 0.0 Baja prevalencia
+Capira 684 88.2 11.8 11.7 0.1 Alta prevalencia
+Chame 386 94.6 5.4 4.7 0.8 Moderada prevalencia
+Chepo 960 90.1 9.9 8.8 1.1 Moderada prevalencia
+Chimán 70 80.0 20.0 17.1 2.9 Alta prevalencia
+La Chorrera 2273 94.7 5.3 4.8 0.5 Moderada prevalencia
+Panamá 9566 93.8 6.2 5.5 0.7 Moderada prevalencia
+San Carlos 286 95.8 4.2 4.2 0.0 Baja prevalencia
+San Miguelito 3477 94.8 5.2 4.6 0.6 Baja prevalencia
+Taboga 10 90.0 10.0 10.0 0.0 Alta prevalencia
+VeraguasAtalaya 104 95.2 4.8 3.8 1.0 Baja prevalencia
+Calobre 178 87.1 12.9 11.2 1.7 Alta prevalencia
+Cañazas 455 64.2 35.6 26.2 9.7 Muy alta prevalencia
+La Mesa 191 89.0 11.0 10.5 0.5 Alta prevalencia
+Las Palmas 381 79.5 20.5 17.1 3.4 Muy alta prevalencia
+Montijo 102 95.1 4.9 4.9 0.0 Baja prevalencia
+Río de Jesús 71 97.2 2.8 2.8 0.0 Baja prevalencia
+San Francisco 171 83.0 17.0 14.0 2.9 Alta prevalencia
+Santa Fe 449 73.3 26.7 22.3 4.5 Muy alta prevalencia
+Santiago 1427 93.0 7.0 6.3 0.7 Moderada prevalencia
+Soná 488 92.0 8.0 7.8 0.2 Moderada prevalencia
+Mariato 92 90.2 9.8 7.6 2.2 Moderada prevalencia
+Comarca Kuna Yala Kuna Yala 713 38.8 61.4 45.7 15.7 Muy alta prevalencia
+Comarca Emberá 
+WounaanCémaco 197 64.0 36.0 30.5 5.6 Muy alta prevalencia
+Sambú 81 82.7 17.3 14.8 2.5 Alta prevalencia
+ComarcaNgäbe BugléBesiko 1435 43.3 56.7 40.3 16.3 Muy alta prevalencia
+Mironó 651 50.5 49.5 34.3 15.2 Muy alta prevalencia
+Muná 1447 47.4 52.6
+34.2 18.4 Muy alta prevalencia
+Nole Duima 636 51.6 48.4 35.8 12.6 Muy alta prevalencia
+Ñurum 441 46.3 53.7 34.0 19.7 Muy alta prevalencia
+Kankintú 1134 45.8 54.2 35.8 18.4 Muy alta prevalencia
+Kusapin 350 43.1 54.0 35.7 18.6 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP54
+CLASIFICACIÓN DEL NIVEL PREVALENCIA DE BAJA TALLA EN ESCOLARES DE 6 A 9 AÑOS SEGÚN CORREGIMIENTO. 
+VII CENSO NACIONAL DE TALLA, PANAMÁ, 2013ANEXO 4
+BOCAS DEL TORO
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+Bocas del ToroBocas del Toro (Cabecera) 203 24 11.82 Alta prevalencia
+Bastimentos 56 12 21.43 Muy alta prevalencia
+Cauchero 128 58 45.31 Muy alta prevalencia
+Punta Laurel 74 22 29.73 Muy alta prevalencia
+Tierra Oscura 101 28 27.72 Muy alta prevalencia
+ChanguinolaChanguinola (Cabecera) 741 158 21.32 Muy alta prevalencia
+Almirante 451 113 25.06 Muy alta prevalencia
+Guabito 365 107 29.32 Muy alta prevalencia
+Teribe 95 18 18.95 Alta prevalencia
+Valle del Risco 218 94 43.12 Muy alta prevalencia
+El Empalme 690 192 27.83 Muy alta prevalencia
+Las Tablas 370 98 26.49 Muy alta prevalencia
+Cochigró Sin datos
+La Gloria Sin datos
+Las Delicias Sin datos
+Nance del Risco Sin datos
+Valle de Agua Arriba Sin datos
+Chiriquí GrandeChiriquí Grande (Cabecera) 153 73 47.71 Muy alta prevalencia
+Miramar 70 26 37.14 Muy alta prevalencia
+Punta Peña 50 26 52.00 Muy alta prevalencia
+Punta Robalo 93 19 20.43 Alta prevalencia
+Rambala 63 19 30.16 Muy alta prevalencia
+Bajo Cedro Sin datosVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 55
+ COCLÉ
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+AguadulceAguadulce (Cabecera) 128 2 1.56 Baja Prevalencia
+El Cristo 59 7 11.86 Alta prevalencia
+El Roble 130 5 3.85 Moderada prevalencia
+Pocrí 199 8 4.02 Moderada prevalencia
+Barrios Unidos 129 3 2.33 Moderada prevalencia
+AntónAntón (Cabecera) 215 5 2.33 Moderada prevalencia
+Cabuya 37 6 16.22 Alta prevalencia
+El Chirú 32 1 3.13 Moderada prevalencia
+El Retiro 27 0 0.00 Baja Prevalencia
+El Valle 154 15 9.74 Alta prevalencia
+Juan Díaz 34 6 17.65 Alta prevalencia
+Río Hato 304 21 6.91 Moderada prevalencia
+San Juan de Dios 108 26 24.07 Muy alta prevalencia
+Santa Rita 46 1 2.17 Moderada prevalencia
+Caballero 73 10 13.70 Alta prevalencia
+La PintadaLa Pintada (Cabecera) 50 1 2.00 Baja Prevalencia
+El Harino 141 12 8.51 Alta prevalencia
+El Potrero 47 2 4.26 Moderada prevalencia
+Llano Grande 178 33 18.54 Alta prevalencia
+Piedras Gordas 117 11 9.40 Alta prevalencia
+Las Lomas 41 2 4.88 Moderada prevalencia
+NatáNatá (Cabecera) 97 2 2.06 Moderada prevalencia
+Capellanía 50 3 6.00 Moderada prevalencia
+El Caño 53 4 7.55 Moderada prevalencia
+Guzmán 20 1 5.00 Moderada prevalencia
+Las Huacas 59 18 30.51 Muy alta prevalencia
+Toza 53 2 3.77 Moderada prevalencia
+OláOlá (Cabecera) 23 0 0.00 Baja Prevalencia
+El Copé 41 6 14.63 Alta prevalencia
+El Palmar 32 1 3.13 Moderada prevalencia
+El Picacho 4 0 0.00 Baja Prevalencia
+La Pava 35 3 8.57 Alta prevalencia
+PenonoméPenonomé (Cabecera) 391 7 1.79 Baja Prevalencia
+Cañaveral 100 12 12.00 Alta prevalencia
+Coclé 89 3 3.37 Moderada prevalencia
+Chiguirí Arriba 244 63 25.82 Muy alta prevalencia
+El Coco 72 0 0.00 Baja Prevalencia
+Pajonal 229 38 16.59 Alta prevalencia
+Río Grande 40 1 2.50 Moderada prevalencia
+Río Indio 164 35 21.34 Muy alta prevalencia
+Toabré 270 35 12.96 Alta prevalencia
+Tulú 129 29 22.48 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP56
+ COLÓN
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ColónBarrio Norte 548 31 5.66 Moderada prevalencia
+Barrio Sur 396 22 5.56 Moderada prevalencia
+Buena Vista 260 21 8.08 Alta prevalencia
+Cativá 427 69 16.16 Alta prevalencia
+Ciricito 57 2 3.51 Moderada prevalencia
+Cristóbal 253 10 3.95 Moderada prevalencia
+Escobal 82 1 1.22 Baja Prevalencia
+Limón 74 2 2.70 Moderada prevalencia
+Nueva Providencia 118 7 5.93 Moderada prevalencia
+Puerto Pilón 205 37 18.05 Alta prevalencia
+Sabanitas 477 24 5.03 Moderada prevalencia
+Salamanca 87 6 6.90 Moderada prevalencia
+San Juan 356 23 6.46 Moderada prevalencia
+Santa Rosa 16 1 6.25 Moderada prevalencia
+ChagresNuevo Chagres (Cabecera) 9 0 0.00 Baja Prevalencia
+Achiote 17 3 17.65 Alta prevalencia
+El Guabo 22 1 4.55 Moderada prevalencia
+La Encantada 57 13 22.81 Muy alta prevalencia
+Palmas Bellas 48 2 4.17 Moderada prevalencia
+Piña 12 1 8.33 Alta prevalencia
+Salud 40 9 22.50 Muy alta prevalencia
+DonosoMiguel de la Borda (Cabecera) 53 11 20.76 Alta prevalencia
+Coclé del Norte 132 36 27.27 Muy alta prevalencia
+El Guásimo 119 24 20.17 Alta prevalencia
+Gobea 15 1 6.67 Moderada prevalencia
+Río Indio 40 5 12.50 Alta prevalencia
+San José del General 71 17 23.94 Muy alta prevalencia
+PortobeloPortobelo (Cabecera) 88 2 2.27 Moderada prevalencia
+Cacique 4 0 0.00 Baja Prevalencia
+Puerto Lindo 19 0 0.00 Baja Prevalencia
+Isla Grande 11 0 0.00 Baja Prevalencia
+María Chiquita 30 4 13.33 Alta prevalencia
+Santa IsabelPalenque (Cabecera) 6 0 0.00 Baja Prevalencia
+Cuango 9 0 0.00 Baja Prevalencia
+Miramar 3 0 0.00 Baja Prevalencia
+Nombre de Dios 30 4 13.33 Alta prevalencia
+Palmira 6 0 0.00 Baja Prevalencia
+Playa Chiquita 3 1 33.33 Muy alta prevalencia
+Santa Isabel 3 1 33.33 Muy alta prevalencia
+Viento Frío 7 0 0.00 Baja PrevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 57
+ CHIRIQUÍ
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+AlanjeAlanje (Cabecera) 65 2 3.08 Moderada prevalencia
+Divalá 114 26 22.81 Muy alta prevalencia
+El Tejar 28 3 10.71 Alta prevalencia
+Guarumal 56 6 10.71 Alta prevalencia
+Palo Grande 5 1 20.00 Alta prevalencia
+Querévalo 26 0 0.00 Baja prevalencia
+Santo Tomás 21 1 4.76 Moderada prevalencia
+Canta Gallo 13 0 0.00 Baja prevalencia
+Nuevo México 34 4 11.77 Alta prevalencia
+BarúPuerto Armuelles (Cabecera) 316 19 6.01 Moderada prevalencia
+Limones 17 2 11.77 Alta prevalencia
+Progreso 226 13 5.75 Moderada prevalencia
+Baco 163 14 8.59 Alta prevalencia
+Rodolfo Aguilar Delgado 400 65 16.25 Alta prevalencia
+BoquerónBoquerón (Cabecera) 82 6 7.32 Moderada prevalencia
+Bágala 31 6 19.36 Alta prevalencia
+Cordillera 16 2 12.50 Alta prevalencia
+Guabal 23 2 8.70 Alta prevalencia
+Guayabal 38 3 7.90 Alta prevalencia
+Paraíso 18 2 11.11 Alta prevalencia
+Pedregal 54 1 1.85 Baja Prevalencia
+Tijeras 14 3 21.43 Muy alta prevalencia
+BoqueteBajo Boquete (Cabecera) 106 23 21.70 Muy alta prevalencia
+Caldera 21 1 4.76 Moderada prevalencia
+Palmira 44 8 18.18 Alta prevalencia
+Alto Boquete 54 3 5.56 Moderada prevalencia
+Jaramillo 29 4 13.79 Alta prevalencia
+Los Naranjos 98 18 18.37 Alta prevalencia
+BugabaLa Concepción (Cabecera) 312 15 4.81 Moderada prevalencia
+Aserrío de Gariché 249 19 7.63 Alta prevalencia
+Bugaba 59 5 8.48 Alta prevalencia
+Cerro Punta 147 35 23.81 Muy alta prevalencia
+Gómez 51 6 11.77 Alta prevalencia
+La Estrella 76 3 3.95 Moderada prevalencia
+San Andrés 46 4 8.70 Alta prevalencia
+Santa Marta 61 5 8.20 Alta prevalencia
+Santa Rosa 31 2 6.45 Moderada prevalencia
+Santo Domingo 61 18 29.51 Muy alta prevalencia
+Sortová 45 9 20.00 Alta prevalencia
+Volcán 207 25 12.08 Alta prevalencia
+El Bongo 26 1 3.85 Moderada prevalenciaMINSA / MEDUCA / OPS / INCAP58
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+DavidDavid (Cabecera) 1033 61 5.91 Moderada prevalencia
+Bijagual Sin datos
+Cochea 43 4 9.30 Alta prevalencia
+Chiriquí 55 3 5.46 Moderada prevalencia
+Guacá 22 3 13.64 Alta prevalencia
+Las Lomas 256 11 4.30 Moderada prevalencia
+Pedregal 258 19 7.36 Moderada prevalencia
+San Carlos 30 1 3.33 Moderada prevalencia
+San Pablo Nuevo 27 9 33.33 Muy alta prevalencia
+San Pablo Viejo 58 4 6.90 Moderada prevalencia
+DolegaDolega (Cabecera) 107 5 4.67 Moderada prevalencia
+Dos Ríos 7 0 0.00 Baja Prevalencia
+Los Anastacios 38 1 2.63 Moderada prevalencia
+Potrerillos 29 0 0.00 Baja Prevalencia
+Potrerillos Abajo 32 2 6.25 Moderada prevalencia
+Rovira 37 7 18.92 Alta prevalencia
+Tinajas 23 3 13.04 Alta prevalencia
+Los Algarrobos 108 4 3.70 Moderada prevalencia
+GualacaGualaca (Cabecera) 91 12 13.19 Alta prevalencia
+Hornito 30 4 13.33 Alta prevalencia
+Los Ángeles 19 0 0.00 Baja Prevalencia
+Paja de Sombrero 10 1 10.00 Alta prevalencia
+Rincón 27 2 7.41 Moderada prevalencia
+RemediosRemedios (Cabecera) 67 5 7.46 Moderada prevalencia
+El Nancito 14 3 21.43 Muy alta prevalencia
+El Porvenir Sin datos
+El Puerto Sin datos
+Santa Lucía 5 1 20.00 Alta prevalencia
+RenacimientoRío Sereno (Cabecera) 171 31 18.13 Alta prevalencia
+Breñón 13 1 7.69 Alta prevalencia
+Cañas Gordas 82 14 17.07 Alta prevalencia
+Monte Lirio 77 25 32.47 Muy alta prevalencia
+Plaza Caisán 62 9 14.52 Alta prevalencia
+Santa Cruz 43 7 16.28 Alta prevalencia
+Dominical 14 3 21.43 Muy alta prevalencia
+Santa Clara 63 17 26.98 Muy alta prevalencia
+San FélixLas Lajas (Cabecera) 10 1 10.00 Alta prevalencia
+Juay 17 5 29.41 Muy alta prevalencia
+Lajas Adentro 12 0 0.00 Baja prevalencia
+San Félix 47 1 2.13 Moderada prevalencia
+Santa Cruz 5 2 40.00 Muy alta prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 59
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+San LorenzoHorconcitos (Cabecera) 23 1 4.35 Moderada prevalencia
+Boca Chica 4 0 0.00 Baja prevalencia
+Boca del Monte 34 7 20.59 Alta prevalencia
+San Juan 22 4 18.18 Alta prevalencia
+San Lorenzo 36 5 13.89 Alta prevalencia
+ToléTolé (Cabecera) 61 3 4.92 Moderada prevalencia
+Bella Vista 13 2 15.39 Alta prevalencia
+Cerro Viejo 47 17 36.17 Muy alta prevalencia
+El Cristo 52 25 48.08 Muy alta prevalencia
+Justo Fidel Palacios 39 18 46.15 Muy alta prevalencia
+Lajas de Tolé 13 2 15.39 Alta prevalencia
+Potrero de Caña 37 9 24.32 Muy alta prevalencia
+Quebrada de Piedra 28 4 14.29 Alta prevalencia
+Veladero 35 7 20.00 Alta prevalencia
+DARIÉN
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ChepiganaLa Palma (Cabecera) 76 11 14.47 Alta prevalencia
+Camoganti 9 4 44.44 Muy alta prevalencia
+Chepigana 24 4 16.67 Alta prevalencia
+Garachiné 48 7 14.58 Alta prevalencia
+Jaqué 93 37 39.79 Muy alta prevalencia
+Puerto Piña 41 18 43.90 Muy alta prevalencia
+Río Congo 29 3 10.35 Alta prevalencia
+Río Iglesias 24 0 0.00 Baja prevalencia
+Sambú 23 0 0.00 Baja prevalencia
+Setegantí 6 0 0.00 Baja prevalencia
+Taimatí 20 0 0.00 Baja prevalencia
+Tucutí Sin datos
+Agua Fría 56 6 10.71 Alta prevalencia
+Cucunatí 28 11 39.29 Muy alta prevalencia
+Río Congo Arriba 25 1 4.00 Moderada prevalencia
+Santa Fe 155 25 16.13 Alta prevalencia
+PinoganaEl Real de Santa María (Cabecera) 4 1 25.00 Muy alta prevalencia
+Boca de Cupé 46 16 34.78 Muy alta prevalencia
+Paya Sin datos
+Pinogana Sin datos
+Púcuro Sin datos
+Yape Sin datos
+Yaviza 77 10 12.99 Alta prevalencia
+Metetí 136 10 7.35 Moderada prevalencia
+Comarca Kuna de Wargandí 60 54 90.00 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP60
+ HERRERA
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ChitréChitré (Cabecera) 109 0 0.00 Baja prevalencia
+La Arena 83 4 4.82 Moderada prevalencia
+Monagrillo 135 0 0.00 Baja prevalencia
+Llano Bonito 118 5 4.24 Moderada prevalencia
+San Juan Bautista 179 5 2.79 Moderada prevalencia
+Las MinasLas Minas (Cabecera) 32 1 3.13 Moderada prevalencia
+Chepo 46 12 26.09 Muy alta prevalencia
+Chumical 8 0 0.00 Baja prevalencia
+El Toro 21 0 0.00 Baja prevalencia
+Leones 20 1 5.00 Moderada prevalencia
+Quebrada del Rosario 12 0 0.00 Baja prevalencia
+Quebrada El Ciprián 20 1 5.00 Moderada prevalencia
+Los PozosLos Pozos (Cabecera) 38 1 2.63 Moderada prevalencia
+Capurí 4 1 25.00 Muy alta prevalencia
+El Calabacito 7 0 0.00 Baja prevalencia
+El Cedro 6 0 0.00 Baja revalencia
+La Arena 7 0 0.00 Baja prevalencia
+La Pitaloza 8 0 0.00 Baja prevalencia
+Los Cerritos 7 1 14.29 Alta prevalencia
+Los Cerros de Paja 7 0 0.00 Baja prevalencia
+Las Llanas 2 0 0.00 Baja prevalencia
+OcúOcú (Cabecera) 123 2 1.63 Baja prevalencia
+Cerro Largo 22 0 0.00 Baja prevalencia
+Los Llanos 29 1 3.45 Moderada prevalencia
+Llano Grande 10 0 0.00 Baja prevalencia
+Peñas Chatas 24 0 0.00 Baja prevalencia
+El Tijera 9 0 0.00 Baja prevalencia
+Menchaca 16 2 12.50 Alta prevalencia
+ParitaParita (Cabecera) 48 1 2.08 Moderada prevalencia
+Cabuya 16 1 6.25 Moderada prevalencia
+Los Castillos 11 0 0.00 Baja prevalencia
+Llano de la Cruz 4 0 0.00 Baja prevalencia
+París 15 1 6.67 Moderada prevalencia
+Portobelillo 9 0 0.00 Baja prevalencia
+Potuga 13 3 23.08 Muy alta prevalencia
+PeséPesé (Cabecera) 54 2 3.70 Moderada prevalencia
+Las Cabras 31 2 6.45 Moderada prevalencia
+El Pájaro 7 0 0.00 Baja prevalencia
+El Barrero 14 1 7.14 Moderada prevalencia
+El Pedregoso 12 0 0.00 Baja prevalencia
+El Ciruelo 8 0 0.00 Baja prevalencia
+Sabanagrande 17 0 0.00 Baja prevalencia
+Rincón Hondo 12 0 0.00 Baja prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 61
+Santa MaríaSanta María (Cabecera) 21 0 0.00 Baja prevalencia
+Chupampa 16 0 0.00 Baja prevalencia
+El Rincón 32 6 18.75 Alta prevalencia
+El Limón 6 1 16.67 Alta prevalencia
+Los Canelos 32 4 12.50 Alta prevalencia
+LOS SANTOS
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+GuararéGuararé (Cabecera) 61 1 1.64 Baja prevalencia
+El Espinal 5 0 0.00 Baja prevalencia
+El Macano Sin datos
+Guararé Arriba 2 0 0.00 Baja prevalencia
+La Enea 8 0 0.00 Baja prevalencia
+La Pasera 11 0 0.00 Baja prevalencia
+Las Trancas 4 0 0.00 Baja prevalencia
+Llano Abajo 5 0 0.00 Baja prevalencia
+El Hato 1 0 0.00 Baja prevalencia
+Perales Sin datos
+Las TablasLas Tablas (Cabecera) 175 2 1.14 Baja prevalencia
+Bajo Corral 3 0 0.00 Baja prevalencia
+Bayano 3 0 0.00 Baja prevalencia
+El Carate 11 1 9.09 Alta prevalencia
+El Cocal 5 1 20.00 Alta prevalencia
+El Manantial 3 0 0.00 Baja prevalencia
+El Muñoz 8 0 0.00 Baja prevalencia
+El Pedregoso Sin datos
+La Laja Sin datos
+La Miel Sin datos
+La Palma 12 0 0.00 Baja prevalencia
+La Tiza 11 0 0.00 Baja prevalencia
+Las Palmitas 12 1 8.33 Alta prevalencia
+Las Tablas Abajo 10 1 10.00 Alta prevalencia
+Nuario 2 0 0.00 Baja prevalencia
+Palmira 5 0 0.00 Baja prevalencia
+Peña Blanca 6 0 0.00 Baja prevalencia
+Río Hondo Sin datos
+San José 2 0 0.00 Baja prevalencia
+San Miguel 1 0 0.00 Baja prevalencia
+Santo Domingo 17 0 0.00 Baja prevalencia
+Sesteadero 2 0 0.00 Baja prevalencia
+Valle Rico 5 0 0.00 Baja prevalencia
+Vallerriquito 2 0 0.00 Baja prevalenciaMINSA / MEDUCA / OPS / INCAP62
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+Los SantosLa Villa de los Santos (Cabecera) 118 5 4.24 Moderada prevalencia
+El Guásimo 8 0 0.00 Baja prevalencia
+La Colorada 18 3 16.67 Alta prevalencia
+La Espigadilla 21 0 0.00 Baja prevalencia
+Las Cruces 17 2 11.77 Alta prevalencia
+Las Guabas 4 0 0.00 Baja prevalencia
+Los Ángeles 8 1 12.50 Alta prevalencia
+Los Olivos 8 0 0.00 Baja prevalencia
+Llano Largo 20 0 0.00 Baja prevalencia
+Sabana Grande 14 0 0.00 Baja prevalencia
+Santa Ana 36 1 2.78 Moderada prevalencia
+Tres Quebradas 6 0 0.00 Baja prevalencia
+Agua Buena 20 0 0.00 Baja prevalencia
+Villa Lourdes 8 0 0.00 Baja prevalencia
+MacaracasMacaracas (Cabecera) 51 2 3.92 Moderada prevalencia
+Bahía Honda 10 0 0.00 Baja prevalencia
+Bajos de Güera 10 2 20.00 Alta prevalencia
+Corozal 11 0 0.00 Baja prevalencia
+Chupá 2 0 0.00 Baja prevalencia
+El Cedro Sin datos
+Espino Amarillo 5 1 20.00 Alta prevalencia
+La Mesa 8 0 0.00 Baja prevalencia
+Las Palmas 6 0 0.00 Baja prevalencia
+Llano de Piedra 25 1 4.00 Moderada prevalencia
+Mogollón 4 0 0.00 Baja prevalencia
+PedasíPedasí (Cabecera) 31 1 3.23 Moderada prevalencia
+Los Asientos 13 0 0.00 Baja prevalencia
+Mariabé 3 0 0.00 Baja prevalencia
+Purio Sin datos
+Oria Arriba 2 0 0.00 Baja prevalencia
+PocríPocrí (Cabecera) 7 0 0.00 Baja prevalencia
+El Cañafístulo 2 0 0.00 Baja prevalencia
+Lajamina 3 1 33.33 Muy alta prevalencia
+Paraíso Sin datos
+Paritilla 10 0 0.00 Baja prevalencia
+TonosíTonosí (Cabecera) 43 0 0.00 Baja prevalencia
+Altos de Güera 4 0 0.00 Baja prevalencia
+Cañas 15 0 0.00 Baja prevalencia
+El Bebedero 9 3 33.33 Muy alta prevalencia
+El Cacao 9 0 0.00 Baja prevalencia
+El Cortezo 4 2 50.00 Muy alta prevalencia
+Flores 6 0 0.00 Baja prevalencia
+Guánico 12 1 8.33 Alta prevalencia
+La Tronosa 11 1 9.09 Alta prevalencia
+Cambutal 10 1 10.00 Alta prevalencia
+Isla de Cañas Sin datosVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 63
+ PANAMÁ
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ArraijánArraiján (Cabecera) 735 106 14.42 Alta prevalencia
+Juan Demóstenes Arosemena 252 8 3.18 Moderada prevalencia
+Nuevo Emperador 77 4 5.20 Moderada prevalencia
+Santa Clara 46 0 0.00 Baja prevalencia
+Veracruz 280 43 15.36 Alta prevalencia
+Vista Alegre 718 50 6.96 Moderada prevalencia
+Burunga 490 19 3.88 Moderada prevalencia
+Cerro Silvestre 327 22 6.73 Moderada prevalencia
+BalboaSan Miguel (Cabecera) Sin datos
+La Ensenada 2 0 0.00 Baja prevalencia
+La Esmeralda 13 0 0.00 Baja prevalencia
+La Guinea Sin datos
+Pedro González 9 0 0.00 Baja prevalencia
+Saboga 11 0 0.00 Baja prevalencia
+CapiraCapira (Cabecera) 103 4 3.88 Moderada prevalencia
+Caimito 25 0 0.00 Baja prevalencia
+Campana 19 1 5.26 Moderada prevalencia
+Cermeño 16 2 12.50 Alta prevalencia
+Cirí de los Sotos 58 14 24.14 Muy alta prevalencia
+Cirí Grande 95 18 18.95 Alta prevalencia
+El Cacao 108 14 12.96 Alta prevalencia
+La Trinidad 54 7 12.96 Alta prevalencia
+Las Ollas Arriba 19 0 0.00 Baja prevalencia
+Lídice 95 7 7.37 Moderada prevalencia
+Villa Carmen 7 2 28.57 Muy alta prevalencia
+Villa Rosario 52 5 9.62 Alta prevalencia
+Santa Rosa 33 7 21.21 Muy alta prevalencia
+ChameChame (Cabecera) 56 2 3.57 Moderada prevalencia
+Bejuco 90 3 3.33 Moderada prevalencia
+Buenos Aires 41 1 2.44 Moderada prevalencia
+Cabuya 23 2 8.70 Alta prevalencia
+Chicá 5 0 0.00 Baja prevalencia
+El Líbano 4 0 0.00 Baja prevalencia
+Las Lajas 46 3 6.52 Moderada prevalencia
+Nueva Gorgona 59 7 11.86 Alta prevalencia
+Punta Chame 4 0 0.00 Baja prevalencia
+Sajalices 29 2 6.90 Moderada prevalencia
+Sorá 29 1 3.45 Moderada prevalencia
+ChepoChepo (Cabecera) 444 25 5.63 Moderada prevalencia
+Cañita 51 0 0.00 Baja prevalencia
+Chepillo 9 1 11.11 Alta prevalencia
+El Llano 48 6 12.50 Alta prevalencia
+Las Margaritas 91 7 7.69 Alta prevalencia
+Santa Cruz de Chinina 19 0 0.00 Baja prevalencia
+Comarca Kuna de Madungandí 80 32 40.00 Muy alta prevalencia
+Tortí 218 24 11.01 Alta prevalenciaMINSA / MEDUCA / OPS / INCAP64
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ChimánChimán (Cabecera) 33 6 18.18 Alta prevalencia
+Brujas 12 1 8.33 Alta prevalencia
+Gonzalo Vásquez 11 4 36.36 Muy alta prevalencia
+Pásiga Sin datos
+Unión Santeña 14 3 21.43 Muy alta prevalencia
+La ChorreraBarrio Balboa 630 26 4.13 Moderada prevalencia
+Barrio Colón 332 14 4.22 Moderada prevalencia
+Amador 54 7 12.96 Alta prevalencia
+Arosemena 13 0 0.00 Baja prevalencia
+El Arado 32 3 9.38 Alta prevalencia
+El Coco 201 12 5.97 Moderada prevalencia
+Feuillet 48 2 4.17 Moderada prevalencia
+Guadalupe 461 27 5.86 Moderada prevalencia
+Herrera 11 1 9.09 Alta prevalencia
+Hurtado 15 1 6.67 Moderada prevalencia
+Iturralde 17 6 35.29 Muy alta prevalencia
+La Represa 10 1 10.00 Alta prevalencia
+Los Díaz 18 0 0.00 Baja prevalencia
+Mendoza 18 0 0.00 Baja prevalencia
+Obaldía 19 0 0.00 Baja prevalencia
+Playa Leona 176 6 3.41 Moderada prevalencia
+Puerto Caimito 214 14 6.54 Moderada prevalencia
+Santa Rita 4 0 0.00 Baja prevalencia
+PanamáSan Felipe 212 4 1.89 Baja prevalencia
+El Chorrillo 130 8 6.15 Moderada prevalencia
+Santa Ana 95 7 7.37 Moderada prevalencia
+La Exposición o Calidonia 331 31 9.37 Alta prevalencia
+Curundú 151 8 5.30 Moderada prevalencia
+Betania 189 5 2.65 Moderada prevalencia
+Bella Vista Sin datos
+Pueblo Nuevo 59 3 5.09 Moderada prevalencia
+San Francisco 143 8 5.59 Moderada prevalencia
+Parque Lefevre 258 5 1.94 Baja prevalencia
+Río Abajo 74 3 4.05 Moderada prevalencia
+Juan Díaz 601 16 2.66 Moderada prevalencia
+Pedregal 720 49 6.81 Moderada prevalencia
+Ancón 196 34 17.35 Alta prevalencia
+Chilibre 913 41 4.49 Moderada prevalencia
+Las Cumbres 785 37 4.71 Moderada prevalencia
+Pacora 1027 72 7.01 Moderada prevalencia
+San Martín 87 6 6.90 Moderada prevalencia
+Tocumen 1010 103 10.20 Alta prevalencia
+Las Mañanitas 547 37 6.76 Moderada prevalencia
+24 de Diciembre 979 57 5.82 Moderada prevalencia
+Alcalde Diaz 530 31 5.85 Moderada prevalencia
+Ernesto Córdoba Campo 534 32 5.99 Moderada prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 65
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+San CarlosSan Carlos (Cabecera) 57 2 3.51 Moderada prevalencia
+El Espino 29 1 3.45 Moderada prevalencia
+El Higo 47 1 2.13 Moderada prevalencia
+Guayabito 9 0 0.00 Baja prevalencia
+La Ermita 20 1 5.00 Moderada prevalencia
+La LaKuna 15 0 0.00 Baja prevalencia
+Las Uvas 21 0 0.00 Baja prevalencia
+Los Llanitos 54 6 11.11 Alta prevalencia
+San José 34 1 2.94 Moderada prevalencia
+San MiguelitoAmelia Denis de Icaza 254 14 5.51 Moderada prevalencia
+Belisario Porras 774 42 5.43 Moderada prevalencia
+José Domingo Espinar 275 13 4.73 Moderada prevalencia
+Mateo Iturralde 176 5 2.84 Moderada prevalencia
+Victoriano Lorenzo 108 4 3.70 Moderada prevalencia
+Arnulfo Arias 328 28 8.54 Alta prevalencia
+Belisario Frías 759 36 4.74 Moderada prevalencia
+Omar Torrijos 613 21 3.43 Moderada prevalencia
+Rufina Alfaro 190 18 9.47 Alta prevalencia
+TabogaTaboga (Cabecera) 10 1 10.00 Alta prevalencia
+Otoque Occidente Sin datos
+Otoque Oriente Sin datos
+VERAGUAS
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+AtalayaAtalaya (Cabecera) 66 3 4.55 Moderada prevalencia
+El Barrito 12 0 0.00 Baja prevalencia
+La Montañuela 15 0 0.00 Baja prevalencia
+La Carrillo 5 1 20.00 Alta prevalencia
+San Antonio 6 1 16.67 Alta prevalencia
+CalobréCalobre (Cabecera) 39 2 5.13 Moderada prevalencia
+Barnizal 8 0 0.00 Baja prevalencia
+Chitra 24 10 41.67 Muy alta prevalencia
+El Cocla 6 0 0.00 Baja prevalencia
+El Potrero 7 0 0.00 Baja prevalencia
+La LaKuna 10 0 0.00 Baja prevalencia
+La Raya de Calobre 6 0 0.00 Baja prevalencia
+La Tetilla 6 0 0.00 Baja prevalencia
+La Yeguada 28 6 21.43 Muy alta prevalencia
+Las Guías 20 1 5.00 Moderada prevalencia
+Monjarás 11 1 9.09 Alta prevalencia
+San José 13 3 23.08 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP66
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+CañazasCañazas (Cabecera) 143 30 20.98 Muy alta prevalencia
+Cerro Plata 36 11 30.56 Muy alta prevalencia
+El Picador 131 83 63.36 Muy alta prevalencia
+Los Valles 37 12 32.43 Muy alta prevalencia
+San José 51 16 31.37 Muy alta prevalencia
+San Marcelo 23 6 26.09 Muy alta prevalencia
+El Aromillo 33 4 12.12 Alta prevalencia
+Las Cruces Sin datos
+La MesaLa Mesa (Cabecera) 46 1 2.17 Moderada prevalencia
+Bisvalles 39 4 10.26 Alta prevalencia
+Boró 31 6 19.36 Alta prevalencia
+Llano Grande 11 1 9.09 Alta prevalencia
+San Bartolo 47 10 21.28 Muy alta prevalencia
+Los Milagros 18 0 0.00 Baja prevalencia
+Las PalmasLas Palmas (Cabecera) 46 11 23.91 Muy alta prevalencia
+Cerro de Casa 51 10 19.61 Alta prevalencia
+Corozal 17 2 11.77 Alta prevalencia
+El María 21 3 14.29 Alta prevalencia
+El Prado 32 3 9.38 Alta prevalencia
+El Rincón 64 19 29.69 Muy alta prevalencia
+Lolá 29 5 17.24 Alta prevalencia
+Pixvae 26 2 7.69 Alta prevalencia
+Puerto Vidal 45 10 22.22 Muy alta prevalencia
+San Martín De Porres 9 2 22.22 Muy alta prevalencia
+Viguí 22 10 45.46 Muy alta prevalencia
+Zapotillo 19 1 5.26 Moderada prevalencia
+MontijoMontijo (Cabecera) 40 1 2.50 Moderada prevalencia
+Gobernadora 3 0 0.00 Baja prevalencia
+La Garceana 1 0 0.00 Baja prevalencia
+Leones 4 0 0.00 Baja prevalencia
+Pilón 8 0 0.00 Baja prevalencia
+Cébaco 2 0 0.00 Baja prevalencia
+Costa Hermosa 32 2 6.25 Moderada prevalencia
+Unión del Norte 12 2 16.67 Alta prevalencia
+Río de JesúsRío de Jesús  (Cabecera) 43 2 4.65 Moderada prevalencia
+Las Huacas 10 0 0.00 Baja prevalencia
+Los Castillos 6 0 0.00 Baja prevalencia
+Utira 5 0 0.00 Baja prevalencia
+Catorce de Noviembre 7 0 0.00 Baja prevalencia
+San FranciscoSan Francisco (Cabecera) 31 1 3.23 Moderada prevalencia
+Corral Falso 5 0 0.00 Baja prevalencia
+Los Hatillos 25 7 28.00 Muy alta prevalencia
+Remance 31 9 29.03 Muy alta prevalencia
+San Juan 24 2 8.33 Alta prevalencia
+San José 55 10 18.18 Alta prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 67
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+Santa FeSanta Fe (Cabecera) 76 10 13.16 Alta prevalencia
+Calovébora 151 49 32.45 Muy alta prevalencia
+El Alto 40 10 25.00 Muy alta prevalencia
+El Cuay 24 8 33.33 Muy alta prevalencia
+El Pantano 7 0 0.00 Baja prevalencia
+Gatú o Gatucito 65 16 24.62 Muy alta prevalencia
+Río Luis 86 27 31.40 Muy alta prevalencia
+Rubén Cantú Sin datos
+SantiagoSantiago (Cabecera) 521 27 5.18 Moderada prevalencia
+La Colorada 15 2 13.33 Alta prevalencia
+La Peña 59 8 13.56 Alta prevalencia
+La Raya de Santa María 56 5 8.93 Alta prevalencia
+Ponuga 42 1 2.38 Moderada prevalencia
+San Pedro del Espino 19 0 0.00 Baja prevalencia
+Canto del Llano 207 23 11.11 Alta prevalencia
+Los Algarrobos 84 5 5.95 Moderada prevalencia
+Carlos Santana Ávila 99 4 4.04 Moderada prevalencia
+Edwin Fábrega 37 5 13.51 Alta prevalencia
+San Martín de Porres 266 15 5.64 Moderada prevalencia
+Urracá 22 5 22.73 Muy alta prevalencia
+SonáSoná (Cabecera) 168 11 6.55 Moderada prevalencia
+Bahía Honda 23 5 21.74 Muy alta prevalencia
+Calidonia 34 3 8.82 Alta prevalencia
+Cativé 14 2 14.29 Alta prevalencia
+El Marañón 46 3 6.52 Moderada prevalencia
+Guarumal 48 3 6.25 Moderada prevalencia
+La Soledad 25 2 8.00 Alta prevalencia
+Quebrada de Oro 22 3 13.64 Alta prevalencia
+Río Grande 72 5 6.94 Moderada prevalencia
+Rodeo Viejo 36 2 5.56 Moderada prevalencia
+MariatoLlano de Catival o Mariato (Cabecera) 64 4 6.25 Moderada prevalencia
+Arenas 6 0 0.00 Baja prevalencia
+El Cacao 4 1 25.00 Muy alta prevalencia
+Quebro 18 4 22.22 Muy alta prevalencia
+Tebario Sin datos
+COMARCA KUNA YALA
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+Kuna YalaNarganá  (Cabecera) 174 96 55.17 Muy alta prevalencia
+Ailigandí 343 216 62.97 Muy alta prevalencia
+Puerto Obaldía 8 1 12.50 Alta prevalencia
+Tubualá 188 125 66.49 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP68
+ COMARCA EMBERÁ WOUNAAN
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+CémacoCirilo Guainora (Cabecera) 43 19 44.19 Muy alta prevalencia
+Lajas Blancas 90 30 33.33 Muy alta prevalencia
+Manuel Ortega 64 22 34.38 Muy alta prevalencia
+SambúRío Sábalo 60 12 20.00 Alta prevalencia
+Jingurudó 21 2 9.52 Alta prevalencia
+COMARCA NGÄBE BUGLE
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+BesikoSoloy (Cabecera) 253 107 42.29 Muy alta prevalencia
+Boca de Balsa 148 90 60.81 Muy alta prevalencia
+Camarón Arriba 160 90 56.25 Muy alta prevalencia
+Cerro Banco 253 154 60.87 Muy alta prevalencia
+Cerro de Patena 146 89 60.96 Muy alta prevalencia
+Emplanada de Chorcha 109 48 44.04 Muy alta prevalencia
+Nämnoni 118 46 38.98 Muy alta prevalencia
+Niba 248 189 76.21 Muy alta prevalencia
+MironóHato Pilón (Cabecera) 81 48 59.26 Muy alta prevalencia
+Cascabel 65 42 64.62 Muy alta prevalencia
+Hato Corotú 97 31 31.96 Muy alta prevalencia
+Hato Culantro 125 85 68.00 Muy alta prevalencia
+Hato Jobo 44 20 45.46 Muy alta prevalencia
+Hato Julí 77 40 51.95 Muy alta prevalencia
+Quebrada de Loro 118 39 33.05 Muy alta prevalencia
+Salto Dupí 44 17 38.64 Muy alta prevalencia
+MunáChichica (Cabecera) 192 87 45.31 Muy alta prevalencia
+Alto Caballero 176 64 36.36 Muy alta prevalencia
+Bakama 14 10 71.43 Muy alta prevalencia
+Cerro Caña 125 59 47.20 Muy alta prevalencia
+Cerro Puerco 144 87 60.42 Muy alta prevalencia
+Krüa 82 67 81.71 Muy alta prevalencia
+Maraca 160 106 66.25 Muy alta prevalencia
+Nibra 92 39 42.39 Muy alta prevalencia
+Peña Blanca 179 128 71.51 Muy alta prevalencia
+Roka 44 14 31.82 Muy alta prevalencia
+Sitio Prado 120 49 40.83 Muy alta prevalencia
+Ümani 119 51 42.86 Muy alta prevalencia
+Nole DuimaCerro Iglesias (Cabecera) 124 35 28.23 Muy alta prevalencia
+Hato Chamí 204 106 51.96 Muy alta prevalencia
+Jädaberi 64 54 84.38 Muy alta prevalencia
+Lajero 99 50 50.51 Muy alta prevalencia
+Susama 145 63 43.45 Muy alta prevalenciaVII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 69
+Distritos Corregimientos Evaluados Nº Baja Talla Nº Prevalencia % Clasificación
+ÑurumBuenos Aires (Cabecera) 88 52 59.09 Muy alta prevalencia
+Agua de Salud 75 58 77.33 Muy alta prevalencia
+Alto de Jesús 31 8 25.81 Muy alta prevalencia
+Cerro Pelado 120 52 43.33 Muy alta prevalencia
+El Bale 21 9 42.86 Muy alta prevalencia
+El Paredón 23 7 30.44 Muy alta prevalencia
+El Piro 16 2 12.50 Alta prevalencia
+Guayabito 26 16 61.54 Muy alta prevalencia
+Güibale 41 33 80.49 Muy alta prevalencia
+KankintúBisira (Cabecera) 96 40 41.67 Muy alta prevalencia
+Büri 202 88 43.56 Muy alta prevalencia
+Guariviara 183 104 56.83 Muy alta prevalencia
+Guoroni 43 38 88.37 Muy alta prevalencia
+Kankintú 212 101 47.64 Muy alta prevalencia
+Mününi 61 52 85.25 Muy alta prevalencia
+Piedra Roja 62 45 72.58 Muy alta prevalencia
+Tuwai 136 61 44.85 Muy alta prevalencia
+Man Creek 139 86 61.87 Muy alta prevalencia
+KusapínKusapín (Cabecera) 12 7 58.33 Muy alta prevalencia
+Bahía Azul 96 51 53.13 Muy alta prevalencia
+Calovébora o Santa Catalina 15 9 60.00 Muy alta prevalencia
+Loma Yuca 13 8 61.54 Muy alta prevalencia
+Río Chiriquí 43 17 39.54 Muy alta prevalencia
+Tobobe 63 20 31.75 Muy alta prevalencia
+Valle Bonito 106 85 80.19 Muy alta prevalenciaMINSA / MEDUCA / OPS / INCAP70
+CLASIFICACIÓN DE PROVINCIAS SEGÚN CATEGORÍAS DE PREVALENCIA DE BAJA TALLA 
+DE LOS ESCOLARES CENSADOS. AÑO: 2013ANEXO 5: Mapeo
+VII CENSO DE TALLA DE ESCOLARES DE PRIMER GRADO DE LAS ESCUELAS OFICIALES - PANAMÁ, 20 1 3 71
+CLASIFICACIÓN DE DISTRITOS SEGÚN CATEGORÍAS DE PREVALENCIA DE BAJA TALLA  
+DE LOS ESCOLARES CENSADOS. AÑO: 2013
+MINSA.MINSA / MEDUCA / OPS / INCAP72
+ ORDEN DE PREVALENCIA DE BAJA TALLA POR DISTRITO 
+DE LOS ESCOLARES CENSADOS. AÑO: 2013
+DISTRITOSORDEN  
+DE PREVALENCIAPREVALENCIA  
+DE BAJA TALLA %DISTRITOSORDEN 
+ DE PREVALENCIAPREVALENCIA  
+DE BAJA TALLA %
+Kuna Yala 1 61.4 San Félix 39 9.9
+Besiko 2 56.7 Chepo 40 9.9
+Kankintú 3 54.2 Mariato 41 9.8
+Kusapin 4 54 Las Minas 42 9.4
+Ñurum 5 53.7 Boquerón 43 9.1
+Muná 6 52.6 Nata 44 9.0
+Mironó 7 49.5 Santa Isabel 45 9.0
+Nole Duima 8 48.4 Antón 46 8.8
+Chiriquí Grande 9 37.6 Arraiján 47 8.6
+Cémaco 10 36 Soná 48 8.0
+Cañazas 11 35.6 Colón 49 7.6
+Pinogana 12 28.2 Ola 50 7.4
+Tolé 13 26.8 Santiago 51 7.0
+Santa Fe 14 26.7 David 52 6.5
+Changuinola 15 26.5 Tonosí 53 6.5
+Bocas del Toro 16 25.6 Panamá 54 6.2
+Donoso 17 21.9 Dolega 55 5.8
+Las Palmas 18 20.5 Chame 56 5.4
+Renacimiento 19 20.2 La Chorrera 57 5.3
+Chimán 20 20.0 Parita 58 5.2
+Chepigana 21 19.3 San Miguelito 59 5.2
+Sambú 22 17.3 Montijo 60 4.9
+San Francisco 23 17.0 Atalaya 61 4.8
+Boquete 24 16.2 Macaracas 62 4.5
+San Lorenzo 25 14.3 Pocrí 63 4.5
+Chagres 26 14.1 San Carlos 64 4.2
+Penonomé 27 12.9 Aguadulce 65 3.9
+Calobre 28 12.9 Portobelo 66 3.9
+Alanje 29 11.9 Los Santos 67 3.9
+Capira 30 11.8 Los Pozos 68 3.5
+La Mesa 31 11.0 Pesé 69 3.2
+Bugaba 32 10.7 Río de Jesús 70 2.8
+Gualaca 33 10.7 Chitré 71 2.2
+La Pintada 34 10.6 Ocú 72 2.1
+Remedios 35 10.5 Las Tablas 73 2.0
+Santa María 36 10.3 Pedasí 74 2.0
+Barú 37 10.1 Guararé 75 1.0
+Taboga 38 10 Balboa 76 0.0110120
+100119
+118117116
+115
+114113112111
+109
+108
+107
+106
+105
+104103102
+101202
+201

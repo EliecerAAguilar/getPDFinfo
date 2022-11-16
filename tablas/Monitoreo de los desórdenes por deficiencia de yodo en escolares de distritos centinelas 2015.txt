@@ -1,0 +1,514 @@
+MINISTERIO DE SALUD
+DIRECCIÓN GENERAL DE SALUD PÚBLICA
+SUBDIRECCIÓN GENERAL DE SALUD DE LA POBLACIÓN
+DEPARTAMENTO DE SALUD Y ATENCIÓN INTEGRAL A LA POBLACIÓN
+MONITOREO DE LOS DESÓRDENES POR DEFICIENCIA DE YODO EN
+ESCOLARES DE DISTRITOS CENTINELAS
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+PANAMÁ
+AGOSTO  2015INSTITUTO CONME MORA TIVO GORGAS
+DE ESTUDIOS DE LA SALUDMINISTERIO DE SALUD
+2PERSONAL PARTICIPANTE
+Coordinador Nacional Mabel Bernal de Mas 
+Elaboración del documento Mabel Bernal de Mas
+Coordinadores Regionales Encuestador
+Ngäbe-Buglé: José De León José De León
+Felicita Berroa
+Roberto Martínez
+Dafne MarquezTersha Cantoral
+Chiriquí: Milvia de Thompson Bautista ArciaYoselyn Torres
+Veraguas: Dalys de Abrego Dalys de AbregoElka González
+Herrera: Armando Barba Briceida Higuera
+Armando Barba
+Los Santos: Jesusita del Busto Nelly de Ramírez
+Panamá: Maritza de Aguilera Maritza de AguileraMabel Rivera
+Análisis de Laboratorio: Instituto Conmemorativo Gorgas de Estudios en Salud
+Determinación de yodo en orinas: Personal de la Sección Química Clínica y Nutricional
+Determinación de Yodo en Sal:  Personal de la Sección de Química de Alimentos y Agua SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+3• Agradecimiento a las autoridades del Nivel Central, Regional y Local de los Ministerios de Salud y 
+Educación, por el apoyo brindado.
+• Un reconocimiento muy especial a los maestros, padres de familias y estudiantes que colaboraron 
+para que este monitoreo fuera posible.Apoyo financiero: Ministerio de Salud Instituto Conmemorativo Gorgas de Estudios 
+en SaludINCAP/OPS
+Apoyo Secretarial: Delmira Benavides 
+Apoyo Logístico: Conductores del Ministerio de Salud
+Asistencia Técnica: Ana Atencio INCAP-OPS/OMSMINISTERIO DE SALUD
+4ANTECEDENTES..................................................................................................5
+JUSTIFICACIÓN.....................................................................................................7OBJETIVOS...........................................................................................................8DISEÑO         METODOLÓGICO....................................................................................8
+A. Procedimiento de selección de la muestra......................................8
+B. Instrumentos .................................................................................9
+C. Capacitación de encuestadores y recolección de datos...................9
+RESULTADOS.......................................................................................................9
+A. Yodo en orina................................................................................11
+B. Niveles de yodo en sal...................................................................15
+CONCLUSIONES.................................................................................................20 RECOMENDACIONES.........................................................................................21LECCIONES        APRENDIDAS................................................................................22BIBLIOGRAFIA...................................................................................................24
+ANEXOS .............................................................................................................25TABLA DE CONTENIDOSISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+5I   ANTECEDENTES
+La sal, al ser producto de consumo general, aun en poblaciones pobre, representa un 
+vehículo ideal para la incorporación del yodo.  El reto está en lograr que en todos los ho-gares se consuma sal adecuadamente yodada.
+Hasta 1970 en que se aprobó la ley de yodación de la sal, la producción de sal se realiza-
+ba de forma rudimentaria.  En agosto de ese año, por iniciativa de empresarios del área, nace en Aguadulce, Provincia de Coclé, la empresa Panasal S.A., que en 1985 instala una planta moderna para el proceso de refinamiento de la sal.
+En 1974, se crea en la Provincia de Los Santos, la Federación Nacional de Cooperativas 
+Salineras de Panamá (FENCOSPA, R.L.), mediante la unión de cuatro cooperativas de primer grado.  Además de las comercializaciones de la sal cruda para diferentes mercados, en 1978 la empresa establece su planta procesadora de sal para el consumo humano.
+La sal en Panamá es producida por evaporación solar del agua marina con un con una  
+producción anual de aproximadamente 20,000 TM de consumo humano y 12000 TM para consumo animal.  Cada planta cuenta con laboratorios para el análisis interno de la dosificación del yodo.
+La yodación de la sal se inicia formalmente en el año 1970, pero aun no existía un siste-
+ma de monitoreo y seguimiento.  En 1988, el Programa de Salud Escolar en la Región de Azuero, reportó un incremento significativo de casos de bocio, que estaban asociados al consumo de sal no yodada.
+A raíz de esta situación, con el apoyo del INCAP en 1989, se realizó una Encuesta Nacio-
+nal de Bocio en escolares que mostró una alta prevalencia, por lo que se elaboró un plan para el control de los DDY , con participación multisectorial.
+En 1992, se inicia un proceso sistemático de sensibilización y capacitación del sector 
+salinero sobre los problemas de la deficiencia de yodo y la necesidad de asegurar que toda la población consumiera sal adecuadamente yodada.  Esto implicaba mejoras en los procesos de producción y un sistema de monitoreo interno de los niveles de yodo.  A  par -
+tir del año 1997 , se inicia un proyecto para la eliminación de los DDY con un enfoque de trabajo de una alianza entre MINSA, KIWANIS, UNICEF , INCAP/OPS/OMS, productores y la industria salinera.  Este proyecto concentró sus acciones en los objetivos básicos de la prevención y la atención de la población afectada por DDY .
+A mediados del año 2000 una primera misión conjunta de ICCIDD, OPS, INCAP y UNICEF , 
+revisó los avances del programa y sus resultados, dejando una serie de recomendaciones concretas.  Una de estas recomendaciones fue ajustar el nivel de yodo en sal 20 a 60 ppm.MINISTERIO DE SALUD
+6En marzo del año 2002, a solicitud del gobierno nacional, se efectuó la segunda visita 
+de la misión evaluadora y determinó que la deficiencia de yodo como problema de salud 
+pública, estaba virtualmente eliminada en Panamá, en base a los progresos alcanzados. 
+A continuación se detalla el marco legal para la fortificación de la sal.
+LEY TITULO FECHAPRINCIPALES 
+DISPOSICIONES
+LEY No. 17 Y odación de la Sal Enero 1955Obligatoriedad de la 
+yodación de la sal de 
+consumo humano
+DECRETO No. 256Reguló el registro y 
+control de alimentosJunio 1962Estableció los niveles de yodación de la sal 
+(67 a 100 ppm)
+DECRETO No. 366Regulación de la 
+industria salineraNoviembre 1969Obligatoriedad de yodar la sal de 
+consumo 
+LEY No. 23Obligatoriedad de 
+yodar la sal de 
+consumo animal15 de julio 1997Y odación de la sal de 
+consumo animal
+DECRETO EJECUTIVO No. 28Medidas de sal de consumo animal3 de abril 1998(30ppm) no menor de 20 ppm
+LEY 43Modificación de artículos25 de octubre 2000Modifica el decreto de gabinete 366 de 1969
+DECRETO EJECUTIVO No. 20Nuevos niveles de yodo2 de mayo 2001 (20 a 60 ppm) vigentes
+RESOLUCIÓN No. 1014Crea la Comisión de MicronutrientesNoviembre 2007Se plantea, discute 
+todo lo relacionado con 
+los DDILEGISLACIÓN PANAMEÑA EN MATERIA DE 
+YODACIÓN DE LA SALSISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+7II   JUSTIFICACIÓN:
+Como parte del proceso de eliminar las deficiencias de yodo y sus efectos,  en el año 2000 
+se tomó la decisión de implantar un sistema de vigilancia del yodo en escolares, basado en 
+distritos centinelas.   Luego en el año 2002, Panamá fue certificada como país libre de des -
+órdenes por deficiencia de yodo.
+En el primer monitoreo del sistema de vigilancia comprendió una muestra de 21 distritos 
+agrupados en 4 conglomerados centinelas y 1 control.  A partir del año 2002 hasta la fecha, el monitoreo se lleva a cabo en 29 distritos, incluyendo los distritos de la Comarca Ngäbe Buglé.
+Cada monitoreo ha permitido comparar el comportamiento del estado nutricional del yodo a nivel de los escolares, a través de la yoduria y la sal consumida en los hogares.
+El seguimiento y monitoreo para asegurar que todos los hogares consuman sal adecua-
+damente yodada, debe ser continuo.  El contar con un grupo multisectorial que reciba y 
+analice los resultados del monitoreo, permite generar acciones de control más efectivas 
+a los consumidores, acerca de la magnitud y trascendencia de las deficiencias por mi-cronutrientes en la población, así como la necesidad de las medidas intersectoriales de 
+prevención y control de las mismas:
+• Promover la participación de los distintos sectores de la sociedad civil en la pre-
+vención y control de las deficiencias de micronutrientes.
+• Recomendar las investigaciones necesarias que contribuyan al conocimiento de la situación de las deficiencias de micronutrientes, fortificación, enriqueci-
+miento, comercialización y consumo de alimentos fuentes de micronutrientes.
+• Promover la divulgación a todos los niveles de la sociedad, de información re-
+levante sobre la situación actual y las medidas adoptadas en el control de las 
+deficiencias de micronutrientes.
+El asegurar la sostenibilidad de los logros alcanzados representa hasta hoy un reto para el 
+país, y solo puede hacerse con un involucramiento continuo de los  departamentos y fun-
+cionarios responsables de las acciones de seguimiento y del sector salinero.  Además, ha 
+sido necesario mantener una campaña para que la población consuma y exija sal yodada.
+Como apoyo a las acciones, es esencial monitorear el cumplimiento del marco legal de 
+respaldo a ésta y la institucionalización del control de los DDY , que debe estar represen-
+tado en los planes gubernamentales a corto, mediano y largo plazo.
+En agosto del año 2015, se realizó el VII monitoreo, cuyos resultados presentamos en 
+este documento.MINISTERIO DE SALUD
+8III OBJETIVOS
+ > General:
+• Conocer la situación de los desórdenes por deficiencia de yodo en la población 
+escolar de 5 conglomerados de distritos centinelas y 1 control.
+ > Específicos:
+• Conocer los niveles de yodurias en los escolares.
+• Determinar niveles de yodo en sal de consumo humano de los escolares inclui-dos en la muestra.
+• Realizar análisis de tendencia en los dos indicadores estudiados.
+IV.  DISEÑO METODOLÓGICO
+Esta investigación se realizó en escolares de 5 conglomerados de distritos centinelas 
+considerados de alto riesgo y uno de control a nivel de la Región Metropolitana de Salud.
+Del total de las escuelas primarias públicas en los conglomerados centinelas se selecciona -
+ron al azar de cada conglomerado 4 escuelas, una urbana y tres rurales.  Se tomó una mues -
+tra de 30 estudiantes por escuela para la detección de yodo, dando un total de 120 muestras  por conglomerado.
+Además, se les solicitó a cada estudiante 4 cucharadas de sal, la cual consumen en sus hogares para ser analizadas en el Instituto Conmemorativo Gorgas de Estudios de la 
+Salud.
+A.    Procedimiento de selección de la muestra.
+El tamaño de la muestra utilizada para la recolección de orina es de 720 (6 conglomerado de 
+120).  Esta cifra se basó en la hipótesis de una prevalencia de resultados anormales de 50% intervalo de confianza del 95%, un efecto de diseño de 2 y una precisión relativa de 16%.
+Para cada conglomerado de distritos centinela se seleccionaron las escuelas utilizando la tabla de números aleatorios (se anexa listado).
+Para la selección de los 30 alumnos se dividió la matrícula total entre 30 y con este factor 
+se realizó una selección sistemática en base a los listados de los alumnos.   En aquellas escuelas en donde el número de estudiantes era menor a 30 se seleccionaban a todos.
+Si un alumno seleccionado no asistió a la escuela el día de la encuesta, se seleccionaba 
+el siguiente de la lista.SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+9B.   Instrumentos
+ 
+El formulario de la encuesta permite llevar una adecuada sistematización de los datos 
+que se desean analizar.
+Se codifica la provincia, distrito, escuela, la fecha en que se realizó la encuesta, los datos del 
+estudiante, nombre completo, sexo, fecha de nacimiento, si se recolectaba la orina y la sal.
+Al final de la hoja se dejó un espacio para anotar cualquier observación y tanto el encues-tador como el director de la escuela debían firmar el formulario de recolección de datos .
+C.   Capacitación de Encuestadores y Recolección de Datos
+El 31 de julio de 2015, se llevó a cabo la capacitación a los encuestadores y personal del Instituto Conmemorativo Gorgas, en donde se les brindó la orientación general, se 
+les distribuyó el material a utilizar (formularios, lápices, envases para la recolección de 
+la orina y la sal).   Además, se ultimaron detalles de logística y el manejo correcto de las muestras.
+Para la recolección de la información se programó un mes y medio para los 5 conglome-
+rados centinelas y 5 días para el control.   Se realizaron las coordinaciones previas con el Ministerio de Educación tanto a nivel Central, Regional y Local, para que conocieran 
+el objetivo del estudio y las escuelas seleccionadas.   En la mayoría de los casos se les 
+envió la lista de los alumnos a encuestar.
+El equipo estuvo conformado por un coordinador, un encuestador y un conductor.
+Al llegar a cada escuela el equipo encuestador se presentaba a la dirección y se proce-
+día a seleccionar los alumnos si este proceso no se había realizado previamente.  Se le 
+suministró a cada alumno un envase en donde recolectaban la orina,  otro envase se de-positaba la muestra de sal de manera individual;  cada envase era rotulado con el nombre 
+del estudiante, código del distrito y código de la escuela.
+V.  RESULTADOS 
+Para el presente monitoreo la muestra estudiada de la yoduria fue de 728, un 49% del 
+sexo masculino y 51% del sexo femenino.  Respecto a la distribución por edad, el 54.4% 
+estaban entre 5 a 9 años de edad y el 45.6% de 10 a 14 años de edad.
+A continuación se presentan los resultados sobre distribución de las edades de los es-
+colares encuestados, distribución por sexo y por conglomerados de distritos centinelas y 
+control. MINISTERIO DE SALUD
+10EdadTotal de es-
+colares%
+5 3 0.4
+6 58 8.0
+7 116 15.9
+8 109 15.0
+9 110 15.1
+10 127 1 7. 4
+11 127 1 7. 4
+12 65 8.9
+13 10 1. 4
+14 3 0.4
+Total 728 100
+Distribución del sexo de los escolares encuestadosDistribución de las edades de los escolares encuestados
+Distribución de los encuestados por conglomerados 
+de distritos centinelas y controlSexo Total de escolares %
+Femenino 371 51
+Masculino 357 49
+Total 728 100
+Conglomerado Total de escolares %
+Ngäbe-Buglé 123 16.9
+Chiriquí 122 16.8
+Herrera 120 16.5
+Los Santos 120 16.5
+Veraguas 123 16.9
+Panamá 120 16.5
+Total 728 100SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+11Mediana por conglomerado:A.   Yodo en orina:
+De las 724 muestras de orina analizadas, la mediana nacional de yoduria fue 291 .6 μg/L 
+incluyendo el conglomerado control Panamá.  Si excluimos Panamá,  el valor de la me-
+diana se mantiene en 291 .6 μg/L.  Todas las medianas, tanto la nacional como por con-
+glomerado de distritos centinelas, están dentro del rango normal, excepto la mediana de Chiriquí.
+MEDIANAS
+Mediana Nacional:  291 .6 μg/L (incluyendo Panamá)
+                                291 .6 μg/L (excluyendo Panamá)
+Conglomerado Mediana μg/L)
+Ngäbe-Buglé 264.2
+Chiriquí 325.2
+Herrera 281 .4
+Los Santos 297 .6
+Veraguas 291 .6
+Panamá 296.8MINISTERIO DE SALUD
+12
+Distribución de Yodurias según rangos por
+Conglomerados de distritos Centinelas
+Panamá, 2015
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+13
+Los resultados muestran que solo el 0.3% de los escolares presentaban yodurias inferio-
+res a 50 μg/L o sea carencia moderada y un 3.2% carencia leve (50 a 99).  En el rango de 
+100 a 300.9 μgI/L está el 50.4%.  De 301 a 500 μgI/L se presenta el 40.9% y por encima 
+de 500 μgI/L un 5.2% de la muestra.
+Año Mediana (μg/L)
+2000 229.0
+2002 249.3
+2004 263.7
+2006 209.3
+2008 198.5
+2011 254.2
+2015 291 .6
+Si comparamos las medianas de yoduria en los 7 monitoreos realizados desde el año 2000 hasta la fecha;  en el 2000 la mediana fue de 229.0 μg/L, en el 2002 fue 249.3 μg/L, 
+el 2004 fue 263.7 μgl/L, en el 2006 fue  209.3 μg/L, en el 2008 fue 198.5 μg/L, en el 2011 
+fue de 254.2 μg/L y en el presente estudio 291.6 μg/L.Mediana de yoduria por monitoreo (2000 al 2015)MINISTERIO DE SALUD
+14
+Niveles de yodo en orina (total)Si analizamos los resultados de las medianas de yoduria de los 7 monitores realizados 
+desde el 2000 hasta la fecha, se nota que todas están dentro del rango normal. 
+En el siguiente cuadro se presentan los resultados de yodo en orina en los siete monito-
+reos llevados a cabo.  Se observa que en el rango de 100 a 300.0 μgI/L (rango adecuado 
+de yoduria) el resultado fue de 50.4% para este año. 
+% DE MUESTRAS
+RANGO 2000 2002 2004 2006 2008 2011 2015
+< 50 2.9 0.4 1. 9 0.4 0.8 0.5 0.3
+50 a 99.9 9.4 4.1 8.5 5.5 6.5 4.4 3.2
+100 a 200.9 29.6 31 .3 23.4 38.2 44.4 27 .7 15.7
+201 a 300.9 28.9 48.0 28.9 49.2 43.1 43.5 34.7
+301 a 500 28.1 10.1 34.2 3.7 4.4 18.6 40.9
+> 501 0.8 6.1 3.0 3.0 0.8 5.2 5.2
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+15No. de escolares que entregaron la muestra de sal.
+Muestra de Sal Total de escolares %
+No entregada 13 1. 8
+Entregada 715 98.2
+Total 728 100
+B.   Niveles de yodo en sal:
+A todos los estudiantes seleccionados se les solicitó que el día de la encuesta llevasen 4 
+cucharadas de la sal que usan a nivel de sus hogares.  Estas muestras fueron analizadas 
+en el Instituto Conmemorativo Gorgas de Estudios de la SaludMINISTERIO DE SALUD
+16
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+17En el presente cuadro podemos observar que el 97 .2% de las sales se analizaron a tra-
+vés del método cuantitativo y sólo 20 muestras de sal se analizaron a través del método 
+cualitativo encontrándose que todas estaban fortificadas con yodo.
+Frecuencia de Análisis cualitativo y cuantitativo realizado
+Tipo AnálisisTotal de 
+sales%
+Cuantitativo 695 97 .2
+Cualitativo 20 2.8
+Total 715 100
+El análisis general de los niveles de yodo en la sal muestreada en los diferentes conglo-merados nos indica que 95.1% de las muestras están dentro del rango establecido en la norma actual incluida en la legislación vigente (20 a 60 mg/kg).  Valores por debajo del 15 
+mg/kg  representan el 2.0%, y por encima de la norma, solamente el 0.6%.
+La mediana nacional del contenido de yodo en sal en el presente monitoreo fue de 34.9 
+mg/kg.MINISTERIO DE SALUD
+18
+Niveles de Yodo en sal de hogares por
+conglomerados de distritos centinelas – 2015
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+19Distribución de Muestras Según Nivel de Yodo
+Comparativo 2002 – 2015 
+Años
+Yodo en sal 
+(mg/kg)2002 2004 2006 2008 2011 2015
+< 15 7 .8% 8.9% 3.6% 3.4% 2.8% 2.0%
+15 a 19.9 6.6% 2.8% 3.9% 9.2% 1 .7% 2.3%
+20 a 40 65.9% 68.8% 62.1% 65.7% 66.7% 69.6%
+40.1 a 60 18.6% 18.3% 28.6% 20.8% 25.6% 25.5%
+> 60 1 .0% 1 .3% 1 .7% 0.9% 3.3% 0.6%
+Realizando un análisis de los resultados del yodo en sal en los últimos 6 monitoreos el 
+% mayor de las muestras dentro de la norma se presenta durante el 2015 con un 95.1%MINISTERIO DE SALUD
+20VI   CONCLUSIONES
+• El total de muestras estudiadas para la excreción de yodo urinario fue de 724 
+y para yodo en sal fue de  fue de 715.
+• En el estudio del 2015 se alcanzó un 95.1% de muestras dentro del rango estipulado en el Decreto Ejecutivo No. 20 de 2 de marzo de 2011, que estipula un contenido de yodo en sal de 20 a 60 mg/kg.
+• Si tomamos en  cuenta el rango recomendado para el yodo en sal en nuestra legislación (20 a 60 mg/kg), el 95.1% de las muestras están dentro de la nor -
+ma.  Por arriba de 60 ppm sólo el 0.6% y por debajo de 15 ppm el 2.0%.
+• El contenido de yodo en sal ha permanecido estable durante los últimos 15 años.
+• El nivel promedio de yodación de sal es de 34.9 mg/kg, por lo que se está cumpliendo con las especificaciones nacionales y centroamericanas para el contenido de yodo en sal.
+• La mediana de yoduria del presente monitoreo del 2015 es de 291 .6 μg/L.
+• En el presente año se presentó solo una mediana por encima de 300 μg/L, que correspondió al conglomerado de Chiriquí.
+• Una deducción final es que la mediana de la excreción de yodo urinario no es excesivamente alta, a excepción del conglomerado de Chiriquí, en donde se sobrepasa ligeramente el nivel máximo de 300 μg/L. 
+• Se observa que en el presente monitoreo que el porcentaje de yodurias por encima de los 300 μg/L es el más alto comparado con las encuestas de los años anteriores.SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+21VII. RECOMENDACIONES
+• El sistema de vigilancia de los desórdenes por deficiencia de yodo dentro de 
+las acciones del proceso de sostenibilidad se debe mantener.
+• Se debe continuar con las acciones de promoción del consumo de alimentos fuentes de yodo y el uso de la sal yodada, evitando los excesos, tanto a nivel de escuela y comunidad en general.MINISTERIO DE SALUD
+22VIII.  LECCIONES APRENDIDAS:
+Durante los últimos años se han logrado progresos significativos en la reducción de la de-
+ficiencia de yodo a través de la yodación universal de la sal.  Esa simple solución, al igual 
+que en otros países del continente esta sencilla estrategia ha constituido a una solución 
+eficiente y eficaz, para controlar los desórdenes por deficiencia de yodo en el país.
+Entre los factores que han contribuido a la sostenibilidad de los logros del programa de 
+control de los DDY , pueden señalarse:
+INSTITUCIONALIZACIÓN:
+Presupuesto: En la actualidad, las acciones del programa se incluyen en los planes anuales y se ejecutan con recursos regulares del Ministerio de Salud del Laboratorio de 
+Referencia en Salud del Instituto Conmemorativo Gorgas y el sector salinero.
+Certificación:  El logro de la certificación en el 2002 y la vigilancia epidemiológica.
+Legislaciones y planes:  El contar con leyes y reglamentos actualizados y con planes 
+nacionales en los que se incluye el tema de los DDY , respalda las acciones necesarias 
+para sostener el programa.
+Organismos internacionales y nacionales:  El apoyo técnico y financiero de organismos in -
+ternacionales como UNICEF , INCAP/OPS; así como, la importante colaboración del Club Kiwa -
+nis, ha sido clave para el desarrollo del programa y mantener el nivel de compromiso del estado.
+PARTICIPACIÓN MULTISECTORIAL:
+La Comisión Nacional de Micronutrientes con participación multisectorial, ha sido un ele-
+mento clave, ya que ha funcionado eficientemente como un verdadero equipo y con un 
+alto nivel de compromiso, en cuanto a la vigilancia de los DDI y el aseguramiento de la 
+fortificación universal de sal.
+Para la sostenibilidad de los logros, se plantea que se debe mantener la abogacía a todos 
+los niveles.  Es importante continuar con la sensibilización y capacitación permanente de los salineros de todo el personal involucrado en el programa y la comunidad.
+SISTEMA DE VIGILANCIA:
+Se cuenta con un sistema efectivo de monitoreo  permanente de la yodación de la sal,  incluyendo la importada,  y existe una base de datos que permite detectar los cambios y dar seguimiento a los correctivos necesarios.SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+23Un elemento clave ha sido contar con el Laboratorio Central de Referencia en Salud del 
+Instituto Conmemorativo Gorgas de Estudios en Salud y facilidades de laboratorio a nivel 
+regional y en las plantas yodadoras de sal.  
+El Laboratorio Central de Referencia en Salud, realiza las siguientes funciones:  estanda-
+rización y actualización de los procedimientos de los laboratorios, monitoreo de calidad de la fortificación, determinación de yodo en muestra de sal y supervisión capacitante al personal del laboratorio. 
+SECTOR SALINERO:
+El programa de prevención y control de los DDY , ha contribuido de forma significativa a 
+mejorar las condiciones de las plantas procesadoras de sal, ya que además de contar 
+con laboratorios para el control interno de la yodación, también han avanzado en proce-sos de control de calidad como HACCP .
+En entrevistas realizadas al sector salinero, fue claro que la estrategia de concientización 
+que se desarrolló en los 90 fue efectiva, especialmente la presentación de niños con bo-
+cio.  Según declaraciones de los gerentes, “poco a poco nos fueron convenciendo  que 
+socialmente tenemos que preocuparnos por el prójimo” .
+Involucrarlos directamente desde el inicio, los hizo sentirse parte importante del logro al-
+canzado y que la industria salinera ha apoyado la salud del país, y que los 130 asociados productores de sal de FENCOSPA, se identifican plenamente con la yodación de la sal.  
+Otros de los beneficios de este proceso es que visualizan al Ministerio de Salud, no como 
+fiscalizador, sino como un aliado y que las capacitaciones promovieron un acercamiento y colaboración entre las plantas procesadoras.
+Para la sostenibilidad de los logros opinan que a pesar de que las empresas procesa-
+doras de sal tiene sus controles internos, es importante que se mantenga el sistema de 
+monitoreo de la sal en plantas y en expendios.MINISTERIO DE SALUD
+24BIBLIOGRAFIA:
+CCIDD, OPS/OMS, UNICEF (2002).  Informe final “Confirmación de progresos hacia un 
+estado nutricional de yodo óptimo y la eliminación sostenible de los desórdenes por defi-
+ciencia de yodo en Panamá” .
+COMISIÓN NACIONAL DE MICRONUTRIENTES (2008).  Plan Nacional “Prevención y 
+Control de las Deficiencias de Micronutrientes 2008-2015” .  Panamá, República de Pana-
+má.
+MINISTERIO DE SALUD, UNICEF , CLUB KIWANIS PANAMA, OPS/OMS (2003).  Los 
+desórdenes por deficiencia de yodo en Panamá.  Experiencias, control y sostenibilidad.  República de Panamá.
+MINISTERIO DE SALUD, UNICEF (2008).  Monitoreo de los desórdenes por deficiencia 
+de yodo en escolares de distritos centinelas.  República de Panamá.
+MINISTERIO DE SALUD, MINISTERIO DE DESARROLLO AGROPECUARIO (2001).  
+Procedimientos para el análisis de yodo en la sal para consumo humano, yodo en orina 
+y yodo en la sal para consumo animal.  República de Panamá.
+PRETELL, EDUARDO Y HIGA, ANA MARIA (2008).  Eliminación sostenida de los des-
+órdenes por deficiencia de yodo en Perú.  25 años de experiencia.  Acta Med Per. 25(3).
+SECRETARIA NACIONAL DEL PLAN DE ALIMENTOS Y NUTRICIÓN (2009).  Plan Na-
+cional de Seguridad Alimentaria Nutricional 2009-2015.  Panamá, República de Panamá.
+MINISTERIO DE SALUD, UNICEF , CLUB KIWANIS PANAMA OPS/OMS.  Los Desórde-
+nes por Deficiencia de Y odo en Panamá.  Panamá, diciembre de 2003.
+MONITOREO DE LOS DESÓRDENES POR DEFICIENCIA DE YODO EN ESCOLARES 
+DE DISTRITOS CENTINELAS.  Ministerio de Salud, otros organismos internacionales 
+2000-2002-2004-2006-2008-2011-2015.
+MINISTERIO DE SALUD, INCAP/OPS.  Manual para el monitoreo de sal fortificada con 
+yodo.  Panamá, noviembre 2011 .
+INSTITUTO CONMEMORATIVO GORGAS DE ESTUDIOS EN SALUD. Manual para La-
+boratorio. Procedimientos para el Análisis de Y odo en la Sal para Consumo Humano y Análisis de Y odo en Orina. Panamá, República de Panamá, 2011 .SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+25ANEXO
+• Formulario de recolección de información.
+• Listado de escuelas seleccionadas.
+• Vigilancia epidemiológica por deficiencia de yodo.  Sitios Centinelas 
+2015.MINISTERIO DE SALUD
+26Código 
+de 
+MuestraNombre del AlumnoSexoFecha de 
+NacimientoMuestra de 
+OrinaMuestra de Sal
+M FDía Mes Año Sí Resultado SíResultado
+01
+020304
+05
+06
+07
+08
+09
+1011
+12
+13
+14
+15
+16
+1718
+19
+20
+21
+2223
+24
+25
+26
+2728
+29
+30
+OBSERVACIÓN:
+Nombre 
+Encuestador:Nombre Director Escuela:
+Firma: Firma:PROYECTO DE PREVENCIÓN Y CONTROL DE LOS DDY
+VIGILANCIA EPIDEMIOLÓGICA POR DEFICIENCIA DE YODO
+SITIOS CENTINELAS – 2015
+PROVINCIA:                             DISTRITO:                                 ESCUELA:                                        FECHA: ____/____/____SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+27REGIÓN DE SALUD DE NGÄBE BUGLE
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE  LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADAS
+REGIÓN DE SALUD DE CHIRIQUÍ
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADASDISTRITOS ESCUELAS
+BESIKÓ ALTO CAÑO
+KUSAPÍN BAHÍA AZUL
+MUNÁ NOLE DUIMA
+SITIO PRADO CERRO IGLESIAS
+DISTRITOS ESCUELAS
+SAN LORENZO SAN JUAN
+LAS LAJAS  SAN FÉLIX
+TOLÉ BELLA VISTA
+REMEDIOS ANTONIO ANGUIZOLAMINISTERIO DE SALUD
+28REGIÓN DE SALUD DE VERAGUAS
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE  LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADAS
+REGIÓN DE SALUD DE HERRERA
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADASDISTRITOS ESCUELAS
+SANTA FE SANTA FE
+CAÑAZAS JOSÉ DE LA CRUZ MERIDA
+SAN FRANCISCO PEDRO ARROCHA
+LAS PALMAS JOSÉ AGUSTIN RUIZ
+DISTRITOS ESCUELAS
+LA ARENA  PRESIDENTE JOHN F . KENNEDY
+LOS POZOS  LUCIRIA PIMENTEL
+OCU  EL HATILLO
+LAS MINAS  GLORIELA N. BARRIA SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+29REGIÓN DE SALUD DE LOS SANTOS
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE  LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADAS
+REGIÓN DE SALUD DE PANAMÁ METROPOLITANA
+ENCUESTA PARA EVALUAR EL ESTADO NUTRICIONAL DE YODO EN LA 
+ORINA DE LOS ESCOLARES Y EL USO DEL TIPO DE SAL CONSUMIDA 
+EN LOS HOGARES
+LISTA DE ESCUELAS SELECCIONADASDISTRITOS ESCUELAS
+LOS SANTOS NICANOR VILLALAZ
+MACARACAS RUDECINDA RODRÍGUEZ
+GUARARÉ LA ENEA
+POCRÍ ERNESTINA SUCRE FALCÓN
+DISTRITOS ESCUELAS
+PANAMÁ  METROPOLITANA  PUERTO RICO
+SAN FELIPE  ESTADOS UNIDOS DE AMÉRICA
+RÍO ABAJO  MATEO ITURRALDE
+TOCUMEN  SAN ANTONIOPROYECTO DE PREVENCIÓN Y CONTROL DE LOS DDY
+VIGILANCIA EPIDEMIOLÓGICA POR DEFICIENCIA DE YODO 
+SITIOS CENTINELAS – 2015
+A.  PROCEDIMIENTOS PARA LA SELECCIÓN DE LOS ESCOLARES
+Todas las escuelas cuya matrícula al momento del estudio es menor de 30, se le recoge 
+la orina a todos.
+Si la matrícula es mayor de 30,  el procedimiento es el siguiente:  Ej:  120 (matrícula)÷ 30 
+(N° de muestra) = 4Se inicia con el escolar N° 4 y cada cuatro hasta completar las 30 muestras.
+Recuerde:
+• Si llega al final de la lista y no completa las 30 muestras, vuelva al inicio de la lista.
+• Si el escolar seleccionado no asistió ese día a clases, se escoge el siguiente de la lista.
+B.  MANEJO DE LAS MUESTRAS:
+Orina:
+• Orientar al escolar para que el recipiente se debe llenar un poco más de la mitad. 
+(aprox. 50 a 60 mL).
+• Agregar 2mL de ácido clorhídrico 2M a la orina al recibirla.  Después tapar y co lo-
+car cinta adhesiva en la muestra. Después tapar y colocar cinta adhesiva en la muestra.
+• Etiquetar la muestra con los códigos de la Provincia, Distrito, Escuela y Código de Muestra.  (Se sugiere las iniciales en letra mayúscula del nombre y apellido 
+del escolar, ejemplo: MM).
+• Guardar las muestras en la hielera y posteriormente trasladar las mismas al Laboratorio.
+Sal:
+• Orientar al escolar traer de su casa cuatro (4) cucharadas de la sal que se usa 
+en su hogar para cocinar.
+• Colocar cinta adhesiva en la muestra después de recibidas.
+• Etiquetar la muestra con los códigos de la Provincia, Distrito, Escuela y Código de Muestra, (se sugiere poner las iniciales en letra mayúscula del nombre y ape-
+llido al lado del código de muestra.  (Ejemplo: MM)
+             Guardar las muestras y posteriormente trasladar las mismas al laboratorio.
+C.  OTRAS INFORMACIONES:
+• El formulario de la encuesta deberá ser llenado con lápiz y en letra imprenta.
+• Los materiales entregados para apoyo logístico es de total responsabilidad del 
+encuestador.MINISTERIO DE SALUD
+DIRECCIÓN GENERAL DE SALUD PÚBLICA
+SUBDIRECCIÓN GENERAL DE SALUD DE LA POBLACIÓN
+DEPARTAMENTO DE SALUD Y ATENCIÓN INTEGRAL A LA POBLACIÓN
+MONITOREO DE LOS DESÓRDENES POR DEFICIENCIA DE YODO EN
+ESCOLARES DE DISTRITOS CENTINELAS
+SISTEMA DE VIGILANCIA DE LOS DESÓRDENES POR DEFICIENCIA DE YODO
+PANAMÁ
+AGOSTO  2015INSTITUTO CONME MORA TIVO GORGAS
+DE ESTUDIOS DE LA SALUD

@@ -1,0 +1,3210 @@
+  
+REPUBLICA DE PANAMA  
+MINISTERIO DE SALUD  
+DIRECCIÓN DE PROVISION DE SERVICIOS DE SALUD  
+DEPARTAMENTO DE SALUD NUTRICIONAL  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SITUACIÓN ALIMENTARIA Y NUTRICIONAL DE LA POBLACION PANAMEÑA  
+BASADA EN LA TERCERA  ENCUESTA DE NIVELES DE VIDA  -  2008  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ANÁLISIS DE DATOS  
+ 
+ING. HUMBERTO MENDEZ  
+Instituto de Nutrición de Centro América y Panamá  
+ 
+ 
+ 
+REVISIÓN Y EDICION FINAL   -  2012 
+ 
+MGTR . EIRA V. DE CABALLERO – Nutricionista - MINSA  
+MGTR . FLAVIA FONTES  -  Nutricionista  -  MINSA  
+MGTR . MABEL DE MAS   -  Nutricionista  - MINSA  
+MGTR. ODALIS SINISTERRA - Nutricionista - MINSA  
+MGTR. YENY A. CARRASCO A. - Nutricionista - MINSA  
+LIC. ARELIS AGUILAR - Nutricionista   - MINSA  
+MGTR. VICTORIA VALDES - Escuela de Nutrición y Dietética - UP 
+MGTR . ANA  ATEN CIO - Asesora  - INCAP - OPS/OMS  
+ 
+  3 INDICE  
+ 
+ 
+ 
+1. INTRODUCCIÓN ………………………………………………………………………… … 4 
+2. OBJETIVOS… …………………………………………………………………………… … 5 
+3. METODOLOGIA ………………………………………………………………………… … 5 
+3.1. DISEÑO MUESTRAL …………………………………………………………. . 7 
+3.2. RECOLEC CION DE DATOS …………………………………………………..  7 
+3.3. INDICES UTILIZADOS PARA LA EVALUACIÓN NUTRICIONAL ……….  8  
+3.4. DESCRIPCIÓN DE LA MUESTRA……………………………………………  12  
+3.5. COMPONENTE ALIMENTARIO ………………………………………………  21 
+4. SITUACIÓN NUTRICIONAL ……………………………………………………………...  22 
+            4.1. PRE ESCOLARES ……………………………………………………………...  22 
+            4.2.  ESCOLARES ……………………………………………………………………  37 
+            4.3. ADOLESCENTES ………………………………………………………………  46 
+            4.4. ADULTO …………………………………………………………………………  51 
+5. CONSUMO DE ALIMENTOS ……………… …………………………………………….  65  
+BIBLIOGRAFÍA ……………………………………………………………………………….  107 
+ 
+  4 1. INTRODUCCIÓN  
+ 
+Este documento contiene el informe final del estudio sobre “Situación alimentaria y nutricional 
+de la República de Panamá” preparado con información recabada en el a ño 2008 por la tercera  
+Encuesta Nacional de Niveles de Vida de la República de Panamá (ENV 2008).  Esta 
+investigación  contribuye en la actualización de las líneas de pobreza en Panamá, así como las 
+interrelaciones de la pobreza y las distintas caracterís ticas de las personas y los hogares.  
+ 
+Se describe la situación nutricional del país  a través de la evaluación antropométrica de todos 
+los sujetos encuestados, donde hubo representación de los grupos etáreos de interés para la 
+caracterización de problemas nutricionales como la desnutrición y la obesidad.  El  diseño 
+muestral de la ENV 2008 aseguró que los datos incluidos  sean representativos a nivel nacional 
+y de áreas geográficas especificas, las cuales se  describirán mas adelante.  
+ 
+También se incluyó en  la ENV 2008 una investigación sobre la adquisición de alimentos para el 
+consumo familiar la cual se extrapoló convenientemente para llegar a estimaciones del 
+consumo aparente de alimentos a nivel familiar e individual.  Los datos disponibles para esta 
+evaluación de  prácticas del consumo alimentario solo permiten aproximaciones de la ingesta 
+nutricional.  Sin embargo, los resultados obtenidos constituyen un aporte valioso para la 
+identificación de hábitos alimentarios y tendencias en el consumo de alimento s de grupos de 
+población con riesgo de  desequilibrios nutricionales.   
+ 
+Por ser un estudio con representatividad nacional, por provincias, comarcas indígenas, áreas y 
+nivel de pobreza, se espera que este informe constituya un aporte significativo al conoci miento 
+sobre la situación alimentaria nutricional de la población panameña.   
+ 
+En Panamá, desde los años setenta se vienen realizando estudios, estimaciones y mapas de 
+pobreza. Las fuentes más utilizadas son los censos de población y vivienda, las encuesta s a 
+los hogares sobre el mercado de trabajo, ingresos y gastos, las de consumo de alimentos y las 
+de carácter socioeconómico  como la de 1983, los censos de  talla de la población escolar y los 
+registros administrativos sectoriales.  
+ 
+ 
+  5 2. OBJETIVOS  
+  
+    2.1. General  
+Describir la situación alimentaria y nutricional a nivel nacional,  urban o, rural e indígena en la 
+República de Panamá.  
+ 
+    2.2. Específicos  
+ Determinar el estado nutricional según indicadores antropométricos en:  
+ Menores de  5 año s 
+ Escolares de 5 a 9 años  
+ Adolescentes de 10  a 17 años  
+ Adulto s de 18 y más  
+ Identificar c ambios en el estado nutricional de la población según dos encuestas 
+nacionales: ENV 2003  y 2008.  
+ Evaluar  el patrón alimentario de las familias participantes del estudio.  
+ 
+3. METODOLOG ÍA 
+ 
+En el año 1997 se levantó en Panamá la Primera Encuesta Nacional de Niveles de Vida (ENV 
+1997), utilizando la metodología desarrollada por el Banco Mundial, denominada “Living 
+Standard Measurement Study” (estudio de medición de los niveles de vida).  E sta metodología 
+permite el estudio de los niveles de gastos y consumo de las personas y hogares (MEF 1999) .   
+La ENV 1997 se realizó bajo la responsabilidad de la D irección de Políticas Sociales  del 
+Ministerio de Planificación y Política Económica, hoy día Ministerio de Economía y Finanzas.  
+ 
+La ENV 2003 se realizó bajo la responsabilidad de la Dirección de Políticas Sociales del 
+Ministerio de Economía y Finanzas, c on la colaboración de la Dirección de Estadística y Censo 
+de la Contraloría General de la República, en etapas y áreas  establecidas en un Convenio 
+Interinstitucional de Cooperación.   En esta encuesta se tomó el peso y la talla de todos lo 
+miembros del ho gar a diferencia de la ENV 1997 en que sólo se midieron a los menores de 5 
+años.  
+  6 El diseño de la ENV 2003  contó con estimaciones a nivel del país, así como áreas geográficas 
+denominadas “dominios”, incluyendo dos categorías generales: área urbana y área rural total, 
+además de dos subcategorías para área rural: área rural no indígena y área rural indígena.  
+ 
+La ENV 2008 se realizó bajo la responsabilidad de la Contraloría General de la República, por 
+la Dirección Nacional de Estadística y Censo. La misma p ermite hacer estimaciones válidas 
+para áreas, niveles de pobreza,  provincias y comarcas indígenas . Las provincias se detallan  a 
+continuación:  
+ 
+1. Provincia de Bocas del Toro  
+2. Provincia de Coclé  
+3. Provincia de Colón  
+4. Provincia de Chiriquí  
+5. Provincia de Herrera  
+6. Provincia de Los Santos  
+7. Provincia de Panamá  
+8. Provincia de Veraguas  
+9. Provincia de Darién  
+10. Comarca  indígenas (Kuna Yala,  Emberá y  Ngäbe Buglé ) 
+ 
+Las provincias del país igualmente se constituyeron en dominios de estudios.   Al respecto, es 
+necesario seña lar que e l dominio “ comarcas indígenas ” incluye  solamente las comarcas Kuna 
+Yala, Ngäbe Buglé  y Emberá . El dominio “provincia” se refiere  a características de toda la 
+población residente en las provincias. Por otro lado , el dominio “área indígena” lo conformaron 
+los territorios de las coma rcas indígenas de Kuna Yala, Ngä be Buglé y Emberá, más las áreas 
+específic as habitadas mayormente por etnias indígenas  en las provincias de Bocas del Toro, 
+Chiriquí, Veraguas, Panamá y Darién.  
+ 
+  7 3.1.     DISEÑO MUESTRAL  
+ 
+Para la  Encuesta de Niveles de Vida de 2008 se diseñó una muestra aleatoria y probabilística. 
+El marco muestral lo conformaron los segmentos censales urbanos, rurales e indígenas 
+existentes en el país. La selección fin al de la muestra fue bietápica.  
+ 
+La muestra t otal ascendió a 8,000 viviendas particulares: 4,165 en el área urbana y 3,835 en el 
+área rural. En la muestra no indígena, las viviendas particulares sumaron 7,450 y, en la 
+muestra indígena, 550 unidades.  
+ 
+Se trabajó con una muestra sin reemplaz o en las un idades encuestadas ( viviendas 
+particulares) , siendo las unidades de observación y  análisis  todos los hogares conformados 
+por una o más personas, parientes o no, residentes habituales de una misma vivienda, que 
+comparten el alojamiento, la comida y otras necesidades básicas para vivir.  
+ 
+Se siguió igual procedimiento que en las encuestas pasadas del 1997 y 2003. Por tanto, los 
+tamaños de muestras obtenidos para los dominios considerados, permiten hacer estimaciones 
+de porcentajes o proporciones con un nive l de precisión menor o igual al 10%.  
+ 
+3.2.  RECOLECCIÓN DE DATOS  
+ 
+El cuestionario en donde se incluía el dato de medidas antropométricas contemplaba 
+información referente a:  
+Características  demográficas,  capital social,  salud de los niños de menos de cinco 
+años y adulta, educativas, capacitación laboral, de  migración,  actividad económica, del 
+ahorro, seguros y créditos,  de la fecundidad y salud repro ductiva, antropométricas; de 
+los gastos de consumo y otros ingresos, de los negocios que desarrollan en el ho gar, 
+actividades independientes y por cuenta propia no agrícolas, y de la actividad 
+agropecuaria y forestal.  
+ 
+      En cuanto a las medidas antropométricas,  se pesaron y midieron a todos los residentes  
+      de los hogares encuestados con instrumentos esp ecializados.  
+ Balanza Seca 310 -báscula de suspensión con escala circular para pesaje de    
+baby en un rebozo suspendido. (Peso: 1.14 k g).  8  Seca 840 -pesa sencilla portátil, digital con batería, para niños mayores y 
+adultos de piso (peso:  2 kg).  
+ Tallímetro , infantómetro o ambos; para tomar la talla y longitud de los niños se 
+utilizaron los siguientes instrumentos.  
+ Seca 210 -tallímetro portá til para bebes y niños pequeños  (menores de 2 
+años) de plástico enrollable.(peso:580 g).  
+ Seca 214 -estadiometro portátil par a niños (mayores de 2 años y adulto  
+Peso:2 kg)  
+ 
+La capacitación para la recolección de los datos antropométricos en la ENV 2008; se 
+dividió en dos etapas: una primera etapa en que se capacito a nutricionistas del MINSA 
+de Panamá  y una segunda etapa en que las nutricionistas capacitaron a los 
+encuestadores y supervisores a nivel de cada provincia y comarca indígena.  
+ 
+El equipo de nutricionistas del MINSA  fue responsable de la supervisión a nivel de 
+campo de los encuestadores que tomaban las medidas antropom étricas para garantizar 
+que se obtuviera apropiadamente la información.  
+ 
+3.3.  INDICES UTILIZADOS PARA LA EVALUACIÓN NUTRICIONAL  
+ 
+El estado nutricional de menores de 5 años, escolares y adolescentes se bas ó en las 
+mediciones antropométricas de peso y talla, la s que junto con los datos de sexo y edad, se 
+utilizaron para calcular los índices talla para la edad (talla/edad), peso para la edad (peso/edad) 
+e índice de masa corporal por edad (IMC/edad) utilizando el Programa de Cálculos de Índices 
+Antropométricos ANT HRO y el pa trón de referencia OMS/2006 para niños menores de cinco 
+años y ANTHRO PLUS y el patrón de referencia OMS/2007 para sujetos de 5 a 19 años.  
+ 
+Estos índices de  talla/edad, peso/edad e IMC/edad se estimaron como valores Z, lo que 
+consiste en normal izar el promedio de la población de referencia al valor cero (0) y estimar el 
+número de desviaciones estándares (DE) que se alejan del promedio en sentido negativo o 
+positivo.  En una población normal, se espera que los promedios del valor Z estén cerca de l 0 y 
+que alrededor del 95% de la misma se encuentre dentro de ± 2 DE, ya que como otros hechos 
+biológicos, el peso y la talla se comportan dentro de una distribución normal o gaussiana, la 
+que adopta una curva simétrica alrededor de la mediana, en forma d e campana.  Se acepta  9 que el crecimiento antropométrico es similar entre niños de distintos orígenes étnicos,  
+culturales y sociales, si estos están rodeados de condiciones ambientales, de nutrición y  salud 
+adecuadas.  
+ 
+Para evaluar el estado nutricional d e la población infantil y adolescente, se utilizaron los puntos 
+de corte recomendados por la OMS  2006  para interpretar los valores Z de los índices descritos. 
+La terminología para interpretar los puntos de corte para cada grupo de edad e índices 
+antropomét ricos se detallan en los cuadros 1 y 2.  
+ 
+Cuadro 1 
+Puntos de corte para evaluar el estado nutricional de niños menores de 5 años con los 
+índices, peso/edad, peso/talla y talla/edad (Patrón OMS). Panamá, 2012  
+ 
+Índice  
+antropométrico  DE Interpretación  
+Peso/E dad 
+Puntaje Z  < - 3.00 Bajo peso severo  
+-3.00 a <-2.00 Bajo peso  moderado  
+>= -2 DE Normal  
+Talla/Edad 
+Puntaje Z  
+ 
+ < -3.00 DE  Bajo talla severa  
+ -3.00  a  < -2.00 DE  Baja talla moderada  
+>= -2.00 DE  Normal  
+IMC/Edad  < -3.00 DE  Emaciado severo  
+ -3.00  a  < -2.00 DE  Emaciado moderado  
+ -2.00  a + 2.00 DE  Normal  
+> +2.00  a + 3.00 DE  Sobrepeso  
+> +3.00 DE  Obesidad  
+ 
+ 
+Es necesario resaltar que para el índice peso/edad en menores de 5 años, no se toman en 
+cuenta los valores positivos (>+2DE) para indic ar sobrepeso u obesidad. Se  recomienda 
+utilizar este indicador para detectar desnutrición de una forma global, ya que no contempla la 
+talla del niño; por lo cual no debe hacerse inferencias a nivel poblacional.     
+ 
+Según la OMS, el índice talla/edad para  estudios poblacionales no contempla los valores 
+positivos (>+2DE); ya que la talla alta no es considerada como un problema de salud pública.  
+  10 Para los menores de 5 años, en lugar del índice peso/talla se decidió utilizar el IMC/edad 
+porque el mismo toma e n cuenta la edad para establecer problemas de malnutrición de forma 
+aguda, permitiendo un diagnóstico más preciso al momento de la evaluación.  
+ 
+Cuadro  2 
+Puntos de corte para evaluar el estado nutricional de escolares y adolescentes  con los 
+índices talla/ edad e IMC/Edad.  Panamá, 2012  
+ 
+Índice 
+antropométrico  DE Interpretación  
+Talla/edad 
+Puntaje Z  < -3.00 DE  Baja talla severa  
+ -3.00  a < -2.00 DE  Baja talla  moderada   
+>= -2.00 DE  Normal  
+IMC/edad  
+Puntaje Z  < -2.00 DE  Bajo Peso  
+ -2.00  a +1.00 DE  Norm al 
+> +1.00  a +2.00 DE  Sobrepeso  
+> +2.00 DE  Obesidad  
+ 
+ 
+También se utilizó el IMC/edad para evaluar la situación nutricional de niños y adolescentes, 
+que es la relación entre el peso y la talla elevada al cuadrado (IMC=peso/talla2), de acuerdo a 
+la eda d y el sexo de los niños y adolescentes  
+ 
+Los criterios de exclusión de los valores de los diferentes índices antropométricos para 
+menores de 5 años se describen en el cuadro 3 . 
+  
+Cuadro  3 
+Límites de exclusión de valor Z  de índices antropométricos para el  análisis del estado 
+nutricional de niños y adolescentes.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Índice  antropométrico  Límites de exclusión 
+Desviación Estándar  
+Talla/edad (Z)  < -6.0  y >+6.0 DE 
+Peso/edad (Z)  < -6.0  y >+5.0 DE  
+IMC para edad (Z)  < -5.0  y >+5.0 DE   11 La evaluación  del estado nutricional de adultos, excluyendo a embarazadas, se basó también 
+en el IMC.  Para determinar el estado nutricional de estos grupos de adultos se siguieron los 
+criterios descritos en el cuadro 4. 
+Cuadro 4 
+Puntos de corte para evaluar el estado nutricional de adulto y adulto mayor con el índice 
+IMC.  Panamá, 2012 . 
+ 
+Valores de IMC (Kg/m2)* Interpretación  
+Menos de 18.5  Bajo peso  
+18.5 a 24.9  Normal  
+25.0 a 29.9  Sobrepeso  
+30.0 y más  Obesidad  
+ 
+ 
+*El criterio de exclusión para el análisis de IMC par a mayores de 18 años fue de < 9.0 y > de 65 
+en base a la distribución del IMC de los datos.   12 3.4. DESCRIPCIÓN  DE LA MUESTRA  
+ 
+La población total para  evaluación antropométrica en la ENV 2008 fue de 25,072 personas , de 
+las cuales 2,515 eran menores de 5 año s, 2,806 escolares de 6 a 9 años, 4,267 adolescentes 
+de 10 a 17 años y 15,484 adultos de 18 años y más. En el cuadro 5 se puede observar la 
+distribución de la muestra según área, nivel de pobreza, provincias y comarcas.  
+ 
+Cuadro 5 
+Distribución de la poblaci ón estudiada, según área, línea de pobreza, provincia y 
+comarca.  Panamá, 2008  
+ 
+ POBLACION  
+Muestra  Expandida  
+N° % N° % 
+Total, País  25,072  100.0  3,070,713  100.0  
+Área      
+ Urbana  12,319  49.1 1,955,422  63.7 
+ Rural  10,032  40.0 904,520  29.4 
+ Indígen a  2,721  10.9 210,771  6.9 
+Pobreza*      
+ Extrema  5,153  20.5 438,498  14.3 
+ No extrema  5,103  20.3 559,716  18.2 
+ No pobre  14,813  59.1 2,072,299  67.5 
+Provincias/  
+Comarcas      
+ Bocas del Toro  2,493  10.0 99,204  3.2 
+ Coclé  1,619  6.5 221,237  7.2 
+ Colón  1,412 5.6 212,531  6.9 
+ Chiriquí  1,903  7.6 383,346  12.5 
+ Darién  1,583  6.3 41,779  1.4 
+ Herrera  1,473  5.9 106,983  3.5 
+ Los Santos  1,203  4.8 85,192  2.8 
+ Panamá  9,640  38.4 1,543,303  50.2 
+ Veraguas  1,553  6.2 208,998  6.8 
+ C. Guna Yala  422 1.7 30,502  1.0 
+ C. Emberá  133 0.5 8,829  0.3 
+ C. Ngäbe -Buglé  1,638  6.5 128,809  4.2 
+    *3 personas no tenían clasificación de pobreza  
+    Fuente: Encuesta de Niveles de Vida, 2008.  
+ 
+El total de casos aceptados como válidos para los análisis estadísticos fue de  25,072 
+indivi duos, con una distribución por sexo del 50.8% masculino y 49.2% femenino.  Con  13 respecto a grupos de edad,  10% correspond ió a menores de 5 años, 11.2% a escolares de 5 a 
+9 años, 17.0% al grupo de 10 a 17 años y 61.8% a mayores de 18 años.  
+ 
+En los cuadros 6  y 7 se observan la muestra de menores de 5 años y de escolares según las 
+diferentes variables estudiadas; el mayor porcentaje de la muestra expandida está concentrado 
+en el área urbana y en la provincia de Panamá. En ambos grupos de edad cerca de la mitad  
+viven en condiciones de pobreza. Para el análisis de los resultados se agruparon  las tres 
+comarcas bajo el dominio “comarcas indígenas”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  14 Cuadro 6  
+Distribución de la población seleccionada para análisis antropométricos de los menores 
+de 5 año s según sexo, edad, área, pobreza y provincia.  Panamá, 2008  
+ 
+ 
+Categorías  Muestra  
+N° Expandida  % 
+Total  2515  289053  100 
+Sexo   
+ Masculino  1324  149548  51.7 
+Femenino  1191  139505  48.3 
+Grupos de edad   
+ 0-5 meses  199 23275   8.1 
+6-11 meses  265 26379   9.1 
+12-23 meses  515 61530  21.3 
+24-35 meses  514 61303  21.2 
+36-47 meses  491 54435  18.8 
+48-59 meses  531 62131  21.5 
+Área   
+Urbana  1035  167977  58.1 
+Rural  1000  83147  28.8 
+Indígena   480 37930  13.1 
+Pobreza   
+Extrema   877 73990  25.6 
+No extrema   624 69262  24.0 
+No pobre  1011  145600  50.4 
+Provincias   
+Bocas del Toro   361            15644   5.4 
+Coclé   143            19527   6.8 
+Colón   147            23329   8.1 
+Chiriquí   180            36313  12.6 
+Darién   172 4717   1.6 
+Herrera   109 7851   2.7 
+Los Santos    66              4870   1.7 
+Panamá   830          131765  45.6 
+Veraguas   125            15629   5.4 
+Comarcas indígenas  382 29408  10.2 
+C. Kuna Yala    57 4069   1.4 
+C. Emberá   15 1007   0.3 
+C. Ngä be Buglé   310            24332   8.4 
+  Fuente: Encuesta de Niveles de  Vida, 2008  
+ 
+  15 Cuadro 7  
+Distribución de la población en edad escolar seleccionada para análisis antropométricos 
+según sexo, edad, área, pobreza y provincia.  Panamá, 2008 . 
+ 
+Categorías  Muestra  
+N° Expandida  % 
+Total  2806  323062  100 
+Sexo   
+Masculino  1437  165966  51.4 
+Femenino  1369  157096  48.6 
+Grupos de edad   
+5 503 58837  18.2 
+6 577 67035  20.7 
+7 565 66239  20.5 
+8 590 64903  20.1 
+9 571 66047  20.4 
+Área   
+Urbana  1182  184215  57.0 
+Rural  1136  100446  31.1 
+Indígena  488 38401  11.9 
+Pobreza   
+Extrema  864 71425  22.1 
+No extrema  715 80803  25.0 
+No pobre  1227  170835  52.9 
+Provincias   
+Bocas del Toro  380 16306  5.0 
+Coclé  181 24746  7.7 
+Colón  138 21426  6.6 
+Chiriquí  184 36436  11.3 
+Darién  185 5165  1.6 
+Herrera  129 9670  3.0 
+Los Santos  86 6228  1.9 
+Panamá  972 152180  47.1 
+Veraguas  159 20691  6.4 
+Comarcas indígenas  392 30215  9.3 
+C. Kuna Yala  69 5111  1.6 
+C. Emberá  21 1385  0.4 
+C. Ngäbe Buglé  302 23719  7.3 
+Fuente: Encuesta de Niveles de Vida, 2008  
+ 
+ 
+ 
+  16 En el cuadro 8 se observa la escolaridad  y ocupación del jefe de hog ar de los escolares 
+encuestados.  
+Cuadro 8  
+Categorías de educación y ocupación del jefe de hogar de la población de escolares para 
+análisis antropométricos.  Panamá, 2008 . 
+Categorías  Muestra  
+N° Expandida  % 
+Total  2806  323062  100 
+Educación     
+Ninguno  1000 87625  27.3 
+Primaria incompleta   575 70176  21.9 
+Primaria completa   451 57165  17.8 
+Secundaria incompleta   117 15495    4.8 
+Secundaria completa   158 24564    7.7 
+Superior     71 11085    3.5 
+No sabe   416 54794  17.1 
+Sin información  18   
+Ocupación     
+Empleado / Asalariado   716 100931  31.5 
+Jornalero   348 34593  10.8 
+Dueño o patrón     27  3137    1.0 
+Por su cuenta o independiente   418 52349  16.3 
+Trabajador de su propia finca  1083  104879  32.7 
+Empleado doméstico       6  1083    0.3 
+Trabajador del hogar     41  4905    1.5 
+Rentista     8  1749    0.5 
+No sabe   141 17277    5.4 
+Sin información  18   
+Fuente: Encuesta de Niveles de Vida, 2008  
+ 
+Con respecto a la muestra de los adolescentes, en los cuadros 9 y 10 se observa que fue 
+mayor en el sexo  masculino (52.5% ) y 43 % vivía en hogares pobres. También se observa que  
+48% de los jefes de hogares tenía  primaria incompleta o nunca fueron a la escuela.  
+ 
+ 
+  17 Cuadro 9  
+Distribución de la población seleccionada para análisis antropométricos de los 
+adolescentes según sexo , edad, área, pobreza y provincia.  Panamá, 2008 . 
+Categorías  Muestra  
+N° expandida  % 
+Total  4267  491587  100 
+Sexo    
+ Masculino  2250  257945  52.5 
+Femenino  2017  233642  47.5 
+Edad    
+10 años  603 69688  14.2 
+11 años  600 68407  13.9 
+12 años  604 69226  14.1 
+13 años  541 60490  12.3 
+14 años  494 57024  11.6 
+15 años  474 53857  11.0 
+16 años  480 56454  11.5 
+17 años  471 56440  11.5 
+Área    
+Urbana  1822  280623  57.1 
+Rural  1834  163434  33.2 
+Indígena  611 47529  9.7 
+Pobreza    
+Extrema  1155  98494  20.0 
+No extrema  1042  112517 22.9 
+No pobre  2070  280576  57.1 
+Provincias    
+Bocas del Toro  472 19332  3.9 
+Coclé  325 43128  8.8 
+Colón  242 35989  7.3 
+Chiriquí  305 60513  12.3 
+Darién  336 9037  1.8 
+Herrera  224 16180  3.3 
+Los Santos  169 11840  2.4 
+Panamá  1420  220684  44.9 
+Veraguas  275 36782  7.5 
+Comarcas indígenas  499 38101  7.7 
+Comarca Kuna Yala  82 5833  1.2 
+Comarca Emberá  35 2312  0.5 
+Comarca Ngä be Buglé  382 29956  6.1 
+ 
+Fuente: Encuesta de Niveles de Vida, 2008   18 Cuadro 10  
+Categorías de educación y ocupación del jefe de hogar de la pob lación de adolescentes 
+para análisis antropométricos.  Panamá, 2008 . 
+Categorías  Muestra  
+N° Expandida  % 
+Total  4267  491587  100 
+Educación     
+Ninguno  1482  132965  27.3 
+Primaria incompleta   858 100918  20.7 
+Primaria completa   753   97335  20.0 
+Secundaria i ncompleta   134   19531   4.0 
+Secundaria completa   196   30061   6.2 
+Superior     82   12726   2.6 
+No sabe   726   93794  19.2 
+Sin información  36   
+Ocupación     
+Empleado / Asalariado  1021  147432  30.3 
+Jornalero  527 54986  11.3 
+Dueño o patrón     40 5226     1.1 
+Por su cuenta o independiente   604 71432  14.7 
+Trabajador de su propia finca  1702  169515  34.8 
+Empleado doméstico       7 694.11303    0.1 
+Trabajador del hogar     84 8850    1.8 
+Rentista       7 1285    0.3 
+No sabe   239 27909     5.7 
+Sin información  36   
+Fuente: Encuesta de Niveles de Vida, 2008  
+  19 En el cuadro11 se observa que la proporción de adultos de la muestra expandida  ubicada en el 
+área urbana es de 67% y de no pobres es de 75%, mientras que en el cuadro 12 se describe la 
+muestra de adultos según  categorías de educación y ocupación del jefe del hogar.  
+ 
+Cuadro 11  
+Distribución de la población seleccionada para análisis antropométricos de los adultos 
+según sexo, edad, área, pobreza y provincia.  Panamá, 2008 . 
+     Fuente: Encuesta de Niveles de Vida, 2008  Categorías  Muestra  
+N° expandida  % 
+Total 15484  1967011  100 
+Sexo   
+Masculino  7723  967076  49.2 
+Femenino  7761  999934  50.8 
+Grupos de edad   
+18-29 4386  564974  28.7 
+30-39 3338  437623  22.2 
+40-49 3006  375238  19.1 
+50-59 2078  261088  13.3 
+60-64 842 102690  5.2 
+65-74 1136  136805  7.0 
+75+ 698 88593  4.5 
+Área   
+Urbana  8280  1322607  67.2 
+Rural  6062  557493  28.3 
+Indígena  1142  86911  4.4 
+Pobreza   
+Extrema  2257  194589  9.9 
+No extrema  2722  297134  15.1 
+No pobre  10505  1475288  75.0 
+Provincias   
+Bocas del Toro  1280  47922  2.4 
+Coclé  970 133836  6.8 
+Colón  885 131787  6.7 
+Chiriquí  1234  250084  12.7 
+Darién  890 22860  1.2 
+Herrera  1011  73282  3.7 
+Los Santos  882 62254  3.2 
+Panamá  6418  1038674  52.8 
+Veraguas  994 135896  6.9 
+Comarcas indígenas  920 70216  3.6 
+Kuna Yala  214 15489  0.8 
+Comarca Emberá  62 4125  0.2 
+Comarca  Ngäbe Buglé  644 50802  2.6  20  
+Cuadro 12  
+Categorías de educación y ocupación del jefe de hogar de la población de adultos para 
+análisis antropométricos. Panamá, 2008 . 
+ 
+Categorías  Muestra  
+N° Expandida  % 
+Total  15484  1967011  100 
+Educación     
+Ninguno  4564  462061  23.8 
+Primaria incompleta  3087  388686  20.0 
+Primaria completa  2847  382829  19.7 
+Secundaria incompleta  612 90035  4.6 
+Secundaria completa  1056  177496  9.2 
+Superior  516 89897  4.6 
+No sabe  2600  348519  18.0 
+Sin información  202   
+Ocupación     
+Empleado / Asalariado  4341  652918  33.7 
+Jornalero  1898  205889  10.6 
+Dueño o patrón  258 45365  2.3 
+Por su cuenta o 
+independiente  2391  317000  16.3 
+Trabajador de su propia finca  5281  579147  29.9 
+Empleado doméstico  16 1764 0.1 
+Trabajador del hogar  278 35110  1.8 
+Rentista  42 7456  0.4 
+No sabe  777 94873  4.9 
+Sin información  202   
+Fuente: Encuesta de Niveles de Vida, 2008  
+  21 COMPONENTE ALIMENTARIO  
+ 
+Los compone ntes del consumo total fueron: a limentos comprados y no comprado s  y otros . Estos 
+se agruparon en consumo alimenticio  (comprado y no co mprado) y consumo no alimenticio, no 
+objeto de este estudio.  
+ 
+El grupo de consumo alimentario  tuvo como metodología captar cualquier producto o alimento 
+consumido por los miembros del h ogar, independientemente del origen.   En el grupo de alimentos 
+comprados y no comprados , se trabajó con cantidades y precios de todos los alimentos obtenidos 
+por el hogar en los últimos 15 días o el mes anterior a la entrevista  ya sea que fueran comprados  
+o adquiridos sin tener que comprarlos (producidos por el hogar, auto  suministro, donados o 
+regalados),  para el cual se realiza el análisis en el presente trabajo. Se llevaron procesos 
+permanentes de supervisión, control, monitoreo y seguimiento en todas l as etapas de recolección .  22 3. SITUACIÓN NUTRICIONAL  
+ 
+4.1. PRE ESCOLARES  
+ 
+4.1.1. Estado nutricional de niños y niñas menores de 5 años  
+ 
+La muestra final para menores de 5 años fue de 2,515 niños y niñas. Los promedios d e peso y 
+talla  en los niños fueron may ores que en las niñas. Los  valores del puntaje Z del índice 
+peso/edad  presentaron una ligera diferencia negativa en relación al promedio del patrón de 
+referencia de OMS y se incrementa esta diferencia negativa  en el grupo de 36 a 59 meses. Los  
+valores del puntaje Z del índice talla/edad estuvieron más alejados de la mediana en todos los 
+grupos, llegando a -1.0 DE  en el grupo de 36 a 59 meses (cuadro 13).  
+ 
+Cuadro 13  
+Promedio s de peso , talla y del valor Z de los índices peso/edad y talla/edad en menores 
+de 5 años según sexo y  grupos de  edad.  Panamá, 2008 . 
+ 
+Fuente: En cuesta de Niveles de Vida, 2008.   
+ 
+  
+ Población  Peso  Talla  
+(n)  Peso (kg)  Valor Z de 
+peso/edad  Talla (cm)  Valor Z de 
+talla/edad  
+Muestra   X¯  EE X¯  EE X¯  EE X¯  EE 
+Total  2,515   12.7 0.09 - 0.1 0.03 86.6 0.33 - 0.9 0.03 
+Sexo            
+Masculino  1,324   12.9 0.12 - 0.1 0.04 87.2 0.47 - 0.9 0.05 
+Femenino  1,191   12.4 0.13 - 0.1 0.04 85.9 0.47 - 0.8 0.05 
+Grupos de edad           
+0 - 5 meses    199  6.2 0.12        0.0         0.11 59.9    0.43 -0.4 0.11 
+6 -35 meses  1,294   11.2 0.08 -0.1                               0.04 81.0 0.27 -0.9 0.05 
+36 - 59 meses  1,022   15.8 0.09 -0.3            0.04 98.9 0.25 -1.0            0.04  23 Al comparar el valor del  puntaje Z del índice peso/edad en los menores de 5 años en el cuadro 
+14, llama la atención la diferencia negativa en el área indígena y de pobreza extrema, en 
+relación al promedio nacional.  
+ 
+Cuadro 14 
+Promedio de peso , talla y del valor Z de  los índice s peso/edad  y talla/edad  en menores de 
+5 años según área  y nivel de pobreza. Panamá, 2008 . 
+ 
+Fuente: En cuesta de Niveles de Vida,  2008.  
+ 
+  
+ Población  Peso  Talla  
+(n)  Peso (kg)  Valor Z de 
+peso/edad  Talla (cm)  Valor Z de 
+talla/edad  
+Muestra   X¯  EE X¯  EE X¯  EE X¯  EE 
+   Total  2,515   12.7 0.09 - 0.1 0.03 86.6 0.33 - 0.9 0.03 
+Área            
+Urbana  1,035   12.9 0.13   0.0 0.04 87.7 0.48 - 0.5 0.04 
+Rural  1,000   12.7 0.15 - 0.2 0.04 86.7 0.55 - 0.9 0.05 
+Indígena                            480  11.7 0.15 - 0.8 0.05 81.1 0.55 - 2.4 0.07 
+Pobreza            
+No pobre  1,011   13.3 0.14 0.13 0.04 88.7 0.51 - 0.4 0.04 
+No extrema  624  12.4 0.18 - 0.2 0.05 85.8 0.68 - 0.8 0.06 
+Extrema  877  11.9 0.13 - 0.6 0.04 83.1 0.51 - 1.8 0.06  24 El índice peso para la edad , como indicador de desnutrición global , reflejó que 3.9% de los 
+niños presentó bajo peso moderado y severo . Se observa que  la  prevalencia de este índice 
+para el área indígena fue de 12.2% y en pobreza extrema 9.3%, má s de 3 veces que la 
+nacional (cuadro 15).  
+ 
+Cuadro  15 
+Estado n utricional según el índice peso para edad en menores de 5 años,  según edad , 
+sexo , área y pobreza . Panamá, 2008 . 
+ 
+  
+  
+  
+ Población  Estado nutricional según peso/edad  
+Muestra  Bajo Peso  
+moderado y  severo  Normal  
+n % % 
+Total  2,515   3.9 96.1 
+Edad     
+0 - 5 meses  199 5.6 94.4 
+6 -35 meses  1,294  3.1 96.9 
+36 - 59 meses  1,022  4.7 95.3 
+Sexo     
+Masculino  1,324  2.8 97.2 
+Femenino  1,191  5.2 94.8 
+Área     
+Urbana  1,035  2.5 97.5 
+Rural  1,000  3.1 96.9 
+Indígena  480 12.2 87.8 
+Pobreza     
+No pobre  1,011  1.7 98.3 
+No extrema  624 2.8 97.2 
+Extrema  877 9.3 90.7 
+Fuente: Encues ta de Niveles de Vida, 2008 .  
+  25 En el cuadro 16 se describe la prevalencia de bajo peso moderado y severo en menores de 5 
+años , con el índice peso/edad,  según provincias  y comarcas. La prevalencia de bajo peso 
+moderado y severo de las  Comarcas indígenas triplica el valor de la nacional . 
+ 
+Cuadro 16 
+Estado nutricional según el índice peso/edad en niños menores de 5 años, según 
+provincias y comarcas.  Panamá, 2008 . 
+ 
+Fuente:  Encuesta de Niveles de Vida, 2008.  
+   
+  
+ Provincias/Comarcas  
+ Población  Estado nutricional según peso/edad  
+Muestra  Bajo peso 
+(severo y 
+moderado)  Bajo Peso 
+severo  Bajo Peso 
+moderado  Normal  
+ 
+n % % % % 
+Total, País  2,515  3.9 0.8 3.1 96.1 
+Bocas del Toro   361 4.1 0.4 3.7 95.9 
+Coclé   143 2.8 0.0 2.8 97.2 
+Colón   147 2.3 0.9 1.4 97.6 
+Chiriquí   180 2.7 0.0 2.7 97.3 
+Darién   172 5.4 2.4 3.1 94.6 
+ Herrera   109 2.8 1.1 1.7 97.2 
+Los Santos     66 0.0 0.0 0.0 100 
+Panamá  830 3.0 0.9 2.1 97.0 
+Veraguas  125 0.6 0.6 0.0 99.4 
+Comarcas indígenas  382 14.3 2.2 12.1 85.7  26 La desnutrición crónica en menores de 5 años,  a nivel nacional,  medida con el índice 
+Talla/edad  fue de 19.1%, desglosándose en 11.9% en baja talla moderada y 7 .2% severa.  Al 
+desagregar por grupos de edad se observa la mayor prevalencia en los niños de 6 a 35 meses, 
+periodo de mayor vulnerabilidad  a la talla baja (cuadro 17).  
+ 
+Cuadro 17  
+Prevalencia de desnutrición crónica según grupos de edad, en menores de 5 añ os.  
+Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ Población  Prevalencia de 
+desnutrición 
+crónica  Estado nutricional según talla /edad  
+Muestra  Baja  talla 
+moderada y 
+severa  Baja  talla 
+severa   
+Baja talla         
+moderada  Normal  
+n % % % % 
+Total, País  2,515  19.1 7.2 11.9 80.9 
+Grupo s de Edad       
+0 - 5 meses  199 9.8 4.2 5.6 90.2 
+6 -35 meses  1,294  20.1 8.2 11.9 79.9 
+36 - 59 meses  1,022  19.5 6.4 13.1 80.5 
+Fuente:  Encue sta de Niveles de Vida,  2008 .  
+ 
+En el cuadro 18 se observa que la prevalencia de desnutrición crónica en menores de  5 años 
+medida con el índice talla/edad  fue similar en ambos sexos.  
+ 
+Cuadro 18  
+Prevalencia de desnutrición crónica en menores de 5 años según sexo. Panamá ,  2008 . 
+ 
+  
+  
+  
+ Población  Estado nutricional según talla/edad  
+Muestra  Baja talla severa  Baja talla  
+moderada  Normal  
+n % % % 
+Total  2,515  7.2 11.9 80.9 
+Sexo      
+Masculino  1,324  7.2 12.3 80.5 
+Femenino  1,191  7.2 11.5 81.3 
+Fuente: Encuesta de Niveles de vida, 2008.  
+  27 Las Graficas  1 y 2 muestran la distribución de las puntuaciones “z” según talla para  edad, en 
+contraste con la referencia de la OMS ; se observa  un gran desplazamiento de las puntuaciones 
+“z”  hacia la izquierda  relacionada con la media de las puntuaciones “Z”; que indica que existe 
+un  crecimiento inadecuado  en relación a talla /edad par a ambos sexos.  
+ 
+ 
+Gráfica 1  
+Puntuación Z según relación talla/edad para la edad en niños menores de 5 años. 
+Panamá, 2008  
+ 
+Fuente: Encuesta de Niveles de vida, 2008.  
+   . 
+ 
+ 
+ 
+ 
+Gráfica 2 
+Puntuación Z según relación talla/edad y sexo en niños menores de 5 año s. Panamá, 
+2008. 
+ 
+Fuente: Encuesta de Niveles de vida, 2008.  
+  28 Cuando se analiza la situación de desnutrición  crónica según talla para ed ad a nivel de área 
+geográfica (c uadro  19), se observ a que  la mayor prevalencia de desnutrición crónica se 
+present ó en las áreas indígenas con 62.0% ; este valor es tres veces mayor que la prevalencia 
+nacional (19.1%),  cuatro (4) veces  mayor que  la prevalencia de las áreas rurales (17.3%)  y seis 
+(6) veces la prevalencia de las área urbanas  (10.5%) .  En relación a  baja ta lla para la edad , 
+según niveles de pobreza , la prevalencia de desnutrición en los niños en extrema pobreza es 
+dos veces la prevalencia nacional,  y seis veces la prevalencia de los no pobres .  
+ 
+Cuadro 19  
+Prevalencia de desnutrición crónica en menores de 5 años según área y pobreza. 
+Panamá,  2008.  
+Fuente: Encuesta de Niveles de vida, 2008.  
+  Muestra  
+n Baja talla 
+moderada y 
+severa  
+% Baja talla severa  
+% Baja talla 
+moderada  
+% Normal  
+% 
+Total  2,515  19.1 7.2 11.9 80.9 
+Área       
+Urbana  1,035  10.5 2.6 7.9 89.5 
+Rural  1,000  17.3 4.4 12.5 83.1 
+Indígena  480 62.0 33.6 28.4 38.0 
+Pobreza       
+No pobre  1,011  6.8 1.7 5.1 93.2 
+No extrema  624 16.1 4.3 11.9 83.8 
+Extrema  877 46.2 20.5 25.2 54.3  29 La desnutrición crónica en menores de 5 años según provincia se puede obs ervar en el cuadro 
+20. L as comarcas indígenas  son las que presentan mayor prevalencia  (63.9%)  seguida por las 
+provincias de Bocas del Toro,  Darién  y Coclé, todas con valores superiores al promedio 
+nacional.  Es importante señalar que la representatividad mu estral  de “Comarcas indígenas” se 
+refiere a  los menores de 5 años indígenas que viven en las comarcas  de Kuna Yala, Emberá y 
+Ngäbe Buglé  exclusivamente .  
+Cuadro 20   
+Prevalencia de desnutrición crónica  en menores de 5 años, por provincias  y comarcas , 
+según el índice  Talla/edad. Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuente: Encuesta de Niveles de vida, 2008.  
+ 
+ 
+De acuerdo con el Índice de Masa Corporal para edad podemos observar en  el cuadro  21 que 
+el estado nutricional de emaciado moderado y severo de los menores de 5 años a nivel 
+nacional es bajo (menor de 1.6%), sin diferencias entre sexos. En los niños de 0 a 5 meses se 
+observó un valor ligeramente mayor, lo cual puede estar inf luenciado por el bajo peso al nacer. 
+Llama la atención las prevalencias de sobrepeso y obesidad a nivel nacional que son 
+superiores al 11% en ambos sexos y a partir de los 6 meses .   
+  
+  
+Provincias/  
+Comarcas  Población  Prevalencia 
+de 
+desnutrición 
+crónica  Estado nutricional según 
+Talla/edad  
+Muestra  Baja talla  
+(severa y 
+moderada)  Baja talla 
+severa  Baja talla 
+moderada  Normal  
+ 
+n % % % % 
+Total  2,515 19.1 7.2 11.9 80.9 
+Bocas del Toro   361 38.2 13.8 24.4 61.8 
+Coclé   143 21.7 2.9 18.8 78.3 
+Colón   147 8.4 1.4 7.0 92.6 
+Chiriquí   180 8.7 1.5 7.1 91.3 
+Darién   172 21.8 6.4 15.4 78.2 
+ Herrera   109 10.0 1.7 8.2 90.0 
+Los Santos   66 9.0 2,2 6.8 91.0 
+Panamá  830 12.6 3.9 8.7 87.4 
+Veraguas  125 13.4 2.2 11.3 86.5 
+Comarcas 
+indígenas  382 63.9 37.8 26.1 36.1  30 Cuadro 21  
+Estad o nutricional según el índice de masa corporal para la edad  en menores de 5 años 
+por sexo  y grupo de edad . Panamá, 2008.  
+Fuente: Encuesta de Niveles de vida, 2008.  
+ 
+ 
+El comport amiento del estado nutricional emaciado moderado y severo según Índice  de Masa 
+Corporal /edad  fue similar al nacional según áreas y nivel de pobreza , en los menores de 5 años 
+(cuadro 22) . En relación al exceso de peso (sobrepeso y obesidad) , los menores de 5 años de 
+áreas indígenas y en pobre za extrema presentaron las prevalencias más elevadas , 
+probablemente influenciadas por la baja talla.   
+ 
+Cuadro 22  
+Estado nutricional según Índice de masa corporal para la edad  en menores de 5 años 
+según área y pobreza. P anamá,  2008.  
+Fuente: Encuesta de Niveles de vida, 2008.  
+  
+ Población  Estado nutricional según IMC/edad  
+Muestra  Emaciado  
+severo  Emaciado  
+moderado  Normal  Sobrepeso  Obesidad  
+n % % % % % 
+Total  2,515  0.5 1.1 87.1 8.5 2.8 
+Sexo        
+Masculino  1,324  0.5 1.1 87.7 7.8 2.9 
+Femenino  1,191  0.4 1.1 86.5 9.3 2.7 
+Grupo s de edad        
+0 - 5 meses  199 1.5 1.4 88.5 7.1 1.5 
+6 -35 meses  1,294  0.3 1.3 86.0 8.9 3.5 
+36 - 59 meses  1,022  0.4 0.9 88.3 8.3 2.1 
+ 
+ Población 
+(n) Estado nutricional según IMC/edad  (%) 
+Muestra  Emaciado  
+Severo  Emaciado  
+moderado  Normal  Sobrepeso  Obesidad  
+   Total  2,515  0.5 1.1 87.1 8.5 2.8 
+Área        
+Urbana  1,035  0.6 1.3 87.1 8.5 2.5 
+Rural  1,000  0.4 0.7 91.5 5.2 2.2 
+Indígena  480 0.1 1.0 77.8 15.9 5.2 
+Pobreza        
+No pobre  1,011  0.2 1.7 86.3 9.3 2.5 
+No extrema  624 0.5 0.6 91.5 4.6 2.8 
+Extrema  877 0.8 0.6 84.7 10.6 3.3  31  
+Las prevalencias de emaciado severo en menores d e 5 años fue similar a la nacional en todas 
+las provincias y comarcas, sin embargo las prevalencias de emaciado moderado fueron mucho 
+mas elevadas que el promedio nacional en las provincias de Darién  (4.4%) y Colón (2.7%) . El 
+sobrepeso de los menores de 5 años a nivel de provincias es mayor en las Comarcas 
+Indígenas (mas que el doble) y Bocas del Toro; la obesidad también presentó mayores 
+prevalencias en las mismas provincias.  (cuadro 23)  
+ 
+ 
+ 
+Cuadro 23  
+Estado nutricional según Índice de masa corporal para la  edad en menores de 5 años 
+según provincia s y comarcas . Panamá,  2008 . 
+Fuente: Encuesta de Niveles de Vida, 2008.    
+ Provincias/  
+Comarcas  
+ Población  Estado nutricional según IMC/edad  
+Muestra  Emaciado  
+Severo  Emaciado  
+moderado  Normal  Sobrepeso  Obesidad  
+n % % % % % 
+Total  2,515  0.5 1.1 87.1 8.5 2.8 
+Bocas del 
+Toro   361 0.0 0.1 86.3 10.3 3.3 
+Coclé   143 0.0 0.0 93.9 5.0 1.1 
+Colón   147 0.5 2.7 88.5 6.7 1.6 
+Chiriquí   180 0.7 0.0 90.1 6.2 3.0 
+Darién   172 0.0 4.4 90.7 4.5 0.4 
+ Herrera   109 0.0 0.0 92.5 6.4 1.1 
+Los Santos  66 0.0 
+ 0.0 92.5 6.4 1.1 
+Panamá  830 0.6 1.5 86.4 8.7 2.8 
+Veraguas  125 0.6 0.7 93.8 4.7 0.2 
+Comarcas 
+indígenas  382 0.2 0.9 75.4 17.7 5.8  32 4.1.2. Cambios en el estado nutricional de la población de 0 – 59 meses 
+comparando los result ados  de las ENV de los años 1997, 2003 y 2008.  
+ 
+Tal como se explica en la metodologí a, para evaluar los cambios a través del tiempo 
+fue necesario procesar las bases de datos de los estudios anteriores utilizando los 
+nuevos estándares de la OMS. El cuadro 24 muestra las poblaciones  de menores de 
+cinco años que fueron  evaluadas en las tres E ncuestas de Niveles de Vida de los años  
+1997, 2003 y 2008 por sexo, edad, áreas geográficas y niveles de pobreza.  
+ 
+Cuadro 24  
+Comparación de muestra s de menores  de 5 años  de las encuestas de 1997 - 2003 - 2008  
+según edad, sexo, área y pobreza . Panamá 2008 . 
+ 
+  
+  
+  
+ 1997  2003  2008  
+N° % N° % N° % 
+      
+Total  2249  100 2692  100 2515  100 
+Edad        
+0 - 5 meses  228 10.1 246 9.1 199 7.9 
+6 -35 meses  1155  51.3 1296  48.1 1,294  51.4 
+36 - 59 meses  866 38.5 1150  42.7 1,022  40.6 
+Sexo        
+Masculino  1143  50.8 1372  51.0 1,324  52.6 
+Femenino  1106  49.2 1320  49.0 1,191  47.4 
+Área        
+Urbana  857 38.1 1230  44.7 1.035  41.2 
+Rural  972 43.2 1023  38.0 1,000  39.8 
+Indígena  420 18.7 466 17.3 480 19.1 
+Pobreza        
+No pobre  884 39.3 1064  39.5 1,011  40.2 
+No extrema  418 23.0 657 24.4 624 24.8 
+Extrema  847 37.7 971 36.1 877 34.9 
+Fuente: Encuesta de Niveles de vida, 1997, 2003 y 2008.  
+ 
+ 
+  33 En el cuadro  25 se puede observar que el promedio d e peso y talla a nivel nacional según sexo 
+y edad, de los  años 2003 y 2008 , en menores de 5 años , se ha mantenido; lo mismo ocurre 
+para el promedio del valor Z del índice de peso/edad y talla/edad, lo que evidencia que no hubo 
+deterioro  en estos grupos de población . 
+ 
+Cuadro 25  
+Comparación de los promedio de peso , talla y valor Z de los índices de peso/edad  y 
+talla/edad , en menores de 5 años , según sexo y grupos de edad , 2003 y 2008 .  Panamá , 
+2008 . 
+ 
+Fuente: Encuesta s de Niveles de Vida, 2003 y  2008 . 
+  
+ Población (n)  Peso/Edad  
+ Peso (kg)  Valor Z de 
+peso/ed ad Talla (cm)  Valor Z de 
+talla/edad  
+2003  Muestra  X¯  EE X¯  EE X¯  EE X¯  EE 
+Total  2,893  12.5 0.09 -0.2 0.02 84.5 0.34 -1.0 0.03 
+Sexo           
+Masculino  1,491  12.7 0.13 -0.2 0.04 84.6 0.47 -1.1 0.05 
+Femenino  1,402  12.3 0.13 -0.2 0.03 84.4 0.47 -0.9 0.05 
+Grupos de 
+edad           
+0 - 5 meses  303 6.2 0.19 -0.1 0.09 58.6 0.43 -0.5 0.12 
+6 -35 meses  1396  11.2 0.09 -0.1 0.04 79.4 0.29 -1.0 0.05 
+36 - 59 meses  1194  15.8 0.10 -0.3 0.04 97.6 0.28 -1.1 0.05 
+2008           
+Total  2,515  12.7 0.09 - 0.1 0.03 86.6 0.33 - 0.9 0.03 
+Sexo           
+Masculino  1,324  12.9 0.12 - 0.1 0.04 87.2 0.47 - 0.9 0.05 
+Femenino  1,191  12.4 0.13 - 0.1 0.04 85.9 0.47 - 0.8 0.05 
+Grupos de 
+edad           
+0 - 5 meses    199 6.2 0.12 0.0 0.11 59.9 0.43 -0.4 0.11 
+6 -35 meses  1,294  11.2 0.08 -0.1 0.04 81.0 0.27 -0.9 0.05 
+36 - 59 meses  1,022  15.8 0.09 -0.3 0.04 98.9 0.25 -1.0 0.04  34 En el cuadro  26 se puede observar que  la pr evalencia de bajo pes o moderado y 
+severo , según el índice peso/edad , en los menores de 5 años ha disminuido 
+ligeramente de 5.6% en 1997  a 3.9 % en 2008. En niños del área urbana, la 
+prevalencia de bajo peso tuvo un comportamiento oscilante, mientras que en las áreas 
+rural e in dígena disminuyeron; no obstante, persisten altas cifras en el área indígena  
+(12.4%), siendo tres veces mayor que el promedio nacional para el año 2008. Según 
+niveles de pobreza, los niños en  pobreza extrema tuvieron una disminución de 13. 7% 
+en 1997  a  9 .4% en 2008 (4.3  puntos porcentuales en 11 años).  
+ 
+Cuadro 26  
+Comparación de la prevalencia de bajo peso en menores de 5 años basado en el índice 
+peso/edad, según área y niveles de pobreza , 1997 -2003 -2008. Panamá . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuente:  Encuesta de Niveles de Vida. 200 8. 
+ 
+En relación a la desnutrición crónica, a nivel naciona l los valores han oscilado de 16.7% a 
+19.1%;  se puede observar  que en el área indígena y en los pobres extremos hubo un aumento 
+sostenido en los últimos 11 años  (cuadro 27) . Seis de cada 10  niños en el área indígena 
+presenta ron baja talla moderada y sever a, lo cual es el triple de lo encontrado a nivel nacional.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 1997  2003  2008  
+Muestra  
+(n) Bajo P eso 
+(moderado  
+y severo )  
+% Muestra  
+(n) Bajo Peso 
+(moderado  
+y severo )  
+% Muestra  
+(n) Bajo Peso 
+(moderado  
+y severo )  
+% 
+Total  2,249  5.6 2,692  5.1 2,515  3.9 
+Área        
+Urbana  857 1.8 1,203  3.1 1,035  2.4 
+Rural  972 6.1 1,023  4.1 1,000  3.2 
+Indígena  420 18.8 466 16.5 480 12.4 
+Pobreza        
+No pobre  884 1.6 1,064  1.7 1,011  1.7 
+No extrema  418 3.3 657 3.2 624 2.8 
+Extrema  847 13.7 971 12.4 877 9.4  35 Cuadro 27  
+Comparación de la prevalencia de desnutrición crónica en menores de 5 años de 
+acuerdo al  índice talla/edad , según área y niveles de pobreza , 1997 -2003 -2008. Panamá . 
+ 
+Fuente:  Encuesta de Niveles de Vida. 200 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En el cuadro 28  se observa un leve deterioro en la desnutrición aguda  según IMC/edad a nivel 
+nacional,  el cual ocurre en la población de menores de 5 años  del área urbana y no pobre, 
+mientras que se observa una mejoría en niños del área indígena y de pobreza extrema. Con 
+relación al exceso de peso, se observa un incremento en el sobrepeso a nivel nacional, más 
+evidenciado en el área indígena la cual  casi dobla la prevalencia de l nivel nacional; en cuanto a 
+la obesidad hubo una leve disminución entre 2003 y 2008 , reflejada en t odas las áreas y 
+niveles de pobreza, pero en el área indígena sigue siendo más elev ada que la prevalencia 
+nacional.  
+ 
+ 
+  
+  
+  
+ 1997  2003 2008  
+Muestra  
+n Baja  Talla  
+(moderad a y 
+severa ) 
+% Muestra  
+n Baja  Talla  
+(moderad a y 
+severa ) 
+% Muestra  
+n Baja  Talla  
+(moderad a y 
+severa ) 
+% 
+Total  2,249  16.7 2,692  22.2 2,515  19.1 
+Área        
+Urbana  857 6.2 1,203  15.7 1,035  10.5 
+Rural  972 18.1 1,023  19.1 1,000  17.3 
+Indígena  420 53.9 466 59.6 480 62.0 
+Pobreza        
+No pobre  884 5.0 1,064  11.0 1,011  6.8 
+No extrema  418 12.5 657 19.5 624 16.1 
+Extrema  847 38.4 971 43.3 877 46.2  36  
+ 
+Cuadro 28  
+Comparación de la prevalencia del estado nutricional en menores de 5 años , de acuerdo 
+al índice IMC/edad , según área y nivele s de pobreza , años 2003 y 2008 . Panamá  
+ 
+Fuente:  Encuesta de Niveles de Vida. 200 8.  
+  
+  
+ Población  Estado nutricional según IMC/edad  
+Muestra  (n) Emaciado  
+Severo  
+<-3DE  
+% Emaciado  
+Moderado  
+De -3DE a  <-2DE 
+% Normal  
+De -2DE a 
++2DE  
+% Sobrepeso  
+De > +2DE a 
+3DE 
+ % Obesidad  
+>+ 3DE 
+% 
+2003  2008  2003  200
+8 2003  2008  2003  2008  2003  2008  2003  2008  
+Total  2,962 2,515  0.4 0.5 1.0 1.1 86.1 87.1 6.6 8.5 5.9 2.8 
+Área              
+Urbana  1,220  1,035  0.4 0.6 1.0 1.3 86.4 87.1 6.4 8.5 5.8 2.5 
+Rural  1,050  1,000  0.4 0.4 0.5 0.7 89.3 91.5 4.8 5.2 5.0 2.2 
+Indígena  492 480 0.2 0.1 2.0 1.0 77.2 77.8 12.1 15.9 8.5 5.2 
+Pobreza              
+No pobre  1,080  1,011  0.1 0.2 0.5 1.7 87.1 86.3 6.5 9.3 5.8 2.5 
+No extrema  677 624 0.5 0.5 1.3 0.6 87.0 91.5 4.6 4.6 6.6 2.8 
+Extrema  1005  877 0.7 0.8 1.4 0.6 84.0 84.7 8.5 10.6 5.4 3.3  37 4.2. ESCOLARES  
+ 
+4.2.1.  Estado nutricional de niños y niñas de 5 a 9 años  
+ 
+ 
+La  muestra de niños de 5 a 9 años fue de 2, 806, con 51.2% del sexo masculino . Los  
+promedios de talla tienen el mismo valor en ambos sexos, n o obstante los varones presentaron 
+mayor deterioro , como se puede observar en el cuadro 29. Al analizar los resultados por  área 
+de residencia y por nivel de pobreza , los escolares  indígenas y los  de pobreza extrema 
+presentaron los promedios de talla más ba jos en relación al promedio nacional. En relación a 
+los valores promedios de Z de la Talla/edad, los escolares de las áreas indígenas presentaron 
+un valor de -2.40, lo que refleja la magnitud de  las deficiencias de salud y nutrición a que 
+estuvieron expues tos en los dos primeros años de vida .  
+ 
+ 
+Cuadro 29 
+Promedio de talla y del valor Z de talla/edad en niños de 5 a 9 años según sexo, área y  
+línea de pobreza.  Panamá, 2008 . 
+ 
+ Población (n)  Talla (cm)  Valor Z de talla/edad  
+Muestra  X¯  EE X¯  EE 
+  Total  2,806   120.2  0.25 -0.76 0.03 
+Sexo       
+Masculino  1,437  120.1  0.34 -0.81 0.04 
+Femenino  1,369  120.2  0.36 -0.70 0.04 
+Área       
+Urbana  1,182 122.3  0.35 -0.37 0.04 
+Rural  1,136 119.7  0.38 -0.83 0.04 
+Indígena     488 111.0  0.44 -2.40 0.04 
+Pobreza       
+No pobre  1,227 122.8  0.36 -0.28 0.04 
+No extrema     715 119.5  0.48 -0.84 0.05 
+Extrema     864 114.6  0.42 -1.80 0.05 
+* Según patrón de OMS 2007  
+Fuente:  Encuesta de Niveles de Vida, 2008 . 
+  
+ 
+La prevalencia de baja talla moderada y severa en escolares fue de 16.2% siendo mayor en el 
+sexo masculino como se puede observar en el cuadro 30.  Tanto la baja talla moderada como la 
+baja talla severa  tienen mayor prevalencia en los varones.  
+ 
+ 
+ 
+  38  
+ 
+ 
+Cuadro  30 
+Estado nutricional según el índice talla/edad  en niños y niñas de 5 a 9 años, según sexo. 
+Panamá , 2008 . 
+  
+  
+  Población  Baja talla  
+(moderada y 
+severa)  Estado nutricional segú n talla/edad  
+  
+Muestra  Baja talla 
+severa  Baja talla 
+moderada   
+Normal  
+n % % % % 
+   Total, País  2,806  16.2 4.9 11.2 83.8 
+Sexo         
+Masculino  1,437  18.0 5.7 12.4 81.8 
+Femenino  1,369  14.1 4.1 10.0 85.9 
+* Según patrón de OMS 2007  
+Fuente: Encues ta de Niveles de Vida, 2008 .  
+ 
+ 
+En la gráfica 3  se observa que la prevalencia de baja talla moderada y severa en los escolares 
+del área indígena es casi cuatro veces más alta que el promedio nacional.  
+ 
+ 
+Gráfica 3 
+Prevalencia de baja  talla moderada y severa en niños y niñas de 5 a 9 años, según área.  
+Panamá , 2008 . 
+16.2
+7.714.162.3
+010203040506070
+%Total
+Urbana
+Rural
+Indígena
+ 
+Fuente:  Encues ta de Niveles de Vida, 2008. 
+  39 La prevalencia de baja talla moderad a y sever a afectó siete veces más niños y niñas viviendo 
+en pobreza extrema  que a los no pobres ( Gráfica 4 ).   
+ 
+Gráfica  4 
+Prevalencia de baja talla moderada y severa en niños y niñas de 5 a 9 años, segú n nivel 
+de pobreza. Panamá , 2008 . 
+16.2
+6.114.342.2
+051015202530354045
+%Total
+No pobre
+No extremo
+Extremo
+ 
+Fuente:  Encuesta de Niveles de Vida, 2008 .  
+ 
+ 
+La prevalencia de baja talla moderada y severa en escolares, medida con el índice talla/edad, 
+según provincias, fue mayor en las comarcas indígenas y en las  provincias de Bocas del Toro y 
+Darién , como s e puede observar en la gráfica 5 . 
+ 
+Gráfica  5 
+Prevalencia de baja  talla moderada y severa  en niños y niñas de 5 a 9 años, según provincia. 
+Panamá, 2008 .  
+39
+9.5 8.2 9.423.8
+5.1 1.99.117.163.4
+16.2
+020406080
+Bocas del Toro Coclé Colón Chiriquí
+Darién Herrera Los Santos Panamà
+Veraguas Comarcas indígenas Total
+ 
+    Fuente:  Encues ta de Ni veles de Vida,  2008 .  
+ 
+  40 La educación del jefe de familia influy ó en la talla alcanzada por los escolares de 5 a  9 años, lo 
+que se vio reflejado  en los resultados obtenidos con el índice talla/edad.  La mayor prevalencia 
+de baja talla moderada y severa (32.1%) estuvo entre los escolares cuyos padres no habían 
+logrado ninguna educación . (Gráfica 6 ). 
+ 
+ 
+Gráfica 6  
+Prevalencia de   baja talla moderada y severa en niños y niñas de 5 a 9 años, según educación d el 
+jefe de hogar . Panamá , 2008 . 
+ 
+25.3 23.8 25.1 25.827.330.3 31.5
+010203040
+%
+Total Ninguna
+Primaria incompleta Primaria completa
+Secundaria incompleta Secundaria completa
+Superior  
+Fuente:  Encues ta de Niveles de Vida, 200 8. 
+ 
+  41 Estado nutricional de niños de 5 a 9 años según el índice de masa corporal  
+ 
+Al analizar la situación nutricional del grup o de escolares entre 5 y 9 años , según el índice de 
+IMC/edad, se encontró que  la prevalencia de bajo peso en el país (2.2%) estaba dentro de los 
+límites aceptables a nivel internacional, mientras que el sobrepeso afectaba a más de 17.5 % de 
+los escolares  y la obesidad era evidente en el 9 .4%. Es importante resaltar la magnitud del 
+exceso de peso  corporal (sobrepeso y obesidad) que afecta a casi tres escolare s de cada diez, 
+en ambos sexos  (Cuadro 31).  
+ 
+Cuadro  31  
+Estado nutricional, según el IMC/edad de niños y niñas de 5 a 9 años según  sexo . 
+Panamá , 2008 . 
+ 
+ Población 
+(n) Estado nutric ional según IMC/edad  (%)   
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  Sobrepeso 
+y Obesidad  
+Total  2,806  2.2 70.9 17.5 9.4 26.9 
+Sexo        
+Masculino  1,437  2.3 70.4 17.1 10.2 27.3 
+Femenino  1,369  2.0 71.4 17.9 8.6 26.5 
+* Según patrón de OMS 2007  
+Fuente : Encues ta de Niveles de Vida, 2008 .  
+ 
+ 
+En el cuadro  32 se observa  que el bajo peso según IMC/edad en el área indígena  (1.5%) y en 
+los pobres extremos (1.4%) son  inferior es al promedio nacional. L as mayor es proporci ones de  
+sobrepeso estuv ieron  entre los e scolares del área  indígena ( 32.6%) y de pobreza extrema 
+(25.4%) , situación que está influenciada por la talla baja que present ó la mayoría de estos 
+escolares . Por otro lado, la obesidad fue mayor entre los escolares del área urbana  (11.6%) y 
+no pobre (14.5 %), cifras dos veces mayor que las máximas esperadas de obesidad  a nivel 
+mundial  (5%).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  42  
+ 
+Cuadro 32  
+Estado nutricional, según el IMC/edad, de niños y niñas de 5 a 9 años según  área.  
+Panamá , 2008.  
+ 
+ 
+ Población  Estado Nutricional según IMC/edad  (%)  
+Muestra  
+n Bajo peso  Normal  Sobrepeso  Obesidad  Sobrepeso 
+y Obesidad  
+Total  2,806  2.1 70.9 17.5 9.4 26.9 
+Área        
+Urbana  1,182  2.8 70.5 15.1 11.6 26.7 
+Rural  1,136  1.3 74.8 16.1 7.8 23.9 
+Indígena  488 1.5 62.4 32.6 3.5 36.1 
+Pobreza        
+No pob re 1,227  2.8 67.2 15.5 14.5 30.0 
+No extrema  715 1.5 80.1 14.8 3.7 18.5 
+Extrema  864 1.4 69.2 25.4 3.9 29.3 
+Fuente:  Encuesta de Niveles de Vida, 2008  
+  43 El estad o nutricional de l os escolares según el IMC/edad por  provincias se observa en  cuadro 
+33; los escolares de la provincia de Panamá presentaron las cifras mas elevadas de bajo  peso 
+(3.3%) que el promedio  nacional.  Las cifras de sobre peso en escolares fueron superiores en 
+las comarcas indígenas (33.2%) y Bocas del Toro (31.6%). La Obesidad en los esc olares fue 
+superior en las provincias de Panamá (13.1%) y Herrera (11.2 %).  
+ 
+ 
+Cuadro 33  
+Estado nutricional de niños y niñas de 5 a 9  años según IMC/edad por provincias  y 
+comarcas .  Panamá.  
+ 
+ Población  Estado nutricional según IMC/edad (%)   
+Muestra  
+(n) Bajo 
+peso  Normal  Sobrepeso  Obesidad  Sobrepeso  
+y obesidad  
+Total, País  2,806  2.1 70.9 17.5 9.4 26.9 
+Provincia        
+Bocas del Toro  380 0.8 61.1 31.6 6.4 38.0 
+Coclé  181 1.2 73.6 18.5 6.6 25.1 
+Colón  138 2.5 76.6 14.6 6.2 20.8 
+Chiriquí  184 0 74.3 18.6 7.1 25.7 
+Darién  185 1.1 87.4 10.1 1.4 11.5 
+Herrera  129 0.8 75.7 12.2 11.2 23.4 
+Los Santos  86 0.9 81.2 7.2 10.7 17.9 
+Panamà  972 3.3 69.4 14.1 13.1 27.2 
+Veraguas  159 1.2 78.7 15.7 4.3 20.0 
+Comarcas indígenas  392 1.7 61.1 33.2 4.0 37.2 
+Fuente:  Encues ta de  Niveles de Vida , 2008 .  
+ 
+  44 4.2.2.  Cambios en el estado nutricional de la población escolar de 5 a 9 años, 
+comparando los resultados de las ENV de los años 2003 y 2008.  
+ 
+Los cambios en la prevalencia de baja talla (moderada y severa) en escolares, a nivel naciona l 
+se pueden observar en la s gráfica s 7 y 8. Hubo un leve  incremento del deterioro en la talla de 
+los escolares , principalmente de los que vivían  en las áreas indígenas , en los pobres extremos 
+y en  los no pobres.  
+ 
+Gráfica 7  
+Prevalencia de baja talla en esc olares según área. Años 2003 -2008. Panamá . 
+010203040506070
+%
+total urbana rural indigena
+área2003
+2008
+ 
+Fuente:  Encuestas de Niveles de Vida, 2003 y 2008.   
+ 
+Gráfica 8  
+Prevalencia de baja talla en escolares según niveles de pobreza. Años 2003 -2008. 
+Panamá.  
+01020304050
+%
+total no pobre no extrema extrema
+área2003
+2008
+ 
+Fuente:  Encuestas de Niveles de Vida, 2003 y 2008.   
+ 
+ 
+ 
+  45 En escolares, según el IMC/edad, el bajo peso disminuyó  más de la mitad  en todas las área s y 
+niveles de pobreza (cuadro  34). Es importante resaltar el aumento de sobrepeso en todas las 
+áreas y niv eles de pobreza, más evidenciado  en el área indígena y en escolares que vivían en 
+condiciones de pobreza extrema.  En cambio la obesidad presentó incrementos importantes en 
+la población escolar del área urbana y de no pobreza.  
+ 
+Cuadro 34  
+Comparación del estado  nutricional según el IMC/edad de niños y niñas de 5 a 9 años , 
+según área y niveles de pobreza, 2003 y 2008.  Panamá  
+ 
+ 
+ 
+* Para el año 2003 se utilizó el patrón de NCHS mientras que para el  2008 el de OMS /2007 . 
+Fuente:  Encuesta de Niveles de Vida, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ Población  Estado nutricional  de escolares según IMC/edad * 
+Muestra   
+(n) Bajo Peso  
+% Normal  
+% Sobrepeso  
+% Obesidad  
+% 
+2003  2008  2003  2008  2003  2008  2003  2008  2003  2008  
+Total  2,935  2,806  4.4 2.1 75.6 70.9 11.2 17.5 8.8 9.4 
+Área  
+Urbana  1276  1,182  4.8 2.8 75.1 70.5 10.6 15.1 9.5 11.6 
+Rural  1186  1,136  4.4 1.3 78.8 74.8 9.3 16.1 7.5 7.8 
+Indígena  473 488 2.5 1.5 69.3 62.4 19.2 32.6 9.0 3.5 
+Pobreza  
+No pobre  1238  1,227  4.1 2.8 71.9 67.2 12.7 15.5 11.3 14.5 
+No extrema  741 715 6.0 1.5 81.2 80.1 6.6 14.8 6.2 3.7 
+Extrema  956 864 3.4 1.4 77.8 69.2 12.6 25.4 6.2 3.9  46 4.3. Adolescentes  
+ 
+4.3.1.  Estado nutricional de adolescentes  
+ 
+El estado nutricional de los adolescentes  medido con el IMC/edad reveló que el bajo peso 
+afectó solamente el 2.2% de los niños  de 10 a 17 años y fue similar en ambos sexos.  El 
+sobrepeso fue más elevado en el sexo femenino (22.2 %), mientras que la ob esidad  fue similar 
+en ambos sexos. Un cuarto de los adolescentes presentó exceso de peso corporal, contrario a 
+lo esperado ya que,  durante la adolescencia, por el rápido ritmo de crecimiento, disminuye la 
+prevalencia de exceso de peso  corporal en relación al grupo de 5 a 9 años.  (Cuadro 3 5).    
+ 
+Cuadro 35  
+Estado nutricional de adolescentes (10 a 17 años) de acuerdo al IMC/Edad  según   sexo.  
+Panamá . 
+ 
+ Población   Estado nutricional según IMC/edad  % 
+Muestra  Bajo 
+peso  Normal  Sobrepeso  Obesidad  Sobrepeso 
+y Obesidad  
+Total, País  4,267  2.2 72.4 18.2 7.2 25.4 
+Sexo        
+Masculino  2,250  2.2 75.8 14.7 
+ 
+ 
+ 7.1 21.8 
+Femenino  2,017  2.1 68.6 22.0 7.3 29.3 
+* Según patrón de OMS 2007  
+Fuente:  Encues ta de Niveles de Vida, MEF, 2008  
+ 
+  47 La prevalencia de sobrepeso según IMC/edad en adolescentes es similar en las diferentes 
+áreas y niveles de pobreza, mientras que la obesidad es más elevada en el áre a urbana y en 
+los adolescentes no pobres.  El exceso de peso (sobrepeso y obesidad) se mantiene elevado en 
+todas las áreas y niveles de pobreza en este grupo poblacional (cuadro 3 6). 
+ 
+Cuadro 3 6 
+Estado nutricional de adolescentes (10 a 17 años) de acuerdo a IMC/edad  según  área.  
+Panamá , 2008 . 
+* Según patrón de OMS 2007  
+Fuente: Encues ta de Ni veles de Vida, 2008  
+ 
+ 
+La agrupación de los adolescentes según provincia reveló  que el bajo peso estuvo por arriba 
+del promedio nacional en Los Santos (5%), Colón (4.1%) y Herrera (3.2%). El exceso de peso 
+corporal de los adolescentes fue más prevalente en las provincias de Bocas del Toro (36.0%), 
+Chiriquí (29.1%) y Panamá (27.9%), según IMC/edad (cuadro 3 7). 
+  Población  Estado Nutricional según IMC/edad  
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  Sobrepeso y 
+Obesidad  
+n % % % % % 
+   Total  4,267  2.2 72.4 18.2 7.2 25.4 
+Área        
+Urbana  1,822  2.4 70.7 17.5 
+ 9.5 27.0 
+Rural  1,834  2.0 74.1 19.1 4.8 23.9 
+Indígena  611 1.4 76.6 19.9 
+ 
+ 2.1 22.0 
+Pobreza        
+No pobre  2,070  1.9 69.5 18.5 10.0 28.5 
+No Extrema  1,042  3.2 75.0 16.9 4.8 21.7 
+Extrema  1,155  1.6 77.4 19.0 2.0 21.0  48 Cuadro 3 7 
+Estado nutricional de adolescentes de 10 a 17 años  de acuerdo al IMC/edad según 
+provincias  y comarcas.  Panamá, 2008.  
+ 
+ 
+Provincias  Población  (n) Estado nutricional de adolescentes según IMC/edad (%)  
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  Sobrepeso 
+y obesidad  
+ N % % % %  
+    Total, País  4,267  2.2 72.4 18.2 7.2 25.4 
+Provincias        
+Bocas del Toro  472 0.8 63.2 28.4 7.6 36.0 
+Coclé  325 1.7 75.2 18.2 4.9 23.1 
+Colón  242 4.1 78.7 11.3 5.8 17.1 
+Chiriquí  305 1.3 69.5 22.3 6.8 29.1 
+Darién  336 1.1 82.3 14.0 2.6 16.6 
+Herrera  224 3.2 78.2 12.6 6.0 18.6 
+Los Santos  169 5.0 71.2 16.7 7.1 23.8 
+Panamá  1,420  2.3 69.8 18.3 9.6 27.9 
+Veraguas  275 1.4 78.6 15.4 4.5 19.9 
+Comarcas 
+indígenas  499 1.7 76.6 19.7 2.0 21.7 
+* Según patrón de OMS 2007  
+Fuente: En cuesta de Niveles de Vida, 2008  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  49  
+Con relación a la educación del jefe de familia y la prevalencia de exceso de peso (sobrepeso y 
+obesidad) en los  adolescentes, se observó que a medida que aumenta la escolaridad del jefe 
+del hogar aumen ta el exceso de peso. (Gráfica 9 ).   
+ 
+Gráfica 9  
+Prevalencia de sobrepeso  y obesidad de acuerdo al  IMC/edad en adolescentes de 10 a 17 
+años, según  educación del jefe de  hogar.   Panamá , 2008.  
+25.323.825.125.827.330.331.5
+05101520253035
+Total Ninguna
+Primaria incompleta Primaria completa
+Secundaria incompleta Secundaria completa
+Superior
+  Fuente:  Encues ta de Niveles de Vida, 2008 .  
+ 
+   
+  50 4.3.2.  Cambios en el estado nutricional de la población adolescente 
+10 a 17 años, comparando los resultados de las ENV de los 
+años 2003 y 2008.  
+ 
+En los adolescentes, a pesar de que se utilizaron patrones de referencia diferentes 
+entre una encuesta y la otra  (cuadro  38), la variación de los resultados  es consistente , 
+tanto por área como por tipo de pobreza . El bajo peso disminuyó a nivel nac ional y en 
+todas las áreas y niveles de pobreza, excepto  en el área indígena. El sobrepeso y la 
+obesidad se ha n incrementado en todas las áreas y niveles de pobreza. Llama la 
+atención que la obesidad en los adolescente indígenas es muy  baja en relación al  nivel 
+nacional .  
+Cuadro 3 8 
+Comparación del estado nutricional según IMC/edad, de adolescentes (10 a 17 años), 
+según  área , años 2003 y 2008. Panamá.  
+ 
+* Para el año 2003 se utilizó  IMC d el patrón de NCHS mientras que para el 2008 el de OMS /2007.  
+Fuente:  Encuesta de Niveles de Vida, 2003 y 2008.   
+   
+  
+ Población  Estado nutricional según IMC/edad  
+Muestra  (n) Bajo Peso  % Normal  % Sobrepeso  % 
+ Obesidad  % 
+2003  2008  2003  2008  2003  2008  2003  2008  2003  2008  
+Total  4285  4,267  4.5 2.2 76.5 72.4 12.1 18.2 6.9 7.2 
+Urbana  1985  1,822  5.3 2.4 73.0 70.7 12.5 17.5 9.2 9.5 
+Rural  1774  1,834  4.0 2.0 79.9 74.1 11.5 19.1 4.6 4.8 
+Indígena  526 611 1.3 1.4 84.7 76.6 12.2 19.9 1.8 2.1 
+Pobreza            
+Total  4285  4,267  4.5 2.2 76.5 72.4 12.1 18.2 6.9 7.2 
+No pobre  2075  2,070  5.1 1.9 71.8 69.5 13.0 18.5 10.1 10.0 
+No extrema  1054  1,042  3.9 3.2 81.4 75.0 11.2 16.9 3.5 4.8 
+Extrema  1156  1,155  3.6 1.6 83.2 77.4 11.0 19.0 2.2 2.0  51 4.4. ADULT OS 
+ 
+La caracterización del estado nutricional de la población adulta encuestada durante la eje cución 
+de la ENV 2008 se realizó con el índice de masa corporal (IMC), aplicando los puntos de corte 
+aceptados internacionalmente para poblaciones adultas, los cuales se detallaron en el capitulo 
+de metodología. Estas categorías incluyeron: bajo peso (IMC menor de 18.5), normal ( IMC de 
+18.5 a 24.9), sobrepeso ( IMC de 25.0 a 29.9) y obesidad (IMC de 30.0 y más).  
+ 
+En este estudio, se consideró como población adulta a los hombres y mujeres con edades de 
+18 o más años de edad.  La muestra total de adultos, excl uyendo a mujeres embarazadas, 
+consistió de 15 .484 personas, las que representaban a una población total de 1 .967. 011 luego 
+que se aplicaron los factores de expansión.   De estos, el 50.8% fueron del sexo femenino y 
+49.2% Masculino.  La distribución de esta  muestra en grupos etáreos aparece en el capítulo  de 
+descripción,  en el cuadro  11.  
+ 
+En el cuadro 3 9 se aprecia que la edad promedio de los adultos, tanto hombres como mujeres, 
+osciló alrededor de los 41 años de edad. E l adulto presentó un peso promedio de   68.6 kg, una 
+talla promedio de 1.61 metros y el promedio de IMC fue de 26.3 kg/m2. La comparación entre 
+sexos revel ó que los hombres tenían mayor peso y altura promedio que las mujeres, pero el 
+IMC en estas últimas  fue más elevado que el de los hombres.  
+ 
+Cuadro  39 
+Promedio de peso, talla e IMC en población adulta, según sexo.  
+Panam á, 2008.  
+Variables   
+Total   
+Masculino   
+Femenino  
+ Población  15,484  7,723  7,761  
+Edad, años ( X¯ +EE)  41.7+0.15  41.4 +   0.22          41.9 +  0.22 
+Peso, kg ( X¯ +EE)  68.6 + 0.14          72.8 +    0.20          64.5 +  0.18 
+Talla, m  (X¯ +EE)  1.61 + 0.10  1.67 +   0.11 1.55+  0.11 
+IMC, kg/m2(X¯ +EE)  26.3 + 0.05  25.9 +   0.06 26.7 +  0.07 
+Fuente: Encuesta de Niveles de Vida, 2008.  
+ 
+Al comparar los valores promedios de  adultos de acuerdo al área geográfica donde vivían, se 
+observan  diferencias importantes en cuanto al peso. Las diferencias entre los valores 
+promedios del área urbana en relación a los del área rural fueron de 4.5 kg  de peso. El nivel  de  52 pobreza también incidió en las características antropométricas de la población adulta: los 
+adultos que vivían  en pobreza extrema presentaron pesos, tallas e IMC promedios más bajos 
+que los que vivían en  situación no pobre.  (Cuadro 40). 
+ 
+Cuadro 40  
+Promedio de peso, talla e IMC en población adulta, según área y línea de pobreza.  
+Panamá , 2008.  
+ Población   
+Peso (kg)   
+Talla (m)   
+IMC (kg/m2) Muestra  
+n X¯ +EE X¯ +EE X¯ +EE 
+Total  15,484  68.6 + 0.14 1.61 + 0.096  26.3 + 0.05 
+Área      
+Urbana  8,280  70.4 + 0.19 1.62 + 0.124  26.6 +0.06 
+Rural  6, 062  65.9 + 0.21 1.59 + 0.151  25.9 +0.21 
+Indígena  1,142  57.6 + 0.33 1.52 + 0.250  24.8 + 0.11 
+Pobreza      
+No pobre  10, 505  70.5 + 0.17 1.62 +0.112  26.6 + 0.05 
+No extrema  2,722  64.7 + 0.31 1.58 + 0.229  25.6 + 0.11 
+Extrema  2,257  59.8 + 0.28 1.55 + 0.235  24.8 + 0.11 
+Fuente: Encuesta  de Niveles de  Vida, 2008 . 
+ 
+En el  cuadro 4 1  se presentan los valores de peso, talla e IMC obtenidos para cada un o de las 
+provincias  de la ENV 2008.  La  mayor  diferencia  promedio en relación al peso se observó  entre 
+las comarcas indígenas (55.2  kg) y Colón (71.1  kg); la mayor diferencia en relación a la   talla se 
+observó  entre Los Santos  (1.63  m) y las Comarcas indígenas  (1.50  m) y en relación a IMC  
+entre Bocas del Toro  (IMC 28.0)  y las C omarcas indígenas ( IMC 23.9) . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  53 Cuadro 4 1 
+Promedio de peso, talla e IMC en población adulta, según provincias y comarcas.   
+Panamá , 2008 . 
+ 
+ 
+Población   
+Peso (kg)   
+Talla (m)   
+IMC (kg/m2) 
+Muest ra 
+n X¯ +EE X¯ +EE X¯ +EE 
+Total  15,484  68.6 + 0.14 1.61 + 0.096  26.3 + 0.05 
+Provincias/Comarcas      
+Bocas del Toro  1,280  70.5 + 0.44 1.58 + 0.312  28.0 + 0.16 
+Coclé  970 65.6 + 0.44 1.59 + 0.319  25.9 + 0.15 
+Colón  885 71.1 + 0.61 1.62 + 0.407  26.8 + 0.20 
+Chiriquí  1,234  68.7 + 0.42 1.60 + 0.270  26.6 + 0.14 
+Darién  890 65.6 + 0.48 1.58 + 0.354  25.9 + 0.17 
+Herrera  1,011  66.2 + 0.47 1.61 + 0.308  25.4 + 0.15 
+Los Santos  882 68.5 + 0.49 1.63 + 0.331  25.8 + 0.16 
+Panamá  6,418  70.0 + 0.21 1.62 + 0.143  26.4 + 0.07 
+Veraguas  994 65.2 + 0.45 1.59 + 0.318  25.7 + 0.15 
+Comarcas Indígenas  920 55.2 ± 0.75   1.50 ± 0.61  23.9 ± 0.25  
+Fuente: Encuesta de Niveles de Vida, 2008  
+ 
+ 
+ 
+4.4.1. Estado nutricional de la población adulta  
+ 
+En la gráfica 1 0 se puede observar el estado nutricional de las personas mayores de 18 años . 
+El  bajo peso en los adultos no pareció ser un problema serio ya que solamente 2.8 % de los 
+encuestados se ubicaron en esta categoría de estado nutricional, s in embargo, más de la mi tad 
+de la población te nía exceso de peso , con una prevalencia de sobrepeso en 36.4%  y de 
+obesidad  en  20.4% .  
+ 
+ 
+ 
+ 
+ 
+ 
+  54  
+ 
+Gráfica 1 0 
+Estado nutricional de la población adulta de acuerdo al IMC.  
+ Panamá , 2008 . 
+Bajo Peso Normal Sobrepeso Obesidad
+estado nutricional 2.8 40.4 36.4 20.401020304050%Estado nutricional
+ 
+Fuente:  Encues ta de Niv eles de Vida, 2008 . 
+ 
+La prevalencia de exceso de peso definido por el sobrepeso más la obesidad  fue de 56.8%. Al 
+comparar por sexo , la prevalencia de sobre peso fue mayor en los hombres ( 37.1%) y la 
+obesidad fue mayor entre las mujeres (23.8%).  (Cuadro 4 2).   
+ 
+Cuadro 4 2 
+Estado nutricional de la población adulta basado en el  IMC, según  sexo.  
+ Panamá , 2008 . 
+ 
+ Población  Estado nutricional según IMC  
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  Exceso de peso : 
+sobrepeso y 
+obesidad  
+N % % % % % 
+Total, País  15,484  2.8 40.4 36.4 20.4 56.8 
+Sexo        
+Masculino  7,723  2.0 44.0 37.1 16.9 54.0 
+Femenino  7,761  3.6 36.8 35.6 23.8 59.4 
+Fuente: Encuesta  de Niveles de Vida,  2008 .  
+ 
+Los análisis por grupos de edad  indicaron una mayor prevalencia de bajo peso en los gr upos 
+de 75  años y mas  (9.3%)  y en los de 18 a 29 años (4.6%) como  se puede observar en el  55 cuadro 43.   La distribución del sobrepeso  y de la obesidad  de acuerdo a categorías de edad, 
+reveló que las tasas de  prevalencia fueron más elevadas entre los adult os de mediana edad, 
+con la mayor prevalencia de exceso de peso en el grupo de 50 a 59 años  (69.0%).  Los adultos 
+de 50 a 59 años presentaron la más alta prevalencia de obesidad (27.2%). A partir de esta 
+edad, se observó una tendencia a la disminución tanto  en el sobrepeso como en la obesidad.   
+ 
+Cuadro 43 
+Estado nutricional de la población adulta basado en el IMC, según  edad . 
+Panamá , 2008 . 
+ 
+  
+ 
+ Población  Estado Nutricional según IMC  
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  Exceso de peso:  
+sobrepeso y 
+obesidad  
+n % % % % % 
+Total  15,484  2.8 40.4 36.4 20.4 56.8 
+18 – 29  años  4,386  4.6 56.6 27.6 11.1 38.7 
+30 – 39 años  3,338  1.8 34.1 40.4 23.6 64.0 
+40 – 49 años  3,006  1.0 31.3 41.9 25.7 67.6 
+50 – 59 años  2,078  1.4 29.5 41.8 27.2 69.0 
+60 – 64 años  842 2.1 32.1 39.6 26.2 65.8 
+65 – 74 años  1136  3.1 41.2 34.4 21.3 55.7 
+75+  años  698 9.3 45.9 31.9 12.9 44.8 
+Fuente:  Encues ta de Niveles de Vida, 2008 .  
+  56 Al separar a los adultos mayores de la población adulta, se puede observar  la distribución del 
+estado n utricional de los adultos de 60 años  y más,  según IMC , en la gráfica 11.  La 
+prevalencia de exceso de peso corporal (sobrepeso y obesidad) alcanzó 54% y el bajo peso fue 
+de 5%.  
+ 
+Gráfica 11 
+Obs: Se evaluaron 2,676 adultos mayores de 60 años a nivel naciona l. 
+Fuente: Encuesta de Niveles de Vida, 2008.  
+ 
+En relación a las áreas de estudio l a pre valencia  del sobrepeso , en el total de  adultos , fue 
+mayor al 30% en todas las áreas mientras que la de obesidad fue menor en el  indígena (8.7%) 
+en relación a las demás  áreas, c uadro 44 .   
+ 
+Cuadro 44  
+Estado nutricional de la población adulta basado en el IMC,  según  área.  
+Panamá , 2008 . 
+ Población  Estado Nutricional según IMC1 
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  
+n % % % % 
+   Total  15,484  2.8 40.4 36.4 20.4 
+Área      
+Urbana  8,280  2.9 37.6 37.2 22.4 
+Rural  6, 062  2.7 44.4 35.2 17.6 
+Indígena  1,142  2.3 57.0 32.0 8.7 
+Fuente:  Encuesta de Niveles de Vida, 2008 . 
+Estado nutricional de los adultos mayores (60 años y mas). Panamá, 2008.
+5%
+41%20%
+34%
+bajo peso normal sobrepeso obesidad 57 Según se muestra en el cuadro 45 el sobrepeso afectaba a casi un tercio de la población 
+adulta, en tod os los niveles de pobreza.   Sin embargo,  la obesidad en pobreza extrema es la 
+mitad de la no pobre.  
+Cuadro 45  
+Estado nutricional de la población adulta basado en el IMC,  según línea de pobreza . 
+ Panamá , 2008 . 
+ Población  Estado Nutricional según IMC1 
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  
+n % % % % 
+Total  15,484  2.8 40.4 36.4 20.4 
+Pobreza       
+No pobre  10, 505  2.7 37.3 37.8 22.2 
+No extrema  2,722  3.4 45.5 33.4 17.7 
+Extrema  2,257  3.1 55.6 30.3 11.0 
+Fuente:  Encues ta de Niveles de Vida, MEF, 2008 . 
+La prevalencia del bajo peso en la población adulta de Panamá,  por provincia s, fue baja  
+(cuadro 46) .  El sobrepeso  afectó más de tres de cada diez  adultos en  todas  las provincias .  
+La prevalencia de obesidad alcanzó niveles más altos de los esperad os principalmente en la 
+provincias de Bocas del Toro, Colón y Chiriquí.   
+ 
+Cuadro 46 
+Estado nutricional de la población adulta basado en el IMC,  según  provincias y comarcas. 
+Panamá , 2008 . 
+Provincias/comarcas  Población (n)  Estado nutricional según IMC  
+Muestra  Bajo 
+peso  Normal  Sobre    
+peso  Obesidad  
+N % % % % 
+Total  15,484  2.8 40.4 36.4 20.4 
+Bocas del Toro  1,280  1.5 28.1 39.6 30.7 
+Coclé  970 2.8 42.8 35.9 18.4 
+Colón  885 3.7 35.4 35.3 25.5 
+Chiriquí  1,234  2.1 38.2 36.8 22.9 
+Darién  890 1.8 47.9 32.3 17.9 
+Herrera  1,011  5.1 46.7 33.3 14.8 
+Los Santos  882 3.6 43.1 35.3 18.0 
+Panamá  6,418  2.8 38.8 37.6 20.8 
+Veraguas  994 2.7 47.2 32.4 17.6 
+Comarcas Indígenas  920 2.7 59.4 30.5 7.4 
+Fuente:  Encues ta de Niveles de Vida, 2008 .   58 Al sumar sobrepeso y obesidad  se encontró que 56.8% de los adultos presentaron exceso de 
+peso. En la gráfica 12 se pued e apreciar que el exceso de peso afect ó a 5 de cada 10 adultos 
+en las nueve provincias  estudiadas . Solamente en las comarcas indígenas la prevalencia de 
+exceso de peso estuvo por debajo del 40%.  
+  
+Gráfica 12  
+Prevalencia de sobrepeso y obesidad en la población adulta basado en el IMC, según 
+provincia/comarca . Panamá , 2008.   
+56.870.4
+54.360.8 59.7
+50.2 48.253.358.4
+50
+37.9
+01020304050607080Prevalencia de sobrepeso y obesidad (%) 
+ 
+Fuente:  Encues ta de Niveles de Vida, 2008.  
+ 
+  59 En el Cuadro 47  se presen tan los hallazgos de la evaluación del estado nutricional de la 
+población adulta de acuerdo al nivel  de educación  del jefe del hogar .  Independientemente del 
+nivel educativo las prevalencias de sobrepeso y obesidad fueran similares.  
+ 
+Cuadro 47  
+Estado nutr icional de la población adulta basado en el IMC, según  educación del jefe del 
+hogar.   Panamá, 2008 . 
+ 
+Educación  Población  Estado Nutricional según IMC  
+Muestra  Bajo peso  Normal  Sobrepeso  Obesidad  
+N % % % % 
+Total  15,484  2.8 40.4 36.4 20.4 
+Ninguna  4,564  2.7 42.9 36.0 18.3 
+Primaria incompleta  3,087  2.3 38.5 37.5 21.6 
+Primaria completa  2,847  2.9 37.6 37.4 22.1 
+Secundaria incompleta  616 1.9 38.2 37.8 22.2 
+Secundaria completa  1,056  3.1 40.0 35.6 21.4 
+Superior  516 2.9 42.6 36.3 18.2 
+Fuente:  Encues ta de Niveles de Vida, 2008.  
+  60 4.4.2.  Cambios en el estado nutricional de la población adulta . 
+ 
+Al comparar el estado nutricional según IMC de las personas de 18 años y más, (cuadro 48) en 
+el 2008 hubo un aumento en las prevalencias de sobrepeso de 2.8% y en la obesida d de 2.1% 
+en relación a las prevalencias del 2003. La misma tendencia se observa tanto en el sexo 
+masculino como femenino.   
+ 
+Cuadro 48  
+Comparación del estado nutricional de la población adulta basado en el IMC, según  
+sexo , años 2003 y 2008. Panamá . 
+ 
+ 
+Fuente: Encuesta s de Niveles de Vida, 2003 y  2008.    
+  
+ Población  Estado nutricional según IMC  
+Muestra  Bajo Peso  Normal  Sobrepeso  Obesidad  
+2003  2008  2003  2008  2003  2008  2003  2008  2003  2008  
+n n % % % % % % % % 
+Total  14,486  15,484  3.1 2.8 45.0 40.4 33.6 36.4 18.3 20.4 
+Masculino  7,121  7,723  2.6 2.0 49.1 44.0 33.9 37.1 14.4 16.9 
+Femenino  7,365  7,761  3.6 3.6 41.2 36.8 33.3 35.6 21.8 23.8  61 Con relación a los grupos de edad de la población adulta, s e observan  mayores prevalencias 
+que el promedio nacional, tanto de sobrepeso como de obesidad en el grupo de 30 hasta los 64 
+años  (cuadro 49).  
+   
+Cuadro 49  
+Comparación del estado nutricional de la población adulta basado en el IMC, según 
+grupos de edad, años 2003 y 2008. Panamá . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuente: Encuesta s de Niveles de Vida, 2003 y 2008.    
+  
+Grupos de 
+edad  Estado nutrici onal se gún IMC  
+Bajo Peso %  Normal %  Sobrepeso %  
+ Obesidad %  
+2003  2008  2003  2008  2003  2008  2003  2008  
+Total  3.1 2.8 45.0 40.4 33.6 36.4 18.3 20.4 
+18 – 29  años  4.7 4.6 59.2 56.6 24.9 27.6 11.3 11.1 
+30 – 39 años  2.0 1.8 30.0 34.1 38.2 40.4 18.8 23.6 
+40 – 49 años  1.4 1.0 34.4 31.3 38.9 41.9 25.3 25.7 
+50 – 59 años  1.8 1.4 32.8 29.5 41.5 41.8 23.9 27.2 
+60 – 64 años  2.3 2.1 41.0 32.1 35.4 39.6 21.2 26.2 
+65 – 74 años  4.1 3.1 42.6 41.2 31.0 34.4 22.3 21.3 
+75+  años  8.3 9.3 51.6 45.9 29.7 31.9 10.4 12.9  62 Al comparar el estado nutricional de las dos ENV e n relación a áreas  y niveles de pobreza  se 
+observa que en el área indígena  y en pobreza extrema la prevalencia de obesidad representa 
+casi la mitad de la prevalencia nacional (cuadro 50). 
+ 
+Cuadro 50  
+Comparación del estado nutricional de la población adulta basado en el IMC, según área 
+y niveles  de pobreza , años 2003 y 2008. Panamá . 
+Fuente: Encuesta de Niveles de Vida, 2008.  
+   
+  
+ Población  Estado nutricional según IMC/edad  
+Muest ra  
+n Bajo Peso  
+% Normal  
+% Sobrepeso 
+% Obesidad  
+% 
+2003  2008  2003  2008  2003  2008  2003  2008  2003  2008  
+Total  14,486  15,484  3.1 2.8 45.0 40.4 33.6 36.4 18.3 20.4 
+Área   
+Urbana  7,821  8,280  3.1 2.9 40.6 37.6 35.8 37.2 20.6 22.4 
+Rural  5,594  6, 062  3.3 2.7 51.7 44.4 29.7 35.2 15.2 17.6 
+Indígena  1,071 1,142  1.9 2.3 61.2 57.0 29.5 32.0 7.3 8.7 
+Nivel de 
+pobreza   
+No pobre  9,453  10,505  3.1 2.7 40.2 37.3 35.6 37.8 21.2 22.2 
+No 
+extrema  2,766  2,722  3.5 3.4 53.8 45.5 30.0 33.4 12.6 17.7 
+Extrema  2,267  2,257  3.0 3.1 62.1 55.6 26.5 30.3 8.5 11.0  63 El cuadro  51 muestra que las prevalencias de  sobrepeso y de obesidad se han incrementado 
+independientemente del nivel educativo  del jefe de la familia . Es importante señalar qu e en la  
+muestra  poblacional estudiada  más del 60% reportó primaria incompleta o ninguna  educación.  
+ 
+ 
+Cuadro 51  
+Comparación del estado nutricional de la población adulta basado en el IMC, según  
+educación del jefe de hogar , años 2003 y 2008 . Panamá . 
+Fuente: Encuesta de Niveles de Vida, 2008.   
+ Pobl ación  Estado Nutricional según IMC  
+Muestra  (n) Bajo peso  % Normal  % Sobrepeso  % Obesidad  % 
+ 2003  2008  2003  2008  2003  2008  2003  2008  2003  2008  
+Total  12,731  12,686  3.1 2.8 50.2 40.4 31.8 36.4 14.9 20.4 
+Ninguna  4,629  4,564  3.1 2.7 50.2 42.9 31.8 36.0 14.9 18.3 
+Primaria 
+incompleta  3,171  3,087  2.1 2.3 46.4 38.5 31.8 37.5 19.6 21.6 
+Primaria 
+completa  3,008  2,847  3.5 2.9 40.8 37.6 36.6 37.4 19.1 22.1 
+Secundaria 
+incompleta  667 616 3.2 1.9 42.0 38.2 35.2 37.8 19.6 22.2 
+Secundaria 
+completa  874 1,056  3.2 3.1 41.4 40.0 36.3 35.6 19.1 21.4 
+Superior  382 516 3.4 2.9 41.4 42.6 35.9 36.3 19.3 18.2  64 En el año 1982 se realizó una Encuesta Nacional de Nutrición  (Bermúdez, 19823),  en la cual se 
+evaluó el estado nutricional d e la población de acuerdo al IMC, según sexo. Estos resultados se 
+compararon con las encuestas de Niveles de Vida de 2003 y 2008 (grafica 13)  ya que todos los 
+estudios son representativos de la población panameña adulta; se puede observar el 
+incremento imp ortante de la prevalencia de obesidad en 24 años, la cual  pasó de 3.8% en los 
+hombres en 1982 al 16.9% en el 2008; y en las mujeres pasó del 7.6% al 23.8% en el mismo 
+periodo.  
+ 
+Gráfica 13  
+Comparaciones entre Estudios  de las prevalencia de obesidad en la p oblación adulta 
+basado en el IMC  >30, según  sexo .  Panamá, años   1982, 2003 y 2008.  
+0510152025%
+1982
+2003
+2008
+1982 3.8 7.6
+2003 14.4 21.8
+2008 16.9 23.8hombres mujeres
+ 
+Nota:  La encuesta de 1982 incluyó a 5,355 hombres y 6,256 mujeres. Fuente:  Bermúdez 1982. Ministerio de Salud  .  
+            Las ENV incluy eron: 7,121 hombres y 7,365 mujeres en 2003; 7,723 hombres y 7,761 mujeres  en 2008.   
+  Fuente:  Encuestas de Niveles de Vida, 2003 y 2008.   
+ 
+ 
+ 
+ 
+ 
+   65 5. CONSU MO DE ALIMENTOS  
+ 
+Tomando en cu enta la importancia de contar con información actualizada sobre la situa ción 
+alimentaria  de la población panameña , el Instituto de Nutrición de Centro América y Pan amá 
+(INCAP) realizó un análisis de  los datos de la Encuesta de Niveles de Vida 2008 (ENV).  Los 
+datos que se analizan se basan en el gasto o adquisición de alimentos  registrados en la ENV 
+2008. Los valores reflejan e l “consumo aparente ” de alimentos en el hoga r en los últimos 15 
+días o el mes anterior a la entrevista , ya sea que fueran comprados o adquiridos sin tener que 
+comprarlos . No incluye alimentos consumidos fu era del hogar.  
+ 
+Los objetivos del análisis en base al estudio de consumo aparente fueron:  
+ Medir la suficiencia de la  energía alimentaria per cápita.   
+ Determinar la disponibilidad per cápita de vitaminas y minerales en relación a las 
+recomendaciones dietét icas.  
+ Identificar la diversidad del consumo de alimentos, según área de residencia, regiones,  
+nivel de pobreza y tamaño del hogar.  
+5.1. Metodología para el análisis de los datos  
+En el estudio se analizaron los siguientes aspectos referidos a área de residenc ia, nivel de 
+pobreza y tamaño de hogar:  
+ 
+Variedad de los alimentos consumidos : la diversidad dietética es un indicador de calidad de la 
+alimentación por favorecer una ingesta adecuada de nutrientes y propiciar un equilibrio 
+apropiado de micronutrientes y d e energía.  
+ 
+Consumo aparente o disponibilidad per cápita de alimentos : junto con la variedad de los 
+alimentos, las cantidades usadas o consumidas nos permiten conocer el patrón de consumo de 
+alimentos, principalmente asociado a otras variables.  
+ 
+Consumo a parente o disponibilidad energética per cápita : el consumo absoluto de energía es el 
+resultado de convertir las cantidades de alimentos a energía alimentaria.  Estos datos se  66 interpretan más fácilmente cuando se comparan con las cantidades recomendadas o 
+necesarias.  
+ 
+Suficiencia de la disponibilidad de energía alimentaria : esta variable se refiere a la adecuación 
+energética a los requerimientos, con un margen de seguridad para compensar la desigualdad 
+en la distribución de los alimentos, y por los desperdic ios y pérdidas que ocurren antes de ser 
+consumidos los alimentos. A  nivel nacional, en los países en vías de desarrollo, se ha 
+considerado que el suministro alimentario, expresado en energía, sólo es suficiente cuando 
+supera un 20% de los requerimientos pr omedio1.  A nivel de hogar, se ha considerado que el 
+suministro es suficiente cuando supera el 10% de la norma.  
+ 
+Suficiencia en la disponibilidad de vitaminas y minerales : Esta variable refleja la calidad 
+nutricional del consumo aparente de alimentos, en cuanto a las principales vitaminas y 
+minerales.  Se refiere a la adecuación de las cantidades per cápita de vitaminas y minerales, en 
+relación a las recomendaciones dietéticas diarias para la región centroamericana.  
+ 
+5.2.  Análisis Estadístico  
+ 
+El análisis secu ndario de los datos de la Encuesta de Niveles de Vida 2008, se realizó con la 
+sección de gastos en alimentos en los últimos 15 días previos a la encuesta, con una lista de 
+79 productos alimenticios.  Estos 79 productos fueron agrupados en 12 categorías y 4 4 grupos 
+de alimentos para la presentación de los resultados.   
+ 
+El análisis comprendió todas las cantidades adquiridas de alimento, tanto las cantidades 
+compradas como las no compradas  (producción familiar o donaciones).  Las cantidades de 
+alimentos fuero n recolectadas y registradas en valor monetario y en distintas unidades de 
+medida.  Esto dificultó la determinación de las cantidades en gramos/mililitros; en varios casos 
+fue necesario usar un peso promedio de las unidades registradas.  
+ 
+Se generó una tab la de códigos de alimentos equivalentes entre los códigos de alimentos del 
+formulario de la Encuesta de Niveles de Vida 2008 y los códigos de alimentos de la Tabla de 
+                                                 
+1  Dixis Figueroa Pedraz a, M edición de la Seguridad Alimentaria y Nutricional. Revista de Salud Pública y Nutrición Vol. 6 No. 2 , 2005. Una forma 
+de clasificar los diferentes países podría ser:  Suficie ncia Plena:  Suministro de Energía Alimentaria (SEA) > 110% de la norma (120% si es país en 
+desarrollo); Suficiencia Pre caria : SEA entre 100 y 110%;  Ins uficie ncia:  SEA < 100%; Insuficiencia Crítica : SEA  por debajo del 95% de la norma   67 Composición de Alimentos de INCAP (TCA).  En varios casos fue necesario calcular la 
+compo sición promedio de alimentos genéricos, que no estaba disponible como tal en la TCA.  
+Para la determinación del contenido de energía (Kcal) y de nutrientes en las cantidades de 
+alimentos disponibles se usó la Tabla de Composición de Alimentos para Centro A mérica y 
+Panamá del Instituto de Nutrición de Centro América y Panamá (2006).   
+ 
+Para evaluar la disponibilidad de nutrientes en función de las necesidades se tomó como 
+referencia las Recomendaciones Dietéticas Diarias propuestas por el INCAP en 1994.  En el 
+caso de energía y proteínas se usaron los datos preliminares de la revisión que al momento del 
+análisis  realiza ba el INCAP para los requerimientos energéticos y recomendaciones diarias de 
+proteínas.  
+ 
+Se determinó la proporción de hogares que usó cada al imento y grupo de alimento s.  Así 
+mismo, la cantidad per cápita de alimento y grupo de alimento s; la disponibilidad per cápita de 
+energía y nutrientes; la adecuación de la disponibilidad de energía y nutrientes , en función de 
+los requerimientos energéticos  y de las recomendaciones dietéticas de proteínas, vitaminas y 
+minerales.  
+ 
+Todos los análisis fueron realizados a nivel nacional, por área de residencia, por nivel de 
+pobreza y por tamaño del hogar.  
+  68 5.3. Patrón de consumo aparente de alimentos específicos  
+ 
+Lácteos y Huevos:  
+ 
+En todas las áreas hay consumo aparente de productos lácteos, la proporción de hogares que 
+los consumen es menor en el área rural y más aún en la indígena (gráfica 14).  Los huevos son 
+usados por más del 80% de hogares, excepto en el ár ea indígena (59%).  
+Gráfica 14  
+Proporción de hogares con consumo de leche y quesos , 
+ según área de residencia (% de hogares) . Panamá, 2008.  
+020406080100
+Urbana Rural Indígena% de hogares
+Leche en polvo Leche fluida Quesos 
+ 
+ 
+     Fuente:  Encue sta  de Niveles de Vida, 2008 .  69 Cuando el análisis se hace por nivel de pobreza se encuentra que , en los tres productos, la 
+proporción de hogares que los usan se reduce conforme es mayor la pobreza.  La mayor 
+diferencia se encuentra en el consumo de quesos, mientras en los hogares no pobres lo usa un 
+78%, en los de extrema pobreza solamente lo usa un  15% ( gráfica 15). 
+Gráfica 1 5 
+Proporción de hogares con consumo de leche y quesos , 
+según nivel de pobreza (% de hogares) . Panamá, 2008.  
+020406080100
+No pobre Pobre P. Extrema% de hogares
+Leche en polvo Leche fluida Quesos 
+ 
+ 
+Carnes:  
+ 
+De todas las carnes, la más usada en las áreas urbana y rural, es la de pollo (±90% de 
+hogares); el pescado /mariscos son usados por más del 70% de hogares; la carne de res es 
+muy poco usada en el área indígena.  Los embutidos (salchichas, jamones, etc.) son bastante 
+frecuentes en el área urbana ( gráfica 16). 
+ 
+En relación al uso de carnes según nivel de pobreza,  se observa que en los tres niveles, la 
+carne de mayor consumo es el pollo.  Le sigue el pescado y los mariscos, que los usan más de 
+un 75% en los hogares pobres y no pobres, y cerca de un 70% de los hogares en los hogares 
+en extrema pobreza.  La carne de res y los embutidos son consumidos principalmente por los 
+hogares no pobres.  
+  70  
+Gráfica 16 
+Proporción de hogares con consumo de pollo, pescado y mariscos, res y embutidos, por 
+área de residencia (% de hogares) . Panamá, 2008 .   
+ 
+020406080100
+Urbana Rural Indígena% de hogares
+Pollo Pescado y mariscos Res Embutidos
+ 
+ 
+Leguminosas  
+ 
+En el área i ndígena es menor la proporción de hogares que usan leguminosas (59%), en 
+comparación con las áreas urbana y rural donde son usados por más del 85% de los hogares.  
+Así mismo, el consumo es menor en los hogares de extrema pobreza (74 %) que en los no 
+pobres  y pobres (>80% de hogares).  
+ 
+Cereales y derivados  
+ 
+El arroz es usado por la mayoría de hogares (90% o más) en las tres áreas de residencia.  El 
+pan, las pastas y los cereales -cremas son usados por una proporción muy baja de hogares en 
+el área indígena, en  comp aración con las otras dos áreas  (gráfica 17).   
+Cuando se analiza por nivel de pobreza, la proporción de hogares que usan arroz sobrepasa el 
+90% en los tres grupos de hogares; en cambio la proporción de hogares que consumen pan, 
+pastas y cereales es b astante menor en hogares de extrema pobreza, en comparación con los 
+pobres y no pobres.  
+ 
+  71 
+020406080100
+Urbana Rural Indígena% de hogares
+Azúcar Aceite 
+ 
+Gráfica 17 
+Proporción de hogares con consumo de arroz, pan, pastas y  
+cremas , por área de residencia (% de hogares) . Panamá, 2008 . 
+020406080100
+Urbana Rural Indígena% de hogares
+Arroz Pan Pastas Cremas -otros
+ 
+ 
+Azúcares y grasas  
+ 
+El azúcar e s más usada por los hogares de las áreas rural e indígena (>90%) que por el área 
+urbana (85%).  En cambio el aceite fue usado por >80% de hogares en las áreas urbana y rural 
+y por el 52% el área indígena (gráfica 18). 
+ 
+Gráfica 18 
+Proporción de hogares con  consumo de azúcar y aceite,  
+según área de residencia (% de hogares) . Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  72 Al analizar el consumo según nivel de pobreza, llama la atención que el consumo de azúcar 
+sea menor en los hogares no pobres (86%) que en los pobres  y en extre ma pobreza (94%).  
+En cuanto a aceite, ocurre que en los hogares de extrema pobreza la proporción de hogares 
+que lo usan es menor (68%) que en los pobres y no pobres (88% y 81%).  
+ 
+Vegetales y frutas  
+ 
+De los productos vegetales, los de mayor consumo en las  tres áreas son: cebolla, papas, raíces 
+y tomate; sin embargo, el número de hogares que los usan es bastante limitado en el área 
+indígena; en las áreas urbana y rural, a excepción del tomate, las proporciones de hogares son 
+similares (80 -85%).  En cuanto a  frutas las más usadas son los bananos , piña, mango, papaya 
+y melón y  en el área indígena el consumo de frutas es menor.  
+En general, es menor la proporción de hogares en extrema pobreza que consumen vegetales y  
+los más usados  son la cebolla y las papas;  el tomate solamente fue registr ado en un 18% de 
+estos hogares ( gráfica 19).  
+Indistintamente del nivel de pobreza, los bananos y plátanos son usados por más del 80% de 
+hogares.  
+ 
+ 
+ Gráfica 19 
+ Proporción de hogares con consumo de papas, cebolla,  y tomate, 
+según nivel de pobreza (% de hogares ). Panamá, 2008 . 
+020406080100
+No pobre Pobre P. Extrema% de hogares
+Papas y raíces Cebolla Tomate 73  Otros productos de uso frecuente  
+ 
+La proporción de hogares con consumo de café -té es mayor en el área rural y en la indígena; 
+en cambio las sodas y refrescos son menos usados en estas áreas.  La proporción de hogares 
+que usan sopas deshidratadas es similar en las tres áreas y en cuanto a aderezos, el uso es 
+mayor en el área u rbana ( gráfica 20).  
+ 
+Es mayor la proporción de hogares en pobreza y extrema pobreza que consumen café o té 
+(80%) que en los hogares clasificados como no pobres (70%).  Mientras que en los hogares no 
+pobres la proporción de hogares con consumo de sodas y r efrescos es de 75% y en los de 
+extrema pobreza solamente es de 28%.  Similar diferencia se observa en el consumo de 
+aderezos.  En el uso de sopas deshidratadas no hay mayor diferencia según nivel de pobreza.  
+Otros productos de bastante uso son los condime ntos, entre los que se incluye la sal, en éstos 
+no hay mayor diferencia entre áreas de residencia y por nivel de pobreza.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gráfica 20 
+Proporción de hogares con consumo de café, sodas/refrescos, sopas -polvos y 
+aderezos, según área de residencia (%de hogares) . Panamá, 2008 . 
+020406080100
+Urbana Rural Indígena% de hogares
+Café -té Sodas -refr. Sopas desh. Aderezos 74 5.4.  Diversidad del consumo alimentario  aparente  
+ 
+Se analizó tomando en cuenta dos niveles, los productos usados por el 75%  o más de los 
+hogares, y los productos usados por el 50% o más de los hogares.  El análisis se hizo con base 
+en los 44 grupos genéricos de alimentos por área de residencia y por nivel de pobreza.  En las 
+áreas de residencia se incluye por separado el área indígena.  
+ 
+La variedad de alimentos empleados en la alimentación, refleja hasta cierto punto la calidad 
+nutricional de la dieta, en cuanto más diversificada esté, mejor será su calidad.  En la Gráfica 
+21 se presenta el número de productos usados por el 75 % y el 50% o más de hogares , según 
+área de residencia.  El área urbana presenta el mayor  número de productos usados por más 
+del 50% de los hogares (30  alimentos ), mientras  que el área indígena el menor número (11 
+alimentos ).  
+Gráfica 2 1 
+Número de alimento s usados, por el 75% o el 50% de los hogares, según área de 
+residencia.   Panamá, 2008 . 
+051015202530
+Nacional Urbana Rural IndígenaNúmero de alimentos
+75% 50%
+ 
+ 
+  75 En el cuadro 52 se presenta, de acuerdo al nivel de pobreza de los hogares, la lista de 
+productos usados, resaltando las diferencias según el tipo de producto usado  por más del 50% 
+de los hogares.  La lista de productos está ordenada de la siguiente forma: alimentos de origen 
+animal (de mayor valor biológico); frijoles; cereales; azúcares y grasas; vegetales y frutas; 
+bebidas y otros alimentos.  
+ 
+El patrón de consumo  está compuesto por 30 productos para los hogares no pobres, 25 para 
+los hogares pobres y 13 para los hogares en pobreza extrema.  
+ 
+Cuadro 52  
+Alimentos usados por el 50% o más de los hogares, según nivel de pobreza . Panamá, 
+2008 . 
+ 
+ 
+  76 5.5.  Cantidades de aliment os adquiridos  
+Los valores analizados corresponden a las cantidades de alimentos adquiridas por los hogares, 
+sean o no usadas para su alimentación, de ahí que los valores se refieran más bien a un 
+consumo aparente o sea a la disponibilidad de alimentos o nu trientes.  No se incluyen los 
+alimentos consumidos fuera del hogar  en restaurantes, fondas o ventas informales .  En el texto 
+se ha dejado a veces la palabra consumo, teniendo en mente que no es ingesta.  
+Para facilitar el análisis y la presentación de resul tados, los productos han sido agrupados en 
+seis grandes categorías según su origen: productos de origen animal, frijoles, cereales y 
+derivados, azúcares y grasas, verduras, frutas y otros; un aspecto a tomar en cuenta es que las 
+cantidades analizadas de lo s productos no provienen de una medición o pesada directa de las 
+cantidades compradas o usadas, sino de la aplicación de medidas de compra con un peso 
+estimado. Con fre cuencia, cuando se usa este tipo de registro se ha observado sobre  
+estimación en algunos  productos, generalmente en aquellos que se compran o adquieren para 
+ser usados en varios días.  
+ 
+5.6. Consumo aparente de alimentos por área de residencia  
+ 
+En el cuadro 53 se presenta la cantidad en gramos disponible de cada alimento , por área de 
+residencia, ex presada como mediana, donde se observa que solamente ocho productos son 
+usados por más del 50% de hogares en el área indígena; además, la cantidad usada en varios 
+casos es inferior a 10 gramos, es decir que la disponibilidad para consumo es muy baja, lo qu e 
+refleja la baja disponibilidad de algunos nutrientes. Cabe recordar que las cifras corresponden a 
+cantidades compradas de alimentos, y no necesariamente a las que llegan a la boca del 
+consumidor.  Es de suponer que entre la compra y la ingesta hay una ca ntidad que se pierde o 
+se desperdicia, monto que en promedio se estima en 10%.  
+ 
+De los productos de origen animal, solamente la carne de pollo y el huevo aparecen en las tres 
+áreas de residencia; sin embargo, en el área indígena las cantidades son insigni ficantes (11 y 
+3g).  En cuanto a lácteos, éstos se observan sólo en el área urbana.  La carne de res y 
+embutidos se presentan en el área urbana y en menor cantidad en el área rural.  
+ 
+En cuanto a leguminosas (lentejas, porotos y frijoles), la cantidad dispo nible es similar en el 
+área urbana y en la rural, aproximadamente ⅔ de onza por persona por día.    77 La cantidad de arroz es mayor en el área rural (151 gramos ) que en la urbana ( 121 gramos ), y 
+aproximadamente 70 gramos  en el área indígena . 
+ 
+Otros derivados de cereales usados, excepto en el área indígena, son las cremas y las pastas 
+pero en pequeñas cantidades. Cuando las cantidades se expresan como promedio (cuadro 54 ) 
+encontramos otros productos derivados de los cereales, como el pan y los derivados de maíz .  
+Así también, la cantidad de arroz llega casi a los 200g per cápita en el área rural.  
+ 
+Es importante señalar que el consumo de azúcar es mayor en el área indígena (40g) que en el 
+área urbana y la rural (30 y 36 g respectivamente).  La cantidad disponible  de aceite es similar 
+en el área urbana y la rural, en cambio en el área indígena es muy baja (3g).  Cuando la 
+cantidad se expresa como promedio (cuadro 53) la cantidad  sube a 10 gramos,  que todavía se 
+considera baja; sin embargo, está disponible para men os de la mitad de la población.  
+ 
+En cuanto al consumo de vegetales, solamente es apreciable la cantidad en tomate, cebolla y 
+papas; si bien, se consumen otros vegetales, las cantidades son bajas y no llegan a la mitad de 
+la población. Entre otros productos , solamente se encuentra el consumo de sodas/refrescos en 
+las áreas urbana y rural.  El consumo de sal de mes a es similar en las tres áreas  (8-10g).  
+ 
+ 
+ 
+  78  
+Cuadro 53 
+Cantidad diaria disponible de grupos de alimentos a nivel nacional y según área de 
+residen cia (mediana  en gramos).   Panamá, 2008 . 
+ 
+ 
+ 79 Cuadro 54 
+Cantidad diaria disponible per cápita de grupos de alimentos a nivel nacional y según 
+área de residencia ( promedio  en gramos).  Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80 5.7. Consumo aparente de alimentos  según nivel de pobreza  
+ 
+Productos de origen animal  
+Más del 50% de los hogares no pobres usaron ocho productos de origen animal, mientras en 
+los hogares en extrema pobreza solamente aparecen huevos y pollo en cantidades muy bajas 
+(5-15g).  En el caso de lo s hogares pobres se encuentran cuatro productos: huevos, res, pollo y 
+embutidos.  Los productos lácteos sólo se encuentran en los hogares no pobres  (cuadro s 55 y  
+56), ya que a pesar de que aparezcan en promedio en los otros grupos poblacionales, en la 
+medi ana no alcanzan el puntaje.  
+Leguminosas  
+El consumo de leguminosas es relativamente bajo en los tres grupos  de población .  Alcanza 
+una cifra más alta en los hogares no pobres (10g), ligeramente menor en los hogares pobres y 
+muy bajo en los de extrema pobrez a (4g).   
+Cereales y derivados  
+El consumo de arroz es similar entre los hogares no pobres y los pobres (150g); en los hogares 
+de extrema pobreza es menor (100g).  El consumo de otros derivados de cereales es bajo, 
+excepto el pan en los hogares no pobres (2 8g).   
+Azúcares y grasas  
+En el consumo de azúcar prácticamente no hay diferencia en los tres grupos, es de 1 onza per 
+cápita. Respecto al aceite, el consumo sí es afectado por el nivel de pobreza, de manera que el 
+consumo es de 25g en los no pobres, 17g e n los pobres y apenas 6g en  extrema pobreza.  
+Vegetales y frutas  
+El consumo de vegetales y frutas sí es afectado por el nivel de pobreza, pues mientras en los 
+hogares no pobres se encuentran seis productos usados por más del 50% de los hogares, en 
+los de extrema pobreza hay tres productos y en los pobres solamente dos.  En los tres niveles 
+de pobreza, el consumo de vegetales se reduce solamente a la disponibilidad cebolla, pues ni 
+tomate, ni papas se encuentran en los hogares pobres y en los de extrema pob reza.   En 
+cuanto al consumo de frutas, éste se reduce a guineo  solamente en los hogares no pobres y 
+en los de extrema pobreza.  En los valores promedio se observa mayor variación, pero hay que 
+tomar en cuenta que los productos no llegan al 50% de los hog ares.  
+Otros  
+En cuanto a otros productos, solamente se encuentra las sodas y las pastas/salsas de tomate 
+en los hogares no pobres y los pobres.  Las sodas llegan a 1½ onza en los hogares no pobre.  
+La cantidad de sal es similar en los tres grupos.   81 Cuadro 55 
+Cantidad diaria disponible per cápita de grupos de alimentos  
+según nivel de pobreza ( promedio  en gramos).  Panamá, 2008 . 
+ 
+ 82 Cuadro 56 
+ Cantidad diaria disponible per cápita de grupos de alimentos  
+según nivel de pobreza ( mediana  en gramos).   Panamá, 2008 . 
+ 
+ 83 5.8. Suficiencia nutricional de la disponibilidad alimentaria  
+ 
+En esta sección se analiza la cantidad disponible de energía y nutrientes, per cápita y por día, y 
+su relación con las Recomendaciones Dietéticas Diarias (RDD), expresada como porcentaje de 
+adec uación.  Se han usado las RDD propuestas por el INCAP en 1994 para los nutrientes y las 
+cifras preliminares de la revisión actual para los requerimientos energéticos y las RDD de 
+proteínas.  Este análisis se hace tanto para área de residencia, provincias y nivel de pobreza, 
+como en función del tamaño del hogar.  
+ 
+5.9. Energía y macro nutrientes  
+ 
+Por área de residencia  
+En el cuadro 57  se presenta la disponibilidad per cápita de energía y nutrientes, a nivel nacional 
+y por área de residencia. En el cuadro 58 la adecuación de la disponibilidad de nutrientes en 
+relación a las RDD.  
+ 
+Como puede verse en el cuadro 57 la disponibilidad per cápita de energía y de la mayoría de 
+nutrientes es bastante más baja en el área indígena que en el área urbana y rural.  Lo cual es 
+resultado de la baja disponibilidad de alimentos.  
+ 
+Cabe hacer notar que la disponibilidad de energía  per  cápita es  mayor en  el  área  rural que  
+en  el área urbana (± 250 Kcal).  Esto se debe principalmente a que esta encuesta no registra 
+el consumo de  alimentos fuera del hogar,  comprado en restaurantes, cafeterías, fondas o 
+ambulantes que es mayor en las áreas urbanas, lo que puede llevar a un subregistro del 
+consumo.  
+ 
+  84 Cuadro  57  
+Disponibilidad per cápita de energía y nutrientes a nivel nacional y se gún área de 
+residencia.  Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cuadro 58  
+Adecuación porcentual de la disponibilidad promedio de energía y nutrientes , por área 
+de residencia , en relación a las RDD . Panamá, 2008 . 
+ 85 
+57647530 251613 129
+0%20%40%60%80%100%
+Urbana Rural Indígena
+Carbohidratos
+ Grasas
+ ProteínasLa mayoría de la energía proviene de carbohidratos,  sin embargo, la proporción es diferente en 
+las tres áreas de residencia.  Mientras en el área urbana la contribución de los carbohidratos es 
+de 57%, en el área indígena llega a 75% ( gráfica 22). Las grasas totales aportan el 30% de la 
+energía total en el área urbana, esta proporción es alta en comparación con el intervalo 
+recomendado (20 -25%).  En el área rural el aporte está en 25% y en el área indígena en 16%, 
+lo cual está muy por debajo del nivel recomendado.  
+ 
+ 
+Gráfica 22 
+Contribución porcentual de los macro nutrientes  a la 
+disponibilidad de energía,  por área de residencia (% de hogares) . Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  86 Por nivel de pobreza  
+La disponibilidad promedio de energía y nutrientes, según nivel de pobreza, se presentan en el 
+cuadro 59, y en el cuadro  60 la adecuación promedio. La disponibilidad de energía en los 
+hogares se reduce conforme es mayor el nivel de pobreza, en tal forma que mientras en los 
+hogares no pobres la disponibilidad es de 2,280 Kcal diarias per cápita, en los hogares de 
+extrema pob reza solamente es de 1,412 Kcal.  
+ 
+Cuadro 59 
+ Disponibilidad  per cápita*  de energía  
+y nutrientes, según nivel de pobreza.  Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 87 Cuadro 60 
+Adecuación de la disponibilidad promedio de  energía y nutrientes, según nivel de 
+pobreza,  expresado como  % de las RDD.  Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ En el caso de los hogares no pobres la adecuación promedio es de 97%, mientras en los 
+hogares en extrema pobreza  llega solamente a 66%.  Es decir, el efecto del nivel de pobreza 
+en la disponibil idad de energía alimentaria es evidente.  
+ 
+La mayoría de la energía proviene de los carbohidratos en los tres grupos; sin embargo, 
+mientras en los hogares no pobres este aporte es de 57%, en los de pobreza extrema es de 
+72% (gráfica 23).  Además, el aporte de las grasas totales llega a 30% en los hogares no 
+pobres, en cambio en los de extrema pobreza es de 18%, en cuanto a proteínas totales, la 
+contribución es ligeramente mayor en los hogares no pobres.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88 Gráfica 23 
+ Contribución porcentual de los mac ronutrientes a la  disponibilidad de ENERGÍA, por 
+nivel de pobreza (% de hogares) . Panamá, 2008 . 
+ 
+72
+64
+5718 25 3010 12 13
+0%10%20%30%40%50%60%70%80%90%100%
+P Extrema Pobreza No Pobre% de hogares
+Carbohidratos
+ Grasas
+ Proteínas
+ 
+ 
+5.10.  VITAMINAS  
+Riboflavina  
+ 
+Según el área de residencia, la disponibilidad promedio de la riboflavina llena las RDD en el 
+área urbana y en el área rural alcanza el 90% de éstas; no así en el área indígena donde la 
+adecuación promedio es de 54%, es decir apenas alcanza a cubrir la mitad de las necesidades 
+nutricionales de esta vitamina (cuadro 60).  
+ 
+Como puede verse en la gráfica 24, un alto porcentaje de hogares,  sobre todo del área 
+indígena (73%) tienen un déficit mayor del 30% de adecuación de la disponibilidad de 
+riboflavina.   89 
+020406080
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+Urbana Rural IndígenaGráfica 2 4 
+Distribución de los hogares según adecuación  
+de riboflavina , según  área de residencia (% de hogares) . Panamá, 2008 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La disponibilidad de la riboflavina es afectada por el nivel de pobreza, de tal manera que la 
+adecuación promedio presenta una marcada diferencia entre los hogares en extrema pobreza 
+(47%) y los no pobres (107%). Ver cuadro 60.  Además, la proporc ión de los hogares en 
+extrema pobreza con menos de 70% de adecuación, o sea en situación crítica, alcanza el 83%; 
+mientras que en los hogares no pobres esta proporción baja a 27%, los hogares pobres  
+quedan en medio con una proporción de 60%, algo que sigu e siendo alto ( gráfica 25).   Por otra 
+parte, en los hogares no pobres  un 39% de hogares presentan una adecuación de riboflavina 
+suficiente, mientras que en los hogares en extrema pobreza  y los hogares pobres  solamente 
+llegan a este nivel el 5%.   90 Gráfica  25 
+Distribución de los hogares según adecuación de RIBOFLAVINA,  
+por nivel de pobreza (% de hogares) . Panamá, 2008.  
+020406080100
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobre
+ 
+ 
+ 
+Vitamina C  
+En cuanto a vitamina C, la adecuación es suficiente (>140%) en las tres áreas de residencia 
+como puede verse en el cuadro 60 .  No obstante, aproximadamente un 30% de los hogares en 
+las tres áreas tienen una adecuación inferior al 70% (gráfica 26 ). 
+  91 Gráfica 26  
+Distribución de los hogares según adecuación de VITAMINA C,  por área de residencia 
+(% de hogares) . Panamá, 2008.  
+ 
+ 
+0102030405060
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+Urbana Rural Indígena
+ 
+ 
+ 
+ 
+En relación a vitamina C, también se observa diferencia en la adecuación promedio según el 
+nivel de pobreza (cuadro 60); sin embargo, en los tres grupos la adecuación promedio supera 
+el 100% de las RDD.  No obstante, al hacer el análisis de distribución d e los hogares por 
+adecuación de vitamina C, según nivel de pobreza, se encuentra que en los hogares en 
+extrema pobreza  hay un 49% en situación crítica, es decir que no llegan a cubrir el 70% de las 
+RDD.  Mientras en los hogares no pobres la proporción de hogares en esta situación es de 24% 
+y en los  hogares pobres de 47%.  En los hogares no pobres la proporción de hogares que 
+satisfacen el nivel de adecuación de vitamina C corresponde a un 55%, en los hogares en 
+extrema pobreza  esta proporción es de 37% (gráfica 2 7).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  92 Gráfica 2 7 
+Distribución de los hogares según adecuación  
+de vitamina  C, por nivel de pobreza (% de hogares) . Panamá,  2008.  
+ 
+ 
+0102030405060
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobre
+ 
+ 
+ 
+Vitamina A  
+ 
+Respecto a vitamina A, la adecuación promedio es de 92% en el área urbana, de 71% en el 
+área rural y solamente de 28% en el área indígena.  Cuando se analiza la distribución de los 
+hogares según nivel de adecuación de vitamina A se encuentra que un alto porcentaje de 
+hogares están en situación crítica (adecuación <70%), proporción que llega a 88% en el área 
+indígena y es de 50% en el área urbana.  Es decir, que hay un grave problema de deficiencia 
+de esta vitamina ( gráfica 28 ). 
+ 
+ 
+  93 
+020406080100
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+Urbana Rural IndígenaGráfica 28 
+ Distribución de los hogares según adecuación de vitamina  A, por área de residencia 
+(% de hogares) . Panamá,  2008.  
+ 
+ 
+ 
+En cuanto a la vitamina A, sólo en los hogares no pobres la adecuación promedio alcanza 
+el 100% de las RDD, en los hogares en extrema pobreza  la adecuación sólo llega al 30% 
+de las RDD y en los  hogares pobres alcanza el 60%.  Cuando se analiza la distribución de 
+los hogares según la adecuación de vitamina, por nivel de pobreza (gráfica 2 9), se 
+encuentra que cerca del 90% de los hogares en extrema pobreza están en una situación 
+crítica, no cubren el 70% de las RDD; en los  hogares no pobres esta proporción es de 49% 
+y en los hogares pobres es de 80%. Solamente un 5 % de los hogares en extrema pobreza  
+alcanzan un nivel satisfactorio y un 27% de los hogares no pobres.   94 Gráfica 29  
+ Distribución de los hogares según  adecuación de vitamina  A,  
+por ni vel de pobreza (% de hogares) . Panamá, 2008.  
+ 
+020406080100
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobre
+ 
+ 
+ 
+5.11.  Minerales  
+ 
+Calcio  
+La disponibilidad de calcio es insuficiente en todas las áreas de residencia, en el área indígena, 
+en promedio, escasamente cubre la cuarta parte de la RDD; o sea, que es una situación gra ve; 
+aún en el área urbana solamente cubre el 57% en promedio.  Cuando se distribuyen los 
+hogares según el porcentaje de adecuación se observa que más del 75% de los hogares en las 
+tres áreas de residencia tienen un déficit de más del 30%, y en el caso de l os hogares 
+indígenas, la proporción de los hogares es de 95% (gráfica 30).  A nivel nacional, apenas un 
+10% están en un nivel aceptable o satisfactorio.  Es decir, que la baja disponibilidad de este 
+mineral refleja una grave deficiencia.  
+  
+Al analizar por nivel de pobreza, la disponibilidad de calcio es  deficiente en todos los grupos; en 
+el cuadro 60  se observa que la adecuación promedio en los hogares en extrema pobreza es 
+apenas de 22% en relación a las RDD, y de 33% en los hogares pobres, lo que refleja la 
+existencia de una seria deficiencia en la disponibilidad de este mineral.  Por otra parte, en la 
+gráfica 31  se muestra que en más del 90% de los hogares en extrema pobreza y de pobreza, la 
+adecuación promedio de calcio es inferior al 70%.  Esto evidenci a un serio déficit de este  95 
+020406080100
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+Urbana Rural Indígena
+020406080100
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobremineral en la población, pues aún en el grupo considerado no pobre, un 70% de los hogares 
+están por debajo del 70% de las RDD de calcio.  
+ 
+Gráfica 30 
+Distribución de los hogares según adecuación de calcio , 
+por área de residencia (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distribución de los hogares según adecuación de calcio ,  
+por nivel de pobreza (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  96 
+020406080100
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+Urbana Rural IndígenaCinc 
+En lo referente a cinc, también se observa déficit en las tres áreas de residencia, con u na 
+adecuación promedio de 60% en el área urbana y en la rural, siendo de 45% en el área 
+indígena.  En la gráfica 32 se observa la distribución de los hogares según la adecuación de la 
+disponibilidad de cinc, como puede verse, más del 60% de los hogares tie nen una adecuación 
+inferior al 70%, proporción que es mayor en el área indígena (80%).  
+ 
+Gráfica 32  
+Distribución de los hogares según adecuación de cinc, 
+por área de residencia (% de hogares ). Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Por nivel de pobreza en todos los grupos, la adecuación promedio es baja; no obstante, la 
+adecuación aumenta ligeramente conforme es menor el nivel de pobreza.  Al analizar la 
+distribución de los hogares según la adecuación de cinc, se encuentra que en los tres grupos, 
+más del 60% de los h ogares están por debajo del 70% de las RDD (gráfica 33).  o sea, que en 
+todos los niveles existe una seria deficiencia de este mineral, independiente del nivel de 
+pobreza.  
+  97 Gráfica 3 3 
+Distribución de los hogares según adecuación de cinc,   
+por nivel de pob reza (% de hogares) . Panamá, 2008.  
+ 
+020406080100
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobre
+ 
+ 
+ 
+Hierro  
+La disponibilidad de hierro, en promedio, sólo en los hogares no pobres cubre las RDD, en los 
+otros grupos de hogares cubre el 98% y el 74%.  Hay que tomar en cuenta que se trata 
+principalmente de hierro de or igen vegetal, cuya absorción es baja.  Cuando se analiza la 
+distribución de los hogares según el nivel de adecuación se encuentra que en los hogares con 
+pobreza extrema el 60% no alcanza a cubrir el 70% de las RDD; es decir, aún siendo de origen 
+vegetal la  disponibilidad es baja en estos hogares.  En los hogares con pobreza relativa esta 
+proporción baja a 30%, y en los hogares no pobres es apenas de 19%.  Es decir, que este 
+mineral sí es afectado por el nivel de pobreza.  Ver gráfica 34. 
+ 
+ 
+ 
+ 
+  98 Gráfica 3 4 
+Distribución de los hogares según adecuación de HIERRO,  
+por nivel de pobreza (% de hogares) . Panamá, 2008.  
+ 
+020406080
+<70 70-89 90-109 110 +% de hogares
+% de adecuación
+Extrema Pobre No pobre
+ 
+  99 5.12.  Disponibilidad de energía y nutrientes por tamaño de hogar  
+ 
+En general, se observa que la disponibilidad de energía y nutrientes es mayor cuando el 
+tamaño del hogar es menor.  En el cuadro 61 se presenta la disponibilidad de energía y 
+nutrientes según el tamaño del hogar y en el cuadro 62 la adecuación promedio de la 
+disponibilidad de energía y nutrientes.  
+ 
+Cuadro 61 
+Disponibilidad per cápit a de energía y nutrientes según tamaño del  
+hogar (número de miembros = m).  Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 Cuadro 62 
+Adecuación de la disponibilidad  promedio de energía y nutrientes, según tamaño del 
+hogar. (Expresado como % porcentaje de las RDD). Panamá, 2008.  
+ 
+ 
+Energía  
+ 
+La disponibilidad promedio de energía es solamente de 1,386 Kcal/persona/día cuando el 
+tamaño del hogar es de ocho o más miembros, en comparación con una disponibilidad de 
+2,350 Kcal/persona/día en hogares con menos de cinco miembros.  Esto se re fleja en la 
+adecuación promedio de la disponibilidad de energía, que es de 100% en los hogares de 
+menos de cinco miembros y de 64% en los que tienen ocho o más miembros ,  o sea, el número 
+de miembros en el hogar afecta la disponibilidad per cápita de energ ía.  
+ 
+Además, mientras menor sea el número de miembros en el hogar, mayor es la proporción de 
+hogares con niveles satisfactorios de disponibilidad de energía (>110% de adecuación).  Por el 
+contrario, conforme es mayor el tamaño del hogar, es mayor la propo rción de hogares con 
+ 101 
+010203040506070
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +niveles bajos de adecuación (<70%), de manera que en los hogares con ocho o más miembros 
+más del 60% están en situación crítica en relación a la disponibilidad de energía (gráfica 35 ). 
+ 
+ Gráfica 35 
+Distribución de los hogares según la adecuación de energía , 
+por tamaño del hogar (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En los hogares con más miembros es menor la disponibilidad de proteínas, grasas totales y 
+carbohidratos.  Sin embargo, el tamaño del hogar no afecta el aporte proporcion al de las 
+proteínas totales a la energía total disponible; en el caso de las grasas, el aporte es mayor 
+cuando el número de miembros del hogar es más bajo, y en el caso del aporte de los 
+carbohidratos, el aporte es menor cuando menor es el tamaño del hogar .  
+ 
+Vitaminas  
+ 
+Como puede verse en la gráfica 36  la adecuación promedio de la disponibilidad de riboflavina, 
+vitamina A y vitamina C es afectada por el tamaño de hogar.  A menor  número de miembros 
+del hogar mayor es la adecuación promedio, lo cual es más notorio en el caso de la vitamina C, 
+donde las adecuaciones promedio son altas en los tres grupos, pero la diferencia entre los 
+hogares con menos miembros (<5m) y los que tienen más miembros (>7m) es muy evidente.  
+En las otras dos vitaminas también se obs erva que la adecuación promedio en los hogares de 
+mayor tamaño (>7) es menor que en los que tienen menor tamaño (<5m).  Aunque los valores, 
+en ambos casos son más bajos, principalmente en la vitamina A en la que los hogares con más  102 de siete miembros la ade cuación promedio sólo llega a 50%; es decir, únicamente cubre la 
+mitad de las RDD.  
+ 
+Gráfica 36 . 
+ Adecuación promedio de la disponibilidad de riboflavina, vitamina A  y vitamina C, según 
+tamaño del hogar . Panamá, 2008.  
+ 
+0255075100125150175
+1-4 m. 5-7 m. 8 y + m.% de adecuación
+Vitamina C Riboflavina Vitamina A
+ 
+ 
+ 
+En lo referente a vitamina A, la a decuación promedio en los hogares con menor número de 
+miembros es de 94%, en cambio en los hogares con más de siete miembros la adecuación 
+solamente alcanza el 50% de las RDD.  
+ 
+Cuando se analiza la distribución de los hogares según adecuación de vitamina A por tamaño 
+del hogar (gráfica 3 7), se observa una elevada proporción de hogares con déficit mayor del 
+30% de adecuación en los tres tamaños de hogar.  Sin embargo, en los hogares con más de 
+siete miembros dicha proporción es cerca de 80%; en cambio en lo s hogares más pequeños 
+(<5m) la proporción es menor (54%).  Es decir, que la disponibilidad de esta vitamina es 
+seriamente afectada por el tamaño del hogar.  
+ 
+ 
+ 
+ 
+  103 
+020406080
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +Gráfica 37  
+Distribución de los hogares según la adecuación de  
+vitamina  A, por tamaño del hog ar. Panamá, 2008.  
+020406080
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +
+ 
+ 
+ 
+Por otra parte, un 77% de los hogares con mayor número de miembros, tienen una adecuación 
+de riboflavina menor de 70%; mientras en los hogares de menos de cinco miembros esta 
+proporción es prácticamente la mitad (31%).  Además, en los  hogares con menos miembros la 
+proporción de hogares con niveles satisfactorios de riboflavina es de 88%, en cambio en los 
+hogares con más de siete miembros la proporción con niveles satisfactorios solamente es de 
+6% (gráfica 3 8), o sea que el tamaño del h ogar afecta la disponibilidad de riboflavina.  
+ 
+Gráfica 38  
+Distribución de los hogares según la adecuación de  
+RIBOFLAVINA, por tamaño del hogar . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  104 
+020406080100120140
+1-4 m. 5-7 m. 8 y + m.% de adecuación
+Hierro Calcio Zinc
+020406080
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +Minerales  
+ 
+Como puede verse en la gráfica 39, la disponibilidad de hierro es afectada p or el tamaño del 
+hogar, en cuanto mayor es el número de miembros en el hogar, menor es la adecuación 
+promedio.  Por otra parte, en el caso calcio y cinc, en las tres categorías de hogares la 
+disponibilidad promedio de este mineral es igualmente deficiente,  aunque sí es afectada 
+ligeramente por el tamaño del hogar.  
+Gráfica 39 
+Adecuación promedio de la disponibilidad de HIERRO, CALCIO,  
+y CINC, según tamaño del hogar . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En el caso del hierro, si bien la adecuación promedio no es tan baj a como en los otros 
+minerales, cabe señalar que en los hogares con más de siete miembros más del 60% de los 
+hogares tienen una adecuación inferior a 70% de las RDD, proporción que baja a 19% en los 
+hogares con <5 miembros (Gráfica 4 0).  
+Gráfica 40 
+ Distri bución de los hogares según la adecuación de HIERRO,  
+por tamaño del hogar (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  105 
+020406080100
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +La disponibilidad de calcio es deficiente en los tres grupos; obviamente es bastante baja en los 
+hogares con más de siete miembros, donde apena s la adecuación promedio llega a 29%, 
+mientras en los que tienen menos de cinco miembros, la adecuación promedio es de 59%.  
+(Gráfica 4 1).   
+ 
+Gráfica 41 
+ Distribución de los hogares según adecuación de CALCIO,  
+por tamaño del hogar (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En lo referente a cinc, la disponibilidad promedio es igual de deficiente en los tres grupos, y es 
+ligeramente afectada por el tamaño del hogar.  La adecuación promedio es de 65% en los 
+hogares con menos miembros y baja a 43% en los hogar es con más de siete miembros.  Así 
+también, la proporción de hogares con más del 30% de déficit es de 63% en los hogares con 
+menos de cinco miembros y llega a 87% en los hogares con más de siete miembros.  
+Solamente un 11% de hogares alcanza un nivel satis factorio en la disponibilidad de este 
+mineral en los hogares con menos de cinco miembros y apenas un 3% en los hogares con más 
+de siete miembros.  Realmente, existe una deficiencia severa de cinc, independiente del 
+tamaño del hogar (gráfica 4 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+  106 
+020406080100
+< 70 70-89 90-109 110+% de hogares
+% de adecuación
+1-4 m 5-7 m 8 +Gráfica 4 2 
+ Distribución de los hogares según adecuación de CINC,  
+por tamaño del hogar (% de hogares) . Panamá, 2008.  
+ 
+ 
+ 
+ 
+ 
+  107 BIBLIOGRAFIA  
+ 
+Bermúdez , O. C. d. (1982). Estado Nutricional de la población adulta en la República de 
+Panamá, 1980. Centro de Estudio s Superiores en Nutrición y Ciencias de Alimentos, Facultad 
+de Ciencias Médicas . Guatemala, Universidad de San Carlos. Tesis, Maestría en Salud 
+Pública: 107.  
+ 
+Bermúdez , O. C. d., C. Parilló n, et al. (1984). "Peso y talla en la población adulta panameña." 
+Arch Latinoam Nutr  34(4): 605 -14. 
+ 
+MEF (1999). Perfil y Características de los Pobres en Panamá. Ministerio de Economía y 
+Finanzas, Dirección de Políticas Sociales. Programa de las Naciones Unidas para el Desarrollo. 
+Estudio de Niveles de Vida, Proyecto PAN /96/003. Encuestas de Niveles de Vida - ENV 1997 . 
+C. B. Ed. NZ de Jarpa, R Gonzalez, J Dieguez, MC de Pastor, C Gadpaille, RE de De La Cruz, 
+E de Kowalczyk  y M Aquino. Panamá, República de Panamá.  
+ 
+MEF (2003). "Encuesta de Niveles de Vida, 2003.  Bases el ectronicas de datos." Ministerio de 
+Economía y Finanzas, Dirección de Políticas Sociales. Proyecto Estudios de Niveles de Vida.  
+ 
+MEF (2005). La pobreza en Panamá.  Encuesta de Niveles de Vida - 2003. Principales 
+resultados (Edición revisada). Ministerio de  Economía y Finanzas, Dirección de Políticas 
+Sociales.  C. B. Ed. NZ de Jarpa, R Gonzalez, J Dieguez, MC de Pastor, C Gadpaille, RE de De 
+La Cruz, E de Kowalczyk  y M Aquino. Panamá, República de Panamá.  
+ 
+Menchú, M.T., Mendez, H. (2011). Análisis de la situ ación alimentaria de Panam á. INCAP/OPS. 
+Guatemala.  
+ 
+ 

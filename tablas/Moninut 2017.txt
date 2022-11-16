@@ -1,0 +1,1766 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II MONITOREO NUTRICIONAL DE LA POBLACIÓN QUE ASISTE A LAS INSTALACIONES DEL 
+MINSA  
+MONINUT -2017  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MONINUT 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II MONITOREO NUTRICIONAL DE LA POBLACIÓN QUE ASISTE A LAS INSTALACIONES DEL 
+MINSA  
+MONINUT -2017  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MONINUT 2017
+PANAMA 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+II MONITOREO NUTRICIONAL DE LA POBLACIÓN QUE ASISTE A LAS INSTALACIONES DEL 
+MINSA  
+MONINUT -2017  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MONINUT 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+II MONITOREO NUTRICIONAL DE LA POBLACIÓN QUE ASISTE A LAS INSTALACIONES DEL 
+MINSA  
+MONINUT -2017  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MONINUT 2017
+PANAMA 20183 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II MONITOREO NUTRICIONAL DE LA POBLACIÓN QUE ASISTE A LAS INSTALACIONES DEL 
+MINSA  
+MONINUT -2017  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PANAMÁ, 2018  4 
+ 
+      
+ 
+ 
+ 
+       
+ 
+   
+ 
+Agradecimiento  
+Agradecemos a todos los Directores Regionales de Salud y Directores Médicos de 
+instalaciones de salud, por el apoyo brindado. De igual manera a todo el personal de salud que participo en el proceso de recolección de los datos antropométricos, así 
+como de extracción y pr ocesamiento de las muestras de sangre venosa; sin su valioso 
+aporte este documento no hubiese sido generado.  
+ 
+ Cita sugerida  
+De León J, González E, Barba A, Sinisterra O, Atencio A. II Monitoreo Nutricional en las Instalaciones de Salud del MINSA. Panamá: MINSA, INCAP -OPS/OMS; 2018.   
+ 
+ 
+Ministerio de Salud de Panamá, 2018  
+Se reservan todos los derechos. La presente publicación d el Departamento de Salud 
+Nutricional del Ministerio de Salud de Panamá, está disponible en el sitio web 
+(http://www.minsa.gob.pa/ ) o puede solicitarse al Departamento de Salud 
+Nutricional, Ministerio de Salud de Pan amá (teléfono 507 -512-9301).  
+Preprensa y Produccion Gráﬁca 
+Print Plus, S.A. Hecho e Impreso en Panamá. Abril, 2019. 
+ 
+5EQUIPO DE TRABAJO MONINUT 2017  
+Etapa 1: Planificación y diseño  
+Elaboración del protocolo  Elka E. González   M. Departamento de Salud Nutricional  
+Diseño muestral  Wilton Pérez  INCAP Sede  
+Elaboración Manual de 
+Encuestador  Armando Barba  Región de Salud de Herrera  
+Diseño de la plataforma de 
+captura de datos  José R.  De León  Departamento de Salud Nutricional  
+Logística  Yeny Carrasco  Departamento de Salud Nutricional  Nilka López  
+David Cortes  Departamento de Gestión de  
+Laboratorio Clínico   Adriana García  
+Elka E. Gonzalez M.  Departamento de Salud Nutricional  
+José R. De león C  Departamento de Salud Nutricional  
+Capacitación y estandarización  José R.  De León  Departamento de Salud Nutricional  Elka E. González M. 
+Armando Barba  Región de Salud de Herrera  
+ 
+Etapa 2: Ejecución  
+Coordinadores Regionales 
+de Salud Nutricional  Carolina Samudio  Región de Salud de Bocas del Toro  
+Mayra Cornejo  Región de Salud de  Coclé  
+Judith de Pino  Región de Salud de Colón  
+Milvia Samaniego  Región de Salud de Chiriquí  
+Yulissa Navarro  Región de Salud de Darién  
+Armando Barba  Región de Salud de Herrera  
+Rosania R.  R. de Castro  Región de Salud de Los Santos  
+Perla Ochogavia  Región de Salud de Panamá Oeste  
+Odalis Sinisterra  Región de Salud de Panamá Norte  
+Drucyla Castillo  Región de Salud Metropolitana  
+Daryelis González  Región de Salud de San Miguelito  
+Dallys D. de Abrego  Región de Salud de Veraguas  
+Lilian  Jackson  Región de Salud de Kuna Yala  
+Itzel Montero  Región de Salud de Ngäbe Buglé  
+Marymar Salazar  Región de Salud de Panamá Este  
+Coordinadores Regi onales 
+de Laboratorio  Iliana Pinto  Región de Salud de Bocas del Toro  
+Milena Samaniego  Región de Salud de Coclé  
+Geydi Cañate  Región de Salud de Colón  
+Yiselis Caballero  Región de Salud de Chiriquí  
+Félix Vergara  Región de Salud de Darién  
+John Morais  Región de Salud de Herrera  
+Linda Luz Quintero  Región de Salud de Los Santos  
+Oscar Price  Región de Salud de Panamá Oeste  
+Maricruz Donat o Región de Salud de Panamá Norte  
+Carmen Arosemena  Región de Salud Metropolitana  
+Francisco Carol  Región de Salud de San Miguelito  
+6Constantin Ruíz  Región de Salud de Veraguas  
+Baudilio Escobar  Región de Salud de Kuna Yala  
+Lady Mosquera  Región de Salud de Ngäbe Buglé  
+Sandra Bethancourt  Región de Salud de Panamá Este  
+ 
+Etapa 3: Digitación y limpieza de la base de datos  
+Digitación  Nicanor Montero   
+ 
+ 
+ 
+Departamento de Salud Nutricional  
+ José Carlos Quiel  
+Johonny Hurtado  
+Diógenes Guerra  
+Limpieza de la base de datos   Elka E. González M.  
+Nilka López  
+Yimara Vergara  
+Suryelis Samudio  
+Armando Barba  Región de Salud de Her rera  
+Nilka López  Departamento de Salud Nutricional  
+ Dayris Conte  
+Roberto Martínez  Región de Salud de Coclé  
+ 
+Etapa 4: Análisis de datos y elaboración del informe final  
+Análisis de datos y elaboración del 
+informe final  José Renán De León  Departamento de Salud Nutricional  
+Elka E. González M. Departamento de Salud Nutricional  
+Armando Barba  Región de Salud de Herrera  
+Odalis Sinisterra  Región de Salud de Panamá Norte  
+Ana Atencio  INCAP -OPS/OMS.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7CONTENIDO  
+ 
+Sección  página  
+Equipo de trabajo MONINUT 2017  1 
+Contenido  3 
+Introducción  y objetivos  4 
+Metodología  5 
+Resultados  7 
+Discusión  15 
+Conclusiones  17 
+Limitaciones y recomendaciones  17 
+Bibliografía  18 
+ 
+     
+ 
+     
+ 
+ 
+ 
+        
+   
+ 
+  INDICE
+Introducción
+Objetivos
+Metodología
+Resultados
+Discusión
+ConclusionesLimitaciones 
+Recomendaciones
+Bibliografía89
+9
+13
+23
+2830
+31
+32  
+8INTRODUCCIÓN  
+ 
+La producción de datos antropométricos que generan de manera rutinaria los 
+servicios de atención primaria del Ministerio de Salud de Panamá, debería ser suficientes para vigilar el estado nutricional de la población que asisten a dichas instalaciones; sin embargo, la información obtenida hasta el momento no es 
+oportuna ni suficiente, debido a la calidad e inconsistencia y subregistro de los datos.   
+ 
+Con el fin de obtener información sobre el estado nutricional de la población en el 
+año 1992 se realiza la P rimera
+ Encuesta de Prevalencia de Desnutrición en niños 
+menores de 5 años y en embarazadas que asistieron a los centros de salud de Panamá
+1; luego en el año de 1994 se realiza la Segunda Encuesta en donde se 
+incorporaron datos sobre la situación de anemia en embarazadas2 y para el año de 
+1995 se realiza la tercera y última encuesta en donde se añade información sobre el estado nutricional en adultos
+3. Estas encuestas se basaron en información aportada 
+durante una semana; se tomó peso y talla, los datos de h emoglobina se obtuvieron 
+de los expedientes y la información sobre lactancia materna fue reportada por las madres al momento de la encuesta.  
+ En los años 1997, 2003 y 2008 se realizaron las Encuestas de Niveles de Vida, que permitió hacer inferencias del e stado nutricional a nivel nacional y de áreas 
+geográficas específicas
+4.  
+ Desde el  año 2008 el país no contaba con información oportuna para la toma de 
+decisiones; por lo tanto, el Departamento de Salud Nutricional del Ministerio de Salud, con sideró  necesa rio establecer un Sistema de Vigilancia Nutricional de la 
+población que asiste a las instalaciones  de salud, que se ha denominado Monitoreo 
+del Estado Nutricional (MONINUT), la cual fue aplicada por primera vez en  el 2014. 
+Los datos obtenidos en dicha inve stigación permitieron determinar que el principal 
+problema nutricional en país es el exceso de peso y que la desnutrición crónica en menores de 5 años sigue siendo un problema de salud pública en las Comarcas Indígenas de Kuna Yala y Ngäbe Buglé, así como en Bocas del Toro y Darién, 
+provincias donde residen grandes grupos indí genas
+5. 
+ El MONINUT ha sido incorporado como una de las líneas de acción para dar 
+seguimiento a las Políticas de Salud 2016 a 2025 de Panamá
+6. 
+ 
+Los resultados del presente estudio reafirma la doble carga de la malnutrición que 
+enfrenta la población en Panamá, en donde persisten las deficiencias nutricionales y el exceso de peso.  
+ 8
+9
+9
+13
+23
+2830
+31
+32  INTRODUCCIÓN
+9OBJETIVOS  
+ 
+Objetivo G eneral  
+Fortalecer el Sistema de Vigilancia Alimentari a y Nutricional del país, generando 
+información de manera oportuna y sistemática de la situación nutricional de la 
+población que asiste a las instalaciones de salud de la red de atención primaria del Ministerio de Salud a nivel nacional.  
+ 
+ 
+Objetivos Específic os 
+ Determinar el estado nutricional de niños menores de 5 años, niños de 5 a 9 años, adolescentes de 10 a 17 años, adultos mayores de 18 años y embarazadas.  
+ Determinar la prevalencia de anemia en niños menores de 5 años y embarazadas.  
+ Determinar la preval encia de lactancia materna exclusiva y lactancia materna 
+continuada.  
+ 
+ 
+METODOLOGIA  
+ 
+1. Tipo de estudio:  
+El MONINUT es un estudio de tipo descriptivo, observacional y transversal. En el 2017 
+la población objetivo incluyo a niños menores de 5 años, niños de 5 a  9 años, 
+adolescentes de 10 a 17 años, adultos mayores de 18 años y embarazadas que asistieron a instalaciones de salud de la red de atención primaria del Ministerio de Salud  a nivel nacional . 
+ 
+2. Tamaño muestral:  
+Se calculó el tamaño de la muestra  con repr esentativid ad nacional y regional, con un  
+nivel de confianza del 95%,  tasa de participación del 90%,  efecto de diseño de 1.1 y 
+un error de estima ción o precisión entre 1% y 10%  en dependencia de la magnitud 
+del indicador a monitorear.  Se tomó en cuenta  las prevalencias de anemia y baja talla 
+para los menores de 5 años, exceso de peso para los niños de 5 a 9 años, embarazadas 
+y adultos según MONINUT 2014; y para adolescentes la prevalencia de exceso de 
+peso de la Encuesta de Niveles de Vida 2008.  Todos los cálculos fueron realizados en 
+el programa OpenEpi7. La selección de la muestra se realizó de manera aleatoria. Las 
+instalaciones de salud fueron seleccionadas con probabilidad proporcional al 
+tamaño, utilizando la herramienta STEPSampling.xls8 de la Organi zación Mundial de 
+la Salud -OMS.  METODOLOGÍAOBJETIVOS
+103. Capacitación y estandarización:   
+Con el objetivo de estandarizar a los encuestadores en el proceso de llenado de 
+formulario y en técnicas adecuadas de peso y talla se realizó un taller de estandarización. Todos los encuestadores de MONINUT 2017 tenían como 
+prerrequisito el haber participado del mencionado taller.  
+ 
+4. Mediciones realizadas:  
+Las medidas antropométricas recolectadas fueron el peso y la longitud/talla. El equipo antropométrico usado para la recolección de l a información fue el disponible 
+en las instalaciones/regiones de salud.  
+ La medición de la  concentración de la hemoglobina y el volumen corpuscular medio 
+(VCM) se realizó con una muestra de sangre venosa a niños de 6 a 60 meses de edad 
+y a mujeres embaraza das. La extracción, procesamiento y entrega de resultados fue 
+realizada por personal idóneo de laboratorio en las diferentes regiones de salud del país.  
+ 
+5. Captación y análisis de datos:  
+La captación de los datos s e realizó  mediante doble digitación en un fo rmulario 
+creado en Epi Info™ for Windows9. En la etapa  de limpieza y análisis de los datos se 
+utilizaron los programas Microsoft Access, Microsoft Excel, Anthro10, AnthroPlus11 y 
+Stata 12 .  
+ 
+6. Criterios usados para la clasificación del estado n utricional y anemia:  
+Se utilizaron l os cri terios de  clasificación  establecido s por el Ministerio de Salud en 
+las Normas y Guías de Atención y las recomendaciones de la Organiza ción Mundial 
+de la Salud (OMS):  
+ 
+   
+ 
+ 
+   
+ 
+ 
+11CRITERIOS PARA LA CLASIFICACIÓN DEL ESTADO NUTRICIONAL SEGÚN GRUPO DE 
+POBLACIÓN 
+ 
+CLASIFICACIÓN  MENORES DE 5 AÑOS TALLA/EDAD  
+Baja Talla  <-2DE 
+Normal  >-2 DE  
+Referencia: OMS 2006 (10) . 
+CLASIFICACIÓN  MENORES DE 5 AÑOS PESO/EDAD  
+Bajo Peso  <-2DE 
+Normal  Desde -2 DE hasta +2DE  
+Referencia: OMS 2006 (10). 
+CLASIFICACIÓN  MENORES DE 5 AÑOS IMC/EDAD  
+Emaciado  <-2DE 
+Normal  Desde -2 DE hasta +2DE  
+Sobrepeso  >+2DE hasta +3DE  
+Obesidad  >+3DE  
+Referencia: OMS 2006 (10) . 
+CLASIFICACIÓN  ESCOLARES POR IMC/EDAD  
+Bajo Peso  < -2DE 
+Normal  -2DE - +1DE  
+Sobrepeso  > +1DE - +2 DE  
+Obesidad  > +2DE  
+Referencia: OMS 2007 (11) . 
+CLASIFICACIÓN  ADULTOS  POR IMC  
+Bajo Peso  < 18.5  
+Normal  18.5 – 24.9  
+Sobrepeso  25 – 29.9  
+Obesidad  ≥ 30  
+Referencia: MINSA, 2009 (12) . 
+GRUPO DE POBLACIÓN  CRITERIOS  
+Embarazadas  Curvas IMC según edad gestacional/Atalah  
+                               Referencia: Atalah, 1997 (13) . 
+CRITERIOS PARA DETERMINAR LA SEVERIDAD DE LA MALNUTRICIÓN  
+POR DÉFICIT EN NIÑOS MENORES DE 5 AÑOS  
+ 
+Indicador Clasificación de severidad del estado nutricional en <5 años  según 
+OMS  
+Leve  Media  Alta Muy alta  
+Baja talla 
+(talla/edad)  <20%  20% - 29.9%  30% - 39.9%  >40%  
+Bajo peso  
+(peso/edad)  <10%  10% - 19.9%  20% - 29.9%  >30%  
+Emaciado  
+(IMC/edad)  <5%  5% - 9.9%  10% - 14.9%  >15%  
+Referencia: World Health Organization 1995  (14). 
+12CRITERIOS PARA LA CLASIFICACIÓN DE SEVERIDAD DE LA ANEMIA  
+EN MENORES DE 5 AÑOS Y EMBARAZADAS  
+ 
+Severidad  de la anemia  Valor de hemoglobina  
+Anemia total  < 11.0 g/dl  
+Anemia Leve  10.9 – 10.0 g/dl  
+Anemia Moderada  9.9 – 7.0 g/dl  
+Anemia Grave  < 7.0 g/dl  
+                                     Referencia: Organizac ión Mundial de la Salud 2011 (15 ). 
+CRITERIOS PARA DETERMINAR LA SEVERIDAD DE LA ANEMIA A NIVEL POBLACIONAL  
+ 
+Problema  Clasificación de magnitud de anemia como problema de salud 
+pública según OMS/UNICEF/ONU  
+Normal  Leve  Moderada  Alta 
+Anemia  < 5%  5%-19.9%  20% - 39.9%  > 40%  
+Referencia: WHO, 2001 (16) . 
+ 
+Para la clasificación del nivel de prevalencia de exceso por región de salud se agruparon las 
+prevalencias en cuatro partes (rangos por cuartiles), donde cada parte tiene el 25% de las 
+prevalencias, definiendo los siguientes criterios:  
+ 
+CRITERIO DE CLASIF ICACIÓN DE NIVEL PREVALENCIAS DE EXCESO DE PESO POR REGIÓN 
+DE SALUD  
+Clasificación de nivel prevalencias  Rango  del punto de corte por cuartil  
+Baja prevalencia  menor 25  
+Moderada prevalencia  entre 25 a 49.99  
+Alta prevalencia  entre 50 a 74.99  
+Muy alta prevalencia  igual y mayor 75  
+ 
+ 
+7. Valores atípicos de hemoglobina, hematocrito y volumen corpuscular 
+medio (VCM):  
+Con respecto a  la hemoglobina y hematocrito se consideraron valores atípicos de 
+hemoglobina aquellos inferiores a <6g/dl o superior es a 16 g/dl y para hematocrito 
+<18% o >48%. Respecto a VCM  se consideraron valores atípicos aquellos inferiores a  
+<60 fL o  superiores  >120fL.  Todos los valores atípicos encontrados fueron verificados 
+que no correspondía  a un error de digitación antes de ser  eliminados de la base de 
+datos final.  
+     
+13RESULTADOS  
+ 
+1. Características de la muestra  
+Se estimó estadísticamente una muestra representativa por región de salud, para un 
+total de 7,710 sujetos de estudio de la población objetivo; según los formularios enviados desde las diferentes regiones del país se recolectó información de 7,996 sujetos de estudio. Durante la limpieza de datos se eliminaron en total 111 sujetos, correspondiente a 49 menores de 5 años, 3 5 escolares, 9 adolescentes, 5 adultos y 
+13 emba razadas, por valores e xtremos, fecha de nacimiento e información 
+incompleta.  
+ Se logró una muestra final de 7,885 sujetos, alcanzando más del 100% de la muestra  
+estimada, no obstante, para los grupos de escolares se alcanzó 94.2 % y en las embarazadas 82.3  %. (cuadro No. 1).  
+ De los 1,690 niños menores de 5 años, 1,368 correspondían a niños de 6 a 60 meses de edad. De estos niños fue posible obtener datos de hemoglobina en  1,259  
+(92.0%).  Del total de 1,444 embaraz adas, se logró extraer sangre venosa para l a 
+determinación de hemoglobina al 93.7% de ellas. En el cuadro No. 2 se observa la 
+distribución de la muestra alcanzada por región  según grupo objetivo.  
+ Con relación a la distribución de la m uestra según sexo, se encontró que del total 
+de niños de 0 a 59 meses el 47.9% eran niñas y 52.1% varones; mientras en el caso 
+de los escolares el 50.7% eran niños y 49.3% niñas, y en los adultos un tercio (29.8%) correspondían al sexo masculino y 70.2% al femenino.  
+ 
+CUADRO NO. 1.  DISTRI BUCIÓN DE LA MUESTRA ESTIMADA Y ALCANZADA  SEGÚN 
+POBLACIÓN OBJETIVO. MONINUT 2017.  
+ 
+   
+ 
+ 
+   Muestra  Total  Embarazadas Menores de  
+5 años  Niños  
+5 a 9 años  Adolescentes 
+10 a 17 años  Adultos  
+Estimada  7710  1755  1590  1455  1350  1560  
+Alcanzada  7996  1457  1739  1406  1565  1829  
+Final  7,885  1,444  1,690  1,371  1,556  1824  RESULTADOS
+14CUADRO NO. 2 . DISTRIBUCIÓN DE LA MUESTRA POR REGIÓN DE SALUD SEGÚN 
+GRUPO OBJETIVO. MONINUT 2017.  
+ 
+Grupo 
+poblacional  Menores 
+de 5 años  Niños  
+5 a 9 años  Adolescentes  
+10 a 17 años  Adultos  Embarazadas  
+Muestra mínima 
+regional  106 97 90 104 117 
+Bocas del Toro  76 66 92 106 48 
+Coclé  131 98 106 106 110 
+Colón  52 121 168 279 31 
+Chiriquí  142 88 91 107 114 
+Darién  109 88 91 123 57 
+Herrera  121 77 84 105 102 
+Los Santos  99 130 96 126 63 
+Veraguas  100 86 84 104 96 
+Kuna Yala  105 96 103 111 107 
+Ngäbe Buglé  125 62 141 105 123 
+Metropolitana  165 102 109 131 104 
+San Miguelito  113 94 89 106 124 
+Panamá Este  137 86 112 110 129 
+Panamá Norte  107 93 90 98 117 
+Panamá Oeste  105 84 100 107 119 
+Total  1,690 1,371 1,556 1,824 1,444 
+ 
+ 
+  
+ 
+    
+ 
+     
+152. Estado nutricional de los menores de 5  años : 
+Al realizar la evaluación del estado nutricional en 1,690 menores de 5 años, se 
+observó que los principales pro blemas de malnutrición son la b aja talla y el exceso 
+de peso (Grá fica No. 1).  
+ 
+GRÁFICA NO. 1  
+PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN NIÑOS MENORES DE 5 
+AÑOS DE EDAD.  
+MONINUT 2017 (N = 1,690)  
+  
+  
+En relación al índice de t alla para la edad, se encontró que el 16.3% tenía n baja talla, 
+de estos el 12.0 % presenta ron baja talla moderada y 4.3 % baja talla severa. En 
+relación al s exo, la baja talla en los varones fue de 16.6% y en las niñas 15.9 %.   
+ Se encontró que 12 regiones de salud, presentaron un nivel leve de severidad inferior a 20.0 %, por otro lado, la región de Kuna Yala presento u na severidad muy alta de 
+59.1% y la región de Ng äbe Bugl é con severidad media de 25.6% (Grá fica No. 2). 
+ 
+ 
+  
+ 
+   
+GRÁFICA  N °1. PREVALENCIA DE LOS PROBLEMAS DE MALNUTRICIÓN EN NIÑOS 
+MENORES DE 5 AÑOS. MONINUT 2017 (n = 1,690 ).
+16GRÁFICA NO. 2  
+PREVALENCIA DE TALLA BAJA EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 (N = 1,690)  
+ 
+ 
+De acuerdo al Índice de Masa Corporal  (IMC)  para la edad, la prevalencia nacional de 
+emaciación fue de 2.9% y de e xceso de peso de 11.7% (8.2% sobrepeso y 3.5% 
+obesidad), aumentando con la edad (Cuadro No. 3).  
+CUADRO  NO. 3 . PREVALENCIA DE EXCESO DE PESO SEGÚN IMC/EDAD SEGÚN 
+GRUPO DE E DAD EN MENORES DE 5 AÑOS. MONINUT  2017.  
+ 
+ 
+    Las regiones con  las prevalencias muy altas de e xceso de peso, por arriba del 15% 
+fueron Los Santos, Veraguas y Chiriquí y las más bajas por debajo del 9.2% Panamá Este , Metropolitana y Kuna Yala (Grá fica No. 3).  
+ 
+Al observar las prevalencias de malnutrición por déficit, el grupo de 12 a 23 meses de 
+edad , presentó  la mayor prevalencia d e baja talla y el grupo de los menores de 6 
+meses presenta ron los mayores porcentajes de bajo peso (7.1%) y e maciado (6.2%) 
+(Cuadro No. 4).  
+ 
+ Prevalencia de Talla Baja en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+16.3%
+Severidad del problema
+˂ 20.0% Leve
+20.0% a 29.9% Media
+30.0% a 39.9% Alta
+≥ 40.0% Muy alta
+Grupo de edad  Total (N °) Exceso de peso ( % )  
+Menos de 6 meses  322 7.4 
+6 - 23 meses  630 12.3  
+24-60 meses  738 13.0  
+Total  1690  11.7  GRÁFICA NO. 2  
+PREVALENCIA DE TALLA BAJA EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 (N = 1,690)  
+ 
+ 
+De acuerdo al Índice de Masa Corporal  (IMC)  para la edad, la prevalencia nacional de 
+emaciación fue de 2.9% y de e xceso de peso de 11.7% (8.2% sobrepeso y 3.5% 
+obesidad), aumentando con la edad (Cuadro No. 3).  
+CUADRO  NO. 3 . PREVALENCIA DE EXCESO DE PESO SEGÚN IMC/EDAD SEGÚN 
+GRUPO DE E DAD EN MENORES DE 5 AÑOS. MONINUT  2017.  
+ 
+ 
+    Las regiones con  las prevalencias muy altas de e xceso de peso, por arriba del 15% 
+fueron Los Santos, Veraguas y Chiriquí y las más bajas por debajo del 9.2% Panamá Este , Metropolitana y Kuna Yala (Grá fica No. 3).  
+ 
+Al observar las prevalencias de malnutrición por déficit, el grupo de 12 a 23 meses de 
+edad , presentó  la mayor prevalencia d e baja talla y el grupo de los menores de 6 
+meses presenta ron los mayores porcentajes de bajo peso (7.1%) y e maciado (6.2%) 
+(Cuadro No. 4).  
+ 
+ Prevalencia de Talla Baja en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+16.3%
+Severidad del problema
+˂ 20.0% Leve
+20.0% a 29.9% Media
+30.0% a 39.9% Alta
+≥ 40.0% Muy alta
+Grupo de edad  Total (N °) Exceso de peso ( % )  
+Menos de 6 meses  322 7.4 
+6 - 23 meses  630 12.3  
+24-60 meses  738 13.0  
+Total  1690  11.7  GRÁFICA N °2. PREVALENCIA DE BAJA TALLA EN NIÑOS MENORES DE 5 AÑOS 
+POR REGIÓN DE SALUD. MONINUT 2017 (n = 1,690 )
+Prevalencia todas las Regiones de Salud
+16.3%1
+Severidad del problema por Región de Salud2
+˂ 20.0% Leve
+20.0% a 29.9% Media
+30.0% a 39.9% Alta
+≥ 40.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó la Región de Salud de Colón por no cubrir con la muestra mínima estimada.
+GRÁFICA N °2. PREVALENCIA DE BAJA TALLA EN NIÑOS MENORES DE 5 AÑOS 
+POR REGIÓN DE SALUD. MONINUT 2017 (n = 1,690 )
+Prevalencia todas las Regiones de Salud
+16.3%1
+Severidad del problema por Región de Salud2
+˂ 20.0% Leve
+20.0% a 29.9% Media
+30.0% a 39.9% Alta
+≥ 40.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó la Región de Salud de Colón por no cubrir con la muestra mínima estimada.17GRÁFI CA NO. 3  
+PREVALENCIA DE EXCESO DE P ESO EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 ( N = 1,690).  
+ 
+ 
+CUADRO  NO. 4. PREVALENCIA DE LA  MALNUTRICIÓN POR DÉFICIT SEGÚN 
+DIFERENTES INDICADORES ANTROPOMÉTRICOS (OMS) SEGÚN GRUP O DE EDAD 
+EN MENORES DE 5 AÑOS. MONINUT 2017.  
+Edad  PREVALENCIAS (%)  
+Baja  Talla 
+(P/T)  Bajo peso  
+(P/E)  Emaciado 
+(IMC/E)  
+TOTAL  16.3  5.8 2.9 
+< de 6 meses  14.6  7.1 6.2 
+6 a 11 meses  11.6  4.1 1.9 
+12- 23 meses  20.4  5.0 0.6 
+24 -35 meses  15.6  7.0 2.6 
+36-47 meses  15.9  6.5 3.3 
+48-60 meses  18.8  4.9 3.1 
+ 
+  
+ 
+     Prevalencia de Exceso de Peso en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+11.7%
+Nivel de prevalencia por Región de Salud
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+GRÁFI CA NO. 3  
+PREVALENCIA DE EXCESO DE P ESO EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 ( N = 1,690).  
+ 
+ 
+CUADRO  NO. 4. PREVALENCIA DE LA  MALNUTRICIÓN POR DÉFICIT SEGÚN 
+DIFERENTES INDICADORES ANTROPOMÉTRICOS (OMS) SEGÚN GRUP O DE EDAD 
+EN MENORES DE 5 AÑOS. MONINUT 2017.  
+Edad  PREVALENCIAS (%)  
+Baja  Talla 
+(P/T)  Bajo peso  
+(P/E)  Emaciado 
+(IMC/E)  
+TOTAL  16.3  5.8 2.9 
+< de 6 meses  14.6  7.1 6.2 
+6 a 11 meses  11.6  4.1 1.9 
+12- 23 meses  20.4  5.0 0.6 
+24 -35 meses  15.6  7.0 2.6 
+36-47 meses  15.9  6.5 3.3 
+48-60 meses  18.8  4.9 3.1 
+   
+      Prevalencia de Exceso de Peso en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+11.7%
+Nivel de prevalencia por Región de Salud
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+GRÁFICA N°3. PREVALENCIA DE EXCESO DE PESO EN NIÑOS MENORES DE 5 AÑOS 
+POR REGIÓN DE SALUD. MONINUT 2017 (N = 1,690 ).
+Prevalencia todas las Regiones de Salud
+11.7%1
+Nivel de prevalencia por Región de Salud2
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó la Región de Salud de Colón por no cubrir con la muestra mínima estimada.GRÁFICA N°3. PREVALENCIA DE EXCESO DE PESO EN NIÑOS MENORES DE 5 AÑOS 
+POR REGIÓN DE SALUD. MONINUT 2017 (N = 1,690 ).
+Prevalencia todas las Regiones de Salud
+11.7%1
+Nivel de prevalencia por Región de Salud2
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó la Región de Salud de Colón por no cubrir con la muestra mínima estimada.GRÁFI CA NO. 3  
+PREVALENCIA DE EXCESO DE P ESO EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 ( N = 1,690).  
+ 
+ 
+CUADRO  NO. 4. PREVALENCIA DE LA  MALNUTRICIÓN POR DÉFICIT SEGÚN 
+DIFERENTES INDICADORES ANTROPOMÉTRICOS (OMS) SEGÚN GRUP O DE EDAD 
+EN MENORES DE 5 AÑOS. MONINUT 2017.  
+Edad  PREVALENCIAS (%)  
+Baja  Talla 
+(P/T)  Bajo peso  
+(P/E)  Emaciado 
+(IMC/E)  
+TOTAL  16.3  5.8 2.9 
+< de 6 meses  14.6  7.1 6.2 
+6 a 11 meses  11.6  4.1 1.9 
+12- 23 meses  20.4  5.0 0.6 
+24 -35 meses  15.6  7.0 2.6 
+36-47 meses  15.9  6.5 3.3 
+48-60 meses  18.8  4.9 3.1 
+   
+ 
+     Prevalencia de Exceso de Peso en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+11.7%
+Nivel de prevalencia por Región de Salud
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+183. Estado nutricional en niños de 5 a 9 años:  
+De los 1,371 escolares  evaluados se encontró que el 29.9 % presentaron exceso de 
+peso. P or otro la emaciación fue de 3.1 % (Cuadro No. 5).  
+ 
+CUADRO NO. 5 . ESTADO NUTRICIONAL EN NIÑOS DE 5 A 9 AÑOS SEGÚN 
+IMC/EDAD. MONINUT  2017 . 
+ 
+Estado nutricional  Niños  5 a 9 años  
+N° % 
+Normal  918 67.0  
+Emaciado  43 3.1 
+Sobre peso  258 18.8  
+Obesidad  152 11.1  
+TOTAL  1,371 100.0  
+  
+4. Estado nutricional en adolescentes de 10 a 17 años : 
+De los 1,556 adolescentes evaluados se encontró que el 29.7% p resentaron exceso 
+de peso. Por otro la e maciación fue de 3.3% (Cuadro No. 6 ). 
+ CUADRO NO. 6 . ESTADO NUTRICIONAL EN ADOLESCENTES DE 10 A 17 AÑOS 
+SEGÚN IMC/EDAD. MONINUT  2017 . 
+ 
+Estado nutricional  
+Adolescentes 10 a 17 años  
+N° % 
+Normal  1,044 67.0  
+Emaciado  51 3.3 
+Sobre peso  320 20.6  
+Obesidad  141 9.1 
+TOTAL  1,556 100.0  
+    
+ 
+     
+5. Estado nutricional en embarazadas:  
+De los 1,444 embarazadas evaluadas se encontró que solo el 35.8 % tenían un peso 
+normal. La prevalenc ia de exceso de peso fue de 48.0 % y la de bajo peso 
+16.2% (Gráfica No.4).  
+ 
+Gráfica No. 4 
+Prevalencias de los problemas de malnutr ición en Embarazadas . MONINUT 2017 
+(n = 1,444 ). 
+ 
+6. Estado nutricional en adultos:  
+De los 1,824 adultos evaluados se encontró que solo el 2 6.5% tenían un peso 
+norma l. La prevalencia de exceso de p eso fue de 70.6% (Gráfica No.5 ). 
+ 
+GRÁFICA NO. 5  
+PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS MAYORES 
+18 AÑOS.  
+MONINUT 2017 (N = 1,824) . 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+GRÁFICA N°5. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS 
+MAYORES 18 AÑOS. MONINUT 2017 (n = 1,824 ).
+Normal
+26,5%Bajo Peso 
+2,9%
+Sobrepeso
+37,1%
+Obesidad 
+33,5%Exceso de peso
+70.6%GRÁFICA N°5. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS 
+MAYORES 18 AÑOS. MONINUT 2017 (n = 1,824 ).
+Normal
+26,5%Bajo Peso 
+2,9%
+Sobrepeso
+37,1%
+Obesidad 
+33,5%Exceso de peso
+70.6%5. Estado nutricional en embarazadas:  
+De los 1,444 embarazadas evaluadas se encontró que solo el 35.8 % tenían un peso 
+normal. La prevalenc ia de exceso de peso fue de 48.0 % y la de bajo peso 
+16.2% (Gráfica No.4).  
+ 
+Gráfica No. 4 
+Prevalencias de los problemas de malnutr ición en Embarazadas . MONINUT 2017 
+(n = 1,444 ). 
+ 
+6. Estado nutricional en adultos:  
+De los 1,824 adultos evaluados se encontró que solo el 2 6.5% tenían un peso 
+norma l. La prevalencia de exceso de p eso fue de 70.6% (Gráfica No.5 ). 
+ 
+GRÁFICA NO. 5  
+PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS MAYORES 
+18 AÑOS.  
+MONINUT 2017 (N = 1,824) . 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ GRÁFICA N°4. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN 
+EMBARAZADAS. MONINUT 2017 (n = 1,444).
+Normal
+35,8%Bajo peso 
+16,2%
+Sobrepeso
+29,2%
+Obesidad
+18,8%Exceso de peso
+48%GRÁFICA N°4. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN 
+EMBARAZADAS. MONINUT 2017 (n = 1,444).
+Normal
+35,8%Bajo peso 
+16,2%
+Sobrepeso
+29,2%
+Obesidad
+18,8%Exceso de peso
+48%GRÁFICA N°4. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN 
+EMBARAZADAS. MONINUT 2017 (n = 1,444).
+Normal
+35,8%Bajo peso 
+16,2%
+Sobrepeso
+29,2%
+Obesidad
+18,8%Exceso de peso
+48%GRÁFICA N°5. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS 
+MAYORES 18 AÑOS. MONINUT 2017 (n = 1,824 ).
+Normal
+26,5%Bajo Peso 
+2,9%
+Sobrepeso
+37,1%
+Obesidad 
+33,5%Exceso de peso
+70.6%GRÁFICA N°5. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS 
+MAYORES 18 AÑOS. MONINUT 2017 (n = 1,824 ).
+Normal
+26,5%Bajo Peso 
+2,9%
+Sobrepeso
+37,1%
+Obesidad 
+33,5%Exceso de peso
+70.6%GRÁFICA N°5. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN ADULTOS 
+MAYORES 18 AÑOS. MONINUT 2017 (n = 1,824 ).
+Normal
+26,5%Bajo Peso 
+2,9%
+Sobrepeso
+37,1%
+Obesidad 
+33,5%Exceso de peso
+70.6%GRÁFICA N°4. PREVALENCIAS DE LOS PROBLEMAS DE MALNUTRICIÓN EN 
+EMBARAZADAS. MONINUT 2017 (n = 1,444).
+Normal
+35,8%Bajo peso 
+16,2%
+Sobrepeso
+29,2%
+Obesidad
+18,8%Exceso de peso
+48%
+19207. Anemia en menores de 5 años:  
+En los menores de 5 años, se encontró un promedio de hemoglobina de 11.4 ±1.1 
+g/dL y del volumen corpuscular medio (VCM) de 78.2 ± 6.5 fL; los promedios más 
+bajos de concentración de la hemoglobina y del VCM se observaron en los niños de 6 a 11 meses de edad (Cuadro No.7 ).  
+ 
+CUADRO NO. 7 . CONCENTRACIÓN PROMEDIO DE HEMOGLOBINA Y VOLUMEN 
+CORPUSCULAR MED IO EN MENORES DE 5 AÑOS. MONINUT 2017.  
+ 
+Grupo de Edad 
+(meses)  Nº Hemoglobina  Volumen Corpuscular Medio  
+Promedio  
+(g/dL) ± DE  Valores (g/dL)  
+mín-máx  Promedio  
+fL± DE Valores (fL)  
+mín-máx  
+TOTAL  1,259  11.4±1.1  6.0 -  16.6  78.2 ± 6.5  30.1 -  95.5  
+6 – 11 250 10.9 ±1.1  7.5 - 15.9  75.1 ± 6.4  54.2 -  88.8  
+12-23  344 11.1±1.3  6.0 - 16.6  75.8 ± 7.5  30.1 -  90.3  
+24-60  665 11.7 ± 8.7  8.3 -  14.3  80.8± 4.7  60.7 -  95.5  
+ 
+La prevalencia de anemia en niños menores de 5 años fue de 36.2%  (Gráfica No.6) , 
+esto representa un problema de sal ud pública moderado . La mayor parte de los 
+niños presentaron anemia de categoría leve  22.2%. La anemia fue mayor en los 
+niños (39.9%) que en las niñas (32.6%).  
+ 
+GRÁFICA NO. 6 . 
+PREVALEN CIA DE ANEMIA EN MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 (N = 1,259 ). 
+ 
+ 
+ 
+GRÁFICA N° 6. PREVALENCIA DE ANEMIA EN NIÑOS MENORES DE 5 AÑOS DE EDAD.
+MONINUT 2017 (n = 1,259).
+Normal
+63,8%Anemia leve
+22,2%
+Anemia moderada
+8,2%
+Anemia severa
+5,8%Anemia
+36.2%GRÁFICA N °6. PREVALENCIA DE ANEMIA EN NIÑOS MENORES DE 5 AÑOS DE EDAD.
+MONINUT 2017 (n = 1,259 ).
+Normal
+63,8%Anemia leve
+22,2%
+Anemia moderada
+8,2%
+Anemia severa
+5,8%Anemia
+36.2%
+anemia aum ento de 23.2%  en 20145 a 30.1%  en el 2017 , man teniéndose en magnitud 
+moderada. A lgunos factores posiblemente  asociados a este aumento son: el 
+desabastecimiento  del suplemento de hierro y ácido fólico en las instalaciones de 
+salud, la baja ingesta de hierro  en la alimentación y los procesos infecciosos. La región 
+de salud de Kuna Yala es la única cuya prevalencia de anemia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de 
+Colón y Bocas del Toro, que en el 2 0145 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron  la muestra mí nima 
+estimada,  motivo por el cual no es posible hacer inferencias.  
+ 
+Según e l reporte de las madres sobre lactanc ia materna exclusiva hasta los 6 meses, 
+aumento de 63% a 71.4 %. 
+ 
+Sin embargo, a pesar de la Ley 50 que incluye la mayoría de los artículos del Código 
+Internacional de Comercialización de Sucedáneas de la Leche Materna, la lactancia 
+materna se ve amenazada por la comercialización indiscriminada de sucedáneos de 
+la lecha materna y cambios en los estilos de vida23. 
+La anemia tiene considerables efectos adversos sobre la salud y repercute negativamente en el desarrollo social y económico. Aunque sus causas son diversas, 
+la más frecuen te e importante (alrededor del 50% de los casos) es la carencia de 
+hierro. La anemia ferropénica durante el embarazo puede aumentar el riesgo de 
+insuficiencia ponderal del recién nacido y de mortalidad materna y perinatal
+24. 
+En las embarazadas el promedio de hemoglobina fue de 11.5 ±1.1 g/dl, superior al 
+punto de corte establecido para considerar anemia; no obstante, la prevalencia de 
+anemia aument ó de 23.2% en 20145 a 30.1% en el 2017, manteniéndose en magnitud 
+moderada. Algunos factores posiblemente asoci ados a este aumento son: el 
+desabastecimiento del suplemento de hierro y ácido fólico en las instalaciones de salud, la baja ingesta de hierro en la alimentación y los procesos infecciosos. La región de salud de Kuna Yala es la única cuya prevalencia de an emia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de Colón y Bocas del Toro, que en el 2014
+5 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron la muestra mínim a 
+estimada, motivo por el cual no es posible hacer inferencias.  
+ Con el aumento de anemia en las embarazadas, el país se está alejando de la segunda 
+meta mundial para la nutrición de reducir un 50% la anemia en mujeres en edad fértil
+17. 218. Anemia en embarazadas:  
+La prevalencia de anemia en embarazadas fue de 30.1 %, esto representa un 
+problema de salud pública moderado . La mayor parte d e las embarazadas  
+presentaron anemia de categoría leve 22. 7% (Gráfica No.7 ).  
+ 
+Gráfica No. 7 
+Prevalencia de Anemia en Embarazadas.  
+MONINUT 2017 ( n = 1,353 ). 
+ 
+La Región de  Salud de  Coclé fue la única que presentó un nivel leve de severidad de 
+anemia, nuev e regiones con nivel de severidad moderada entre 20 a 39.9% y solo la 
+región de Kuna Yala presentó una magnitud alta del 65.4% (Gráfica  No. 8). En las 
+Regiones de Salud de Bocas del Toro, Colón, Darién y Los Santos no se alcanzó la 
+muestra mínima estimada,  por lo  cual no es posible hacer inferenci as acerca de la 
+situación de anemia a nivel de dichas regiones de salud.  
+ 
+Gráfica No. 8 
+Prevalencia de Anemi a en Embarazadas  por Región de Salud . 
+MONINUT 2017 ( n = 1,353 ). 
+  
+ 
+  
+ 
+ 
+     Sin Anemia
+69.9%Anemia Leve
+22.7%
+Anemia Moderada
+7.4%Con Anemia
+30.1%GRÁFICA N °7. PREVALENCIA DE ANEMIA EN EMBARAZADAS. MONINUT 2017 (n = 1,353 ).
+Normal
+69.9%Anemia leve
+22.7%
+Anemia moderada
+7.4%Anemia
+30.1%GRÁFICA N °7. PREVALENCIA DE ANEMIA EN EMBARAZADAS. MONINUT 2017 (n = 1,353 ).
+Normal
+69.9%Anemia leve
+22.7%
+Anemia moderada
+7.4%Anemia
+30.1%8. Anemia en embarazadas:  
+La prevalencia de anemia en embarazadas fue de 30.1 %, esto representa un 
+problema de salud pública moderado . La mayor parte d e las embarazadas  
+presentaron anemia de categoría leve 22. 7% (Gráfica No.7 ).  
+ 
+Gráfica No. 7 
+Prevalencia de Anemia en Embarazadas.  
+MONINUT 2017 ( n = 1,353 ). 
+ 
+La Región de  Salud de  Coclé fue la única que presentó un nivel leve de severidad de 
+anemia, nuev e regiones con nivel de severidad moderada entre 20 a 39.9% y solo la 
+región de Kuna Yala presentó una magnitud alta del 65.4% (Gráfica  No. 8). En las 
+Regiones de Salud de Bocas del Toro, Colón, Darién y Los Santos no se alcanzó la 
+muestra mínima estimada,  por lo  cual no es posible hacer inferenci as acerca de la 
+situación de anemia a nivel de dichas regiones de salud.  
+ 
+Gráfica No. 8 
+Prevalencia de Anemi a en Embarazadas  por Región de Salud . 
+MONINUT 2017 ( n = 1,353 ). 
+  
+   
+ 
+ 
+     Sin Anemia
+69.9%Anemia Leve
+22.7%
+Anemia Moderada
+7.4%Con Anemia
+30.1%
+La doble carga de l a malnutrición se puede presentar a nivel individual con la 
+presencia de dos o más formas de malnutrición en la misma persona, a nivel del hogar 
+con diferentes miembros de la familia afectados por diferentes formas de 
+malnutrición o a nivel poblacional25. 
+En Panamá la doble carga de la malnutrición en menores de 5 años se manifiesta 
+claramente en regiones de Panamá Oeste con coexistencia de emaciación (6.5%) y 
+exceso de peso (10.2%) y en Ngäbe Buglé con la coexistencia de baja talla (25.6%) y 
+exceso de peso  (13.6%).  
+Es importante reforzar los programas e intervenciones que tienen el doble beneficio de reducir al mismo tiempo el riesgo de desnutrición (emaciación, baja talla, deficiencia de micronutrientes) y el riesgo de sobrepeso, obesidad y enfermedades 
+no transmisibles.  
+Se debe asegurar el acceso universal a servicios de salud materno infantil de calidad, 
+particularmente en áreas de pobreza, zonas rurales e indígenas. La protección, 
+promoción y apoyo a la lactancia materna es otro ejemplo de una intervenc ión que 
+protege de la malnutrición en todas sus formas. Por otra parte, se deben impulsar los 
+programas que promueven la alimentación saludable en escuelas y otros entornos, y fomentar sistemas alimentarios sostenibles con acceso a alimentos saludables.  
+Panamá cuenta con una Ley de Fomento y Protección de Lactancia Materna y una 
+Guía Básica de para la Oferta de Alimentos Saludables en Kioscos y Cafeterías de 
+Centros Educativas. Sin embargo, muchos otros objetivos del Plan de Acción Regional 
+de Prevención de  Obesidad en Niños y Adolescentes
+26, no se han alcanzado todavía.   
+ 
+ 
+   
+  
+ 
+    22 
+9. Lactancia Materna:  
+De las madres o cuidadores de los 322 menores de 6 meses, 230 (71.4 %) 
+respondieron afirmativamente a la pregunta si su niño recibió solamente leche 
+materna durante el día anterior.  En cuanto a la lactancia continua hasta el primer 
+año de edad, se encontr ó que 51.7 % de los menores de 12 y 15 meses fueron 
+alimentados con leche materna el día anterior y la lactancia continua hasta los 2 años de edad fue de 29.6 %.   
+  
+ 
+ 
+     
+ 
+ 
+        
+ 
+   
+ 
+   
+ 
+     
+GRÁFICA N °8. PREVALENCIA DE ANEMIA EN EMBARAZADAS POR REGIÓN DE SALUD. 
+MONINUT 2017 (n = 1,353 ).
+Prevalencia todas las Regiones de Salud
+30.1%1
+Severidad del problema por Región de Salud2
+˂ 5.0% Baja
+5.0% a 19.9% Moderada
+20.0% a 39.9% Alta
+≥ 40.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó las Regiones de Salud de Colón, Bocas del Toro, Darién, Los Santos por no cubrir con la muestra mínima estimada.GRÁFICA N °8. PREVALENCIA DE ANEMIA EN EMBARAZADAS POR REGIÓN DE SALUD. 
+MONINUT 2017 (n = 1,353 ).
+Prevalencia todas las Regiones de Salud
+30.1%1
+Severidad del problema por Región de Salud2
+˂ 5.0% Baja
+5.0% a 19.9% Moderada
+20.0% a 39.9% Alta
+≥ 40.0% Muy alta
+1 Incluye las 15 Regiones de Salud del Ministerio de Salud
+2 Se excluyó las Regiones de Salud de Colón, Bocas del Toro, Darién, Los Santos por no cubrir con la muestra mínima estimada.
+23DISCUSIÓN  
+ 
+En este segundo monitoreo nutricional de la población que asiste a las instalaciones del MINSA se ha determinado el estado nutricional en niños, adolescentes, embarazadas y adultos, la anemia en niños menores de 5 años y embarazadas y la 
+prevalencia de lac tancia materna exclusiva y lactancia materna continuada.  
+Los resultados demuestran que Panamá presenta una doble carga con malnutrición 
+por déficit (la baja talla y la emaciación en ciertas regiones, y la anemia) por exceso 
+de peso.  
+La emaciación es el re sultado de una pérdida de peso reciente, causada por falta de 
+alimentación y/o una enfermedad infecciosa, como la diarrea. Un niño pequeño que 
+presenta una emaciación moderada o grave tiene un riesgo más alto de morir, pero es posible proporcionarle tratam iento.  
+Al comparar las prevalencias de la malnutrición en niños menores de 5 años con los datos del MONINUT 2014, se evidencia que la emaciación se ha mantenido por debajo de 5% en la muestra total de todas las regiones de salud del país, lo que refleja 
+una tendencia hacia la sexta meta global de nutrición para el 2025
+17. Es importante 
+mencionar que en tres regiones  de salud se encontraron prevalencias superiores al 
+5%: Kuna Yala (5.7%), Panamá Oeste (6.5%) y Metropolitana (7.9%). Aún más llamativo es el he cho de que estas tres regiones duplicaron su prevalencia de 
+emaciación en tres años
+5, lo cual debe ser motivo de estudios más específicos con 
+variables de seguridad alimentaria nutricional y morbilidad infantil, ya que se trata de desnutrición aguda.  
+ La b aja talla es consecuencia de una desnutrición crónica o recurrente, por regla 
+general asociada a unas condiciones socioeconómicas deficientes, una nutrición y 
+una salud de la madre deficientes, a la recurrencia de enfermedades o cuidados no apropiados para  el lactante y el niño pequeño, incluida la alimentación. El retraso del 
+crecimiento impide que los niños desarrollen plenamente su potencial físico y cognitivo.  
+La prevalencia de baja talla en la muestra total de todas las regiones de salud del país  
+fue d e 16.3%, mostrando una disminución de 1.4% en  tres años, si lo comparamos  
+con los datos de MONINUT 2014
+5. Esta tendencia es positiva pero no suficiente para 
+alcanzar el 40% esperado según la  meta g lobal de nutrición para el 202517. Al analizar 
+los datos por regiones de salud llama la atención el hecho que la Región de Salud de 
+Kuna Yala es la única región cuya prevalencia de baja talla  representa un problema 
+de salud pública de magnitud muy alta, con una tendencia en aumento de  1.1%  por 
+año.  Por otro lado, en la Comarca Ngäbe Buglé existe una tendencia a la disminución GRÁFI CA NO. 3  
+PREVALENCIA DE EXCESO DE P ESO EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 ( N = 1,690).  
+ 
+ 
+CUADRO  NO. 4. PREVALENCIA DE LA  MALNUTRICIÓN POR DÉFICIT SEGÚN 
+DIFERENTES INDICADORES ANTROPOMÉTRICOS (OMS) SEGÚN GRUP O DE EDAD 
+EN MENORES DE 5 AÑOS. MONINUT 2017.  
+Edad  PREVALENCIAS (%)  
+Baja  Talla 
+(P/T)  Bajo peso  
+(P/E)  Emaciado 
+(IMC/E)  
+TOTAL  16.3  5.8 2.9 
+< de 6 meses  14.6  7.1 6.2 
+6 a 11 meses  11.6  4.1 1.9 
+12- 23 meses  20.4  5.0 0.6 
+24 -35 meses  15.6  7.0 2.6 
+36-47 meses  15.9  6.5 3.3 
+48-60 meses  18.8  4.9 3.1 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Prevalencia de Exceso de Peso en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+11.7%
+Nivel de prevalencia por Región de Salud
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy altaGRÁFI CA NO. 3  
+PREVALENCIA DE EXCESO DE P ESO EN NIÑOS MENORES DE 5 AÑOS DE EDAD.  
+MONINUT 2017 ( N = 1,690).  
+ 
+ 
+CUADRO  NO. 4. PREVALENCIA DE LA  MALNUTRICIÓN POR DÉFICIT SEGÚN 
+DIFERENTES INDICADORES ANTROPOMÉTRICOS (OMS) SEGÚN GRUP O DE EDAD 
+EN MENORES DE 5 AÑOS. MONINUT 2017.  
+Edad  PREVALENCIAS (%)  
+Baja  Talla 
+(P/T)  Bajo peso  
+(P/E)  Emaciado 
+(IMC/E)  
+TOTAL  16.3  5.8 2.9 
+< de 6 meses  14.6  7.1 6.2 
+6 a 11 meses  11.6  4.1 1.9 
+12- 23 meses  20.4  5.0 0.6 
+24 -35 meses  15.6  7.0 2.6 
+36-47 meses  15.9  6.5 3.3 
+48-60 meses  18.8  4.9 3.1 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Prevalencia de Exceso de Peso en niños menores 
+de 5 años de edad. MONINUT 2017.
+n = 1,690
+Prevalencia todas las Regiones de Salud
+11.7%
+Nivel de prevalencia por Región de Salud
+˂ 9.2% Baja
+9.2% a 12.7% Moderada
+12.8% a 15.0% Alta
+>15.0% Muy alta
+DISCUSIÓN
+24de 1 .9% por año de esta prevalencia s en la población infantil. Tendencias similares a 
+la disminución de la desnutrición crónica también se observaron en las regiones de 
+salud de Darién y Panamá Este.  
+ 
+Estos datos son similares a los resultados del VII Censo de Talla de Escolares de Primer 
+Grado de las Escuelas Oficiales de Panamá19, con un 15.9% de escolares con baja talla 
+y con las mayores prevalencias en las comarca s Kuna Yala, Emberá Wounaan y Ngäbe 
+Buglé.  
+De acuerdo a los datos del Observatorio Mundial de Salud de la OMS en la Región de las Américas únicamente Haití, Honduras, Ecuador y Guatemala tienen prevalencias 
+más altas en baja talla que Panamá
+20. 
+El bajo pes o para la edad  en menores de 5 años se ha mantenido por debajo de 10 % 
+en la muestra total de todas las regiones de salud del país , que refleja un problema 
+de salud pública de magnitud leve . Sin embargo,  al analizar los datos por regiones de 
+salud , encontra mos que la región de Kuna Yala presenta una tendencia al aumento 
+que va de 18.5% en el 20145 a 23.8% en el 2017 , representando una magnitud 
+catalogada como alta por la OMS15. 
+ 
+El sobrepeso y la obesidad se definen como una acumulación anormal o excesiva de 
+grasa y su causa fundamental es un desequilibrio energético entre calorías consumidas y gastadas.  
+La obesidad infantil se asocia con una mayor probabilidad de obesidad, enfer medades no transmisibles, muerte prematura y discapacidad en la edad adulta. 
+Además de estos mayores riesgos futuros, los niños obesos sufren dificultades respiratorias, mayor riesgo de fracturas e hipertensión, y presentan marcadores tempranos de enfermed ades cardiovasculares, resistencia a la insulina y efectos 
+psicológicos.  
+Con relación al exceso de peso se observa un aumento de 1.1%  entre el 2014
+5 al 
+2017; aunque se trata de un aumento leve, esta tendencia no es suficiente para 
+lograr la cuarta meta glo bal de nutrición para el 202517 de no aumentar el exceso de 
+peso infantil. Al comparar la prevalencia establecida en cada región contra la 
+prevalencia en la muestra total de todas las regiones de salud del país observamos 
+que en el 20145 solo cinco regione s superaban la prevalencia mundial, pero en el 
+2017 , ocho regiones la superaron.  
+ Al analizar las prevalencias de exceso de peso en  las regiones de salud en el 2017, 
+hacemos las siguientes inferencias: las regiones de salud de San Miguelito y Panamá 
+25Oest e duplicaron sus prevale ncias de exceso de peso; en las regiones de salud de 
+Chiriquí, Veragu as y Los Santos el exceso de peso representa un problema de salud 
+públic a con una severid ad muy alt a. Sin emb argo, las region es de salud de Chiriquí y 
+Los Santos mostraron una tendencia a la disminución del problema. Por otro lado, la 
+región  de salud de Ngäbe Buglé dismin uyó la severidad del problema . 
+ 
+No exist en datos del MONIN UT 2014 para adolesce ntes. En 2017 se observa una 
+prevalencia de exceso de peso de 29.7%;  estos datos son similare s al grupo de edad 
+de 5 a 9 años, en quienes se observó  un ligero  aumen to de la prevalencia de exceso 
+de peso.  
+ El exceso de peso en adultos aumentó de 67.1% en el 2014
+5 a 70.6% en el 2017. Al 
+analizar los datos disponibles d esde las Encuestas de Niveles d e Vida del 2003 , 2008 
+y los datos de MONIN UT, podemo s inferir que la tendencia hacia el aumen to es 
+realme nte alarmante ya que pasam os de tener 5 de cada 10 paname ños con exceso 
+en el 2003 a 7 de cada 10 en el 2017, con todas las consecue ncias de morbilidad y 
+mortalidad asociad as al sobrepeso y la obesidad.  
+ 
+En Panamá  la disponibilidad, el acceso y la public idad de alime ntos ultra procesad os, 
+altos en azúcares, grasa s y sodio, han contr ibuido a la epidemia del sobrepeso y 
+obesidad, que afecta principalme nte a las familias de menos recursos, que consumen 
+alime ntos altos en calorías y de baja calidad nutricion al21. Ademá s, los niveles de 
+inactivid ad son altos debido a la naturaleza cada vez más sedentaria de muchas 
+formas de trabajo, los nuevos modos de transporte y la creciente urbanización. 
+ 
+La alime ntación  del lactante y del niño pequeño es fundame ntal para fomen tar un 
+crecimien to y desar rollo saludables. Los prime ros dos años de la vida del niño son 
+especialme nte importantes, puesto que la nutrición óptim a dura nte este periodo 
+reduce la morbili dad y la mortalidad, así como el riesgo  de enfermeda des crónicas, y 
+mejora el desar rollo general. 
+ Las Guías Alime ntarias para
+ el Menor de 2 años en Panamá22 basada en los 
+lineamientos de la OMS y UNICEF,  recomiendan:  
+□ Inicio inmediato de la lactancia materna en la primera hora de vida.  
+□ Lacta ncia exclusivame nte materna durante los primer os seis mese s de vida. 
+□ Introducción de alime ntos complementarios segu ros y nutricion almen te 
+adecuados a partir de los seis mese s, continuando la lactancia materna hasta los 
+dos años o más.  
+ 
+En las embarazadas el promed io de hemoglobina fue de 11.5 ±1.1 g/dl, super ior al 
+punto de corte establecido para considerar anemia;  no obstante, la prevalen cia de Oeste duplicaron sus  prevalencias de exceso de peso;  en las regiones de salud de 
+Chiriquí, Veraguas y Los Santos el exceso de peso representa un problema de salud 
+pública con una severidad muy alta. Sin embargo,  las regiones  de salud de  Chiriquí y 
+Los Santos mos traron  una tendencia a la disminución del problema. Por otro lado, la 
+región de salud de Ngäbe Buglé disminuyó la severidad del problema.  
+ No existen datos del MONINUT 2014 para adolescentes . En 2017 se observa una 
+prevalencia de exceso de peso de 29.7% ;  estos datos son similares al grupo de edad 
+de 5 a 9 años, en quienes se observó un ligero aumento de la prevalencia de exceso de peso.   
+ El exceso de peso en adultos aumento de 67.1% en el 2014
+5 a 70.6% en el 2017. Al 
+analizar los datos disponibles desde l as Encuestas de Niveles de Vida del 2003, 2008 
+y los datos de MONINUT, podemos inferir que la tendencia hacia el aumento es realmente alarmante ya que pasamos de tener 5 de cada 10 panameños con exceso en el 2003 a 7 de cada 10 en el 2017, con todas las co nsecuencias de m orbilidad y 
+mortalidad asociada s al sobrepeso y la obesidad .  
+ 
+En Panamá la disponibilidad, el acceso y la publicidad de alimentos ultra procesados, 
+altos en azucares, grasas y sodio, han contribuido a la epidemia del sobrepeso y obesidad, que afecta principalmente a las familias de menos recursos, que consumen 
+alimentos altos en calorías y de baja calidad nutricional
+21. Además, los niveles de 
+inactividad son altos debido a la naturaleza cada vez más sedentaria de muchas formas de trabajo, l os nuevos modos de transporte y la creciente urbanización.  
+ La alimentación del lactante y del niño pequeño es fundamental para fomentar un crecimiento y desarrollo saludables. Los primeros dos años de la vida del niño son 
+especialmente importantes, puesto  que la nutrición óptima durante este periodo 
+reduce la morbilidad y la mortalidad, así como el riesgo de enfermedades crónicas, y 
+mejora el desarrollo general.  
+ Las Guías Alimentarias para el Menores de 2 años en Panamá
+22 basada en los 
+lineamientos de la OMS y UNICEF, recomiendan:  
+ Inicio inmediato de la lactancia materna en la primera hora de vida.  
+ Lactancia exclusivamente materna durante los primeros seis meses de vida.  
+ Introducción de alimentos complementarios seguros y nutricionalmente 
+adecuados a par tir de los seis meses, continuando la lactancia materna hasta los 
+dos años o más.  
+ En las embarazadas el promedio de hemog lobina fue de 11.5 ±1.1 g/dl, s uperior al 
+punto de corte establecido para considerar anemia; no obstante, la prevalencia de 
+26anemia aum ento de 23.2%  en 20145 a 30.1%  en el 2017 , man teniéndose en magnitud 
+moderada. A lgunos factores posiblemente  asociados a este aumento son: el 
+desabastecimiento  del suplemento de hierro y ácido fólico en las instalaciones de 
+salud, la baja ingesta de hierro  en la alimentación y los procesos infecciosos. La región 
+de salud de Kuna Yala es la única cuya prevalencia de anemia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de Colón y Bocas del Toro, que en el 2 014
+5 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron  la muestra mí nima 
+estimada,  motivo por el cual no es posible hacer inferencias.  
+ 
+Según e l reporte de las madres sobre lactanc ia materna exclusiva hasta los 6 meses, 
+aumento de 63% a 71.4 %. 
+ 
+Sin embargo, a pesar de la Ley 50 que incluye la mayoría de los artículos del Código 
+Internacional de Comercialización de Sucedáneas de la Leche Materna, la lactancia 
+materna se ve amenazada por la comercialización indiscriminada de sucedáneos de 
+la lecha materna y cambios en los estilos de vida23. 
+La anemia tiene considerables efectos adversos sobre la salud y repercute negativamente en el desarrollo social y económico. Aunque sus causas son diversas, 
+la más frecuen te e importante (alrededor del 50% de los casos) es la carencia de 
+hierro. La anemia ferropénica durante el embarazo puede aumentar el riesgo de 
+insuficiencia ponderal del recién nacido y de mortalidad materna y perinatal
+24. 
+En las embarazadas el promedio de hemoglobina fue de 11.5 ±1.1 g/dl, superior al 
+punto de corte establecido para considerar anemia; no obstante, la prevalencia de 
+anemia aument ó de 23.2% en 20145 a 30.1% en el 2017, manteniéndose en magnitud 
+moderada. Algunos factores posiblemente asoci ados a este aumento son: el 
+desabastecimiento del suplemento de hierro y ácido fólico en las instalaciones de salud, la baja ingesta de hierro en la alimentación y los procesos infecciosos. La región de salud de Kuna Yala es la única cuya prevalencia de an emia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de Colón y Bocas del Toro, que en el 2014
+5 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron la muestra mínim a 
+estimada, motivo por el cual no es posible hacer inferencias.  
+ Con el aumento de anemia en las embarazadas, el país se está alejando de la segunda 
+meta mundial para la nutrición de reducir un 50% la anemia en mujeres en edad fértil
+17. 
+anemia aum ento de 23.2%  en 20145 a 30.1%  en el 2017 , man teniéndose en magnitud 
+moderada. A lgunos factores posiblemente  asociados a este aumento son: el 
+desabastecimiento  del suplemento de hierro y ácido fólico en las instalaciones de 
+salud, la baja ingesta de hierro  en la alimentación y los procesos infecciosos. La región 
+de salud de Kuna Yala es la única cuya prevalencia de anemia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de Colón y Bocas del Toro, que en el 2 014
+5 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron  la muestra mí nima 
+estimada,  motivo por el cual no es posible hacer inferencias.  
+ 
+Según e l reporte de las madres sobre lactanc ia materna exclusiva hasta los 6 meses, 
+aumento de 63% a 71.4 %. 
+ 
+Sin embargo, a pesar de la Ley 50 que incluye la mayoría de los artículos del Código 
+Internacional de Comercialización de Sucedáneas de la Leche Materna, la lactancia 
+materna se ve amenazada por la comercialización indiscriminada de sucedáneos de 
+la lecha materna y cambios en los estilos de vida23. 
+La anemia tiene considerables efectos adversos sobre la salud y repercute 
+negativamente en el desarrollo social y económico. Aunque sus causas son diversas, 
+la más frecuen te e importante (alrededor del 50% de los casos) es la carencia de 
+hierro. La anemia ferropénica durante el embarazo puede aumentar el riesgo de 
+insuficiencia ponderal del recién nacido y de mortalidad materna y perinatal24. 
+En las embarazadas el promedio de hemoglobina fue de 11.5 ±1.1 g/dl, superior al 
+punto de corte establecido para considerar anemia; no obstante, la prevalencia de 
+anemia aument ó de 23.2% en 20145 a 30.1% en el 2017, manteniéndose en magnitud 
+moderada. Algunos factores posiblemente asoci ados a este aumento son: el 
+desabastecimiento del suplemento de hierro y ácido fólico en las instalaciones de salud, la baja ingesta de hierro en la alimentación y los procesos infecciosos. La región de salud de Kuna Yala es la única cuya prevalencia de an emia representa un problema 
+de salud pública de magnitud alta. Desafortunadamente las regiones de salud de Colón y Bocas del Toro, que en el 2014
+5 presentaron prevalencias de anemia 
+superiores al 40%, para este monitoreo 2017 no alcanzaron la muestra mínim a 
+estimada, motivo por el cual no es posible hacer inferencias.  
+ Con el aumento de anemia en las embarazadas, el país se está alejando de la segunda 
+meta mundial para la nutrición de reducir un 50% la anemia en mujeres en edad fértil
+17. 
+La doble carga de l a malnutrición se puede presentar a nivel individual con la 
+presencia de dos o más formas de malnutrición en la misma persona, a nivel del hogar 
+con diferentes miembros de la familia afectados por diferentes formas de 
+malnutrición o a nivel poblacional25. 
+En Panamá la doble carga de la malnutrición en menores de 5 años se manifiesta 
+claramente en regiones de Panamá Oeste con coexistencia de emaciación (6.5%) y 
+exceso de peso (10.2%) y en Ngäbe Buglé con la coexistencia de baja talla (25.6%) y 
+exceso de peso  (13.6%).  
+Es importante reforzar los programas e intervenciones que tienen el doble beneficio de reducir al mismo tiempo el riesgo de desnutrición (emaciación, baja talla, deficiencia de micronutrientes) y el riesgo de sobrepeso, obesidad y enfermedades 
+no transmisibles.  
+Se debe asegurar el acceso universal a servicios de salud materno infantil de calidad, particularmente en áreas de pobreza, zonas rurales e indígenas. La protección, 
+promoción y apoyo a la lactancia materna es otro ejemplo de una intervenc ión que 
+protege de la malnutrición en todas sus formas. Por otra parte, se deben impulsar los 
+programas que promueven la alimentación saludable en escuelas y otros entornos, y fomentar sistemas alimentarios sostenibles con acceso a alimentos saludables.  
+Panamá cuenta con una Ley de Fomento y Protección de Lactancia Materna y una 
+Guía Básica de para la Oferta de Alimentos Saludables en Kioscos y Cafeterías de 
+Centros Educativas. Sin embargo, muchos otros objetivos del Plan de Acción Regional 
+de Prevención de  Obesidad en Niños y Adolescentes
+26, no se han alcanzado todavía.   
+ 
+ 
+   
+  
+ 
+    27
+La doble carga de l a malnutrición se puede presentar a nivel individual con la 
+presencia de dos o más formas de malnutrición en la misma persona, a nivel del hogar 
+con diferentes miembros de la familia afectados por diferentes formas de 
+malnutrición o a nivel poblacional25. 
+En Panamá la doble carga de la malnutrición en menores de 5 años se manifiesta 
+claramente en regiones de Panamá Oeste con coexistencia de emaciación (6.5%) y 
+exceso de peso (10.2%) y en Ngäbe Buglé con la coexistencia de baja talla (25.6%) y 
+exceso de peso  (13.6%).  
+Es importante reforzar los programas e intervenciones que tienen el doble beneficio de reducir al mismo tiempo el riesgo de desnutrición (emaciación, baja talla, deficiencia de micronutrientes) y el riesgo de sobrepeso, obesidad y enfermedades 
+no transmisibles.  
+Se debe asegurar el acceso universal a servicios de salud materno infantil de calidad, 
+particularmente en áreas de pobreza, zonas rurales e indígenas. La protección, 
+promoción y apoyo a la lactancia materna es otro ejemplo de una intervenc ión que 
+protege de la malnutrición en todas sus formas. Por otra parte, se deben impulsar los 
+programas que promueven la alimentación saludable en escuelas y otros entornos, y 
+fomentar sistemas alimentarios sostenibles con acceso a alimentos saludables.  
+Panamá cuenta con una Ley de Fomento y Protección de Lactancia Materna y una 
+Guía Básica de para la Oferta de Alimentos Saludables en Kioscos y Cafeterías de 
+Centros Educativas. Sin embargo, muchos otros objetivos del Plan de Acción Regional 
+de Prevención de  Obesidad en Niños y Adolescentes26, no se han alcanzado todavía.   
+ 
+ 
+   
+  
+ 
+  
+ 
+ 28CONCLUSIONES  
+ 
+ Los datos del presente MONINUT reafirman el problema de la doble ca rga de 
+la malnutrición que afecta a todas las regiones del país,  en donde 
+encontramos extensamente diseminados los problemas por exceso de peso 
+en franca convivencia con algunas de ficiencias nutricionales. Esta doble carga 
+de la malnutrición plantea un reto de salud urgente para el Ministerio de 
+Salud.  
+ 
+ En niños menores de 5 años la prevale ncia de anemia, desnutrición crónica y 
+exce so de peso fue de 36.2%, 16.3%  y 11.7% respectivamente.  
+ 
+ En las embarazadas la prevalencia de exceso de peso, anemia y bajo peso fue de 48.0%, 30.1% y 16.2% respectivamente.  
+ 
+ En niños de 5 a 9 años la prevalencia de exceso de peso y emaciación fue de 29.9% y 3.1% respectivamente.   
+ 
+ En adolescentes de 10 a 17 años la prevalencia de exceso de peso y emaciación fue de 29.7% y 3.3% respectivamente.   
+ 
+ En los adultos evaluados se encontró que solo el 26.5% tenían un peso 
+normal. La prevalencia de Exceso de Peso fue de 70.6% . 
+ 
+ El 71.4% de las madres o cuidadores de menores de 6 meses que asistieron a las instalaciones de salud reportaron ofrecer lactancia materna exclusiva.  
+ 
+ Las pr evalencias muy altas de desnutrición crónica (baja talla) en menores de 
+5 años y de anemia en la región de Kuna Yala y altas en Ngäbe Buglé son un reflejo claro de gran inequidad dentro del país, donde las poblaciones indígenas y los sectores de pobreza so n los más afectados.  
+ 
+ 
+ Al comparar los datos del MONINUT 2017 con el MONINUT 2014 se encontró 
+un incremento de la emaciación en menores de 5 años en algunas regiones a 
+niveles por encima del 5% (Kuna Yala, Panamá Oeste y Metropolitana).  
+ 
+ A nivel nacional hubo un ligero descenso en la prevalencia de baja talla, pero 
+un aumento en sobrepeso y obesidad, particularmente en Chiriquí, Veraguas 
+y Los Santos, así como en la prevalencia de anemia en mujeres embarazadas.   
+9. Lactancia Materna:  
+De las madres o cuidadores de los 322 menores de 6 meses, 230 (71.4 %) 
+respondieron afirmativamente a la pregunta si su niño recibió solamente leche 
+materna durante el día anterior.  En cuanto a la lactancia continua hasta el primer 
+año de edad, se encontr ó que 51.7 % de los menores de 12 y 15 meses fueron 
+alimentados con leche materna el día anterior y la lactancia continua hasta los 2 años 
+de edad fue de 29.6 %.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+   
+ 
+   
+ 
+     
+CONCLUSIONES
+29 
+ Panamá debe reforzar sus políticas y la gest ión de acciones permanentes en 
+nutrición para alcanzar las metas globales de nutrición para 2015 de reducir 
+un 40% la prevalencia de baja talla, detener el aumento del sobrepeso 
+infantil, reducir un 50% la anemia en mujeres en edad fértil y mantener por 
+debajo del 5% la emaciación infantil (Kuna Yala, Panamá Oeste y 
+Metropolitana.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+    
+ 
+30LIMITACIONES Y RECOM ENDACIONES  
+ 
+Limitaciones  
+ 
+ Durante las diferentes etapas del proceso de ejecución del MONINUT 2017 se 
+detectaron limitaciones de recursos (financieros, humanos  y materiales ). 
+Siendo MONINUT, el Sistema de Vigilancia Alimentaria y Nutricional que 
+oficialmente nutre las políticas de salud de país, se hace imprescindible que se cuente con un presupuesto específico para su correcta i mplementación.  
+ 
+ Es necesario establecer un proceso más exhaustivo de selección, capacitación 
+y supervisión de los encuestadores; así como un proceso de monitoreo 
+permanente de los datos recolectados en campo para mejorar y mantener la calidad de los mismos . 
+  
+ Para dar cumplimiento a las Política Nacional de Salud es necesario incorporar 
+a este sistema de monitoreo a la Caja de Seguro Social.  
+ 
+ El MONINUT monitorea el estado nutricional en las instalaciones de salud. En 
+el mediano plazo se debe establecer un sistema de vigilancia nutricional 
+basado en encuestas poblacionales.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIMITACIONES 
+31Recomendaciones  
+ 
+ La doble carga de la malnutrición plantea un reto  de salud urgente; a través 
+de los factores comunes que presentan las distintas formas de malnutrición 
+surgen oportunidades de intervención nuevas y eficaces. Es imprescindible e 
+impostergable la implementación de intervenciones, programas y políticas 
+que ofrezcan un enfoque integrado para tratar la malnutrición.  
+ 
+ Fortalecer la estrategia de suplementación preventiva con sales de hierro y 
+ácido fólico en el programa materno infantil de los servicios de salud.  
+ 
+ Fortalecer la iniciativa Hospitales Amigos de l Niño e implementar las 
+herramientas para el monitoreo del cumplimiento de la Ley de Fomento y 
+Protección de Lactancia Materna y del Código Internacional de 
+comercialización de sucedáneos de la leche materna.  
+ 
+ Ampliar la difusión de la Guía Básica para l a Oferta de Alimentos Saludables 
+en Kioscos y Cafeterías de Centros Educativas y fortalecer su monitoreo, 
+considerando la situación nutricional en la población.  
+ 
+ Elaborar un plan nacional de prevención de obesidad infantil basada en las recomendaciones de  OPS/OMS, INCAP y otras agencias de cooperación 
+técnica.  
+ 
+ Establecer un marco legal que regule la publicidad y comercialización de 
+alimentos no saludables, como también el etiquetado nutricional, incluyendo 
+la tabla de información nutricional y el etiquetado frontal de advertencia.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recomendaciones  
+ 
+ La doble carga de la malnutrición plantea un reto  de salud urgente; a través 
+de los factores comunes que presentan las distintas formas de malnutrición 
+surgen oportunidades de intervención nuevas y eficaces. Es imprescindible e 
+impostergable la implementación de intervenciones, programas y políticas 
+que ofrezcan un enfoque integrado para tratar la malnutrición.  
+ 
+ Fortalecer la estrategia de suplementación preventiva con sales de hierro y 
+ácido fólico en el programa materno infantil de los servicios de salud.  
+ 
+ Fortalecer la iniciativa Hospitales Amigos de l Niño e implementar las 
+herramientas para el monitoreo del cumplimiento de la Ley de Fomento y 
+Protección de Lactancia Materna y del Código Internacional de 
+comercialización de sucedáneos de la leche materna.  
+ 
+ Ampliar la difusión de la Guía Básica para l a Oferta de Alimentos Saludables 
+en Kioscos y Cafeterías de Centros Educativas y fortalecer su monitoreo, 
+considerando la situación nutricional en la población.  
+ 
+ Elaborar un plan nacional de prevención de obesidad infantil basada en las recomendaciones de  OPS/OMS, INCAP y otras agencias de cooperación 
+técnica.  
+ 
+ Establecer un marco legal que regule la publicidad y comercialización de 
+alimentos no saludables, como también el etiquetado nutricional, incluyendo 
+la tabla de información nutricional y el etiquetado frontal de advertencia.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RECOMENDACIONES
+32Bibliografía  
+1. Ministerio de Salud. Encuesta de Prevalencia de Desnutrición de embarazadas y niños 
+menores de 5 años. Panamá: MINSA; 1992.  
+2. De Aguilera M, De Brandaris F. II Encuesta de prevalencia de desnutrición. Panamá: MINSA; 
+1994  
+3. Sinisterra O, Amaris M, de Caballero, et al. III Encuesta Nacional del estado nutricional de 
+menores de 5 años, embarazadas y adultos. Panamá: MINSA; 1995.  
+4. De Caballero E, Fontes F, Mass M, Sinisterra O, et al. Situación Alimentaria y n utricional de la 
+población panameña basada en la tercera encuesta de niveles de vida 2008. Panamá: MINSA, 
+INCAP -OPS/OMS; 2008.  
+5. González E, De León J, Barba A, et al. Monitoreo Nutricional en las Instalaciones de Salud del 
+MINSA. Panamá: MINSA, PMA, INCAP/OPS, OMS; 2014.  
+6. Ministerio de Salud. Política Nacional de Salud y Lineamientos Estratégicos 2016 -2025.  
+7. OpenEpi Versión 3.01 Actualizado 2013/04/06. Disponible en 
+http://www.openepi.com/Menu/OE_ Menu.htm   
+8. STEPS Sample Size Calculator and Sampling Spreadsheet. Disponible en 
+http://www.who.int/ncds/surveillance/steps/resources/sampling/en/   
+9. Epi Info™ for Windows Versió n 7.2 Disponible en https://www.cdc.gov/epiinfo/pc.html   
+10. OMS Anthro versión 3.2.2 Disponible en http://www.who.int/childgrowth/software/en/   
+11. OMS AnthroPlus 2007. Disponible en http://www.who.int/growthref/tools/en/   
+12. Ministerio de Salud, Caja de Seguro Social, Organización Panamericana de la Salud. Guía 
+para la atención integral de las perso nas con obesidad. Panamá; 2009.  
+13. Atalah E, Castillo C, Castro R. Propuesta de un Nuevo estándar de evaluación nutricional en 
+embarazadas Rev. Med Chile 1997; 125: 1429 – 143.  
+14. World Health Organization. Physical status: the use and interpretation of anthropo metry. 
+Geneva: World Health Organization, 1995. Technical Report Series N° 854.  
+15. Organización Mundial de la Salud. Concentraciones de hemoglobina para diagnosticar la 
+anemia y evaluar su gravedad. Ginebra, Organización Mundial de la Salud, 2011 
+(WHO/NMH/NHD /MNM/11.1) ( http://www.who.int/vmnis/indicators/haemoglob 
+in_es.pdf  ). 
+16. World Health Organization. Iron deficiency anemia, assessment, prevention and control a 
+guide for programmer ma nagers; Geneva, 2001.  
+17. Metas mundiales de nutrición 2025: serie de documentos normativos [Global nutrition 
+targets 2025: policy brief series]. Ginebra: Organización Mundial de la Salud; 2017 
+(WHO/NMH/NHD/14.2). Licencia: CC BY -NC-SA 3.0 IGO.  
+18. OPS/OMS. Plan d e acción para la prevención de la obesidad en la niñez y adolescencia. 
+Washington, D.C., USA, 2014.  RECOMENDACIONES BIBLIOGRAFIA
+La doble carga de l a malnutrición se puede presentar a nivel individual con la 
+presencia de dos o más formas de malnutrición en la misma persona, a nivel del hogar 
+con diferentes miembros de la familia afectados por diferentes formas de 
+malnutrición o a nivel poblacional25. 
+En Panamá la doble carga de la malnutrición en menores de 5 años se manifiesta 
+claramente en regiones de Panamá Oeste con coexistencia de emaciación (6.5%) y 
+exceso de peso (10.2%) y en Ngäbe Buglé con la coexistencia de baja talla (25.6%) y 
+exceso de peso  (13.6%).  
+Es importante reforzar los programas e intervenciones que tienen el doble beneficio de reducir al mismo tiempo el riesgo de desnutrición (emaciación, baja talla, deficiencia de micronutrientes) y el riesgo de sobrepeso, obesidad y enfermedades 
+no transmisibles.  
+Se debe asegurar el acceso universal a servicios de salud materno infantil de calidad, 
+particularmente en áreas de pobreza, zonas rurales e indígenas. La protección, 
+promoción y apoyo a la lactancia materna es otro ejemplo de una intervenc ión que 
+protege de la malnutrición en todas sus formas. Por otra parte, se deben impulsar los 
+programas que promueven la alimentación saludable en escuelas y otros entornos, y fomentar sistemas alimentarios sostenibles con acceso a alimentos saludables.  
+Panamá cuenta con una Ley de Fomento y Protección de Lactancia Materna y una 
+Guía Básica de para la Oferta de Alimentos Saludables en Kioscos y Cafeterías de 
+Centros Educativas. Sin embargo, muchos otros objetivos del Plan de Acción Regional 
+de Prevención de  Obesidad en Niños y Adolescentes
+26, no se han alcanzado todavía.   
+ 
+ 
+   
+  
+ 
+    3319. González E, Melgar P, Álvarez M, Eysseric J, De León J, et al. VII Censo de talla de escolares de 
+primer grado de las escuelas oficiales, Panamá 2013. P anamá: MINSA, MEDUCA, INCAP -
+OPS/OMS; 2014.  
+20. Organización Mundial de la Salud: Observatorio Mundial de Salud. Disponible en 
+http://apps.who.int/gho/data/node.sdg.2 -2-viz-1?lang=en . 
+21. Instituto Conmemorativo Gorgas de Estudios de la Salud. Prevalencia de factores de riesgo 
+asociados a enfermedad cardiovascular, 2009 -2010 (PREFEC). Panamá: ICGES, MINSA; 2012.  
+ 
+22. Ministerio de Salud. Documento técnico de las Guías alimentarias para el menor de 2 años de 
+Panamá. Panamá: MINSA; 2018. Disponible en: http://www.fao.org/3/CA1014ES/ca1014es.pdf  
+23. Ministerio de Salud. 1er Monitoreo del Cumplimiento del Código Internacional de 
+Comercialización de Sucedáneos de la Leche Materna en la Repúbl ica de Panamá, Marzo – 
+Mayo de 2010. Panamá: MINSA, CONFALACMA; 2011. Disponible en: http://www.incap.int/index.php/es/publicaciones/doc_view/257 -panama -1er-monitoreo -del-
+cumplimiento -del-codigo -internacional -de-comercializacion- de-sucedaneos -de-leche -mate rna-
+en-panama  
+24. Organización Mundial de la Salud. Metas mundiales de nutrición 2025 Documento normativo 
+sobre anemia. WHO/NMH/NHD/14.4. Ginebra: OMS; 2017. Disponible en: 
+https://apps.who.int/iris/bitstream/handle/10665/255734/WHO_NMH_NHD_14.4_spa.pdf?ua
+=1. 
+25. World Health Organization. The double burden of malnutrition. Policy brief. 
+WHO/NMH/NHD/17.3. Geneva: WHO; 2017. Available: 
+https://apps.who.int/iris/bitstream/handle/10665/255413/WHO -NMH -NHD -17.3 -eng.pdf?ua=1  
+26. Organización Panamericana de la Sa lud. Plan de Acción para la Prevención de Obesidad en 
+Niños y Adolescentes. Washington D.C.: OPS/OMS; 2015. Disponible en: 
+https://www.paho.org/hq/dmdocuments/2015/Obesity -Plan -Of-Action -Child -Spa-2015.pdf  
+ 
