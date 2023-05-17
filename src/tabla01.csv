@@ -1,31 +1,31 @@
-,lugar,Muestra1,Muestra2,Muestra_Expandida,Muestra_Expandia2,lat,long,geometry
-0,,N,%,n, %,,,POINT EMPTY
-1,"Total, País","6,363",100.0,758365, 100.0,,,POINT EMPTY
-2,,,,,,,,POINT EMPTY
-3,Área geográfica,,,,,,,POINT EMPTY
-4,Urbana,"3,418",53.7,"487,755",64.3,,,POINT EMPTY
-5,Rural Total,"2,945",46.3,"270,611",35.7,,,POINT EMPTY
-6,Rural no indígena,"2,539",39.9,"238,752",31.5,,,POINT EMPTY
-7,Rural indígena,406,6.4,"31,859",4.2,,,POINT EMPTY
-8,,,,,,,,POINT EMPTY
-9,Línea de Pobreza,,,,,,,POINT EMPTY
-10,No pobre,"4,377",68.8,"562,133",74.1,,,POINT EMPTY
-11,Pobreza Total,"1,986",31.2,"196,232",25.9,,,POINT EMPTY
-12,Extrema,847,13.3,"72,498",9.6,,,POINT EMPTY
-13,No extrema,"1,139",17.9,"123,734",16.3,,,POINT EMPTY
-14,,,,,,,,POINT EMPTY
-15,Dominio,,,,,,,POINT EMPTY
-16,Ciudad de Panamá,641,10.1,"124,117",16.4,9.0,-79.533333,POINT (-79.533333 9)
-17,Resto Distrito  Panamá,429,6.7,"77,474",10.2,,,POINT EMPTY
-18,Distrito de San Miguelito,433,6.8,"71,831",9.5,9.05032,-79.47068,POINT (-79.47068 9.05032)
-19,Panamá Oeste,694,10.9,"98,944",13.1,,,POINT EMPTY
-20,Panamá Este,402,6.3,"11,891",1.6,,,POINT EMPTY
-21,Bocas del Toro,527,8.3,"16,091",2.1,9.35,-82.25,POINT (-82.25 9.35)
-22,Coclé,372,5.9,"47,230",6.2,8.083333,-80.566667,POINT (-80.566667 8.083333)
-23,Colón,396,6.2,"56,703",7.5,9.35,-79.883333,POINT (-79.883333 9.35)
-24,Chiriquí,518,8.1,"102,588",13.5,8.466667,-82.466667,POINT (-82.466667 8.466667)
-25,Darién,339,5.3,"9,799",1.3,8.0,-77.5,POINT (-77.5 8)
-26,Herrera,414,6.5,"29,048",3.8,8.183333,-80.466667,POINT (-80.466667 8.183333)
-27,Los Santos,407,6.4,"29,089",3.8,7.95,-80.466667,POINT (-80.466667 7.95)
-28,Veraguas,385,6.1,"51,701",6.8,8.416667,-81.166667,POINT (-81.166667 8.416667)
-29,Áreas indígenas,406,6.4,"31,859",4.2,,,POINT EMPTY
+,lugar,Muestra1,Muestra2,Muestra_Expandida,Muestra_Expandia2
+0,,N,%,n, %
+1,"Total, País","6,363",100.0,758365, 100.0
+2,,,,,
+3,Área geográfica,,,,
+4,Urbana,"3,418",53.7,"487,755",64.3
+5,Rural Total,"2,945",46.3,"270,611",35.7
+6,Rural no indígena,"2,539",39.9,"238,752",31.5
+7,Rural indígena,406,6.4,"31,859",4.2
+8,,,,,
+9,Línea de Pobreza,,,,
+10,No pobre,"4,377",68.8,"562,133",74.1
+11,Pobreza Total,"1,986",31.2,"196,232",25.9
+12,Extrema,847,13.3,"72,498",9.6
+13,No extrema,"1,139",17.9,"123,734",16.3
+14,,,,,
+15,Dominio,,,,
+16,Ciudad de Panamá,641,10.1,"124,117",16.4
+17,Resto Distrito  Panamá,429,6.7,"77,474",10.2
+18,Distrito de San Miguelito,433,6.8,"71,831",9.5
+19,Panamá Oeste,694,10.9,"98,944",13.1
+20,Panamá Este,402,6.3,"11,891",1.6
+21,Bocas del Toro,527,8.3,"16,091",2.1
+22,Coclé,372,5.9,"47,230",6.2
+23,Colón,396,6.2,"56,703",7.5
+24,Chiriquí,518,8.1,"102,588",13.5
+25,Darién,339,5.3,"9,799",1.3
+26,Herrera,414,6.5,"29,048",3.8
+27,Los Santos,407,6.4,"29,089",3.8
+28,Veraguas,385,6.1,"51,701",6.8
+29,Áreas indígenas,406,6.4,"31,859",4.2
