@@ -4,29 +4,36 @@ import string
 
 
 class Tokenizer():
-    """
-        clase <Tokenizer>, para la tokenizacion de las palabras y
-         el texto de los archivos a procesar
+    """clase <Tokenizer>, para la tokenizacion de las palabras y
+       el texto de los archivos a procesar
     """
 
     def __init__(self, input_folder: str, output_folder: str) -> None:
-        """
-            el constructor de la clased <Tokenizer> recibe 2 parametros: 
-            input_folder => la direccion o Path donde se encuentran los archivos de texto a procesar
-            output_folder => la direccion o Path donde se almacenaran los archivos de texto procesados
+        """El constructor de la clase <Tokenizer>
+
+        :param input_folder: la direccion o Path donde se encuentran los archivos de texto a procesar
+        :type input_folder: str
+        :param output_folder:la direccion o Path donde se almacenaran los archivos de texto procesados
+        :type output_folder: str
+
+        :returns: Nothing
+        :rtype: None
 
         """
         self.input_folder = input_folder
         self.output_folder = output_folder
         self.tokens: List[str] = []
 
-        return None
-
     def standardize(self, raw: Any) -> None:
-        """
-            data cleaning
+        """Data cleaning
             elimina los caracteres especiales, los espacios en blanco adicionales,
-             simbolos de puntuacion
+            simbolos de puntuacion
+
+            :param raw: archivos de con el texto a limpiar
+            :type raw: str
+
+            :returns: Nothing
+            :rtype: None
         """
         with open(raw, encoding="utf-8") as file:
             contents = file.read()
@@ -38,8 +45,7 @@ class Tokenizer():
             contents = re.sub("[^-9A-Za-z]", "", contents)
 
             # normalizacion de casos
-            contents = "".join([_str.lower()
-                               for _str in contents if _str not in string.punctuation])
+            contents = "".join([_str.lower() for _str in contents if _str not in string.punctuation])
 
             # tildes, diacriticas, dieresis, virgulilla
             contents = re.sub('á', 'a', contents)
